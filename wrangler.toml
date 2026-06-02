@@ -1,0 +1,14 @@
+name = "worldcup-api"
+main = "workers/api.js"
+compatibility_date = "2024-12-01"
+
+# 绑定 KV 缓存
+[[kv_namespaces]]
+binding = "CACHE_KV"
+id = "TODO_FILL_AFTER_CREATE"  # 运行 npx wrangler kv namespace create CACHE_KV 后填入
+
+# 路由规则
+[env.production]
+routes = [
+  { pattern = "api.404969.xyz/*", zone_name = "404969.xyz" }
+]

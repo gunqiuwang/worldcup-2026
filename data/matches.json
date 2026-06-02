@@ -1,0 +1,103 @@
+{
+  "A1": {
+    "match_id": "A1",
+    "group": "A",
+    "home_team": "美国",
+    "away_team": "哥伦比亚",
+    "kick_off": "2026-06-11T21:00:00+08:00",
+    "venue": "达拉斯 AT&T 体育场",
+    "status": "finished",
+    "home_score": 2,
+    "away_score": 1,
+    "snapshots": [
+      {
+        "timestamp": "2026-06-11T19:00:00+08:00",
+        "home_win": 53.0,
+        "draw": 26.0,
+        "away_win": 21.0,
+        "confidence": "medium",
+        "sources": 1,
+        "vig": 6.5,
+        "edge": "",
+        "live_score": ""
+      },
+      {
+        "timestamp": "2026-06-11T19:15:00+08:00",
+        "home_win": 53.5,
+        "draw": 25.8,
+        "away_win": 20.7,
+        "confidence": "medium",
+        "sources": 2,
+        "vig": 6.3,
+        "edge": "",
+        "live_score": ""
+      },
+      {
+        "timestamp": "2026-06-11T19:30:00+08:00",
+        "home_win": 54.2,
+        "draw": 25.5,
+        "away_win": 20.3,
+        "confidence": "high",
+        "sources": 3,
+        "vig": 6.1,
+        "edge": "",
+        "live_score": ""
+      },
+      {
+        "timestamp": "2026-06-11T20:00:00+08:00",
+        "home_win": 55.0,
+        "draw": 25.0,
+        "away_win": 20.0,
+        "confidence": "high",
+        "sources": 3,
+        "vig": 5.8,
+        "edge": "",
+        "live_score": ""
+      },
+      {
+        "timestamp": "2026-06-11T20:30:00+08:00",
+        "home_win": 55.8,
+        "draw": 24.5,
+        "away_win": 19.7,
+        "confidence": "high",
+        "sources": 3,
+        "vig": 5.5,
+        "edge": "",
+        "live_score": ""
+      },
+      {
+        "timestamp": "2026-06-11T21:00:00+08:00",
+        "home_win": 56.0,
+        "draw": 24.3,
+        "away_win": 19.7,
+        "confidence": "high",
+        "sources": 3,
+        "vig": 5.3,
+        "edge": "",
+        "live_score": "0-0"
+      },
+      {
+        "timestamp": "2026-06-11T21:30:00+08:00",
+        "home_win": 62.5,
+        "draw": 22.0,
+        "away_win": 15.5,
+        "confidence": "high",
+        "sources": 3,
+        "vig": 5.0,
+        "edge": "",
+        "live_score": "1-0"
+      },
+      {
+        "timestamp": "2026-06-11T22:45:00+08:00",
+        "home_win": 100.0,
+        "draw": 0.0,
+        "away_win": 0.0,
+        "confidence": "high",
+        "sources": 3,
+        "vig": 0.0,
+        "edge": "",
+        "live_score": "2-1"
+      }
+    ]
+  }
+}
