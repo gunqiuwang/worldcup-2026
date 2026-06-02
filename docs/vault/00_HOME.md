@@ -5,6 +5,7 @@ confidence: high
 last_updated: 2026-06-02
 owner: both
 reviewed_by: unreviewed
+aliases: ["世界杯", "世界杯 Home", "worldcup2026"]
 ---
 
 # 2026 世界杯信息站 — Agent Vault
