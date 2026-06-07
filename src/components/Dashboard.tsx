@@ -9,7 +9,6 @@ import OddsMovement from './OddsMovement';
 import KnockoutPredict from './KnockoutPredict';
 import HotTeams from './HotTeams';
 import ErrorBoundary from './ErrorBoundary';
-import HeroBanner from './HeroBanner';
 import { useMemo, useRef, useState, useEffect, type ReactNode } from 'react';
 
 // IntersectionObserver 懒加载包装器
@@ -217,7 +216,6 @@ function ModelStats() {
 export default function Dashboard({ onTeamClick }: { onTeamClick?: (abbr: string) => void }) {
   return (
     <div className="px-4">
-      <HeroBanner />
       <ErrorBoundary>
         <TodayHighlight />
       </ErrorBoundary>

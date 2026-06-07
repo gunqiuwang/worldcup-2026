@@ -111,7 +111,7 @@ export default function HeroBanner() {
               animate={{ opacity: 1, x: 0 }}
               className="text-[10px] text-gold/60 tracking-widest uppercase mb-1"
             >
-              赛析 AI · 智能分析平台
+              MatchLens AI · 智能分析平台
             </motion.div>
             <motion.h2
               initial={{ opacity: 0, x: -20 }}

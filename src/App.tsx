@@ -11,6 +11,7 @@ import ParticleBackground from './components/ParticleBackground';
 import SearchBar from './components/SearchBar';
 import MatchModal from './components/MatchModal';
 import TeamPage from './components/TeamPage';
+import LandingPage from './components/LandingPage';
 import { SkeletonCard, SkeletonGroup } from './components/Skeleton';
 import { SCHEDULE } from './data/schedule';
 import { GROUPS } from './data/teams';
@@ -41,7 +42,8 @@ const THEME_ORDER: Theme[] = ['dark', 'light', 'matchday'];
 const THEME_LABELS: Record<Theme, string> = { dark: '深色', light: '浅色', matchday: '比赛日' };
 
 export default function App() {
-  const [page, setPage] = useState('data');  // 默认显示数据中心
+  const [showLanding, setShowLanding] = useState(true);
+  const [page, setPage] = useState('matches');  // 进入后默认显示赛程页（含倒计时）
   const [tab, setTab] = useState<Tab>('today');
   const [theme, setTheme] = useState<Theme>('dark');
   const [searchQuery, setSearchQuery] = useState('');
@@ -89,8 +91,20 @@ export default function App() {
 
   const grouped = useMemo(() => groupByDate(displayMatches), [displayMatches]);
 
+  const handleEnterFromLanding = useCallback(() => {
+    setShowLanding(false);
+    setPage('matches');  // 确保进入倒计时页
+  }, []);
+
   return (
     <>
+      {/* Landing Page */}
+      <AnimatePresence>
+        {showLanding && (
+          <LandingPage onEnter={handleEnterFromLanding} />
+        )}
+      </AnimatePresence>
+
       {/* Theme CSS */}
       <style>{THEME_CSS[theme]}</style>
 
@@ -101,7 +115,7 @@ export default function App() {
         {/* Header */}
         <header className="flex items-center justify-between px-4 py-4">
           <h1 className="text-xl font-extrabold gold-gradient tracking-tight flex items-center gap-2">
-            赛析 AI
+            MatchLens AI
           </h1>
           <div className="flex items-center gap-3">
             <button
