@@ -23,11 +23,8 @@ export const THEME_CSS: Record<Theme, string> = {
       --glass-hover: rgba(255,255,255,0.04);
     }
     body {
-      background: var(--bg);
+      background: transparent;
       color: var(--text);
-      background-image:
-        radial-gradient(ellipse at 50% 0%, rgba(0,230,118,0.02) 0%, transparent 50%),
-        radial-gradient(ellipse at 80% 80%, rgba(255,82,82,0.015) 0%, transparent 40%);
     }
   `,
   light: `
@@ -51,11 +48,8 @@ export const THEME_CSS: Record<Theme, string> = {
       --glass-hover: rgba(0,0,0,0.04);
     }
     body {
-      background: var(--bg);
+      background: transparent;
       color: var(--text);
-      background-image:
-        radial-gradient(ellipse at 50% 0%, rgba(5,150,105,0.03) 0%, transparent 50%),
-        radial-gradient(ellipse at 80% 80%, rgba(220,38,38,0.02) 0%, transparent 40%);
     }
     .glass-card {
       background: var(--bg-2);
@@ -92,11 +86,8 @@ export const THEME_CSS: Record<Theme, string> = {
       --glass-hover: rgba(76,175,80,0.06);
     }
     body {
-      background: var(--bg);
+      background: transparent;
       color: var(--text);
-      background-image:
-        radial-gradient(ellipse at 50% 50%, rgba(76,175,80,0.04) 0%, transparent 60%),
-        radial-gradient(ellipse at 20% 80%, rgba(255,213,79,0.02) 0%, transparent 40%);
     }
     .pulse-dot::before {
       background: #66BB6A;
