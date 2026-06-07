@@ -32,6 +32,7 @@ reviewed_by: agent
 | Command | Purpose | Risk |
 |---------|---------|------|
 | `python scripts/fetch_news.py` | 手动抓取 ESPN+BBC 新闻 | Safe |
+| `python scripts/fetch_scores.py` | 手动拉取比分+积分榜 | Safe |
 
 ### Deploy (待配置)
 

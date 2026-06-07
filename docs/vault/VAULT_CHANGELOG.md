@@ -9,6 +9,14 @@ reviewed_by: agent
 
 # Vault Changelog
 
+## [2026-06-07] feat | 实时比分管道
+
+- ESPN API (免费无限次) 替代 API-Football (免费版不支持2026)
+- fetch_scores.py: 拉取72场小组赛比分+状态+积分榜
+- GitHub Action: 比赛期间每30分钟自动更新
+- useLiveScores hook: 前端读取 live_scores.json/standings.json
+- live_scores.json: 72场全部scheduled, 开赛后自动更新
+
 ## [2026-06-07] ui | 头部重新设计
 
 - 新增 Logo.tsx — SVG 足球+镜头组合图标
