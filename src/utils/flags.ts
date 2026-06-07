@@ -83,22 +83,21 @@ function getEmojiFlag(fifaCode: string): string {
   return EMOJI_MAP[fifaCode] || '🏳️';
 }
 
-// ESPN 球队 logo URL
+// ESPN 球队 logo URL（从 ESPN API 原始数据提取的真实 ID）
 function getTeamLogo(fifaCode: string): string {
-  // ESPN 的球队 logo 格式
   const ESPN_LOGO_MAP: Record<string, string> = {
-    MEX: '203', RSA: '467', KOR: '205', CZE: '201',
-    CAN: '209', BIH: '246', QAT: '474', SUI: '324',
-    USA: '248', PAR: '236', AUS: '199', TUR: '219',
-    HAI: '450', SCO: '471', MAR: '461', BRA: '206',
-    GER: '222', CUW: '18803', CIV: '229', ECU: '218',
-    NED: '233', JPN: '230', SWE: '252', TUN: '256',
-    ESP: '240', CPV: '18795', KSA: '253', URU: '258',
-    BEL: '205', EGY: '217', IRN: '228', NZL: '234',
-    FRA: '220', SEN: '243', IRQ: '227', NOR: '235',
-    ARG: '202', ALG: '198', AUT: '204', JOR: '231',
-    POR: '238', COD: '18794', UZB: '260', COL: '210',
-    ENG: '215', CRO: '212', GHA: '223', PAN: '237',
+    'ALG': '624', 'ARG': '202', 'AUS': '628', 'AUT': '474',
+    'BEL': '459', 'BIH': '452', 'BRA': '205', 'CAN': '206',
+    'CIV': '4789', 'COD': '2850', 'COL': '208', 'CPV': '2597',
+    'CRO': '477', 'CUW': '11678', 'CZE': '450', 'ECU': '209',
+    'EGY': '2620', 'ENG': '448', 'ESP': '164', 'FRA': '478',
+    'GER': '481', 'GHA': '4469', 'HAI': '2654', 'IRN': '469',
+    'IRQ': '4375', 'JOR': '2917', 'JPN': '627', 'KOR': '451',
+    'KSA': '655', 'MAR': '2869', 'MEX': '203', 'NED': '449',
+    'NOR': '464', 'NZL': '2666', 'PAN': '2659', 'PAR': '210',
+    'POR': '482', 'QAT': '4398', 'RSA': '467', 'SCO': '580',
+    'SEN': '654', 'SUI': '475', 'SWE': '466', 'TUN': '659',
+    'TUR': '465', 'URU': '212', 'USA': '660', 'UZB': '2570',
   };
   const id = ESPN_LOGO_MAP[fifaCode];
   return id ? `https://a.espncdn.com/i/teamlogos/soccer/500/${id}.png` : '';
