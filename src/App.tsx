@@ -7,6 +7,7 @@ import GroupStandings from './components/GroupStandings';
 import BottomNav from './components/BottomNav';
 import OddsPage from './components/OddsPage';
 import Dashboard from './components/Dashboard';
+import NewsPage from './components/NewsPage';
 import ParticleBackground from './components/ParticleBackground';
 import SearchBar from './components/SearchBar';
 import MatchModal from './components/MatchModal';
@@ -255,6 +256,20 @@ export default function App() {
               ) : (
                 <GroupStandings />
               )}
+            </motion.div>
+          )}
+
+          {!selectedTeam && page === 'news' && (
+            <motion.div
+              key="news"
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              exit={{ opacity: 0, x: 20 }}
+              transition={{ duration: 0.2 }}
+            >
+              <div className="px-4">
+                <NewsPage />
+              </div>
             </motion.div>
           )}
 
