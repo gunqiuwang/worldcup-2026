@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Clock, MapPin, Zap, CheckCircle2, Calendar } from 'lucide-react';
+import { Clock, MapPin, Zap, CheckCircle2 } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
 import { getPrediction } from '../data/predictions';
 import { TEAMS } from '../data/teams';
@@ -16,31 +16,31 @@ function formatTime(iso: string) {
 function StatusBadge({ status }: { status: string }) {
   if (status === 'live') {
     return (
-      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-bold bg-red/20 text-red animate-pulse">
-        <Zap className="w-3 h-3" /> LIVE
+      <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded-full text-[9px] font-bold bg-red/20 text-red animate-pulse">
+        <Zap className="w-2.5 h-2.5" /> LIVE
       </span>
     );
   }
   if (status === 'finished') {
     return (
-      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-green/15 text-green">
-        <CheckCircle2 className="w-3 h-3" /> FT
+      <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded-full text-[9px] font-semibold bg-green/15 text-green">
+        <CheckCircle2 className="w-2.5 h-2.5" /> FT
       </span>
     );
   }
   return null;
 }
 
-/* ── FotMob 风格对战概率条 ── */
-function BattleBar({ home, draw, away, homeAbbr, awayAbbr }: { home: number; draw: number; away: number; homeAbbr: string; awayAbbr: string }) {
+/* ── 对战概率条 ── */
+function BattleBar({ home, draw, away }: { home: number; draw: number; away: number }) {
   const total = home + draw + away;
   if (total === 0) return null;
 
   return (
-    <div className="mt-3">
-      <div className="flex items-center gap-2">
-        <span className="text-[9px] font-bold text-green tabular-nums w-8 text-right">{home.toFixed(0)}%</span>
-        <div className="flex-1 flex h-2 rounded-full overflow-hidden bg-white/[0.04]">
+    <div className="mt-2.5">
+      <div className="flex items-center gap-1.5">
+        <span className="text-[9px] font-bold text-green tabular-nums w-7 text-right">{home.toFixed(0)}%</span>
+        <div className="flex-1 flex h-1.5 rounded-full overflow-hidden bg-white/[0.04]">
           <motion.div
             initial={{ width: 0 }}
             animate={{ width: `${home}%` }}
@@ -60,10 +60,7 @@ function BattleBar({ home, draw, away, homeAbbr, awayAbbr }: { home: number; dra
             className="bg-gradient-to-r from-red to-red/80 rounded-r-full"
           />
         </div>
-        <span className="text-[9px] font-bold text-red tabular-nums w-8">{away.toFixed(0)}%</span>
-      </div>
-      <div className="flex justify-center mt-1">
-        <span className="text-[9px] text-gray-600">平 {draw.toFixed(0)}%</span>
+        <span className="text-[9px] font-bold text-red tabular-nums w-7">{away.toFixed(0)}%</span>
       </div>
     </div>
   );
@@ -101,7 +98,6 @@ export default function MatchCard({ match, index, onClick }: Props) {
   const homeTeam = TEAMS[match.home.abbr];
   const awayTeam = TEAMS[match.away.abbr];
 
-  // 爆冷指数
   const upsetIndex = pred ? Math.round(100 - Math.abs(pred.home_win - pred.away_win) * 2) : 0;
   const isUpset = upsetIndex > 60;
 
@@ -117,41 +113,38 @@ export default function MatchCard({ match, index, onClick }: Props) {
       {/* Shimmer on hover */}
       <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/[0.015] to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700" />
 
-      {/* Top bar: time + meta */}
-      <div className="flex items-center justify-between mb-3">
-        <div className="flex items-center gap-2">
-          {!showScore ? (
-            <span className="flex items-center gap-1 text-xs text-gray-400 font-medium tabular-nums">
-              <Clock className="w-3 h-3" />
-              {formatTime(match.date)}
-            </span>
-          ) : (
-            <StatusBadge status={match.status} />
-          )}
-          {match.group && (
-            <span className="px-1.5 py-0.5 rounded text-[9px] font-semibold bg-white/[0.04] text-gray-500 border border-white/[0.04]">
-              {match.group}组
-            </span>
-          )}
-        </div>
-        <div className="flex items-center gap-1.5">
-          {pred && (
-            <span className={`px-1.5 py-0.5 rounded text-[9px] font-semibold ${
-              Math.abs(pred.home_win - pred.away_win) > 20 ? 'bg-green/10 text-green' :
-              Math.abs(pred.home_win - pred.away_win) > 10 ? 'bg-gold/10 text-gold' :
-              'bg-white/[0.04] text-gray-500'
-            }`}>
-              {Math.abs(pred.home_win - pred.away_win) > 20 ? '强弱分明' :
-               Math.abs(pred.home_win - pred.away_win) > 10 ? '略有差距' : '势均力敌'}
-            </span>
-          )}
-          {isUpset && (
-            <span className="text-[9px] text-red font-bold">🔥 爆冷</span>
-          )}
-        </div>
+      {/* Top bar: time | group | status */}
+      <div className="flex items-center gap-2 mb-3">
+        {!showScore ? (
+          <span className="flex items-center gap-1 text-xs text-gray-400 font-medium tabular-nums">
+            <Clock className="w-3 h-3" />
+            {formatTime(match.date)}
+          </span>
+        ) : (
+          <StatusBadge status={match.status} />
+        )}
+        {match.group && (
+          <span className="px-1.5 py-0.5 rounded text-[9px] font-semibold bg-white/[0.04] text-gray-500">
+            {match.group}组
+          </span>
+        )}
+        {isUpset && (
+          <span className="text-[9px] text-red font-bold">🔥 爆冷</span>
+        )}
+        <div className="flex-1" />
+        {pred && (
+          <span className={`px-1.5 py-0.5 rounded text-[9px] font-semibold ${
+            Math.abs(pred.home_win - pred.away_win) > 20 ? 'bg-green/10 text-green' :
+            Math.abs(pred.home_win - pred.away_win) > 10 ? 'bg-gold/10 text-gold' :
+            'bg-white/[0.04] text-gray-500'
+          }`}>
+            {Math.abs(pred.home_win - pred.away_win) > 20 ? '强弱分明' :
+             Math.abs(pred.home_win - pred.away_win) > 10 ? '略有差距' : '势均力敌'}
+          </span>
+        )}
       </div>
 
-      {/* Teams — FotMob 对战布局 */}
+      {/* Teams — 对战布局 */}
       <div className="flex items-center gap-3">
         {/* Home */}
         <div className="flex-1 flex flex-col items-center">
@@ -166,12 +159,12 @@ export default function MatchCard({ match, index, onClick }: Props) {
           <div className="text-[13px] font-semibold mt-1.5 text-center leading-tight">{match.home.name}</div>
           {homeTeam && (
             <div className="text-[9px] text-gray-600 mt-0.5">
-              #{homeTeam.fifa_rank} <span>{homeTeam.trend}</span>
+              #{homeTeam.fifa_rank} {homeTeam.trend}
             </div>
           )}
         </div>
 
-        {/* Center: score or time */}
+        {/* Center: score or vs */}
         <div className="w-20 flex-shrink-0 text-center">
           {showScore ? (
             <div className="flex items-center justify-center gap-1.5">
@@ -220,7 +213,7 @@ export default function MatchCard({ match, index, onClick }: Props) {
           <div className="text-[13px] font-semibold mt-1.5 text-center leading-tight">{match.away.name}</div>
           {awayTeam && (
             <div className="text-[9px] text-gray-600 mt-0.5">
-              #{awayTeam.fifa_rank} <span>{awayTeam.trend}</span>
+              #{awayTeam.fifa_rank} {awayTeam.trend}
             </div>
           )}
         </div>
@@ -228,12 +221,12 @@ export default function MatchCard({ match, index, onClick }: Props) {
 
       {/* Battle probability bar */}
       {homeProb > 0 && (
-        <BattleBar home={homeProb} draw={drawProb} away={awayProb} homeAbbr={match.home.abbr} awayAbbr={match.away.abbr} />
+        <BattleBar home={homeProb} draw={drawProb} away={awayProb} />
       )}
 
       {/* Venue */}
       <div className="flex items-center gap-1 text-[9px] text-gray-600 mt-2.5">
-        <MapPin className="w-2.5 h-2.5" />
+        <MapPin className="w-2.5 h-2.5 flex-shrink-0" />
         <span className="truncate">{match.venue}</span>
       </div>
     </motion.div>
