@@ -43,7 +43,7 @@ export default function UpsetRanking() {
       });
     }
 
-    return results.sort((a, b) => b.upsetIndex - a.upsetIndex).slice(0, 8);
+    return results.sort((a, b) => b.upsetIndex - a.upsetIndex).slice(0, 10);
   }, []);
 
   const levelColors = {
@@ -60,7 +60,7 @@ export default function UpsetRanking() {
         </div>
         <div>
           <h3 className="text-sm font-bold">爆冷预警</h3>
-          <p className="text-[10px] text-gray-500">赔率接近的比赛</p>
+          <p className="text-[10px] text-gray-500">赔率越接近 = 结果越不确定</p>
         </div>
         <Flame className="w-4 h-4 text-red ml-auto" />
       </div>

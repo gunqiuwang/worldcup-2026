@@ -40,6 +40,14 @@ reviewed_by: agent
 **Fix:** 01bd150 — 大瘦身：删除 7 个 Python 脚本，统一到 predictions.ts
 **Lesson:** 数据源必须唯一，多源会导致不一致
 
+## [2026-06-07] 分析页假数据
+
+**Severity:** High
+**Symptom:** 赔率异动排行的方向(up/down)和变化百分比是用 matchId 做伪随机生成的，不是真实数据
+**Root Cause:** 没有实时赔率API，用 Math.random 模拟填充
+**Fix:** 删除 OddsMovement 组件 + PredictionStats (鸡肋)，重组信息层级
+**Decision:** 赛前不接实时赔率API (The Odds API 免费500次/月不够96场用)，等开赛后再说
+
 ## [2026-06-07] 新闻源语言问题
 
 **Severity:** Low

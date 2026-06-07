@@ -55,13 +55,11 @@ App.tsx (主路由 + 主题 + 搜索)
 │
 ├── [赛程] MatchCard → MatchModal (详情弹窗)
 ├── [排名] GroupStandings
-├── [分析] Dashboard
-│   ├── TodayHighlight (焦点比赛)
-│   ├── PredictionStats (预测总览)
-│   ├── UpsetRanking (冷门榜)
-│   ├── HotTeams (热门队)
-│   ├── OddsOverview (赔率一览)
-│   └── OddsMovement (赔率走势)
+├── [分析] Dashboard (信息层级: 赔率→焦点→爆冷→热门)
+│   ├── OddsOverview (全场赔率一览 — 按分组折叠, 顶层)
+│   ├── FocusMatches (焦点比赛 — 赔率最接近5场)
+│   ├── UpsetRanking (爆冷预警 — top 10)
+│   └── HotTeams (热门队 — tier排名, 最底层)
 ├── [资讯] NewsPage
 │
 └── TeamPage (球队详情, 从分析页进入)

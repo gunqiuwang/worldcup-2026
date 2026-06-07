@@ -1,11 +1,9 @@
-import { motion } from 'framer-motion';
-import { Zap, BarChart3, TrendingUp } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
+import { Zap, BarChart3 } from 'lucide-react';
 import { SCHEDULE } from '../data/schedule';
-import { TEAMS } from '../data/teams';
-import { PREDICTIONS, getPrediction } from '../data/predictions';
+import { getPrediction } from '../data/predictions';
 import Flag from './Flag';
 import UpsetRanking from './UpsetRanking';
-import OddsMovement from './OddsMovement';
 import HotTeams from './HotTeams';
 import ErrorBoundary from './ErrorBoundary';
 import { useMemo, useRef, useState, useEffect, type ReactNode } from 'react';
@@ -29,8 +27,8 @@ function LazySection({ children, fallback }: { children: ReactNode; fallback?: R
   );
 }
 
-/* 今日焦点 — 赔率最接近的 3 场 */
-function TodayHighlight() {
+/* 焦点比赛 — 赔率最接近的 5 场 */
+function FocusMatches() {
   const highlights = useMemo(() => {
     return SCHEDULE
       .map((m) => {
@@ -45,7 +43,7 @@ function TodayHighlight() {
       })
       .filter(Boolean)
       .sort((a, b) => Math.abs(a!.homeProb - a!.awayProb) - Math.abs(b!.homeProb - b!.awayProb))
-      .slice(0, 3);
+      .slice(0, 5);
   }, []);
 
   function fmt(dateStr: string) {
@@ -59,8 +57,10 @@ function TodayHighlight() {
         <div className="w-7 h-7 rounded-lg bg-green/10 flex items-center justify-center">
           <Zap className="w-3.5 h-3.5 text-green" />
         </div>
-        <span className="text-sm font-bold">今日焦点</span>
-        <span className="text-[10px] text-gray-500 ml-auto">赔率最接近的 3 场</span>
+        <div>
+          <span className="text-sm font-bold">焦点比赛</span>
+          <span className="text-[10px] text-gray-500 block">赔率最接近 · 结果最难预测</span>
+        </div>
       </div>
       <div className="space-y-2">
         {highlights.map((m, i) => (
@@ -98,57 +98,33 @@ function TodayHighlight() {
   );
 }
 
-/* 预测统计 */
-function PredictionStats() {
-  const stats = useMemo(() => {
-    const close = PREDICTIONS.filter(p => Math.abs(p.home_win - p.away_win) < 10).length;
-    const upset = PREDICTIONS.filter(p => {
-      const diff = Math.abs(p.home_win - p.away_win);
-      return diff < 15 && diff > 5;
-    }).length;
-    const blowout = PREDICTIONS.filter(p => Math.abs(p.home_win - p.away_win) > 30).length;
-    return { total: PREDICTIONS.length, close, upset, blowout };
-  }, []);
-
-  return (
-    <div className="glass-card p-4 mb-3">
-      <div className="flex items-center gap-2 mb-3">
-        <span className="text-sm font-bold">预测总览</span>
-        <span className="text-[10px] text-gray-500 ml-auto">{stats.total} 场比赛</span>
-      </div>
-      <div className="grid grid-cols-3 gap-2">
-        {[
-          { value: stats.close, label: '势均力敌', color: 'text-red', bg: 'bg-red/10' },
-          { value: stats.upset, label: '小有悬念', color: 'text-gold', bg: 'bg-gold/10' },
-          { value: stats.blowout, label: '碾压局', color: 'text-green', bg: 'bg-green/10' },
-        ].map((s, i) => (
-          <motion.div key={s.label} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.1 }}
-            className={`text-center p-2 rounded-xl ${s.bg}`}>
-            <div className={`text-lg font-extrabold ${s.color}`}>{s.value}</div>
-            <div className="text-[10px] text-gray-500">{s.label}</div>
-          </motion.div>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-/* 全场赔率一览 */
+/* 全场赔率一览 — 按分组折叠 */
 function OddsOverview() {
-  const matches = useMemo(() => {
-    return SCHEDULE
-      .map((m) => {
-        const pred = getPrediction(m.id);
-        if (!pred) return null;
-        return {
-          id: m.id, home: m.home.abbr, away: m.away.abbr,
-          homeName: m.home.name, awayName: m.away.name, group: m.group,
-          homeProb: pred.home_win, drawProb: pred.draw, awayProb: pred.away_win,
-        };
-      })
-      .filter(Boolean)
-      .sort((a, b) => Math.abs(a!.homeProb - a!.awayProb) - Math.abs(b!.homeProb - b!.awayProb));
+  const [openGroup, setOpenGroup] = useState<string | null>('A');
+
+  const groupedMatches = useMemo(() => {
+    const groups: Record<string, { id: string; home: string; away: string; homeName: string; awayName: string; group: string; homeProb: number; drawProb: number; awayProb: number }[]> = {};
+
+    SCHEDULE.forEach((m) => {
+      const pred = getPrediction(m.id);
+      if (!pred) return;
+      if (!groups[m.group]) groups[m.group] = [];
+      groups[m.group].push({
+        id: m.id, home: m.home.abbr, away: m.away.abbr,
+        homeName: m.home.name, awayName: m.away.name, group: m.group,
+        homeProb: pred.home_win, drawProb: pred.draw, awayProb: pred.away_win,
+      });
+    });
+
+    // 每组内部按赔率差距排序
+    Object.values(groups).forEach(arr =>
+      arr.sort((a, b) => Math.abs(a.homeProb - a.awayProb) - Math.abs(b.homeProb - b.awayProb))
+    );
+
+    return groups;
   }, []);
+
+  const sortedGroups = useMemo(() => Object.keys(groupedMatches).sort(), [groupedMatches]);
 
   return (
     <div className="glass-card p-4 mb-3">
@@ -156,37 +132,70 @@ function OddsOverview() {
         <div className="w-7 h-7 rounded-lg bg-gold/10 flex items-center justify-center">
           <BarChart3 className="w-3.5 h-3.5 text-gold" />
         </div>
-        <span className="text-sm font-bold">全场赔率一览</span>
-        <span className="text-[10px] text-gray-500 ml-auto">{matches.length} 场</span>
+        <div>
+          <span className="text-sm font-bold">全场赔率一览</span>
+          <span className="text-[10px] text-gray-500 block">{SCHEDULE.length} 场 · 按分组查看</span>
+        </div>
       </div>
-      <div className="space-y-2">
-        {matches.map((m, i) => (
-          <motion.div key={m!.id} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.02 }}
-            className="p-3 rounded-xl bg-white/[0.02] border border-white/[0.05] hover:border-gold/20 transition">
-            <div className="flex items-center justify-between mb-2">
-              <div className="flex items-center gap-1.5">
-                <Flag code={m!.home} size="sm" />
-                <span className="text-xs font-semibold">{m!.homeName}</span>
-              </div>
-              <span className="text-[10px] text-gray-600">{m!.group}组</span>
-              <div className="flex items-center gap-1.5">
-                <span className="text-xs font-semibold">{m!.awayName}</span>
-                <Flag code={m!.away} size="sm" />
-              </div>
-            </div>
-            <div className="flex h-2 rounded-full overflow-hidden bg-white/5 mb-1.5">
-              <div className="bg-gradient-to-r from-green to-green-dark transition-all" style={{ width: `${m!.homeProb}%` }} />
-              <div className="bg-gradient-to-r from-gold to-gold-dark transition-all" style={{ width: `${m!.drawProb}%` }} />
-              <div className="bg-gradient-to-r from-red to-red-dark transition-all" style={{ width: `${m!.awayProb}%` }} />
-            </div>
-            <div className="flex justify-between text-[10px]">
-              <span className="text-green font-semibold">{m!.homeProb}%</span>
-              <span className="text-gray-500">平 {m!.drawProb}%</span>
-              <span className="text-red font-semibold">{m!.awayProb}%</span>
-            </div>
-          </motion.div>
+
+      {/* 分组 Tab */}
+      <div className="flex gap-1 mb-3 overflow-x-auto scrollbar-hide pb-1">
+        {sortedGroups.map((g) => (
+          <button
+            key={g}
+            onClick={() => setOpenGroup(openGroup === g ? null : g)}
+            className={`px-2.5 py-1 rounded-lg text-[10px] font-semibold whitespace-nowrap transition-all ${
+              openGroup === g
+                ? 'bg-gold/20 text-gold border border-gold/30'
+                : 'bg-white/[0.03] text-gray-500 border border-white/[0.06] hover:text-gray-300'
+            }`}
+          >
+            {g}组
+            <span className="ml-1 opacity-60">{groupedMatches[g]?.length || 0}</span>
+          </button>
         ))}
       </div>
+
+      {/* 展开的分组内容 */}
+      <AnimatePresence mode="wait">
+        {openGroup && groupedMatches[openGroup] && (
+          <motion.div
+            key={openGroup}
+            initial={{ opacity: 0, y: 8 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -8 }}
+            transition={{ duration: 0.2 }}
+            className="space-y-2"
+          >
+            {groupedMatches[openGroup].map((m, i) => (
+              <motion.div key={m.id} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.03 }}
+                className="p-3 rounded-xl bg-white/[0.02] border border-white/[0.05] hover:border-gold/20 transition">
+                <div className="flex items-center justify-between mb-2">
+                  <div className="flex items-center gap-1.5">
+                    <Flag code={m.home} size="sm" />
+                    <span className="text-xs font-semibold">{m.homeName}</span>
+                  </div>
+                  <span className="text-[10px] text-gray-600">vs</span>
+                  <div className="flex items-center gap-1.5">
+                    <span className="text-xs font-semibold">{m.awayName}</span>
+                    <Flag code={m.away} size="sm" />
+                  </div>
+                </div>
+                <div className="flex h-2 rounded-full overflow-hidden bg-white/5 mb-1.5">
+                  <div className="bg-gradient-to-r from-green to-green-dark transition-all" style={{ width: `${m.homeProb}%` }} />
+                  <div className="bg-gradient-to-r from-gold to-gold-dark transition-all" style={{ width: `${m.drawProb}%` }} />
+                  <div className="bg-gradient-to-r from-red to-red-dark transition-all" style={{ width: `${m.awayProb}%` }} />
+                </div>
+                <div className="flex justify-between text-[10px]">
+                  <span className="text-green font-semibold">{m.homeProb}%</span>
+                  <span className="text-gray-500">平 {m.drawProb}%</span>
+                  <span className="text-red font-semibold">{m.awayProb}%</span>
+                </div>
+              </motion.div>
+            ))}
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }
@@ -200,20 +209,22 @@ export default function Dashboard({ onTeamClick }: { onTeamClick?: (abbr: string
         <span className="text-xs text-gray-500">赔率数据 · 博彩公司共识</span>
       </div>
 
-      <ErrorBoundary><TodayHighlight /></ErrorBoundary>
-      <PredictionStats />
+      {/* 🥇 核心: 全场赔率一览 — 最上面 */}
+      <ErrorBoundary><OddsOverview /></ErrorBoundary>
 
+      {/* 🥈 焦点比赛 */}
+      <LazySection>
+        <ErrorBoundary><FocusMatches /></ErrorBoundary>
+      </LazySection>
+
+      {/* 🥉 爆冷预警 */}
       <LazySection>
         <ErrorBoundary><UpsetRanking /></ErrorBoundary>
       </LazySection>
+
+      {/* 4️⃣ 热门球队 — 静态背景信息放最后 */}
       <LazySection>
         <ErrorBoundary><HotTeams onTeamClick={onTeamClick} /></ErrorBoundary>
-      </LazySection>
-      <LazySection>
-        <ErrorBoundary><OddsOverview /></ErrorBoundary>
-      </LazySection>
-      <LazySection>
-        <ErrorBoundary><OddsMovement /></ErrorBoundary>
       </LazySection>
     </div>
   );

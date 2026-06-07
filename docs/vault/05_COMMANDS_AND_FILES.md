@@ -61,7 +61,7 @@ reviewed_by: agent
 | `src/components/NewsPage.tsx` | 资讯页 | 新闻源变化 | 🟢 Low |
 | `src/components/BottomNav.tsx` | 底部导航 | Tab 变更 | 🟢 Low |
 | `src/components/MatchModal.tsx` | 比赛详情弹窗 | UI 调整 | 🟢 Low |
-| `src/components/TeamPage.tsx` | 球队详情页 | 数据结构变化 | 🟢 Low |
+
 
 ### Config
 
