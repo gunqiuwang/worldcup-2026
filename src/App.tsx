@@ -50,7 +50,10 @@ export default function App() {
   });
   const [page, setPage] = useState(() => {
     if (typeof window !== 'undefined') {
-      return localStorage.getItem('wc-page') || 'matches';
+      const saved = localStorage.getItem('wc-page');
+      // 'odds' tab was removed, redirect to 'data'
+      if (saved === 'odds') return 'data';
+      return saved || 'matches';
     }
     return 'matches';
   });
