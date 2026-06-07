@@ -48,7 +48,7 @@ reviewed_by: agent
 | `src/data/predictions.ts` | **唯一数据源** — 胜/平/负概率 + 出线率 | 赛事数据更新 | 🔴 Critical |
 | `src/data/teams.ts` | 48队数据 + tier/trend | 阵容变化 | 🟡 Medium |
 | `src/data/schedule.ts` | 96场赛程 | 赛程调整 | 🟡 Medium |
-| `public/news.json` | 新闻缓存 (GitHub Action 自动更新) | 自动 | 🟢 Low |
+| `public/news.json` | 新闻缓存 (v3: 严格WC过滤, 48h滚动, 上限30条) | 自动 | 🟢 Low |
 
 ### Components (核心)
 
