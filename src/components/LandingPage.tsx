@@ -23,7 +23,7 @@ function FloatingParticles() {
       {particles.map((p) => (
         <motion.div
           key={p.id}
-          className="absolute rounded-full bg-white"
+          className="absolute rounded-full bg-gold"
           style={{ left: `${p.x}%`, top: `${p.y}%`, width: p.size, height: p.size }}
           animate={{ y: [0, -100, 0], opacity: [p.opacity, p.opacity * 2, p.opacity], scale: [1, 1.5, 1] }}
           transition={{ duration: p.duration, delay: p.delay, repeat: Infinity, ease: 'easeInOut' }}
