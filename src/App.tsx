@@ -5,7 +5,7 @@ import Countdown from './components/Countdown';
 import MatchCard from './components/MatchCard';
 import GroupStandings from './components/GroupStandings';
 import BottomNav from './components/BottomNav';
-import OddsPage from './components/OddsPage';
+
 import Dashboard from './components/Dashboard';
 import NewsPage from './components/NewsPage';
 import ParticleBackground from './components/ParticleBackground';
@@ -372,17 +372,7 @@ export default function App() {
             </motion.div>
           )}
 
-          {!selectedTeam && page === 'odds' && (
-            <motion.div
-              key="odds"
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              exit={{ opacity: 0, x: 20 }}
-              transition={{ duration: 0.2 }}
-            >
-              <OddsPage />
-            </motion.div>
-          )}
+
         </AnimatePresence>
 
         {/* Bottom Nav */}

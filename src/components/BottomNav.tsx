@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Calendar, Trophy, TrendingUp, BarChart3, Newspaper } from 'lucide-react';
+import { Calendar, Trophy, BarChart3, Newspaper } from 'lucide-react';
 
 interface NavItem {
   id: string;
@@ -9,10 +9,9 @@ interface NavItem {
 
 const NAV_ITEMS: NavItem[] = [
   { id: 'matches', label: '赛程', icon: Calendar },
-  { id: 'standings', label: '积分榜', icon: Trophy },
-  { id: 'data', label: '数据中心', icon: BarChart3 },
+  { id: 'standings', label: '排名', icon: Trophy },
+  { id: 'data', label: '分析', icon: BarChart3 },
   { id: 'news', label: '资讯', icon: Newspaper },
-  { id: 'odds', label: '赔率', icon: TrendingUp },
 ];
 
 interface Props {

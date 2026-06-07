@@ -7,6 +7,7 @@ import { getEloRating, getEloTier, getEloTierColor } from '../data/elo_ratings';
 import Flag from './Flag';
 import RingChart from './RingChart';
 import { SoccerBall } from './Icons';
+import KnockoutPredict from './KnockoutPredict';
 
 function GroupTable({ group, teams }: { group: string; teams: string[] }) {
   const pred = GROUP_PREDICTIONS[group];
@@ -126,12 +127,14 @@ export default function GroupStandings() {
     <div className="px-4">
       <div className="flex items-center gap-2 mb-4">
         <Shield className="w-5 h-5 text-gold" />
-        <h2 className="text-lg font-bold">小组积分榜</h2>
+        <h2 className="text-lg font-bold">排名</h2>
         <span className="text-xs text-gray-500">12 组 48 队</span>
       </div>
       {groups.map((g) => (
         <GroupTable key={g} group={g} teams={GROUPS[g]} />
       ))}
+      {/* 淘汰赛预测 */}
+      <KnockoutPredict />
     </div>
   );
 }
