@@ -1,10 +1,11 @@
 import { useState, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Wifi, Sun, Moon, Sparkles, Search, X } from 'lucide-react';
+import { Sun, Moon, Sparkles, Search, X } from 'lucide-react';
 import Countdown from './components/Countdown';
 import MatchCard from './components/MatchCard';
 import GroupStandings from './components/GroupStandings';
 import BottomNav from './components/BottomNav';
+import Logo from './components/Logo';
 
 import Dashboard from './components/Dashboard';
 import NewsPage from './components/NewsPage';
@@ -136,52 +137,60 @@ export default function App() {
 
       <div className="max-w-[560px] mx-auto pb-20 relative z-10">
         {/* Header */}
-        <header className="sticky top-0 z-40 px-4 py-3 backdrop-blur-xl" style={{ background: 'rgba(8,9,10,0.8)' }}>
+        <header className="sticky top-0 z-40 px-4 py-3 backdrop-blur-xl" style={{ background: 'rgba(8,9,10,0.85)' }}>
           <div className="flex items-center justify-between">
-            <h1 className="text-lg font-bold gold-gradient tracking-tight flex items-center gap-2">
-              MatchLens AI
-            </h1>
-            <div className="flex items-center gap-2">
+            {/* 左侧: Logo + 品牌名 */}
+            <div className="flex items-center gap-2.5">
+              <Logo size={28} />
+              <div className="flex flex-col">
+                <h1 className="text-[15px] font-bold gold-gradient tracking-tight leading-tight">
+                  MatchLens
+                </h1>
+                <span className="text-[9px] text-gray-500 tracking-widest uppercase">World Cup 2026</span>
+              </div>
+            </div>
+
+            {/* 右侧: 功能按钮 */}
+            <div className="flex items-center gap-1.5">
+              {/* LIVE 指示 */}
+              <div className="pulse-dot mr-1">
+                <span className="text-[10px]">LIVE</span>
+              </div>
+
               {/* 搜索按钮 */}
               <button
                 onClick={() => setShowSearch(!showSearch)}
-                className="w-8 h-8 rounded-full flex items-center justify-center transition-all"
+                className="w-8 h-8 rounded-lg flex items-center justify-center transition-all"
                 style={{ 
-                  background: showSearch ? 'rgba(255,213,79,0.1)' : 'rgba(255,255,255,0.03)',
+                  background: showSearch ? 'rgba(255,213,79,0.1)' : 'rgba(255,255,255,0.04)',
                   border: `1px solid ${showSearch ? 'rgba(255,213,79,0.3)' : 'rgba(255,255,255,0.06)'}`
                 }}
               >
                 {showSearch ? (
-                  <X className="w-4 h-4 text-gold" />
+                  <X className="w-3.5 h-3.5 text-gold" />
                 ) : (
-                  <Search className="w-4 h-4 text-gray-400" />
+                  <Search className="w-3.5 h-3.5 text-gray-400" />
                 )}
               </button>
               
               {/* 主题切换 */}
               <button
                 onClick={toggleTheme}
-                className="w-8 h-8 rounded-full flex items-center justify-center transition-all"
+                className="w-8 h-8 rounded-lg flex items-center justify-center transition-all"
                 style={{ 
-                  background: 'rgba(255,255,255,0.03)',
+                  background: 'rgba(255,255,255,0.04)',
                   border: '1px solid rgba(255,255,255,0.06)'
                 }}
                 title={THEME_LABELS[theme]}
               >
                 {theme === 'dark' ? (
-                  <Moon className="w-4 h-4 text-gray-400" />
+                  <Moon className="w-3.5 h-3.5 text-gray-400" />
                 ) : theme === 'light' ? (
-                  <Sun className="w-4 h-4 text-gold" />
+                  <Sun className="w-3.5 h-3.5 text-gold" />
                 ) : (
-                  <Sparkles className="w-4 h-4 text-red" />
+                  <Sparkles className="w-3.5 h-3.5 text-red" />
                 )}
               </button>
-              
-              {/* LIVE 指示 */}
-              <div className="pulse-dot">
-                <Wifi className="w-3 h-3" />
-                LIVE
-              </div>
             </div>
           </div>
           
