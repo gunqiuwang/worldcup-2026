@@ -70,7 +70,7 @@ export default function MatchModal({ match, onClose }: Props) {
           {/* teams */}
           <div className="flex items-center justify-between mb-6">
             <div className="flex-1 text-center">
-              <Flag code={match.home.abbr} size="xl" showBadge className="mx-auto mb-2" />
+              <Flag code={match.home.abbr} size="xl" className="mx-auto mb-2" />
               <div className="text-base font-bold">{match.home.name}</div>
             </div>
             <div className="text-center px-4">
@@ -85,7 +85,7 @@ export default function MatchModal({ match, onClose }: Props) {
               )}
             </div>
             <div className="flex-1 text-center">
-              <Flag code={match.away.abbr} size="xl" showBadge className="mx-auto mb-2" />
+              <Flag code={match.away.abbr} size="xl" className="mx-auto mb-2" />
               <div className="text-base font-bold">{match.away.name}</div>
             </div>
           </div>

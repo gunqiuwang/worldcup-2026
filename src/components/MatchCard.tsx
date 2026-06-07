@@ -98,7 +98,7 @@ export default function MatchCard({ match, index, onClick }: Props) {
       {/* teams with real flags */}
       <div className="flex items-center justify-between">
         <div className="flex-1 flex flex-col items-center">
-          <Flag code={match.home.abbr} size="lg" showBadge className="mb-1.5" />
+          <Flag code={match.home.abbr} size="lg" className="mb-1.5" />
           <div className="text-sm font-semibold">{match.home.name}</div>
         </div>
 
@@ -129,7 +129,7 @@ export default function MatchCard({ match, index, onClick }: Props) {
         </div>
 
         <div className="flex-1 flex flex-col items-center">
-          <Flag code={match.away.abbr} size="lg" showBadge className="mb-1.5" />
+          <Flag code={match.away.abbr} size="lg" className="mb-1.5" />
           <div className="text-sm font-semibold">{match.away.name}</div>
         </div>
       </div>

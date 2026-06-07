@@ -88,7 +88,7 @@ function TodayHighlight() {
             <div className="flex items-center justify-between">
               {/* 主队 */}
               <div className="flex flex-col items-center flex-1">
-                <Flag code={m.home} size="lg" showBadge className="mb-1" />
+                <Flag code={m.home} size="lg" className="mb-1" />
                 <span className="text-xs font-semibold">{m.homeName}</span>
                 <span className="text-[10px] text-green font-bold">{m.homeProb}%</span>
               </div>
@@ -106,7 +106,7 @@ function TodayHighlight() {
 
               {/* 客队 */}
               <div className="flex flex-col items-center flex-1">
-                <Flag code={m.away} size="lg" showBadge className="mb-1" />
+                <Flag code={m.away} size="lg" className="mb-1" />
                 <span className="text-xs font-semibold">{m.awayName}</span>
                 <span className="text-[10px] text-gold font-bold">{m.awayProb}%</span>
               </div>
