@@ -8,6 +8,7 @@ import Flag from './Flag';
 import RingChart from './RingChart';
 import { SoccerBall } from './Icons';
 import KnockoutPredict from './KnockoutPredict';
+import ErrorBoundary from './ErrorBoundary';
 
 function GroupTable({ group, teams }: { group: string; teams: string[] }) {
   const pred = GROUP_PREDICTIONS[group];
@@ -134,7 +135,9 @@ export default function GroupStandings() {
         <GroupTable key={g} group={g} teams={GROUPS[g]} />
       ))}
       {/* 淘汰赛预测 */}
-      <KnockoutPredict />
+      <ErrorBoundary fallback={<div className="glass-card p-4 text-center text-gray-500 text-sm">淘汰赛预测加载中...</div>}>
+        <KnockoutPredict />
+      </ErrorBoundary>
     </div>
   );
 }

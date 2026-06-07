@@ -1,7 +1,8 @@
 import { motion } from 'framer-motion';
-import { GitBranch, Crown, Trophy } from 'lucide-react';
+import { GitBranch, Crown, Trophy, ChevronRight } from 'lucide-react';
 import { GROUPS, TEAMS } from '../data/teams';
 import { GROUP_PREDICTIONS } from '../data/predictions';
+import { ELO_RATINGS } from '../data/elo_ratings';
 import Flag from './Flag';
 import { useMemo } from 'react';
 
@@ -11,127 +12,86 @@ interface TeamSlot {
   prob: number;
 }
 
-// 2026 世界杯 12 组 32 强对阵规则
-// 上半区: A1vB2, C1vD2, E1vF2, G1vH2, I1vJ2, K1vL2
-// 下半区: B1vA2, D1vC2, F1vE2, H1vG2, J1vI2, L1vK2
-const BRACKET_PAIRS: [string, string][] = [
-  // 上半区
-  ['A', 'B'], ['C', 'D'], ['E', 'F'], ['G', 'H'], ['I', 'J'], ['K', 'L'],
-  // 下半区
-  ['B', 'A'], ['D', 'C'], ['F', 'E'], ['H', 'G'], ['J', 'I'], ['L', 'K'],
-];
+// 获取各组前二
+function getAllGroupTop2(): { winners: TeamSlot[]; runners: TeamSlot[] } {
+  const groupOrder = Object.keys(GROUPS).sort();
+  const winners: TeamSlot[] = [];
+  const runners: TeamSlot[] = [];
 
-function getGroupTop2(group: string): [TeamSlot, TeamSlot] {
-  const pred = GROUP_PREDICTIONS[group];
-  const teams = GROUPS[group] || [];
+  for (const g of groupOrder) {
+    const pred = GROUP_PREDICTIONS[g];
+    const teams = GROUPS[g] || [];
 
-  if (pred) {
-    const sorted = [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct);
-    const t1 = TEAMS[sorted[0].team];
-    const t2 = TEAMS[sorted[1].team];
-    return [
-      { abbr: sorted[0].team, name: t1?.cn || sorted[0].team, prob: sorted[0].advancement_pct },
-      { abbr: sorted[1].team, name: t2?.cn || sorted[1].team, prob: sorted[1].advancement_pct },
-    ];
-  }
-
-  // fallback: FIFA 排名
-  const sorted = [...teams].sort((a, b) => (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99));
-  const t1 = TEAMS[sorted[0]];
-  const t2 = TEAMS[sorted[1]];
-  return [
-    { abbr: sorted[0], name: t1?.cn || sorted[0], prob: 85 },
-    { abbr: sorted[1], name: t2?.cn || sorted[1], prob: 65 },
-  ];
-}
-
-function generateBracket() {
-  // 32 强对阵
-  const r32: Array<[TeamSlot, TeamSlot]> = BRACKET_PAIRS.map(([g1, g2]) => {
-    const [winner] = getGroupTop2(g1);
-    const [, runner] = getGroupTop2(g2);
-    return [winner, runner];
-  });
-
-  // 逐轮淘汰 (概率高的赢)
-  function advance(prev: TeamSlot[]): TeamSlot[] {
-    const next: TeamSlot[] = [];
-    for (let i = 0; i < prev.length; i += 2) {
-      next.push(prev[i].prob >= prev[i + 1].prob ? prev[i] : prev[i + 1]);
+    if (pred) {
+      const sorted = [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct);
+      const t1 = TEAMS[sorted[0].team];
+      const t2 = TEAMS[sorted[1].team];
+      winners.push({ abbr: sorted[0].team, name: t1?.cn || sorted[0].team, prob: sorted[0].advancement_pct });
+      runners.push({ abbr: sorted[1].team, name: t2?.cn || sorted[1].team, prob: sorted[1].advancement_pct });
+    } else {
+      const sorted = [...teams].sort((a, b) => (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99));
+      winners.push({ abbr: sorted[0], name: TEAMS[sorted[0]]?.cn || sorted[0], prob: 85 });
+      runners.push({ abbr: sorted[1], name: TEAMS[sorted[1]]?.cn || sorted[1], prob: 65 });
     }
-    return next;
   }
 
-  const r16 = advance(r32.map(([a, b]) => a.prob >= b.prob ? a : b));
-  const qf = advance(r16);
-  const sf = advance(qf);
-  const final = advance(sf);
-  const champion = final[0] || { abbr: 'ARG', name: '阿根廷', prob: 20 };
-
-  return { r32, r16, qf, sf, final: final, champion };
+  return { winners, runners };
 }
 
-function TeamSlotCard({ team, isWinner }: { team: TeamSlot; isWinner?: boolean }) {
-  return (
-    <div className={`flex items-center gap-1.5 px-2 py-1.5 rounded-lg text-xs transition-all ${
-      isWinner ? 'bg-gold/10 border border-gold/20' : 'bg-white/[0.02] border border-transparent'
-    }`}>
-      <Flag code={team.abbr} size="sm" />
-      <span className={`font-medium truncate ${isWinner ? 'text-gold' : 'text-gray-300'}`}>{team.name}</span>
-      <span className={`text-[10px] ml-auto ${isWinner ? 'text-gold font-bold' : 'text-gray-600'}`}>{team.prob}%</span>
-    </div>
-  );
-}
+// 预测冠军: 取所有队中出线概率 × Elo 最高的
+function predictChampion(): TeamSlot {
+  const allTeams: TeamSlot[] = [];
+  const { winners, runners } = getAllGroupTop2();
+  allTeams.push(...winners, ...runners);
 
-function BracketRound({ title, matches, icon }: {
-  title: string;
-  matches: Array<[TeamSlot, TeamSlot] | TeamSlot>;
-  icon: React.ReactNode;
-}) {
-  return (
-    <div className="mb-4">
-      <div className="flex items-center gap-2 mb-2">
-        {icon}
-        <span className="text-xs font-semibold text-gray-400">{title}</span>
-      </div>
-      <div className="space-y-1.5">
-        {matches.map((m, i) => {
-          if (Array.isArray(m)) {
-            const [a, b] = m as [TeamSlot, TeamSlot];
-            const winner = a.prob >= b.prob ? a : b;
-            return (
-              <div key={i} className="glass-card p-2 space-y-1">
-                <TeamSlotCard team={a} isWinner={winner.abbr === a.abbr} />
-                <div className="text-[10px] text-gray-600 text-center">vs</div>
-                <TeamSlotCard team={b} isWinner={winner.abbr === b.abbr} />
-              </div>
-            );
-          }
-          return <TeamSlotCard key={i} team={m as TeamSlot} isWinner />;
-        })}
-      </div>
-    </div>
-  );
+  return allTeams.reduce((best, t) => {
+    const bestElo = ELO_RATINGS[best.abbr]?.elo || 1500;
+    const tElo = ELO_RATINGS[t.abbr]?.elo || 1500;
+    const bestScore = best.prob * bestElo / 1500;
+    const tScore = t.prob * tElo / 1500;
+    return tScore > bestScore ? t : best;
+  }, allTeams[0]);
 }
 
 export default function KnockoutPredict() {
-  const bracket = useMemo(() => generateBracket(), []);
+  const { winners, runners } = useMemo(() => getAllGroupTop2(), []);
+  const champion = useMemo(() => predictChampion(), []);
 
-  // 构建 16 强对阵 (两两配对)
-  const r16Matches: Array<[TeamSlot, TeamSlot]> = [];
-  for (let i = 0; i < bracket.r16.length; i += 2) {
-    r16Matches.push([bracket.r16[i], bracket.r16[i + 1]]);
-  }
+  // R32 对阵表 (简化展示)
+  const r32Pairs = useMemo(() => {
+    const pairs: Array<{ home: TeamSlot; away: TeamSlot; label: string }> = [];
+    const groups = Object.keys(GROUPS).sort();
+    for (let i = 0; i < groups.length; i += 2) {
+      const g1 = groups[i];
+      const g2 = groups[i + 1];
+      if (!g2) break;
+      const pred1 = GROUP_PREDICTIONS[g1];
+      const pred2 = GROUP_PREDICTIONS[g2];
+      const teams1 = GROUPS[g1] || [];
+      const teams2 = GROUPS[g2] || [];
 
-  const qfMatches: Array<[TeamSlot, TeamSlot]> = [];
-  for (let i = 0; i < bracket.qf.length; i += 2) {
-    qfMatches.push([bracket.qf[i], bracket.qf[i + 1]]);
-  }
+      let t1: TeamSlot, t2: TeamSlot;
+      if (pred1) {
+        const s = [...pred1.teams].sort((a, b) => b.advancement_pct - a.advancement_pct);
+        const tm = TEAMS[s[0].team];
+        t1 = { abbr: s[0].team, name: tm?.cn || s[0].team, prob: s[0].advancement_pct };
+      } else {
+        const s = [...teams1].sort((a, b) => (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99));
+        t1 = { abbr: s[0], name: TEAMS[s[0]]?.cn || s[0], prob: 85 };
+      }
+      if (pred2) {
+        const s = [...pred2.teams].sort((a, b) => b.advancement_pct - a.advancement_pct);
+        const tm = TEAMS[s[1].team];
+        t2 = { abbr: s[1].team, name: tm?.cn || s[1].team, prob: s[1].advancement_pct };
+      } else {
+        const s = [...teams2].sort((a, b) => (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99));
+        t2 = { abbr: s[1], name: TEAMS[s[1]]?.cn || s[1], prob: 65 };
+      }
 
-  const sfMatches: Array<[TeamSlot, TeamSlot]> = [];
-  for (let i = 0; i < bracket.sf.length; i += 2) {
-    sfMatches.push([bracket.sf[i], bracket.sf[i + 1]]);
-  }
+      pairs.push({ home: t1, away: t2, label: `${g1}1 vs ${g2}2` });
+    }
+    return pairs;
+  }, []);
 
   return (
     <motion.div
@@ -142,7 +102,7 @@ export default function KnockoutPredict() {
       <div className="flex items-center gap-2 mb-4">
         <GitBranch className="w-4 h-4 text-gold" />
         <span className="text-sm font-semibold">淘汰赛预测</span>
-        <span className="text-[10px] text-gray-500 ml-auto">基于出线概率推演</span>
+        <span className="text-[10px] text-gray-500 ml-auto">小组前二交叉对阵</span>
       </div>
 
       {/* 冠军预测 */}
@@ -150,18 +110,70 @@ export default function KnockoutPredict() {
         <Crown className="w-8 h-8 text-gold mx-auto mb-2" />
         <div className="text-[10px] text-gray-500 mb-1">预测冠军</div>
         <div className="flex items-center justify-center gap-2">
-          <Flag code={bracket.champion.abbr} size="lg" />
-          <span className="text-lg font-bold gold-gradient">{bracket.champion.name}</span>
+          <Flag code={champion.abbr} size="lg" />
+          <span className="text-lg font-bold gold-gradient">{champion.name}</span>
         </div>
-        <div className="text-[10px] text-gold mt-1">夺冠概率 {bracket.champion.prob}%</div>
       </div>
 
-      {/* 逐轮展示 */}
-      <BracketRound title="32 强" matches={bracket.r32} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">R32</span>} />
-      <BracketRound title="16 强" matches={r16Matches} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">R16</span>} />
-      <BracketRound title="8 强" matches={qfMatches} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">QF</span>} />
-      <BracketRound title="半决赛" matches={sfMatches} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">SF</span>} />
-      <BracketRound title="决赛" matches={[bracket.final] as any} icon={<Trophy className="w-3.5 h-3.5 text-gold" />} />
+      {/* R32 对阵预览 */}
+      <div className="mb-2">
+        <div className="flex items-center gap-2 mb-3">
+          <span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded font-bold">R32</span>
+          <span className="text-xs font-semibold text-gray-400">32 强交叉对阵</span>
+        </div>
+        <div className="space-y-1.5">
+          {r32Pairs.map((p, i) => {
+            const winner = p.home.prob >= p.away.prob ? p.home : p.away;
+            return (
+              <motion.div
+                key={i}
+                initial={{ opacity: 0, x: -10 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: i * 0.05 }}
+                className="flex items-center gap-2 p-2 rounded-lg bg-white/[0.02] border border-white/[0.04]"
+              >
+                <span className="text-[9px] text-gray-600 w-12">{p.label}</span>
+                <Flag code={p.home.abbr} size="sm" />
+                <span className={`text-[11px] font-medium flex-1 ${winner.abbr === p.home.abbr ? 'text-gold' : 'text-gray-400'}`}>
+                  {p.home.name}
+                </span>
+                <span className="text-[10px] text-gray-600 font-mono">{p.home.prob}%</span>
+                <span className="text-[10px] text-gray-600">vs</span>
+                <span className="text-[10px] text-gray-600 font-mono">{p.away.prob}%</span>
+                <span className={`text-[11px] font-medium flex-1 text-right ${winner.abbr === p.away.abbr ? 'text-gold' : 'text-gray-400'}`}>
+                  {p.away.name}
+                </span>
+                <Flag code={p.away.abbr} size="sm" />
+              </motion.div>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* 全部小组前二 */}
+      <details className="mt-4">
+        <summary className="text-[10px] text-gray-500 cursor-pointer hover:text-gold transition">
+          查看全部 24 支晋级队伍
+        </summary>
+        <div className="grid grid-cols-2 gap-1.5 mt-2">
+          {winners.map((t, i) => (
+            <div key={t.abbr} className="flex items-center gap-1.5 p-1.5 rounded-lg bg-white/[0.02]">
+              <span className="text-[9px] text-gray-600 w-4">{Object.keys(GROUPS).sort()[i]}1</span>
+              <Flag code={t.abbr} size="sm" />
+              <span className="text-[10px] font-medium truncate flex-1">{t.name}</span>
+              <span className="text-[9px] text-green font-bold">{t.prob}%</span>
+            </div>
+          ))}
+          {runners.map((t, i) => (
+            <div key={t.abbr + '-r'} className="flex items-center gap-1.5 p-1.5 rounded-lg bg-white/[0.02]">
+              <span className="text-[9px] text-gray-600 w-4">{Object.keys(GROUPS).sort()[i]}2</span>
+              <Flag code={t.abbr} size="sm" />
+              <span className="text-[10px] font-medium truncate flex-1">{t.name}</span>
+              <span className="text-[9px] text-gold font-bold">{t.prob}%</span>
+            </div>
+          ))}
+        </div>
+      </details>
     </motion.div>
   );
 }
