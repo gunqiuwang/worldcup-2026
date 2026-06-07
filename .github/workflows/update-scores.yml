@@ -1,4 +1,4 @@
-name: Update Live Scores
+name: Update Live Scores & Simulate
 
 on:
   schedule:
@@ -16,8 +16,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch live scores
+      - name: Fetch live scores & odds
         run: python scripts/fetch_scores.py
+
+      - name: Monte Carlo simulation
+        run: python scripts/simulate_outcomes.py
 
       - name: Copy to public
         run: |
@@ -28,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/live_scores.json public/standings.json src/data/live_scores.json src/data/standings.json
-          git diff --cached --quiet || git commit -m "live: update scores $(date -u '+%Y-%m-%d %H:%M')"
+          git add public/live_scores.json public/standings.json src/data/live_scores.json src/data/standings.json src/data/predictions.ts
+          git diff --cached --quiet || git commit -m "live: update scores & simulate $(date -u '+%Y-%m-%d %H:%M')"
           git push

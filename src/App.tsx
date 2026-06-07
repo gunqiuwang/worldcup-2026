@@ -132,6 +132,12 @@ export default function App() {
       {/* Theme CSS */}
       <style>{THEME_CSS[theme]}</style>
 
+      {/* Background image — same as landing page, very low opacity */}
+      <div className="fixed inset-0 z-0 pointer-events-none">
+        <img src="/hero-web.jpg" alt="" className="w-full h-full object-cover opacity-[0.07]" />
+        <div className="absolute inset-0 bg-gradient-to-b from-bg/90 via-bg/80 to-bg" />
+      </div>
+
       {/* Particle background */}
       <ParticleBackground />
 
