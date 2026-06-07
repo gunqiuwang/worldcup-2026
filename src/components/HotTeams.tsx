@@ -1,29 +1,64 @@
 import { motion } from 'framer-motion';
 import { Flame, TrendingUp, ChevronRight } from 'lucide-react';
 import { TEAMS } from '../data/teams';
+import { TEAM_FORM } from '../data/team_form';
+import { ELO_RATINGS, getEloTier, getEloTierColor } from '../data/elo_ratings';
 import Flag from './Flag';
 import { useMemo } from 'react';
 
 interface HotTeam {
   abbr: string;
   name: string;
-  heat: number; // 0-100
+  heat: number;
   trend: 'up' | 'down' | 'flat';
   reason: string;
+  formScore: number;
+  elo: number;
+  eloTier: string;
 }
 
 export default function HotTeams({ onTeamClick }: { onTeamClick?: (abbr: string) => void }) {
   const teams = useMemo<HotTeam[]>(() => {
-    // 基于 FIFA 排名 + 知名度生成热度
-    const data: HotTeam[] = [
-      { abbr: 'BRA', name: '巴西', heat: 95, trend: 'up', reason: '5次冠军热门' },
-      { abbr: 'ARG', name: '阿根廷', heat: 92, trend: 'up', reason: '卫冕冠军梅西接班人' },
-      { abbr: 'FRA', name: '法国', heat: 90, trend: 'flat', reason: '姆巴佩领衔' },
-      { abbr: 'ENG', name: '英格兰', heat: 88, trend: 'up', reason: '欧洲杯亚军' },
-      { abbr: 'GER', name: '德国', heat: 85, trend: 'down', reason: '历史4次冠军' },
-      { abbr: 'ESP', name: '西班牙', heat: 83, trend: 'up', reason: '欧洲杯冠军' },
-    ];
-    return data;
+    const data: HotTeam[] = [];
+
+    for (const [abbr, team] of Object.entries(TEAMS)) {
+      const form = TEAM_FORM[abbr];
+      const elo = ELO_RATINGS[abbr];
+      
+      if (!form || !elo) continue;
+
+      // 热度 = Elo 评分 (0-100 映射)
+      const heat = Math.min(100, Math.max(0, Math.round((elo.elo - 800) / 13)));
+      
+      // 趋势
+      let trend: 'up' | 'down' | 'flat' = 'flat';
+      if (form.form_score >= 70) trend = 'up';
+      else if (form.form_score < 40) trend = 'down';
+
+      // 理由
+      let reason = '';
+      if (form.form_score >= 80) reason = '状态火热';
+      else if (form.form_score >= 60) reason = '状态良好';
+      else if (form.form_score >= 40) reason = '状态一般';
+      else reason = '状态低迷';
+
+      const tier = getEloTier(elo.elo);
+      reason += ` · ${tier}级`;
+
+      data.push({
+        abbr,
+        name: team.cn,
+        heat,
+        trend,
+        reason,
+        formScore: form.form_score,
+        elo: elo.elo,
+        eloTier: tier,
+      });
+    }
+
+    // 按热度排序，取前 8
+    return data.sort((a, b) => b.heat - a.heat).slice(0, 8);
   }, []);
 
   return (
@@ -38,7 +73,7 @@ export default function HotTeams({ onTeamClick }: { onTeamClick?: (abbr: string)
         </div>
         <div>
           <h3 className="text-sm font-bold">热门球队</h3>
-          <p className="text-[10px] text-gray-500">关注度最高的球队</p>
+          <p className="text-[10px] text-gray-500">Elo + 状态综合热度</p>
         </div>
       </div>
 
@@ -61,7 +96,7 @@ export default function HotTeams({ onTeamClick }: { onTeamClick?: (abbr: string)
             {/* 热度条 */}
             <div className="w-20 flex-shrink-0">
               <div className="flex items-center gap-1 mb-0.5">
-                <span className="text-[10px] font-bold text-gold">{t.heat}</span>
+                <span className={`text-[10px] font-bold ${getEloTierColor(t.eloTier)}`}>{t.heat}</span>
                 {t.trend === 'up' && <TrendingUp className="w-3 h-3 text-green" />}
                 {t.trend === 'down' && <TrendingUp className="w-3 h-3 text-red rotate-180" />}
               </div>

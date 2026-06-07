@@ -1,12 +1,9 @@
 import { motion } from 'framer-motion';
 import { GitBranch, Crown, Trophy } from 'lucide-react';
 import { GROUPS, TEAMS } from '../data/teams';
+import { GROUP_PREDICTIONS } from '../data/predictions';
 import Flag from './Flag';
 import { useMemo } from 'react';
-
-function calcAdvanceProb(fifaRank: number): number {
-  return Math.min(95, Math.max(5, Math.round((100 - fifaRank) * 1.1)));
-}
 
 interface TeamSlot {
   abbr: string;
@@ -20,13 +17,25 @@ function generateBracket(): { r32: Array<[TeamSlot, TeamSlot]>; champion: TeamSl
   const groupRunners: TeamSlot[] = [];
 
   for (const [group, teams] of Object.entries(GROUPS)) {
-    const sorted = [...teams].sort((a, b) => {
-      return (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99);
-    });
-    const winner = TEAMS[sorted[0]];
-    const runner = TEAMS[sorted[1]];
-    if (winner) groupWinners.push({ abbr: sorted[0], name: winner.cn, prob: calcAdvanceProb(winner.fifa_rank) });
-    if (runner) groupRunners.push({ abbr: sorted[1], name: runner.cn, prob: calcAdvanceProb(runner.fifa_rank) });
+    const pred = GROUP_PREDICTIONS[group];
+    
+    if (pred) {
+      // 使用集成预测的出线概率
+      const sorted = [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct);
+      const winner = TEAMS[sorted[0].team];
+      const runner = TEAMS[sorted[1].team];
+      if (winner) groupWinners.push({ abbr: sorted[0].team, name: winner.cn, prob: sorted[0].advancement_pct });
+      if (runner) groupRunners.push({ abbr: sorted[1].team, name: runner.cn, prob: sorted[1].advancement_pct });
+    } else {
+      // 降级到 FIFA 排名
+      const sorted = [...teams].sort((a, b) => {
+        return (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99);
+      });
+      const winner = TEAMS[sorted[0]];
+      const runner = TEAMS[sorted[1]];
+      if (winner) groupWinners.push({ abbr: sorted[0], name: winner.cn, prob: 90 });
+      if (runner) groupRunners.push({ abbr: sorted[1], name: runner.cn, prob: 70 });
+    }
   }
 
   // 32强对阵：A1vsB2, C1vsD2, ...
@@ -79,44 +88,24 @@ function MatchSlot({ team, delay, highlight }: { team: TeamSlot; delay: number; 
       initial={{ opacity: 0, scale: 0.9 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{ delay }}
-      className={`flex items-center gap-1.5 px-2 py-1 rounded-lg border transition ${
-        highlight
-          ? 'bg-gold/10 border-gold/30'
-          : 'bg-white/[0.02] border-white/[0.05] hover:border-gold/20'
+      className={`flex items-center gap-2 p-1.5 rounded-lg ${
+        highlight ? 'bg-gold/10 border border-gold/20' : 'bg-white/[0.02]'
       }`}
     >
       <Flag code={team.abbr} size="sm" />
-      <span className="text-[10px] font-semibold truncate max-w-[60px]">{team.name}</span>
-      <span className={`text-[9px] font-bold ml-auto ${highlight ? 'text-gold' : 'text-gray-500'}`}>
+      <span className="text-[10px] font-semibold truncate flex-1">{team.name}</span>
+      <span className={`text-[10px] font-bold ${
+        team.prob >= 70 ? 'text-green' : team.prob >= 50 ? 'text-gold' : 'text-gray-400'
+      }`}>
         {team.prob}%
       </span>
     </motion.div>
   );
 }
 
-function RoundColumn({ title, teams, delay }: { title: string; teams: TeamSlot[]; delay: number }) {
-  return (
-    <div className="flex flex-col gap-2 min-w-[100px]">
-      <div className="text-[10px] font-bold text-gold text-center mb-1">{title}</div>
-      {teams.filter((t) => t && t.abbr).map((t, i) => (
-        <MatchSlot key={t.abbr + i} team={t} delay={delay + i * 0.05} />
-      ))}
-    </div>
-  );
-}
-
 export default function KnockoutPredict() {
   const bracket = useMemo(() => generateBracket(), []);
   const rounds = useMemo(() => generateRounds(bracket), [bracket]);
-
-  // 冠军热门
-  const championTeams = useMemo(() => {
-    return [
-      { abbr: 'BRA', prob: 18 }, { abbr: 'ENG', prob: 14 },
-      { abbr: 'FRA', prob: 13 }, { abbr: 'ARG', prob: 12 },
-      { abbr: 'GER', prob: 10 }, { abbr: 'ESP', prob: 9 },
-    ];
-  }, []);
 
   return (
     <motion.div
@@ -125,74 +114,62 @@ export default function KnockoutPredict() {
       className="glass-card p-4 mb-3"
     >
       <div className="flex items-center gap-2 mb-4">
-        <div className="w-8 h-8 rounded-xl bg-green/10 flex items-center justify-center">
-          <GitBranch className="w-4 h-4 text-green" />
+        <div className="w-8 h-8 rounded-xl bg-gold/10 flex items-center justify-center">
+          <GitBranch className="w-4 h-4 text-gold" />
         </div>
         <div>
-          <h3 className="text-sm font-bold">淘汰赛晋级树</h3>
-          <p className="text-[10px] text-gray-500">基于FIFA排名模拟 · 32强→冠军</p>
+          <h3 className="text-sm font-bold">淘汰赛预测</h3>
+          <p className="text-[10px] text-gray-500">基于出线概率的晋级路径</p>
         </div>
       </div>
 
-      {/* 树状图 - 横向滚动 */}
-      <div className="overflow-x-auto pb-2 -mx-2 px-2 scrollbar-hide">
-        <div className="flex gap-3 items-center" style={{ minWidth: 'max-content' }}>
-          <RoundColumn title="32强" teams={bracket.r32.map(([a]) => a)} delay={0} />
-          <div className="flex flex-col gap-6 justify-center text-gray-600">
-            {bracket.r32.map((_, i) => (
-              <span key={i} className="text-[10px]">→</span>
-            ))}
-          </div>
-          <RoundColumn title="16强" teams={rounds.r16} delay={0.2} />
-          <div className="flex flex-col gap-6 justify-center text-gray-600">
-            {rounds.r16.map((_, i) => i % 2 === 0 ? <span key={i} className="text-[10px]">→</span> : null)}
-          </div>
-          <RoundColumn title="8强" teams={rounds.qf} delay={0.4} />
-          <div className="flex flex-col gap-6 justify-center text-gray-600">
-            {rounds.qf.map((_, i) => i % 2 === 0 ? <span key={i} className="text-[10px]">→</span> : null)}
-          </div>
-          <RoundColumn title="4强" teams={rounds.sf} delay={0.6} />
-          <div className="flex flex-col gap-6 justify-center text-gray-600">
-            {rounds.sf.map((_, i) => i % 2 === 0 ? <span key={i} className="text-[10px]">→</span> : null)}
-          </div>
-          <RoundColumn title="决赛" teams={rounds.final} delay={0.8} />
-          {/* 冠军 */}
-          <motion.div
-            initial={{ opacity: 0, scale: 0.8 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ delay: 1, type: 'spring' }}
-            className="flex flex-col items-center gap-1 min-w-[80px]"
-          >
-            <Crown className="w-5 h-5 text-gold mb-1" />
-            <span className="text-[10px] font-bold text-gold">冠军</span>
-            <div className="p-2 rounded-xl bg-gold/10 border border-gold/30 text-center">
-              <Flag code={rounds.final[0]?.abbr || 'BRA'} size="md" />
-              <div className="text-xs font-bold mt-1">{rounds.final[0]?.name || '巴西'}</div>
+      {/* 32强 */}
+      <div className="mb-4">
+        <div className="text-[10px] text-gray-500 mb-2 flex items-center gap-1">
+          <Trophy className="w-3 h-3" />
+          32 强对阵
+        </div>
+        <div className="grid grid-cols-2 gap-1">
+          {bracket.r32.slice(0, 8).map(([a, b], i) => (
+            <div key={i} className="space-y-0.5">
+              <MatchSlot team={a} delay={i * 0.05} highlight={a.prob >= 70} />
+              <MatchSlot team={b} delay={i * 0.05 + 0.02} />
             </div>
-          </motion.div>
+          ))}
         </div>
       </div>
 
-      {/* 冠军热门 */}
-      <div className="border-t border-white/[0.05] pt-3 mt-3">
-        <div className="flex items-center gap-1.5 mb-2">
-          <Trophy className="w-3.5 h-3.5 text-gold" />
-          <span className="text-xs font-bold text-gold">冠军热门</span>
-        </div>
-        <div className="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
-          {championTeams.map((t, i) => (
-            <motion.div
-              key={t.abbr}
-              initial={{ opacity: 0, scale: 0.8 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: 1.2 + i * 0.08 }}
-              className="flex flex-col items-center gap-1 px-2 py-1.5 rounded-xl bg-gold/5 border border-gold/10 flex-shrink-0"
-            >
-              <Flag code={t.abbr} size="md" />
-              <span className="text-[10px] font-semibold">{TEAMS[t.abbr]?.cn}</span>
-              <span className="text-[10px] font-bold text-gold">{t.prob}%</span>
-            </motion.div>
-          ))}
+      {/* 晋级路径 */}
+      <div className="grid grid-cols-4 gap-2">
+        {[
+          { label: '16强', teams: rounds.r16.slice(0, 8), icon: '⚔️' },
+          { label: '8强', teams: rounds.qf.slice(0, 4), icon: '🏆' },
+          { label: '4强', teams: rounds.sf.slice(0, 2), icon: '🔥' },
+          { label: '决赛', teams: rounds.final.slice(0, 1), icon: '👑' },
+        ].map((round) => (
+          <div key={round.label}>
+            <div className="text-[10px] text-gray-500 mb-1 text-center">{round.icon} {round.label}</div>
+            <div className="space-y-0.5">
+              {round.teams.map((t, i) => (
+                <MatchSlot key={i} team={t} delay={0.5 + i * 0.1} highlight={t.prob >= 80} />
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* 预测冠军 */}
+      <div className="mt-4 p-3 rounded-xl bg-gradient-to-r from-gold/10 to-transparent border border-gold/20">
+        <div className="flex items-center gap-2">
+          <Crown className="w-5 h-5 text-gold" />
+          <div>
+            <div className="text-xs text-gray-500">预测冠军</div>
+            <div className="text-sm font-bold">{bracket.champion.name}</div>
+          </div>
+          <div className="ml-auto text-right">
+            <div className="text-lg font-extrabold text-gold">{bracket.champion.prob}%</div>
+            <div className="text-[10px] text-gray-500">出线概率</div>
+          </div>
         </div>
       </div>
     </motion.div>

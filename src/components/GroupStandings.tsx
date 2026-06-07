@@ -1,20 +1,20 @@
 import { motion } from 'framer-motion';
 import { ArrowUpCircle, Shield } from 'lucide-react';
 import { GROUPS, TEAMS } from '../data/teams';
+import { GROUP_PREDICTIONS } from '../data/predictions';
+import { getTeamForm } from '../data/team_form';
+import { getEloRating, getEloTier, getEloTierColor } from '../data/elo_ratings';
 import Flag from './Flag';
 import RingChart from './RingChart';
 import { SoccerBall } from './Icons';
 
-// 模拟出线概率（开赛后用真实数据）
-const MOCK_PROB: Record<string, number[]> = {
-  A: [85, 60, 35, 20], B: [75, 65, 40, 20], C: [70, 55, 45, 30],
-  D: [65, 55, 50, 30], E: [80, 60, 35, 25], F: [75, 60, 40, 25],
-  G: [70, 55, 45, 30], H: [80, 65, 30, 25], I: [75, 60, 40, 25],
-  J: [65, 55, 50, 30], K: [80, 60, 35, 25], L: [70, 55, 45, 30],
-};
-
 function GroupTable({ group, teams }: { group: string; teams: string[] }) {
-  const probs = MOCK_PROB[group] || [25, 25, 25, 25];
+  const pred = GROUP_PREDICTIONS[group];
+  
+  // 按出线概率排序
+  const sortedTeams = pred 
+    ? [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct)
+    : teams.map((t, i) => ({ team: t, advancement_pct: i < 2 ? 70 : 30 }));
 
   return (
     <motion.div
@@ -29,11 +29,15 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
       </div>
 
       <div className="space-y-2">
-        {teams.map((abbr, i) => {
+        {sortedTeams.map((tp, i) => {
+          const abbr = tp.team;
           const t = TEAMS[abbr];
           if (!t) return null;
           const qualify = i < 2;
-          const prob = probs[i];
+          const prob = tp.advancement_pct;
+          const form = getTeamForm(abbr);
+          const elo = getEloRating(abbr);
+          const eloTier = elo ? getEloTier(elo.elo) : '-';
 
           return (
             <motion.div
@@ -51,7 +55,23 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
               <Flag code={abbr} size="sm" />
               <div className="flex-1">
                 <div className="text-sm font-semibold">{t.cn}</div>
-                <div className="text-[10px] text-gray-500">FIFA #{t.fifa_rank}</div>
+                <div className="flex items-center gap-2">
+                  <span className="text-[10px] text-gray-500">FIFA #{t.fifa_rank}</span>
+                  {elo && (
+                    <span className={`text-[10px] font-bold ${getEloTierColor(eloTier)}`}>
+                      {eloTier}
+                    </span>
+                  )}
+                  {form && (
+                    <span className={`text-[10px] ${
+                      form.form_score >= 80 ? 'text-green' :
+                      form.form_score >= 60 ? 'text-gold' :
+                      'text-gray-500'
+                    }`}>
+                      {form.form_score}分
+                    </span>
+                  )}
+                </div>
               </div>
               <RingChart value={prob} size={40} strokeWidth={3} color={qualify ? '#00E676' : '#5F6368'} showValue={false} />
               <div className={`text-xs font-bold w-10 text-right ${qualify ? 'text-green' : 'text-gray-500'}`}>
@@ -62,42 +82,40 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
         })}
       </div>
 
-      {/* table header */}
-      <div className="mt-3 pt-2 border-t border-white/[0.03]">
-        <table className="w-full text-[10px]">
-          <thead>
-            <tr className="text-gray-500 uppercase tracking-wider">
-              <th className="text-left py-1">球队</th>
-              <th className="text-center py-1 px-0.5">赛</th>
-              <th className="text-center py-1 px-0.5">胜</th>
-              <th className="text-center py-1 px-0.5">平</th>
-              <th className="text-center py-1 px-0.5">负</th>
-              <th className="text-center py-1 px-0.5">净</th>
-              <th className="text-center py-1 font-bold text-gold">分</th>
-            </tr>
-          </thead>
-          <tbody>
-            {teams.map((abbr, i) => {
-              const t = TEAMS[abbr];
-              if (!t) return null;
-              return (
-                <tr key={abbr} className="border-t border-white/[0.02]">
-                  <td className="py-1.5 flex items-center gap-1.5">
-                    <Flag code={abbr} size="sm" />
-                    <span className="font-medium">{t.cn}</span>
-                  </td>
-                  <td className="text-center text-gray-400">0</td>
-                  <td className="text-center text-gray-400">0</td>
-                  <td className="text-center text-gray-400">0</td>
-                  <td className="text-center text-gray-400">0</td>
-                  <td className="text-center text-gray-400">0</td>
-                  <td className="text-center font-extrabold text-gold">0</td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
-      </div>
+      {/* 预测积分表 */}
+      {pred && (
+        <div className="mt-3 pt-2 border-t border-white/[0.03]">
+          <table className="w-full text-[10px]">
+            <thead>
+              <tr className="text-gray-500 uppercase tracking-wider">
+                <th className="text-left py-1">球队</th>
+                <th className="text-center py-1 px-0.5">预测分</th>
+                <th className="text-center py-1 px-0.5">进球</th>
+                <th className="text-center py-1 px-0.5">失球</th>
+                <th className="text-center py-1 font-bold text-gold">出线%</th>
+              </tr>
+            </thead>
+            <tbody>
+              {pred.teams.map((tp) => {
+                const t = TEAMS[tp.team];
+                if (!t) return null;
+                return (
+                  <tr key={tp.team} className="border-t border-white/[0.02]">
+                    <td className="py-1.5 flex items-center gap-1.5">
+                      <Flag code={tp.team} size="sm" />
+                      <span className="font-medium">{t.cn}</span>
+                    </td>
+                    <td className="text-center text-gray-400">{tp.avg_points.toFixed(1)}</td>
+                    <td className="text-center text-gray-400">{tp.avg_goals_for.toFixed(1)}</td>
+                    <td className="text-center text-gray-400">{tp.avg_goals_against.toFixed(1)}</td>
+                    <td className="text-center font-extrabold text-gold">{tp.advancement_pct}%</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+      )}
     </motion.div>
   );
 }
