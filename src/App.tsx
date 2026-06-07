@@ -8,8 +8,10 @@ import BottomNav from './components/BottomNav';
 import OddsPage from './components/OddsPage';
 import Dashboard from './components/Dashboard';
 import ParticleBackground from './components/ParticleBackground';
+import WorldMap from './components/WorldMap';
 import SearchBar from './components/SearchBar';
 import MatchModal from './components/MatchModal';
+import TeamPage from './components/TeamPage';
 import { SkeletonCard, SkeletonGroup } from './components/Skeleton';
 import { SCHEDULE } from './data/schedule';
 import { GROUPS } from './data/teams';
@@ -46,6 +48,7 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filterGroup, setFilterGroup] = useState<string | null>(null);
   const [selectedMatch, setSelectedMatch] = useState<MatchData | null>(null);
+  const [selectedTeam, setSelectedTeam] = useState<string | null>(null);
   const [isLoading] = useState(false);
 
   const today = new Date().toISOString().slice(0, 10);
@@ -94,6 +97,7 @@ export default function App() {
 
       {/* Particle background */}
       <ParticleBackground />
+      <WorldMap />
 
       <div className="max-w-[560px] mx-auto pb-20 relative z-10">
         {/* Header */}
@@ -127,7 +131,25 @@ export default function App() {
 
         {/* Content */}
         <AnimatePresence mode="wait">
-          {page === 'data' && (
+          {selectedTeam && (
+            <motion.div
+              key="team"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+            >
+              <TeamPage
+                teamAbbr={selectedTeam}
+                onBack={() => setSelectedTeam(null)}
+                onMatchClick={(id) => {
+                  const m = SCHEDULE.find((s) => s.id === id);
+                  if (m) { setSelectedMatch(m); setSelectedTeam(null); }
+                }}
+              />
+            </motion.div>
+          )}
+
+          {!selectedTeam && page === 'data' && (
             <motion.div
               key="data"
               initial={{ opacity: 0, x: -20 }}
@@ -135,11 +157,11 @@ export default function App() {
               exit={{ opacity: 0, x: 20 }}
               transition={{ duration: 0.2 }}
             >
-              <Dashboard />
+              <Dashboard onTeamClick={setSelectedTeam} />
             </motion.div>
           )}
 
-          {page === 'matches' && (
+          {!selectedTeam && page === 'matches' && (
             <motion.div
               key="matches"
               initial={{ opacity: 0, x: -20 }}
@@ -205,7 +227,7 @@ export default function App() {
             </motion.div>
           )}
 
-          {page === 'standings' && (
+          {!selectedTeam && page === 'standings' && (
             <motion.div
               key="standings"
               initial={{ opacity: 0, x: -20 }}
@@ -224,7 +246,7 @@ export default function App() {
             </motion.div>
           )}
 
-          {page === 'odds' && (
+          {!selectedTeam && page === 'odds' && (
             <motion.div
               key="odds"
               initial={{ opacity: 0, x: -20 }}

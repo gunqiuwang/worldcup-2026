@@ -7,7 +7,32 @@ import Flag from './Flag';
 import UpsetRanking from './UpsetRanking';
 import OddsMovement from './OddsMovement';
 import KnockoutPredict from './KnockoutPredict';
-import { useMemo } from 'react';
+import HotTeams from './HotTeams';
+import { useMemo, useRef, useState, useEffect, type ReactNode } from 'react';
+
+// IntersectionObserver 懒加载包装器
+function LazySection({ children, fallback }: { children: ReactNode; fallback?: ReactNode }) {
+  const ref = useRef<HTMLDivElement>(null);
+  const [visible, setVisible] = useState(false);
+
+  useEffect(() => {
+    if (!ref.current) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => { if (entry.isIntersecting) { setVisible(true); observer.disconnect(); } },
+      { rootMargin: '200px' }
+    );
+    observer.observe(ref.current);
+    return () => observer.disconnect();
+  }, []);
+
+  return (
+    <div ref={ref}>
+      {visible ? children : fallback || (
+        <div className="h-32 rounded-xl bg-white/[0.02] animate-pulse mb-3" />
+      )}
+    </div>
+  );
+}
 
 // 今日重点比赛（赔率最接近的前3场）
 function TodayHighlight() {
@@ -187,15 +212,24 @@ function ModelStats() {
   );
 }
 
-export default function Dashboard() {
+export default function Dashboard({ onTeamClick }: { onTeamClick?: (abbr: string) => void }) {
   return (
     <div className="px-4">
       <TodayHighlight />
       <DataDimensions />
       <ModelStats />
-      <UpsetRanking />
-      <OddsMovement />
-      <KnockoutPredict />
+      <LazySection>
+        <UpsetRanking />
+      </LazySection>
+      <LazySection>
+        <HotTeams onTeamClick={onTeamClick} />
+      </LazySection>
+      <LazySection>
+        <OddsMovement />
+      </LazySection>
+      <LazySection>
+        <KnockoutPredict />
+      </LazySection>
     </div>
   );
 }
