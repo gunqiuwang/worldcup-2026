@@ -1,8 +1,9 @@
 import { motion } from 'framer-motion';
-import { Zap, ChevronRight, BarChart3, Shield, Target, Eye } from 'lucide-react';
+import { Zap, ChevronRight, BarChart3, Shield, Target, Eye, Brain } from 'lucide-react';
 import { SCHEDULE } from '../data/schedule';
 import { TEAMS, GROUPS } from '../data/teams';
-import { PREDICTIONS, GROUP_PREDICTIONS, getPrediction } from '../data/predictions';
+import { ENSEMBLE_PREDICTIONS, getEnsemblePrediction } from '../data/ensemble_predictions';
+import { GROUP_PREDICTIONS } from '../data/predictions';
 import { calcMatchProbs, calcUpsetIndex } from '../utils/odds';
 import Flag from './Flag';
 import UpsetRanking from './UpsetRanking';
@@ -57,8 +58,8 @@ function TodayHighlight() {
     }> = [];
 
     for (const m of SCHEDULE) {
-      // 优先使用 predictions 数据
-      const pred = getPrediction(m.id);
+      // 优先使用集成预测
+      const pred = getEnsemblePrediction(m.id);
       let homeProb: number;
       let awayProb: number;
       let drawProb: number;
@@ -120,7 +121,7 @@ function TodayHighlight() {
           <Zap className="w-3.5 h-3.5 text-green" />
         </div>
         <span className="text-sm font-bold">今日焦点</span>
-        <span className="text-[10px] text-gray-500 ml-auto">赔率最接近的对决</span>
+        <span className="text-[10px] text-gray-500 ml-auto">集成模型预测</span>
       </div>
 
       <div className="space-y-2">
@@ -236,52 +237,41 @@ function GroupAdvancement() {
   );
 }
 
-// 数据维度概览
-function DataDimensions() {
-  const dims = [
-    { icon: BarChart3, label: '赔率变化', desc: '实时盘口异动', color: 'text-gold' },
-    { icon: Shield, label: '球队状态', desc: '近期表现评估', color: 'text-green' },
-    { icon: Target, label: '历史交锋', desc: '过往战绩分析', color: 'text-red' },
-    { icon: Eye, label: '赛程强度', desc: '体能消耗预估', color: 'text-blue-400' },
-  ];
-
+// 集成模型说明
+function ModelInfo() {
   return (
     <div className="glass-card p-4 mb-3">
       <div className="flex items-center gap-2 mb-3">
-        <span className="text-sm font-bold">分析维度</span>
-        <span className="text-[10px] text-gray-500 ml-auto">4大核心指标</span>
+        <div className="w-7 h-7 rounded-lg bg-blue-400/10 flex items-center justify-center">
+          <Brain className="w-3.5 h-3.5 text-blue-400" />
+        </div>
+        <span className="text-sm font-bold">集成模型</span>
       </div>
-
-      <div className="grid grid-cols-2 gap-2">
-        {dims.map((d, i) => {
-          const Icon = d.icon;
-          return (
-            <motion.div
-              key={d.label}
-              initial={{ opacity: 0, scale: 0.9 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: i * 0.08 }}
-              className="p-2.5 rounded-xl bg-white/[0.02] border border-white/[0.05] hover:border-gold/20 transition"
-            >
-              <Icon className={`w-4 h-4 ${d.color} mb-1`} />
-              <div className="text-xs font-semibold">{d.label}</div>
-              <div className="text-[10px] text-gray-500">{d.desc}</div>
-            </motion.div>
-          );
-        })}
+      
+      <div className="grid grid-cols-3 gap-2">
+        {[
+          { label: '赔率共识', weight: '40%', color: 'text-gold' },
+          { label: 'Elo 评分', weight: '35%', color: 'text-green' },
+          { label: '近期状态', weight: '25%', color: 'text-blue-400' },
+        ].map((m) => (
+          <div key={m.label} className="text-center p-2 rounded-xl bg-white/[0.02]">
+            <div className={`text-lg font-extrabold ${m.color}`}>{m.weight}</div>
+            <div className="text-[10px] text-gray-500">{m.label}</div>
+          </div>
+        ))}
       </div>
     </div>
   );
 }
 
-// 模型战绩统计
-function ModelStats() {
+// 预测统计
+function PredictionStats() {
   const stats = useMemo(() => {
-    const total = PREDICTIONS.length;
-    const highConf = PREDICTIONS.filter(p => p.confidence === 'high').length;
-    const medConf = PREDICTIONS.filter(p => p.confidence === 'medium').length;
-    const lowConf = PREDICTIONS.filter(p => p.confidence === 'low').length;
-    const upsetCount = PREDICTIONS.filter(p => p.upset_index > 50).length;
+    const total = ENSEMBLE_PREDICTIONS.length;
+    const highConf = ENSEMBLE_PREDICTIONS.filter(p => p.confidence === 'high').length;
+    const medConf = ENSEMBLE_PREDICTIONS.filter(p => p.confidence === 'medium').length;
+    const lowConf = ENSEMBLE_PREDICTIONS.filter(p => p.confidence === 'low').length;
+    const upsetCount = ENSEMBLE_PREDICTIONS.filter(p => p.upset_index > 50).length;
     
     return { total, highConf, medConf, lowConf, upsetCount };
   }, []);
@@ -323,8 +313,8 @@ export default function Dashboard({ onTeamClick }: { onTeamClick?: (abbr: string
         <TodayHighlight />
       </ErrorBoundary>
       <GroupAdvancement />
-      <ModelStats />
-      <DataDimensions />
+      <ModelInfo />
+      <PredictionStats />
       <LazySection>
         <ErrorBoundary>
           <UpsetRanking />
