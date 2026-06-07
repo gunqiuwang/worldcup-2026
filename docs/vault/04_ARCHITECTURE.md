@@ -47,7 +47,7 @@ fetch_news.py (GitHub Action, 每2h)
 ## Component Architecture
 
 ```
-App.tsx (主路由 + 主题 + 搜索)
+App.tsx (主路由 + 主题 + 搜索 + Logo)
 ├── LandingPage (欢迎页, 只显示一次)
 ├── ParticleBackground (背景粒子)
 ├── Countdown (倒计时, 仅赛程页)

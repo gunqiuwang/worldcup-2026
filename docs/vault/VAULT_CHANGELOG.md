@@ -9,6 +9,14 @@ reviewed_by: agent
 
 # Vault Changelog
 
+## [2026-06-07] ui | 头部重新设计
+
+- 新增 Logo.tsx — SVG 足球+镜头组合图标
+- 品牌名 "MatchLens AI" → "MatchLens" + "World Cup 2026" 副标题
+- LIVE 指示移到最左侧（优先级最高）
+- 按钮从圆形改为圆角方形 (rounded-lg)
+- 搜索功能正常：按球队名/缩写过滤赛程
+
 ## [2026-06-07] refactor | 分析页整改 — 去假数据 + 信息层级优化
 
 - 删除 OddsMovement (伪随机假数据) + PredictionStats (鸡肋)
