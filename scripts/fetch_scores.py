@@ -54,7 +54,7 @@ ESPN_TO_ABBR = {
     "POR": "POR", "NED": "NED", "NLD": "NED", "BEL": "BEL",
     "CRO": "CRO", "HRV": "CRO", "MAR": "MAR", "JPN": "JPN",
     "COL": "COL", "URU": "URU", "SEN": "SEN", "ECU": "ECU",
-    "IRN": "IRN", "SAU": "SAU", "EGY": "EGY", "NZL": "NZL",
+    "IRN": "IRN",    "SAU": "KSA", "EGY": "EGY", "NZL": "NZL",
     "GHA": "GHA", "TUN": "TUN", "JAM": "JAM", "PAN": "PAN",
     "HON": "HON", "SLV": "SLV", "CRC": "CRC", "NGA": "NGA",
     "CMR": "CMR", "SRB": "SRB", "DNK": "DNK", "DEN": "DEN",

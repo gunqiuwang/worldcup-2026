@@ -2,13 +2,18 @@ name: Update Live Scores & Simulate
 
 on:
   schedule:
-    # 比赛期间每30分钟 (6月11日-7月19日)
+    # 比赛期间每30分钟 (6月11日-7月19日)，用条件判断避免非赛期浪费CI
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   update-scores:
     runs-on: ubuntu-latest
+    # 只在赛期(6月11日-7月20日)或手动触发时运行
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.schedule == '*/30 * * * *' && 
+       (contains('Jun', github.event.repository.updated_at) || contains('Jul', github.event.repository.updated_at)))
     steps:
       - uses: actions/checkout@v4
 
@@ -16,18 +21,34 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Check if tournament is active
+        id: check
+        run: |
+          MONTH=$(date -u +%m)
+          DAY=$(date -u +%d)
+          # June 11 - July 19
+          if [[ "$MONTH" == "06" && "$DAY" -ge "11" ]] || [[ "$MONTH" == "07" && "$DAY" -le "19" ]]; then
+            echo "active=true" >> $GITHUB_OUTPUT
+          else
+            echo "active=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Fetch live scores & odds
+        if: steps.check.outputs.active == 'true' || github.event_name == 'workflow_dispatch'
         run: python scripts/fetch_scores.py
 
       - name: Monte Carlo simulation
+        if: steps.check.outputs.active == 'true' || github.event_name == 'workflow_dispatch'
         run: python scripts/simulate_outcomes.py
 
       - name: Copy to public
+        if: steps.check.outputs.active == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           cp src/data/live_scores.json public/live_scores.json
           cp src/data/standings.json public/standings.json 2>/dev/null || true
 
       - name: Commit and push if changed
+        if: steps.check.outputs.active == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

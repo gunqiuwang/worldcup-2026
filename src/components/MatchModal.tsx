@@ -1,4 +1,4 @@
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import { X, Clock, MapPin, TrendingUp, BarChart3 } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
 import { TEAMS } from '../data/teams';
@@ -12,7 +12,7 @@ interface Props {
 }
 
 const TIER_COLORS: Record<string, string> = {
-  S: 'text-red-400', A: 'text-gold', B: 'text-blue-400', C: 'text-gray-500',
+  S: 'text-red', A: 'text-gold', B: 'text-blue', C: 'text-gray-500',
 };
 
 function CompareBar({ label, left, right, leftLabel, rightLabel }: {
@@ -55,7 +55,6 @@ export default function MatchModal({ match, onClose }: Props) {
   ] : [];
 
   return (
-    <AnimatePresence>
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -219,6 +218,5 @@ export default function MatchModal({ match, onClose }: Props) {
           )}
         </motion.div>
       </motion.div>
-    </AnimatePresence>
   );
 }

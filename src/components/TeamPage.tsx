@@ -6,7 +6,7 @@ import { getPrediction, getGroupPrediction } from '../data/predictions';
 import Flag from './Flag';
 
 const TIER_COLORS: Record<string, string> = {
-  S: 'text-red-400', A: 'text-gold', B: 'text-blue-400', C: 'text-gray-500',
+  S: 'text-red-400', A: 'text-gold', B: 'text-blue', C: 'text-gray-500',
 };
 
 interface Props {
@@ -73,7 +73,7 @@ export default function TeamPage({ teamAbbr, onBack, onMatchClick }: Props) {
           {[
             { icon: Trophy, label: '历史最佳', value: bestResult, color: 'text-gold' },
             { icon: TrendingUp, label: '实力等级', value: `${team.tier} 级`, color: TIER_COLORS[team.tier] },
-            { icon: Calendar, label: '小组赛', value: `${teamMatches.length} 场`, color: 'text-blue-400' },
+            { icon: Calendar, label: '小组赛', value: `${teamMatches.length} 场`, color: 'text-blue' },
           ].map((card) => {
             const Icon = card.icon;
             return (

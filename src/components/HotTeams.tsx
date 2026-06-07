@@ -6,7 +6,7 @@ import Flag from './Flag';
 import { useMemo } from 'react';
 
 const TIER_COLORS: Record<string, string> = {
-  S: 'text-red-400', A: 'text-gold', B: 'text-blue-400', C: 'text-gray-500',
+  S: 'text-red-400', A: 'text-gold', B: 'text-blue', C: 'text-gray-500',
 };
 
 const TIER_HEAT: Record<string, number> = { S: 95, A: 75, B: 50, C: 25 };

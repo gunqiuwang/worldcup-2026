@@ -71,7 +71,7 @@ function NewsCard({ news, index }: { news: NewsItem; index: number }) {
       <div className="flex items-center gap-2 mb-2">
         <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold ${
           news.category === 'injury' ? 'bg-red/10 text-red' :
-          news.category === 'tactical' ? 'bg-blue-400/10 text-blue-400' :
+          news.category === 'tactical' ? 'bg-blue/10 text-blue' :
           'bg-gold/10 text-gold'
         }`}>
           {news.category === 'injury' ? '伤病' :

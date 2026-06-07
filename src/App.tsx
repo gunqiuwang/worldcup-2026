@@ -13,7 +13,6 @@ import ParticleBackground from './components/ParticleBackground';
 import MatchModal from './components/MatchModal';
 import TeamPage from './components/TeamPage';
 import LandingPage from './components/LandingPage';
-import { SkeletonCard, SkeletonGroup } from './components/Skeleton';
 import { SCHEDULE } from './data/schedule';
 import { GROUPS } from './data/teams';
 import { THEME_CSS } from './theme';
@@ -70,7 +69,6 @@ export default function App() {
   const [filterGroup, setFilterGroup] = useState<string | null>(null);
   const [selectedMatch, setSelectedMatch] = useState<MatchData | null>(null);
   const [selectedTeam, setSelectedTeam] = useState<string | null>(null);
-  const [isLoading] = useState(false);
 
   const today = new Date().toISOString().slice(0, 10);
   const now = new Date();
@@ -158,10 +156,12 @@ export default function App() {
 
             {/* 右侧: 功能按钮 */}
             <div className="flex items-center gap-1.5">
-              {/* LIVE 指示 */}
-              <div className="pulse-dot mr-1">
-                <span className="text-[10px]">LIVE</span>
-              </div>
+              {/* LIVE 指示 — only show when there are live matches */}
+              {SCHEDULE.some(m => m.status === 'live') && (
+                <div className="pulse-dot mr-1">
+                  <span className="text-[10px]">LIVE</span>
+                </div>
+              )}
 
               {/* 搜索按钮 */}
               <button
@@ -324,13 +324,7 @@ export default function App() {
 
               {/* Matches */}
               <div className="px-4">
-                {isLoading ? (
-                  <>
-                    <SkeletonCard />
-                    <SkeletonCard />
-                    <SkeletonCard />
-                  </>
-                ) : Object.keys(grouped).length === 0 ? (
+                {Object.keys(grouped).length === 0 ? (
                   <div className="text-center py-16 text-gray-500 text-sm">
                     没有找到匹配的比赛
                   </div>
@@ -365,14 +359,7 @@ export default function App() {
               exit={{ opacity: 0, x: 20 }}
               transition={{ duration: 0.2 }}
             >
-              {isLoading ? (
-                <div className="px-4">
-                  <SkeletonGroup />
-                  <SkeletonGroup />
-                </div>
-              ) : (
-                <GroupStandings />
-              )}
+              <GroupStandings />
             </motion.div>
           )}
 
@@ -397,8 +384,12 @@ export default function App() {
         <BottomNav active={page} onNavigate={(id) => { setPage(id); localStorage.setItem('wc-page', id); }} />
       </div>
 
-      {/* Match Detail Modal */}
-      <MatchModal match={selectedMatch} onClose={() => setSelectedMatch(null)} />
+      {/* Match Detail Modal — with AnimatePresence for exit animation */}
+      <AnimatePresence>
+        {selectedMatch && (
+          <MatchModal match={selectedMatch} onClose={() => setSelectedMatch(null)} />
+        )}
+      </AnimatePresence>
     </>
   );
 }

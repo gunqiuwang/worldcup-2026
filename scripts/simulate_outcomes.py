@@ -33,19 +33,19 @@ GROUPS = {
     "L": ["NED", "JPN", "SWE", "TUN"],
 }
 
-# 每个小组的3轮对阵 (home, away)
+# 每个小组的3轮对阵 (home, away) — 必须和 predictions.ts 的 key 一致
 GROUP_FIXTURES = {
     "A": [("ARG","ALG"), ("AUT","JOR"), ("ARG","AUT"), ("JOR","ALG"), ("ALG","AUT"), ("JOR","ARG")],
     "B": [("USA","PAR"), ("AUS","TUR"), ("USA","AUS"), ("TUR","PAR"), ("PAR","AUS"), ("TUR","USA")],
     "C": [("BEL","EGY"), ("IRN","NZL"), ("BEL","IRN"), ("NZL","EGY"), ("EGY","IRN"), ("NZL","BEL")],
     "D": [("CAN","BIH"), ("QAT","SUI"), ("CAN","QAT"), ("SUI","BIH"), ("BIH","QAT"), ("SUI","CAN")],
-    "E": [("BRA","HAI"), ("MAR","SCO"), ("BRA","MAR"), ("SCO","HAI"), ("HAI","MAR"), ("SCO","BRA")],
+    "E": [("BRA","MAR"), ("HAI","SCO"), ("SCO","MAR"), ("BRA","HAI"), ("MAR","HAI"), ("SCO","BRA")],
     "F": [("GER","CUW"), ("CIV","ECU"), ("GER","CIV"), ("ECU","CUW"), ("CUW","CIV"), ("ECU","GER")],
-    "G": [("COL","POR"), ("COD","UZB"), ("COL","COD"), ("UZB","POR"), ("POR","COD"), ("UZB","COL")],
+    "G": [("POR","COD"), ("UZB","COL"), ("POR","UZB"), ("COL","COD"), ("COL","POR"), ("COD","UZB")],
     "H": [("ESP","CPV"), ("KSA","URU"), ("ESP","KSA"), ("URU","CPV"), ("CPV","KSA"), ("URU","ESP")],
     "I": [("ENG","CRO"), ("GHA","PAN"), ("ENG","GHA"), ("PAN","CRO"), ("CRO","GHA"), ("PAN","ENG")],
-    "J": [("MEX","CZE"), ("KOR","RSA"), ("MEX","KOR"), ("RSA","CZE"), ("CZE","KOR"), ("RSA","MEX")],
-    "K": [("FRA","IRQ"), ("NOR","SEN"), ("FRA","NOR"), ("SEN","IRQ"), ("IRQ","NOR"), ("SEN","FRA")],
+    "J": [("MEX","RSA"), ("KOR","CZE"), ("CZE","RSA"), ("MEX","KOR"), ("CZE","MEX"), ("RSA","KOR")],
+    "K": [("FRA","SEN"), ("IRQ","NOR"), ("FRA","IRQ"), ("NOR","SEN"), ("NOR","FRA"), ("SEN","IRQ")],
     "L": [("NED","JPN"), ("SWE","TUN"), ("NED","SWE"), ("TUN","JPN"), ("JPN","SWE"), ("TUN","NED")],
 }
 
