@@ -45,7 +45,12 @@ export default function App() {
   const [showLanding, setShowLanding] = useState(true);
   const [page, setPage] = useState('matches');
   const [tab, setTab] = useState<Tab>('today');
-  const [theme, setTheme] = useState<Theme>('dark');
+  const [theme, setTheme] = useState<Theme>(() => {
+    if (typeof window !== 'undefined') {
+      return (localStorage.getItem('wc-theme') as Theme) || 'dark';
+    }
+    return 'dark';
+  });
   const [searchQuery, setSearchQuery] = useState('');
   const [showSearch, setShowSearch] = useState(false);
   const [filterGroup, setFilterGroup] = useState<string | null>(null);
@@ -59,7 +64,9 @@ export default function App() {
 
   const toggleTheme = useCallback(() => {
     const idx = THEME_ORDER.indexOf(theme);
-    setTheme(THEME_ORDER[(idx + 1) % THEME_ORDER.length]);
+    const next = THEME_ORDER[(idx + 1) % THEME_ORDER.length];
+    setTheme(next);
+    localStorage.setItem('wc-theme', next);
   }, [theme]);
 
   const filteredMatches = useMemo(() => {

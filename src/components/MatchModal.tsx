@@ -1,8 +1,11 @@
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Clock, MapPin, TrendingUp, Shield, Target, Swords, BarChart3, History } from 'lucide-react';
+import { X, Clock, MapPin, TrendingUp, Shield, BarChart3, History } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
 import { TEAMS } from '../data/teams';
 import { calcMatchProbs } from '../utils/odds';
+import { getTeamForm } from '../data/team_form';
+import { getEloRating, getEloTier, getEloTierColor } from '../data/elo_ratings';
+import { getEnsemblePrediction } from '../data/ensemble_predictions';
 import Flag from './Flag';
 import RadarChart from './RadarChart';
 import { useMemo } from 'react';
@@ -12,53 +15,12 @@ interface Props {
   onClose: () => void;
 }
 
-// 模拟历史交锋数据
-function getH2H(home: string, away: string) {
-  const seed = (home + away).split('').reduce((a, c) => a + c.charCodeAt(0), 0);
-  const results: Array<{ home: number; away: number; date: string }> = [];
-  for (let i = 0; i < 5; i++) {
-    const r = ((seed * (i + 1) * 9301 + 49297) % 233280) / 233280;
-    results.push({
-      home: Math.floor(r * 4),
-      away: Math.floor((1 - r) * 4),
-      date: `${2024 - i}-${String(Math.floor(r * 12) + 1).padStart(2, '0')}`,
-    });
-  }
-  return results;
-}
-
-// 模拟近期战绩
-function getRecentForm(abbr: string) {
-  const seed = abbr.split('').reduce((a, c) => a + c.charCodeAt(0), 0);
-  return Array.from({ length: 5 }, (_, i) => {
-    const r = ((seed * (i + 1) * 9301 + 49297) % 233280) / 233280;
-    if (r < 0.45) return 'W' as const;
-    if (r < 0.75) return 'D' as const;
-    return 'L' as const;
-  });
-}
-
-// 模拟球队数据对比
-function getTeamStats(abbr: string) {
-  const t = TEAMS[abbr];
-  const rank = t?.fifa_rank || 50;
-  const seed = abbr.split('').reduce((a, c) => a + c.charCodeAt(0), 0);
-  const r = ((seed * 9301 + 49297) % 233280) / 233280;
-  return {
-    rank,
-    goals: Math.round((50 - rank) * 0.08 + r * 2 + 1),
-    possession: Math.round(45 + (50 - rank) * 0.3 + r * 10),
-    shots: Math.round(10 + (50 - rank) * 0.15 + r * 5),
-    passAcc: Math.round(75 + (50 - rank) * 0.3 + r * 8),
-  };
-}
-
-function FormBadge({ result }: { result: 'W' | 'D' | 'L' }) {
-  const colors = { W: 'bg-green/20 text-green', D: 'bg-gold/20 text-gold', L: 'bg-red/20 text-red' };
-  const labels = { W: '胜', D: '平', L: '负' };
+function FormBadge({ result }: { result: string }) {
+  const colors: Record<string, string> = { W: 'bg-green/20 text-green', D: 'bg-gold/20 text-gold', L: 'bg-red/20 text-red' };
+  const labels: Record<string, string> = { W: '胜', D: '平', L: '负' };
   return (
-    <span className={`w-6 h-6 rounded-md flex items-center justify-center text-[10px] font-bold ${colors[result]}`}>
-      {labels[result]}
+    <span className={`w-6 h-6 rounded-md flex items-center justify-center text-[10px] font-bold ${colors[result] || 'bg-white/5 text-gray-500'}`}>
+      {labels[result] || '?'}
     </span>
   );
 }
@@ -86,25 +48,29 @@ function CompareBar({ label, left, right, leftLabel, rightLabel }: {
 export default function MatchModal({ match, onClose }: Props) {
   if (!match) return null;
 
-  const probs = match.odds?.details
-    ? calcMatchProbs(match.odds.details, match.home.abbr, match.away.abbr)
-    : null;
+  // 优先使用集成预测，fallback 到赔率计算
+  const pred = getEnsemblePrediction(match.id);
+  const probs = pred
+    ? { homeProb: Math.round(pred.home_win), drawProb: Math.round(pred.draw), awayProb: Math.round(pred.away_win) }
+    : match.odds?.details
+      ? calcMatchProbs(match.odds.details, match.home.abbr, match.away.abbr)
+      : null;
 
-  const h2h = useMemo(() => getH2H(match.home.abbr, match.away.abbr), [match]);
-  const homeForm = useMemo(() => getRecentForm(match.home.abbr), [match]);
-  const awayForm = useMemo(() => getRecentForm(match.away.abbr), [match]);
-  const homeStats = useMemo(() => getTeamStats(match.home.abbr), [match]);
-  const awayStats = useMemo(() => getTeamStats(match.away.abbr), [match]);
+  // 真实数据
+  const homeForm = useMemo(() => getTeamForm(match.home.abbr), [match]);
+  const awayForm = useMemo(() => getTeamForm(match.away.abbr), [match]);
+  const homeElo = useMemo(() => getEloRating(match.home.abbr), [match]);
+  const awayElo = useMemo(() => getEloRating(match.away.abbr), [match]);
+  const homeRank = TEAMS[match.home.abbr]?.fifa_rank || 50;
+  const awayRank = TEAMS[match.away.abbr]?.fifa_rank || 50;
+  const homeTier = homeElo ? getEloTier(homeElo.elo) : '-';
+  const awayTier = awayElo ? getEloTier(awayElo.elo) : '-';
 
   const radarData = probs ? [
     { label: '主胜', value: probs.homeProb },
     { label: '平局', value: probs.drawProb },
     { label: '客胜', value: probs.awayProb },
   ] : [];
-
-  const homeWins = h2h.filter((h) => h.home > h.away).length;
-  const awayWins = h2h.filter((h) => h.away > h.home).length;
-  const draws = h2h.filter((h) => h.home === h.away).length;
 
   return (
     <AnimatePresence>
@@ -150,7 +116,12 @@ export default function MatchModal({ match, onClose }: Props) {
             <div className="flex-1 text-center">
               <Flag code={match.home.abbr} size="xl" className="mx-auto mb-2" />
               <div className="text-base font-bold">{match.home.name}</div>
-              <div className="text-[10px] text-gray-500">FIFA #{homeStats.rank}</div>
+              <div className="text-[10px] text-gray-500">FIFA #{homeRank}</div>
+              {homeElo && (
+                <span className={`text-[10px] font-bold ${getEloTierColor(homeTier)}`}>
+                  Elo {homeElo.elo} ({homeTier})
+                </span>
+              )}
             </div>
             <div className="text-center px-4">
               {(match.status === 'live' || match.status === 'finished') ? (
@@ -166,16 +137,30 @@ export default function MatchModal({ match, onClose }: Props) {
             <div className="flex-1 text-center">
               <Flag code={match.away.abbr} size="xl" className="mx-auto mb-2" />
               <div className="text-base font-bold">{match.away.name}</div>
-              <div className="text-[10px] text-gray-500">FIFA #{awayStats.rank}</div>
+              <div className="text-[10px] text-gray-500">FIFA #{awayRank}</div>
+              {awayElo && (
+                <span className={`text-[10px] font-bold ${getEloTierColor(awayTier)}`}>
+                  Elo {awayElo.elo} ({awayTier})
+                </span>
+              )}
             </div>
           </div>
 
-          {/* 1. 赔率分析 */}
+          {/* 1. 集成预测 */}
           {probs && (
             <div className="glass-card p-4 mb-3">
               <div className="flex items-center gap-2 mb-3">
                 <TrendingUp className="w-4 h-4 text-gold" />
-                <span className="text-sm font-semibold">赔率分析</span>
+                <span className="text-sm font-semibold">集成预测</span>
+                {pred && (
+                  <span className={`text-[10px] font-bold ml-auto ${
+                    pred.confidence === 'high' ? 'text-green' :
+                    pred.confidence === 'medium' ? 'text-gold' : 'text-gray-500'
+                  }`}>
+                    {pred.confidence === 'high' ? '高置信' :
+                     pred.confidence === 'medium' ? '中置信' : '低置信'}
+                  </span>
+                )}
               </div>
               <div className="flex justify-center mb-3">
                 <RadarChart data={radarData} size={120} />
@@ -194,58 +179,60 @@ export default function MatchModal({ match, onClose }: Props) {
                   <div className="text-lg font-bold text-red">{probs.awayProb}%</div>
                 </div>
               </div>
+              {/* 爆冷指数 */}
+              {pred && (
+                <div className="mt-3">
+                  <div className="flex items-center justify-between text-[10px] mb-1">
+                    <span className="text-gray-500">爆冷指数</span>
+                    <span className="font-bold text-gold">{pred.upset_index}/100</span>
+                  </div>
+                  <div className="h-1.5 rounded-full bg-white/5 overflow-hidden">
+                    <div
+                      className="h-full rounded-full bg-gradient-to-r from-green via-gold to-red transition-all"
+                      style={{ width: `${pred.upset_index}%` }}
+                    />
+                  </div>
+                </div>
+              )}
             </div>
           )}
 
-          {/* 2. 历史交锋 */}
-          <div className="glass-card p-4 mb-3">
-            <div className="flex items-center gap-2 mb-3">
-              <Swords className="w-4 h-4 text-gold" />
-              <span className="text-sm font-semibold">历史交锋</span>
-              <span className="text-[10px] text-gray-500 ml-auto">{homeWins}胜 {draws}平 {awayWins}负</span>
-            </div>
-            <div className="space-y-1.5">
-              {h2h.map((h, i) => (
-                <div key={i} className="flex items-center justify-between py-1.5 px-2 rounded-lg bg-white/[0.02]">
-                  <span className="text-[10px] text-gray-500 w-16">{h.date}</span>
-                  <span className="text-xs font-semibold">{match.home.name}</span>
-                  <span className="text-sm font-bold text-gold px-2">{h.home} - {h.away}</span>
-                  <span className="text-xs font-semibold">{match.away.name}</span>
-                  <span className={`text-[10px] font-bold w-6 text-center ${
-                    h.home > h.away ? 'text-green' : h.home < h.away ? 'text-red' : 'text-gray-500'
-                  }`}>
-                    {h.home > h.away ? 'W' : h.home < h.away ? 'L' : 'D'}
-                  </span>
-                </div>
-              ))}
-            </div>
-          </div>
-
-          {/* 3. 数据对比 */}
+          {/* 2. 数据对比 (真实数据) */}
           <div className="glass-card p-4 mb-3">
             <div className="flex items-center gap-2 mb-3">
               <BarChart3 className="w-4 h-4 text-gold" />
               <span className="text-sm font-semibold">数据对比</span>
             </div>
-            <CompareBar label="FIFA排名" left={60 - homeStats.rank} right={60 - awayStats.rank} leftLabel={`#${homeStats.rank}`} rightLabel={`#${awayStats.rank}`} />
-            <CompareBar label="场均进球" left={homeStats.goals} right={awayStats.goals} leftLabel={`${homeStats.goals}`} rightLabel={`${awayStats.goals}`} />
-            <CompareBar label="控球率" left={homeStats.possession} right={awayStats.possession} leftLabel={`${homeStats.possession}%`} rightLabel={`${awayStats.possession}%`} />
-            <CompareBar label="射门" left={homeStats.shots} right={awayStats.shots} leftLabel={`${homeStats.shots}`} rightLabel={`${awayStats.shots}`} />
-            <CompareBar label="传球成功率" left={homeStats.passAcc} right={awayStats.passAcc} leftLabel={`${homeStats.passAcc}%`} rightLabel={`${awayStats.passAcc}%`} />
+            <CompareBar label="FIFA排名" left={60 - homeRank} right={60 - awayRank} leftLabel={`#${homeRank}`} rightLabel={`#${awayRank}`} />
+            {homeElo && awayElo && (
+              <CompareBar label="Elo评分" left={homeElo.elo - 1500} right={awayElo.elo - 1500} leftLabel={`${homeElo.elo}`} rightLabel={`${awayElo.elo}`} />
+            )}
+            {homeForm && awayForm && (
+              <>
+                <CompareBar label="状态分数" left={homeForm.form_score} right={awayForm.form_score} leftLabel={`${homeForm.form_score}`} rightLabel={`${awayForm.form_score}`} />
+                <CompareBar label="近5场进球" left={homeForm.goals_scored} right={awayForm.goals_scored} leftLabel={`${homeForm.goals_scored}`} rightLabel={`${awayForm.goals_scored}`} />
+                <CompareBar label="零封场次" left={homeForm.clean_sheets} right={awayForm.clean_sheets} leftLabel={`${homeForm.clean_sheets}`} rightLabel={`${awayForm.clean_sheets}`} />
+              </>
+            )}
           </div>
 
-          {/* 4. 近期战绩 */}
-          <div className="glass-card p-4">
+          {/* 3. 近期战绩 (真实数据) */}
+          <div className="glass-card p-4 mb-3">
             <div className="flex items-center gap-2 mb-3">
               <History className="w-4 h-4 text-gold" />
               <span className="text-sm font-semibold">近期战绩</span>
+              {homeForm && awayForm && (
+                <span className="text-[10px] text-gray-500 ml-auto">
+                  {homeForm.wins}胜{homeForm.draws}平{homeForm.losses}负 vs {awayForm.wins}胜{awayForm.draws}平{awayForm.losses}负
+                </span>
+              )}
             </div>
             <div className="flex items-center justify-between">
               <div className="flex flex-col items-center gap-1.5">
                 <Flag code={match.home.abbr} size="sm" />
                 <span className="text-[10px] font-medium">{match.home.name}</span>
                 <div className="flex gap-1">
-                  {homeForm.map((r, i) => <FormBadge key={i} result={r} />)}
+                  {homeForm ? homeForm.last5.map((r, i) => <FormBadge key={i} result={r} />) : <span className="text-[10px] text-gray-600">无数据</span>}
                 </div>
               </div>
               <div className="text-[10px] text-gray-500">最近5场</div>
@@ -253,11 +240,42 @@ export default function MatchModal({ match, onClose }: Props) {
                 <Flag code={match.away.abbr} size="sm" />
                 <span className="text-[10px] font-medium">{match.away.name}</span>
                 <div className="flex gap-1">
-                  {awayForm.map((r, i) => <FormBadge key={i} result={r} />)}
+                  {awayForm ? awayForm.last5.map((r, i) => <FormBadge key={i} result={r} />) : <span className="text-[10px] text-gray-600">无数据</span>}
                 </div>
               </div>
             </div>
           </div>
+
+          {/* 4. Elo 等级 */}
+          {(homeElo || awayElo) && (
+            <div className="glass-card p-4">
+              <div className="flex items-center gap-2 mb-3">
+                <Shield className="w-4 h-4 text-gold" />
+                <span className="text-sm font-semibold">实力评级</span>
+              </div>
+              <div className="flex items-center justify-between">
+                <div className="text-center">
+                  <div className="text-[10px] text-gray-500 mb-1">{match.home.name}</div>
+                  {homeElo && (
+                    <>
+                      <div className={`text-lg font-bold ${getEloTierColor(homeTier)}`}>{homeTier}</div>
+                      <div className="text-[10px] text-gray-500">Elo {homeElo.elo}</div>
+                    </>
+                  )}
+                </div>
+                <div className="text-gray-600 text-xs">vs</div>
+                <div className="text-center">
+                  <div className="text-[10px] text-gray-500 mb-1">{match.away.name}</div>
+                  {awayElo && (
+                    <>
+                      <div className={`text-lg font-bold ${getEloTierColor(awayTier)}`}>{awayTier}</div>
+                      <div className="text-[10px] text-gray-500">Elo {awayElo.elo}</div>
+                    </>
+                  )}
+                </div>
+              </div>
+            </div>
+          )}
         </motion.div>
       </motion.div>
     </AnimatePresence>

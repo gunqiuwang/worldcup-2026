@@ -11,101 +11,127 @@ interface TeamSlot {
   prob: number;
 }
 
-// 生成淘汰赛树数据
-function generateBracket(): { r32: Array<[TeamSlot, TeamSlot]>; champion: TeamSlot } {
-  const groupWinners: TeamSlot[] = [];
-  const groupRunners: TeamSlot[] = [];
+// 2026 世界杯 12 组 32 强对阵规则
+// 上半区: A1vB2, C1vD2, E1vF2, G1vH2, I1vJ2, K1vL2
+// 下半区: B1vA2, D1vC2, F1vE2, H1vG2, J1vI2, L1vK2
+const BRACKET_PAIRS: [string, string][] = [
+  // 上半区
+  ['A', 'B'], ['C', 'D'], ['E', 'F'], ['G', 'H'], ['I', 'J'], ['K', 'L'],
+  // 下半区
+  ['B', 'A'], ['D', 'C'], ['F', 'E'], ['H', 'G'], ['J', 'I'], ['L', 'K'],
+];
 
-  for (const [group, teams] of Object.entries(GROUPS)) {
-    const pred = GROUP_PREDICTIONS[group];
-    
-    if (pred) {
-      // 使用集成预测的出线概率
-      const sorted = [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct);
-      const winner = TEAMS[sorted[0].team];
-      const runner = TEAMS[sorted[1].team];
-      if (winner) groupWinners.push({ abbr: sorted[0].team, name: winner.cn, prob: sorted[0].advancement_pct });
-      if (runner) groupRunners.push({ abbr: sorted[1].team, name: runner.cn, prob: sorted[1].advancement_pct });
-    } else {
-      // 降级到 FIFA 排名
-      const sorted = [...teams].sort((a, b) => {
-        return (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99);
-      });
-      const winner = TEAMS[sorted[0]];
-      const runner = TEAMS[sorted[1]];
-      if (winner) groupWinners.push({ abbr: sorted[0], name: winner.cn, prob: 90 });
-      if (runner) groupRunners.push({ abbr: sorted[1], name: runner.cn, prob: 70 });
+function getGroupTop2(group: string): [TeamSlot, TeamSlot] {
+  const pred = GROUP_PREDICTIONS[group];
+  const teams = GROUPS[group] || [];
+
+  if (pred) {
+    const sorted = [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct);
+    const t1 = TEAMS[sorted[0].team];
+    const t2 = TEAMS[sorted[1].team];
+    return [
+      { abbr: sorted[0].team, name: t1?.cn || sorted[0].team, prob: sorted[0].advancement_pct },
+      { abbr: sorted[1].team, name: t2?.cn || sorted[1].team, prob: sorted[1].advancement_pct },
+    ];
+  }
+
+  // fallback: FIFA 排名
+  const sorted = [...teams].sort((a, b) => (TEAMS[a]?.fifa_rank || 99) - (TEAMS[b]?.fifa_rank || 99));
+  const t1 = TEAMS[sorted[0]];
+  const t2 = TEAMS[sorted[1]];
+  return [
+    { abbr: sorted[0], name: t1?.cn || sorted[0], prob: 85 },
+    { abbr: sorted[1], name: t2?.cn || sorted[1], prob: 65 },
+  ];
+}
+
+function generateBracket() {
+  // 32 强对阵
+  const r32: Array<[TeamSlot, TeamSlot]> = BRACKET_PAIRS.map(([g1, g2]) => {
+    const [winner] = getGroupTop2(g1);
+    const [, runner] = getGroupTop2(g2);
+    return [winner, runner];
+  });
+
+  // 逐轮淘汰 (概率高的赢)
+  function advance(prev: TeamSlot[]): TeamSlot[] {
+    const next: TeamSlot[] = [];
+    for (let i = 0; i < prev.length; i += 2) {
+      next.push(prev[i].prob >= prev[i + 1].prob ? prev[i] : prev[i + 1]);
     }
+    return next;
   }
 
-  // 32强对阵：A1vsB2, C1vsD2, ...
-  const r32: Array<[TeamSlot, TeamSlot]> = [];
-  for (let i = 0; i < Math.min(groupWinners.length, groupRunners.length); i++) {
-    const j = (i + 1) % groupRunners.length;
-    r32.push([groupWinners[i], groupRunners[j]]);
-  }
+  const r16 = advance(r32.map(([a, b]) => a.prob >= b.prob ? a : b));
+  const qf = advance(r16);
+  const sf = advance(qf);
+  const final = advance(sf);
+  const champion = final[0] || { abbr: 'ARG', name: '阿根廷', prob: 20 };
 
-  // 冠军
-  const champion = groupWinners[0] || { abbr: 'BRA', name: '巴西', prob: 18 };
-
-  return { r32: r32.slice(0, 16), champion };
+  return { r32, r16, qf, sf, final: final, champion };
 }
 
-// 生成后续轮次
-function generateRounds(bracket: ReturnType<typeof generateBracket>) {
-  const { r32 } = bracket;
-
-  // 16强
-  const r16: TeamSlot[] = r32.map(([a, b]) => a.prob >= b.prob ? a : b);
-  // 8强
-  const qf: TeamSlot[] = [];
-  for (let i = 0; i < r16.length; i += 2) {
-    const a = r16[i];
-    const b = r16[i + 1];
-    qf.push(b ? (a.prob >= b.prob ? a : b) : a);
-  }
-  // 4强
-  const sf: TeamSlot[] = [];
-  for (let i = 0; i < qf.length; i += 2) {
-    const a = qf[i];
-    const b = qf[i + 1];
-    sf.push(b ? (a.prob >= b.prob ? a : b) : a);
-  }
-  // 决赛
-  const final: TeamSlot[] = [];
-  for (let i = 0; i < sf.length; i += 2) {
-    const a = sf[i];
-    const b = sf[i + 1];
-    final.push(b ? (a.prob >= b.prob ? a : b) : a);
-  }
-
-  return { r16, qf, sf, final };
-}
-
-function MatchSlot({ team, delay, highlight }: { team: TeamSlot; delay: number; highlight?: boolean }) {
+function TeamSlotCard({ team, isWinner }: { team: TeamSlot; isWinner?: boolean }) {
   return (
-    <motion.div
-      initial={{ opacity: 0, scale: 0.9 }}
-      animate={{ opacity: 1, scale: 1 }}
-      transition={{ delay }}
-      className={`flex items-center gap-2 p-1.5 rounded-lg ${
-        highlight ? 'bg-gold/10 border border-gold/20' : 'bg-white/[0.02]'
-      }`}
-    >
+    <div className={`flex items-center gap-1.5 px-2 py-1.5 rounded-lg text-xs transition-all ${
+      isWinner ? 'bg-gold/10 border border-gold/20' : 'bg-white/[0.02] border border-transparent'
+    }`}>
       <Flag code={team.abbr} size="sm" />
-      <span className="text-[10px] font-semibold truncate flex-1">{team.name}</span>
-      <span className={`text-[10px] font-bold ${
-        team.prob >= 70 ? 'text-green' : team.prob >= 50 ? 'text-gold' : 'text-gray-400'
-      }`}>
-        {team.prob}%
-      </span>
-    </motion.div>
+      <span className={`font-medium truncate ${isWinner ? 'text-gold' : 'text-gray-300'}`}>{team.name}</span>
+      <span className={`text-[10px] ml-auto ${isWinner ? 'text-gold font-bold' : 'text-gray-600'}`}>{team.prob}%</span>
+    </div>
+  );
+}
+
+function BracketRound({ title, matches, icon }: {
+  title: string;
+  matches: Array<[TeamSlot, TeamSlot] | TeamSlot>;
+  icon: React.ReactNode;
+}) {
+  return (
+    <div className="mb-4">
+      <div className="flex items-center gap-2 mb-2">
+        {icon}
+        <span className="text-xs font-semibold text-gray-400">{title}</span>
+      </div>
+      <div className="space-y-1.5">
+        {matches.map((m, i) => {
+          if (Array.isArray(m)) {
+            const [a, b] = m as [TeamSlot, TeamSlot];
+            const winner = a.prob >= b.prob ? a : b;
+            return (
+              <div key={i} className="glass-card p-2 space-y-1">
+                <TeamSlotCard team={a} isWinner={winner.abbr === a.abbr} />
+                <div className="text-[10px] text-gray-600 text-center">vs</div>
+                <TeamSlotCard team={b} isWinner={winner.abbr === b.abbr} />
+              </div>
+            );
+          }
+          return <TeamSlotCard key={i} team={m as TeamSlot} isWinner />;
+        })}
+      </div>
+    </div>
   );
 }
 
 export default function KnockoutPredict() {
   const bracket = useMemo(() => generateBracket(), []);
-  const rounds = useMemo(() => generateRounds(bracket), [bracket]);
+
+  // 构建 16 强对阵 (两两配对)
+  const r16Matches: Array<[TeamSlot, TeamSlot]> = [];
+  for (let i = 0; i < bracket.r16.length; i += 2) {
+    r16Matches.push([bracket.r16[i], bracket.r16[i + 1]]);
+  }
+
+  const qfMatches: Array<[TeamSlot, TeamSlot]> = [];
+  for (let i = 0; i < bracket.qf.length; i += 2) {
+    qfMatches.push([bracket.qf[i], bracket.qf[i + 1]]);
+  }
+
+  const sfMatches: Array<[TeamSlot, TeamSlot]> = [];
+  for (let i = 0; i < bracket.sf.length; i += 2) {
+    sfMatches.push([bracket.sf[i], bracket.sf[i + 1]]);
+  }
 
   return (
     <motion.div
@@ -114,64 +140,28 @@ export default function KnockoutPredict() {
       className="glass-card p-4 mb-3"
     >
       <div className="flex items-center gap-2 mb-4">
-        <div className="w-8 h-8 rounded-xl bg-gold/10 flex items-center justify-center">
-          <GitBranch className="w-4 h-4 text-gold" />
-        </div>
-        <div>
-          <h3 className="text-sm font-bold">淘汰赛预测</h3>
-          <p className="text-[10px] text-gray-500">基于出线概率的晋级路径</p>
-        </div>
+        <GitBranch className="w-4 h-4 text-gold" />
+        <span className="text-sm font-semibold">淘汰赛预测</span>
+        <span className="text-[10px] text-gray-500 ml-auto">基于出线概率推演</span>
       </div>
 
-      {/* 32强 */}
-      <div className="mb-4">
-        <div className="text-[10px] text-gray-500 mb-2 flex items-center gap-1">
-          <Trophy className="w-3 h-3" />
-          32 强对阵
+      {/* 冠军预测 */}
+      <div className="text-center mb-5 py-4 rounded-xl bg-gradient-to-b from-gold/5 to-transparent border border-gold/10">
+        <Crown className="w-8 h-8 text-gold mx-auto mb-2" />
+        <div className="text-[10px] text-gray-500 mb-1">预测冠军</div>
+        <div className="flex items-center justify-center gap-2">
+          <Flag code={bracket.champion.abbr} size="lg" />
+          <span className="text-lg font-bold gold-gradient">{bracket.champion.name}</span>
         </div>
-        <div className="grid grid-cols-2 gap-1">
-          {bracket.r32.slice(0, 8).map(([a, b], i) => (
-            <div key={i} className="space-y-0.5">
-              <MatchSlot team={a} delay={i * 0.05} highlight={a.prob >= 70} />
-              <MatchSlot team={b} delay={i * 0.05 + 0.02} />
-            </div>
-          ))}
-        </div>
+        <div className="text-[10px] text-gold mt-1">夺冠概率 {bracket.champion.prob}%</div>
       </div>
 
-      {/* 晋级路径 */}
-      <div className="grid grid-cols-4 gap-2">
-        {[
-          { label: '16强', teams: rounds.r16.slice(0, 8), icon: '⚔️' },
-          { label: '8强', teams: rounds.qf.slice(0, 4), icon: '🏆' },
-          { label: '4强', teams: rounds.sf.slice(0, 2), icon: '🔥' },
-          { label: '决赛', teams: rounds.final.slice(0, 1), icon: '👑' },
-        ].map((round) => (
-          <div key={round.label}>
-            <div className="text-[10px] text-gray-500 mb-1 text-center">{round.icon} {round.label}</div>
-            <div className="space-y-0.5">
-              {round.teams.map((t, i) => (
-                <MatchSlot key={i} team={t} delay={0.5 + i * 0.1} highlight={t.prob >= 80} />
-              ))}
-            </div>
-          </div>
-        ))}
-      </div>
-
-      {/* 预测冠军 */}
-      <div className="mt-4 p-3 rounded-xl bg-gradient-to-r from-gold/10 to-transparent border border-gold/20">
-        <div className="flex items-center gap-2">
-          <Crown className="w-5 h-5 text-gold" />
-          <div>
-            <div className="text-xs text-gray-500">预测冠军</div>
-            <div className="text-sm font-bold">{bracket.champion.name}</div>
-          </div>
-          <div className="ml-auto text-right">
-            <div className="text-lg font-extrabold text-gold">{bracket.champion.prob}%</div>
-            <div className="text-[10px] text-gray-500">出线概率</div>
-          </div>
-        </div>
-      </div>
+      {/* 逐轮展示 */}
+      <BracketRound title="32 强" matches={bracket.r32} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">R32</span>} />
+      <BracketRound title="16 强" matches={r16Matches} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">R16</span>} />
+      <BracketRound title="8 强" matches={qfMatches} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">QF</span>} />
+      <BracketRound title="半决赛" matches={sfMatches} icon={<span className="text-[10px] bg-gold/10 text-gold px-1.5 py-0.5 rounded">SF</span>} />
+      <BracketRound title="决赛" matches={[bracket.final] as any} icon={<Trophy className="w-3.5 h-3.5 text-gold" />} />
     </motion.div>
   );
 }
