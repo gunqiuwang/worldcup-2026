@@ -8,6 +8,7 @@ import UpsetRanking from './UpsetRanking';
 import OddsMovement from './OddsMovement';
 import KnockoutPredict from './KnockoutPredict';
 import HotTeams from './HotTeams';
+import ErrorBoundary from './ErrorBoundary';
 import { useMemo, useRef, useState, useEffect, type ReactNode } from 'react';
 
 // IntersectionObserver 懒加载包装器
@@ -215,20 +216,30 @@ function ModelStats() {
 export default function Dashboard({ onTeamClick }: { onTeamClick?: (abbr: string) => void }) {
   return (
     <div className="px-4">
-      <TodayHighlight />
+      <ErrorBoundary>
+        <TodayHighlight />
+      </ErrorBoundary>
       <DataDimensions />
       <ModelStats />
       <LazySection>
-        <UpsetRanking />
+        <ErrorBoundary>
+          <UpsetRanking />
+        </ErrorBoundary>
       </LazySection>
       <LazySection>
-        <HotTeams onTeamClick={onTeamClick} />
+        <ErrorBoundary>
+          <HotTeams onTeamClick={onTeamClick} />
+        </ErrorBoundary>
       </LazySection>
       <LazySection>
-        <OddsMovement />
+        <ErrorBoundary>
+          <OddsMovement />
+        </ErrorBoundary>
       </LazySection>
       <LazySection>
-        <KnockoutPredict />
+        <ErrorBoundary>
+          <KnockoutPredict />
+        </ErrorBoundary>
       </LazySection>
     </div>
   );
