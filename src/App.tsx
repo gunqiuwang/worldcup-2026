@@ -134,8 +134,8 @@ export default function App() {
 
       {/* Background image — same as landing page, very low opacity */}
       <div className="fixed inset-0 z-0 pointer-events-none">
-        <img src="/hero-web.jpg" alt="" className="w-full h-full object-cover opacity-[0.07]" />
-        <div className="absolute inset-0 bg-gradient-to-b from-bg/90 via-bg/80 to-bg" />
+        <img src="/hero-web.jpg" alt="" className="w-full h-full object-cover opacity-[0.12]" />
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-bg/30 to-bg/70" />
       </div>
 
       {/* Particle background */}
