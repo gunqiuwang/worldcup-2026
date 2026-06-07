@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { Clock, MapPin, Zap, CheckCircle2, Calendar } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
+import Flag from './Flag';
 
 function formatTime(iso: string) {
   return new Date(iso).toLocaleTimeString('zh-CN', {
@@ -51,7 +52,13 @@ function ProbBar({ home, draw, away }: { home: number; draw: number; away: numbe
   );
 }
 
-export default function MatchCard({ match, index }: { match: MatchData; index: number }) {
+interface Props {
+  match: MatchData;
+  index: number;
+  onClick?: () => void;
+}
+
+export default function MatchCard({ match, index, onClick }: Props) {
   const showScore = match.status === 'live' || match.status === 'finished';
 
   return (
@@ -60,9 +67,10 @@ export default function MatchCard({ match, index }: { match: MatchData; index: n
       animate={{ opacity: 1, y: 0 }}
       transition={{ delay: index * 0.05, duration: 0.3 }}
       whileTap={{ scale: 0.98 }}
-      className="glass-card p-4 mb-3 relative overflow-hidden group"
+      onClick={onClick}
+      className="glass-card p-4 mb-3 relative overflow-hidden group cursor-pointer hover:border-gold/20 transition-colors"
     >
-      {/* shimmer effect on hover */}
+      {/* shimmer */}
       <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/[0.02] to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700" />
 
       {/* meta */}
@@ -70,7 +78,7 @@ export default function MatchCard({ match, index }: { match: MatchData; index: n
         <div>
           <div className="flex items-center gap-1.5 text-xs text-gray-400 font-medium">
             <Clock className="w-3 h-3" />
-            {showScore ? match.status === 'live' ? '进行中' : '已结束' : formatTime(match.date)}
+            {showScore ? (match.status === 'live' ? '进行中' : '已结束') : formatTime(match.date)}
           </div>
           <div className="flex items-center gap-1 text-[10px] text-gray-500 mt-0.5">
             <MapPin className="w-3 h-3" />
@@ -87,33 +95,47 @@ export default function MatchCard({ match, index }: { match: MatchData; index: n
         </div>
       </div>
 
-      {/* teams */}
+      {/* teams with real flags */}
       <div className="flex items-center justify-between">
-        <div className="flex-1 text-center">
-          <div className="text-3xl leading-none mb-1">{match.home.flag}</div>
+        <div className="flex-1 flex flex-col items-center">
+          <Flag code={match.home.abbr} size="lg" showBadge className="mb-1.5" />
           <div className="text-sm font-semibold">{match.home.name}</div>
         </div>
 
         <div className="w-20 text-center flex-shrink-0">
           {showScore ? (
             <div className="flex items-center justify-center gap-2">
-              <span className="text-2xl font-extrabold text-gold">{match.home.score}</span>
-              <span className="text-gray-500 text-sm">-</span>
-              <span className="text-2xl font-extrabold text-gold">{match.away.score}</span>
+              <motion.span
+                key={match.home.score}
+                initial={{ scale: 1.3 }}
+                animate={{ scale: 1 }}
+                className="text-2xl font-extrabold text-gold"
+              >
+                {match.home.score}
+              </motion.span>
+              <span className="text-gray-500 text-sm">:</span>
+              <motion.span
+                key={match.away.score}
+                initial={{ scale: 1.3 }}
+                animate={{ scale: 1 }}
+                className="text-2xl font-extrabold text-gold"
+              >
+                {match.away.score}
+              </motion.span>
             </div>
           ) : (
             <div className="text-xs text-gray-400 font-medium">{formatTime(match.date)}</div>
           )}
         </div>
 
-        <div className="flex-1 text-center">
-          <div className="text-3xl leading-none mb-1">{match.away.flag}</div>
+        <div className="flex-1 flex flex-col items-center">
+          <Flag code={match.away.abbr} size="lg" showBadge className="mb-1.5" />
           <div className="text-sm font-semibold">{match.away.name}</div>
         </div>
       </div>
 
-      {/* probability bar */}
-      {match.odds && match.odds.home_win_prob && match.odds.away_win_prob && (
+      {/* prob bar */}
+      {match.odds?.home_win_prob && match.odds?.away_win_prob && (
         <ProbBar
           home={match.odds.home_win_prob}
           draw={match.odds.draw_prob || 0}
