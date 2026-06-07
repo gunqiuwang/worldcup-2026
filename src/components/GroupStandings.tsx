@@ -1,18 +1,17 @@
 import { motion } from 'framer-motion';
-import { ArrowUpCircle, Shield } from 'lucide-react';
+import { Shield } from 'lucide-react';
 import { GROUPS, TEAMS } from '../data/teams';
 import { GROUP_PREDICTIONS } from '../data/predictions';
 import Flag from './Flag';
-import RingChart from './RingChart';
-import { SoccerBall } from './Icons';
 import KnockoutPredict from './KnockoutPredict';
 import ErrorBoundary from './ErrorBoundary';
+import { SoccerBall } from './Icons';
 
-const TIER_COLORS: Record<string, string> = {
-  S: 'text-red-400',
-  A: 'text-gold',
-  B: 'text-blue-400',
-  C: 'text-gray-500',
+const TIER_COLORS: Record<string, { bg: string; text: string; border: string }> = {
+  S: { bg: 'bg-red/10', text: 'text-red', border: 'border-red/20' },
+  A: { bg: 'bg-gold/10', text: 'text-gold', border: 'border-gold/20' },
+  B: { bg: 'bg-blue/10', text: 'text-blue', border: 'border-blue/20' },
+  C: { bg: 'bg-gray-500/10', text: 'text-gray-500', border: 'border-gray-500/15' },
 };
 
 function GroupTable({ group, teams }: { group: string; teams: string[] }) {
@@ -20,99 +19,115 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
 
   const sortedTeams = pred
     ? [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct)
-    : teams.map((t, i) => ({ team: t, advancement_pct: i < 2 ? 70 : 30 }));
+    : teams.map((t, i) => ({ team: t, advancement_pct: i < 2 ? 70 : 30, winner_pct: i === 0 ? 40 : 10, avg_points: 0, avg_gf: 0, avg_ga: 0 }));
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: 20 }}
+      initial={{ opacity: 0, y: 16 }}
       animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.35, ease: [0.16, 1, 0.3, 1] }}
       className="glass-card p-4 mb-3"
     >
-      <div className="flex items-center gap-2 mb-4">
-        <SoccerBall className="w-4 h-4 text-gold" />
-        <span className="text-sm font-bold text-gold">{group} 组</span>
-        <span className="text-[10px] text-gray-500">({teams.length} 队)</span>
+      {/* Header */}
+      <div className="flex items-center justify-between mb-3">
+        <div className="flex items-center gap-2">
+          <SoccerBall className="w-4 h-4 text-gold" />
+          <span className="text-sm font-bold text-gold">{group} 组</span>
+        </div>
+        {pred && (
+          <span className="text-[9px] text-gray-600">{pred.simulations?.toLocaleString()} 次模拟</span>
+        )}
       </div>
 
-      <div className="space-y-2">
+      {/* Table header */}
+      <div className="flex items-center gap-2 px-2 pb-1.5 border-b border-white/[0.04] mb-1">
+        <span className="w-4 text-[8px] text-gray-600 text-center">#</span>
+        <span className="flex-1 text-[8px] text-gray-600">球队</span>
+        <span className="w-24 text-[8px] text-gray-600 text-center">出线概率</span>
+        <span className="w-12 text-[8px] text-gray-600 text-right">第一%</span>
+      </div>
+
+      {/* Team rows */}
+      <div className="space-y-0.5">
         {sortedTeams.map((tp, i) => {
           const abbr = tp.team;
           const t = TEAMS[abbr];
           if (!t) return null;
           const qualify = i < 2;
           const prob = tp.advancement_pct;
+          const tc = TIER_COLORS[t.tier] || TIER_COLORS.C;
 
           return (
             <motion.div
               key={abbr}
-              initial={{ opacity: 0, x: -10 }}
+              initial={{ opacity: 0, x: -8 }}
               animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: i * 0.08 }}
-              className={`flex items-center gap-3 p-2 rounded-xl transition ${
-                qualify ? 'bg-green/5' : 'hover:bg-white/[0.02]'
+              transition={{ delay: i * 0.06, duration: 0.3, ease: [0.16, 1, 0.3, 1] }}
+              className={`flex items-center gap-2 p-2 rounded-lg transition-colors ${
+                qualify ? 'bg-green/[0.04]' : 'hover:bg-white/[0.02]'
               }`}
             >
-              <div className={`w-5 text-center font-bold text-xs ${qualify ? 'text-green' : 'text-gray-500'}`}>
-                {qualify ? <ArrowUpCircle className="w-4 h-4 mx-auto" /> : i + 1}
+              {/* Rank */}
+              <div className={`w-4 text-center font-bold text-[11px] ${qualify ? 'text-green' : 'text-gray-600'}`}>
+                {i + 1}
               </div>
+
+              {/* Flag + Name */}
               <Flag code={abbr} size="sm" />
-              <div className="flex-1">
-                <div className="text-sm font-semibold">{t.cn}</div>
-                <div className="flex items-center gap-2">
-                  <span className="text-[10px] text-gray-500">FIFA #{t.fifa_rank}</span>
-                  <span className={`text-[10px] font-bold ${TIER_COLORS[t.tier]}`}>
+              <div className="flex-1 min-w-0">
+                <div className="flex items-center gap-1.5">
+                  <span className="text-[13px] font-semibold truncate">{t.cn}</span>
+                  <span className={`px-1 py-0 rounded text-[7px] font-bold border leading-none ${tc.bg} ${tc.text} ${tc.border}`}>
                     {t.tier}
                   </span>
                   <span className={`text-[10px] ${
                     t.trend === '↑' ? 'text-green' :
-                    t.trend === '↓' ? 'text-red-400' :
-                    'text-gray-500'
+                    t.trend === '↓' ? 'text-red' :
+                    'text-gray-600'
                   }`}>
                     {t.trend}
                   </span>
                 </div>
+                <div className="text-[9px] text-gray-600 mt-0.5">
+                  #{t.fifa_rank}
+                  {pred && tp.avg_points > 0 && (
+                    <span className="ml-2">预测 {tp.avg_points.toFixed(1)} 分</span>
+                  )}
+                </div>
               </div>
-              <RingChart value={prob} size={40} strokeWidth={3} color={qualify ? '#00E676' : '#5F6368'} showValue={false} />
-              <div className={`text-xs font-bold w-10 text-right ${qualify ? 'text-green' : 'text-gray-500'}`}>
-                {prob}%
+
+              {/* Advancement progress bar */}
+              <div className="w-24">
+                <div className="h-1.5 rounded-full overflow-hidden bg-white/[0.04]">
+                  <motion.div
+                    initial={{ width: 0 }}
+                    animate={{ width: `${prob}%` }}
+                    transition={{ duration: 0.8, delay: i * 0.1, ease: [0.16, 1, 0.3, 1] }}
+                    className={`h-full rounded-full ${qualify ? 'bg-gradient-to-r from-green/70 to-green' : 'bg-gray-600/40'}`}
+                  />
+                </div>
+                <div className={`text-[10px] font-bold mt-0.5 text-center tabular-nums ${qualify ? 'text-green' : 'text-gray-500'}`}>
+                  {prob}%
+                </div>
+              </div>
+
+              {/* Winner % */}
+              <div className="w-12 text-right">
+                <span className={`text-[11px] font-bold tabular-nums ${tp.winner_pct > 30 ? 'text-gold' : 'text-gray-600'}`}>
+                  {tp.winner_pct}%
+                </span>
               </div>
             </motion.div>
           );
         })}
       </div>
 
-      {/* 预测积分表 */}
-      {pred && (
-        <div className="mt-3 pt-2 border-t border-white/[0.03]">
-          <table className="w-full text-[10px]">
-            <thead>
-              <tr className="text-gray-500 uppercase tracking-wider">
-                <th className="text-left py-1">球队</th>
-                <th className="text-center py-1 px-0.5">预测分</th>
-                
-                <th className="text-center py-1 font-bold text-gold">出线%</th>
-              </tr>
-            </thead>
-            <tbody>
-              {pred.teams.map((tp) => {
-                const t = TEAMS[tp.team];
-                if (!t) return null;
-                return (
-                  <tr key={tp.team} className="border-t border-white/[0.02]">
-                    <td className="py-1.5 flex items-center gap-1.5">
-                      <Flag code={tp.team} size="sm" />
-                      <span className="font-medium">{t.cn}</span>
-                    </td>
-                    <td className="text-center text-gray-400">{tp.avg_points.toFixed(1)}</td>
-                    
-                    <td className="text-center font-extrabold text-gold">{tp.advancement_pct}%</td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
-      )}
+      {/* Legend */}
+      <div className="flex items-center gap-3 mt-2 pt-2 border-t border-white/[0.03] text-[8px] text-gray-600">
+        <span className="flex items-center gap-1"><span className="w-1.5 h-1.5 rounded-full bg-green" /> 前2出线</span>
+        <span>S/A/B/C = 实力等级</span>
+        <span>↑↓→ = 近期趋势</span>
+      </div>
     </motion.div>
   );
 }
