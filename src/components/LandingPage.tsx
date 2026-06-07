@@ -7,11 +7,7 @@ interface Props {
   onEnter: () => void;
 }
 
-/* ── 背景视频URL（可换成世界杯主题视频） ── */
-const VIDEO_URL =
-  'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260328_115001_bcdaa3b4-03de-47e7-ad63-ae3e392c32d4.mp4';
-
-/* ── 视频无缝循环 + 淡入淡出 ── */
+/* ── 视频无缝循环 + 淡入淡出 hook ── */
 function useVideoFade(videoRef: React.RefObject<HTMLVideoElement | null>) {
   const fadeAnim = useRef(0);
   const fadingOut = useRef(false);
@@ -86,8 +82,10 @@ function FloatingParticles() {
 }
 
 export default function LandingPage({ onEnter }: Props) {
-  const videoRef = useRef<HTMLVideoElement>(null);
-  useVideoFade(videoRef);
+  const landscapeRef = useRef<HTMLVideoElement>(null);
+  const portraitRef = useRef<HTMLVideoElement>(null);
+  useVideoFade(landscapeRef);
+  useVideoFade(portraitRef);
 
   return (
     <motion.div
@@ -96,11 +94,18 @@ export default function LandingPage({ onEnter }: Props) {
       animate={{ opacity: 1 }}
       exit={{ opacity: 0, transition: { duration: 0.5 } }}
     >
-      {/* ── 全屏背景视频 ── */}
+      {/* ── 背景视频：横屏(桌面) / 竖屏(手机) ── */}
       <video
-        ref={videoRef}
-        className="absolute inset-0 w-full h-full object-cover translate-y-[17%]"
-        src={VIDEO_URL}
+        ref={landscapeRef}
+        className="absolute inset-0 w-full h-full object-cover landscape-video"
+        src="/hero-landscape.mp4"
+        muted
+        playsInline
+      />
+      <video
+        ref={portraitRef}
+        className="absolute inset-0 w-full h-full object-cover portrait-video"
+        src="/hero-portrait.mp4"
         muted
         playsInline
       />
@@ -126,7 +131,6 @@ export default function LandingPage({ onEnter }: Props) {
 
         {/* 主内容区 */}
         <div className="flex-1 flex flex-col items-center justify-center px-6 text-center -translate-y-[10%]">
-          {/* 主标题 - Instrument Serif */}
           <motion.h1
             className="text-5xl md:text-6xl lg:text-7xl text-white mb-6 tracking-tight whitespace-nowrap"
             style={{ fontFamily: "'Instrument Serif', serif" }}
@@ -137,7 +141,6 @@ export default function LandingPage({ onEnter }: Props) {
             用数据读懂胜负
           </motion.h1>
 
-          {/* 副标题 */}
           <motion.p
             className="text-sm text-white/50 leading-relaxed max-w-md mb-8"
             initial={{ opacity: 0 }}
@@ -148,7 +151,6 @@ export default function LandingPage({ onEnter }: Props) {
             为 104 场比赛生成概率预测、爆冷指数与风险预警。
           </motion.p>
 
-          {/* 主办国 */}
           <motion.div
             className="flex items-center gap-3 mb-10"
             initial={{ opacity: 0 }}
@@ -162,7 +164,6 @@ export default function LandingPage({ onEnter }: Props) {
             <span className="text-[10px] text-white/30 ml-2">48 队 · 104 场 · 39 天</span>
           </motion.div>
 
-          {/* CTA 按钮 - 液态毛玻璃 */}
           <motion.button
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}

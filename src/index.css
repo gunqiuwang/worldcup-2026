@@ -80,6 +80,15 @@
   100% { transform: translateX(100%); }
 }
 
+/* ── 响应式视频切换 ── */
+.landscape-video { display: block; }
+.portrait-video  { display: none; }
+
+@media (max-width: 640px) {
+  .landscape-video { display: none !important; }
+  .portrait-video  { display: block !important; }
+}
+
 /* Scrollbar */
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-track { background: transparent; }
