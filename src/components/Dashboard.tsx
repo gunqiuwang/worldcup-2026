@@ -9,6 +9,7 @@ import OddsMovement from './OddsMovement';
 import KnockoutPredict from './KnockoutPredict';
 import HotTeams from './HotTeams';
 import ErrorBoundary from './ErrorBoundary';
+import HeroBanner from './HeroBanner';
 import { useMemo, useRef, useState, useEffect, type ReactNode } from 'react';
 
 // IntersectionObserver 懒加载包装器
@@ -31,52 +32,6 @@ function LazySection({ children, fallback }: { children: ReactNode; fallback?: R
       {visible ? children : fallback || (
         <div className="h-32 rounded-xl bg-white/[0.02] animate-pulse mb-3" />
       )}
-    </div>
-  );
-}
-
-// Hero 区域
-function HeroSection() {
-  return (
-    <motion.div
-      initial={{ opacity: 0, y: 20 }}
-      animate={{ opacity: 1, y: 0 }}
-      className="mb-4 text-center"
-    >
-      <h2 className="text-lg font-extrabold gold-gradient mb-1">赛析 AI</h2>
-      <p className="text-xs text-gray-400 mb-3">2026 世界杯智能分析平台</p>
-      <p className="text-[11px] text-gray-500 leading-relaxed max-w-[320px] mx-auto">
-        融合赔率变化、球队状态、历史交锋与 AI 模型评分，<br />
-        为 64 场比赛生成胜平负概率、爆冷指数与风险预警。
-      </p>
-    </motion.div>
-  );
-}
-
-// 4 个核心卖点
-function SellingPoints() {
-  const points = [
-    { icon: '🎯', title: '胜平负概率', desc: '模型综合计算每场比赛倾向', color: 'text-green' },
-    { icon: '📈', title: '赔率异动监控', desc: '追踪初盘到即时赔率变化', color: 'text-gold' },
-    { icon: '⚡', title: '爆冷风险提示', desc: '识别热门过热与冷门机会', color: 'text-red' },
-    { icon: '🔬', title: '多维数据分析', desc: '结合状态、伤停、赛程与历史', color: 'text-blue-400' },
-  ];
-
-  return (
-    <div className="grid grid-cols-2 gap-2 mb-4">
-      {points.map((p, i) => (
-        <motion.div
-          key={p.title}
-          initial={{ opacity: 0, scale: 0.9 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 0.1 + i * 0.08 }}
-          className="glass-card p-3 text-center"
-        >
-          <div className="text-lg mb-1">{p.icon}</div>
-          <div className={`text-xs font-bold ${p.color}`}>{p.title}</div>
-          <div className="text-[10px] text-gray-500 mt-0.5">{p.desc}</div>
-        </motion.div>
-      ))}
     </div>
   );
 }
@@ -262,8 +217,7 @@ function ModelStats() {
 export default function Dashboard({ onTeamClick }: { onTeamClick?: (abbr: string) => void }) {
   return (
     <div className="px-4">
-      <HeroSection />
-      <SellingPoints />
+      <HeroBanner />
       <ErrorBoundary>
         <TodayHighlight />
       </ErrorBoundary>
