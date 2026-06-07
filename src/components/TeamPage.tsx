@@ -1,9 +1,10 @@
 import { motion } from 'framer-motion';
-import { ArrowLeft, Trophy, Target, Calendar, MapPin, TrendingUp, Activity } from 'lucide-react';
+import { ArrowLeft, Trophy, Target, Calendar, MapPin, TrendingUp, Activity, Gauge } from 'lucide-react';
 import { TEAMS } from '../data/teams';
 import { SCHEDULE } from '../data/schedule';
 import { getPrediction } from '../data/predictions';
-import { getTeamForm, getFormDescription, getLast5String } from '../data/team_form';
+import { getTeamForm, getFormDescription } from '../data/team_form';
+import { getEloRating, getEloTier, getEloTierColor } from '../data/elo_ratings';
 import { calcMatchProbs, calcUpsetIndex } from '../utils/odds';
 import Flag from './Flag';
 
@@ -23,6 +24,11 @@ export default function TeamPage({ teamAbbr, onBack, onMatchClick }: Props) {
 
   // 获取球队状态
   const form = getTeamForm(teamAbbr);
+  
+  // 获取 Elo 评分
+  const elo = getEloRating(teamAbbr);
+  const eloTier = elo ? getEloTier(elo.elo) : '-';
+  const eloTierColor = elo ? getEloTierColor(eloTier) : 'text-gray-400';
 
   // 晋级概率（基于FIFA排名）
   const advanceProb = Math.min(95, Math.max(5, Math.round((100 - team.fifa_rank) * 1.1)));
@@ -75,8 +81,16 @@ export default function TeamPage({ teamAbbr, onBack, onMatchClick }: Props) {
           <Flag code={teamAbbr} size="xl" />
           <div>
             <h2 className="text-xl font-bold">{team.cn}</h2>
-            <div className="text-xs text-gray-400">
-              FIFA 排名 #{team.fifa_rank}
+            <div className="flex items-center gap-2 mt-1">
+              <span className="text-xs text-gray-400">FIFA #{team.fifa_rank}</span>
+              {elo && (
+                <div className="flex items-center gap-1">
+                  <Gauge className="w-3 h-3 text-gold" />
+                  <span className={`text-xs font-bold ${eloTierColor}`}>
+                    {eloTier} 级 · {elo.elo}
+                  </span>
+                </div>
+              )}
             </div>
           </div>
           <div className="ml-auto text-right">
@@ -142,11 +156,12 @@ export default function TeamPage({ teamAbbr, onBack, onMatchClick }: Props) {
         )}
 
         {/* 数据卡片 */}
-        <div className="grid grid-cols-3 gap-2">
+        <div className="grid grid-cols-4 gap-2">
           {[
             { icon: Trophy, label: '历史最佳', value: bestResult, color: 'text-gold' },
             { icon: Target, label: '爆冷指数', value: `${avgUpset}`, color: 'text-red' },
             { icon: TrendingUp, label: '状态分数', value: form ? `${form.form_score}` : '-', color: 'text-green' },
+            { icon: Gauge, label: 'Elo等级', value: eloTier, color: eloTierColor },
           ].map((card) => {
             const Icon = card.icon;
             return (

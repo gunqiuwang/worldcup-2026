@@ -1,0 +1,482 @@
+{
+  "ARG": {
+    "abbr": "ARG",
+    "elo": 2100,
+    "peak_elo": 2100,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "ALG": {
+    "abbr": "ALG",
+    "elo": 1380,
+    "peak_elo": 1380,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "AUT": {
+    "abbr": "AUT",
+    "elo": 1680,
+    "peak_elo": 1680,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "JOR": {
+    "abbr": "JOR",
+    "elo": 940,
+    "peak_elo": 940,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "USA": {
+    "abbr": "USA",
+    "elo": 1880,
+    "peak_elo": 1880,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "PAR": {
+    "abbr": "PAR",
+    "elo": 1080,
+    "peak_elo": 1080,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "AUS": {
+    "abbr": "AUS",
+    "elo": 1640,
+    "peak_elo": 1640,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "TUR": {
+    "abbr": "TUR",
+    "elo": 1600,
+    "peak_elo": 1600,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "BEL": {
+    "abbr": "BEL",
+    "elo": 1960,
+    "peak_elo": 1960,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "EGY": {
+    "abbr": "EGY",
+    "elo": 1480,
+    "peak_elo": 1480,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "IRN": {
+    "abbr": "IRN",
+    "elo": 1720,
+    "peak_elo": 1720,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "NZL": {
+    "abbr": "NZL",
+    "elo": 860,
+    "peak_elo": 860,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "CAN": {
+    "abbr": "CAN",
+    "elo": 1260,
+    "peak_elo": 1260,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "BIH": {
+    "abbr": "BIH",
+    "elo": 960,
+    "peak_elo": 960,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "QAT": {
+    "abbr": "QAT",
+    "elo": 1320,
+    "peak_elo": 1320,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "SUI": {
+    "abbr": "SUI",
+    "elo": 1800,
+    "peak_elo": 1800,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "BRA": {
+    "abbr": "BRA",
+    "elo": 2020,
+    "peak_elo": 2020,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "HAI": {
+    "abbr": "HAI",
+    "elo": 880,
+    "peak_elo": 880,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "MAR": {
+    "abbr": "MAR",
+    "elo": 1860,
+    "peak_elo": 1860,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "SCO": {
+    "abbr": "SCO",
+    "elo": 1340,
+    "peak_elo": 1340,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "GER": {
+    "abbr": "GER",
+    "elo": 1920,
+    "peak_elo": 1920,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "CUW": {
+    "abbr": "CUW",
+    "elo": 900,
+    "peak_elo": 900,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "CIV": {
+    "abbr": "CIV",
+    "elo": 1360,
+    "peak_elo": 1360,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "ECU": {
+    "abbr": "ECU",
+    "elo": 1520,
+    "peak_elo": 1520,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "COL": {
+    "abbr": "COL",
+    "elo": 1840,
+    "peak_elo": 1840,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "POR": {
+    "abbr": "POR",
+    "elo": 1980,
+    "peak_elo": 1980,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "COD": {
+    "abbr": "COD",
+    "elo": 1020,
+    "peak_elo": 1020,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "UZB": {
+    "abbr": "UZB",
+    "elo": 980,
+    "peak_elo": 980,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "ESP": {
+    "abbr": "ESP",
+    "elo": 2060,
+    "peak_elo": 2060,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "CPV": {
+    "abbr": "CPV",
+    "elo": 920,
+    "peak_elo": 920,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "KSA": {
+    "abbr": "KSA",
+    "elo": 1060,
+    "peak_elo": 1060,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "URU": {
+    "abbr": "URU",
+    "elo": 1900,
+    "peak_elo": 1900,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "ENG": {
+    "abbr": "ENG",
+    "elo": 2040,
+    "peak_elo": 2040,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "CRO": {
+    "abbr": "CRO",
+    "elo": 1940,
+    "peak_elo": 1940,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "GHA": {
+    "abbr": "GHA",
+    "elo": 1180,
+    "peak_elo": 1180,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "PAN": {
+    "abbr": "PAN",
+    "elo": 1160,
+    "peak_elo": 1160,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "MEX": {
+    "abbr": "MEX",
+    "elo": 1820,
+    "peak_elo": 1820,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "CZE": {
+    "abbr": "CZE",
+    "elo": 1400,
+    "peak_elo": 1400,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "KOR": {
+    "abbr": "KOR",
+    "elo": 1660,
+    "peak_elo": 1660,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "RSA": {
+    "abbr": "RSA",
+    "elo": 1040,
+    "peak_elo": 1040,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "FRA": {
+    "abbr": "FRA",
+    "elo": 2080,
+    "peak_elo": 2080,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "IRQ": {
+    "abbr": "IRQ",
+    "elo": 1000,
+    "peak_elo": 1000,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "NOR": {
+    "abbr": "NOR",
+    "elo": 1280,
+    "peak_elo": 1280,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "SEN": {
+    "abbr": "SEN",
+    "elo": 1780,
+    "peak_elo": 1780,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "NED": {
+    "abbr": "NED",
+    "elo": 2000,
+    "peak_elo": 2000,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "JPN": {
+    "abbr": "JPN",
+    "elo": 1760,
+    "peak_elo": 1760,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "SWE": {
+    "abbr": "SWE",
+    "elo": 1620,
+    "peak_elo": 1620,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  },
+  "TUN": {
+    "abbr": "TUN",
+    "elo": 1420,
+    "peak_elo": 1420,
+    "games_played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "trend": "stable"
+  }
+}
