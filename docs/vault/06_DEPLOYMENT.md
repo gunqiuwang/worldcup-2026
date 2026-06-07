@@ -1,41 +1,55 @@
 ---
 type: deployment
 status: active
-confidence: low
-last_updated: 2026-06-02
+confidence: medium
+last_updated: 2026-06-07
 owner: agent
-reviewed_by: unreviewed
+reviewed_by: agent
 ---
 
 # Deployment
 
 ## Build
 
-Unknown — 未确定构建流程。当前是纯 HTML，可能不需要构建。
-
-## Deploy
-
 ```bash
-npx wrangler pages deploy ./ --project-name=worldcup2026
+npm run build    # tsc -b && vite build
+# Output: dist/ (index.html + assets/*.js + assets/*.css)
+# JS: 377KB (gzip 112KB), CSS: 27KB (gzip 5.6KB)
 ```
 
-**Or via Cloudflare Dashboard:**
-1. 连接 GitHub 仓库
-2. 自动部署每次 push
+## Deploy Pipeline
+
+```
+GitHub push (SSH) → GitHub repo (gunqiuwang/worldcup-2026)
+    → 待配置: Vercel / Cloudflare Pages 自动部署
+```
+
+**当前状态:** 代码功能完整，待选择部署平台并配置 CI/CD。
 
 ## Environment
 
 | Requirement | Notes |
 |------------|-------|
-| Cloudflare 账号 | guokun19851124 |
-| 域名 | 404969.xyz |
-| Workers | 免费 10万次/天 |
-| KV | 免费 1GB |
+| Node.js | 18+ |
+| npm | 9+ |
+| Git | SSH key 已配置 |
+| GitHub | gunqiuwang/worldcup-2026 |
+
+## News Pipeline (GitHub Action)
+
+```yaml
+# .github/workflows/fetch-news.yml
+# 每2小时自动运行 fetch_news.py
+# 输出: public/news.json
+```
 
 ## Health Check
 
-访问 https://404969.xyz 确认页面加载。
+- 本地: `npm run dev` → http://localhost:4173
+- 构建: `npm run build` → 无错误
+- 部署后: 访问域名确认 4 个 Tab 正常切换
 
 ## Rollback
 
-Cloudflare Dashboard → Pages → 回退到上一版本。
+- Git: `git revert HEAD` 或回退到特定 commit
+- Vercel/Cloudflare: Dashboard → 回退到上一版本

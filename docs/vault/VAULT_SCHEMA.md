@@ -2,29 +2,32 @@
 type: schema
 status: active
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-07
 owner: human
-reviewed_by: human
+reviewed_by: agent
 ---
 
 # Vault Schema
 
 ## Project Identity
 
-**Project:** 2026 世界杯信息站
-**Description:** 移动端优先的世界杯信息站，赔率反算胜率 + Polymarket 套利
+**Project:** MatchLens AI — 2026 世界杯信息站
+**Description:** 移动端优先的世界杯 SPA，赔率反算胜率 + 出线概率 + AI 分析
+**Repo:** gunqiuwang/worldcup-2026
+**Domain:** 404969.xyz
 
 ## Vault Version
 
 ```yaml
-vault_version: 5.0.0
+vault_version: 5.4.0
 vault_created: 2026-06-02
+last_upgraded: 2026-06-07
 ```
 
 ## Project Phase
 
 ```yaml
-project_phase: prototype
+project_phase: mvp
 ```
 
 ## Staleness Thresholds

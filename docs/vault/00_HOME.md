@@ -2,40 +2,57 @@
 type: home
 status: active
 confidence: high
-last_updated: 2026-06-02
+last_updated: 2026-06-07
 owner: both
-reviewed_by: unreviewed
-aliases: ["世界杯", "世界杯 Home", "worldcup2026"]
+reviewed_by: agent
+aliases: ["世界杯", "MatchLens AI", "worldcup2026"]
 ---
 
-# 2026 世界杯信息站 — Agent Vault
+# MatchLens AI — 2026 世界杯信息站
 
-> 移动端优先的世界杯信息站，核心卖点：赔率反算胜率 + Polymarket 套利信号。
+> 移动端优先的世界杯 SPA，核心卖点：赔率反算胜率 + 出线概率 + AI 分析。
 
 ## Quick Facts
 
 | Key | Value |
 |-----|-------|
-| **Project** | 2026 世界杯信息站 |
+| **Project** | MatchLens AI |
+| **Repo** | gunqiuwang/worldcup-2026 (GitHub) |
 | **Domain** | 404969.xyz (Cloudflare) |
-| **Phase** | prototype |
-| **Deploy** | Cloudflare Pages + Workers |
-| **Style** | 深色科技感，金色点缀 |
-| **Last Updated** | 2026-06-02 |
+| **Phase** | mvp (功能完整，待部署) |
+| **Stack** | React + Vite + TypeScript + Tailwind + Framer Motion |
+| **Deploy** | GitHub → Vercel/Cloudflare |
+| **Style** | 深色科技感，金色点缀，glass morphism |
+| **JS Bundle** | 377KB (gzip 112KB) |
+| **Last Updated** | 2026-06-07 |
+
+## 4 Tabs
+
+| Tab | Component | Content |
+|-----|-----------|---------|
+| 赛程 | App.tsx → MatchCard | 今日/全部赛程，分组筛选，搜索 |
+| 排名 | GroupStandings | 小组积分榜 + 出线概率 |
+| 分析 | Dashboard | 焦点比赛、预测总览、冷门榜、热门队、赔率一览、赔率走势 |
+| 资讯 | NewsPage | ESPN+BBC RSS 新闻，GitHub Action 每2h更新 |
 
 ## Most Important Files
 
 | File | Why It Matters | Confidence |
 |------|---------------|------------|
-| `项目构想.md` | 完整项目规划（功能、技术栈、时间线） | high |
-| `index.html` | 初版 demo（纯展示，1219行） | high |
+| `src/data/predictions.ts` | **唯一数据源** — 赔率概率 + 蒙特卡洛出线率 | high |
+| `src/data/teams.ts` | 48队数据 + tier(S/A/B/C) + trend(↑↓→) | high |
+| `src/data/schedule.ts` | 96场赛程（含时间、分组） | high |
+| `src/App.tsx` | 主路由 + 4Tab 切换 + 主题系统 | high |
+| `src/components/Dashboard.tsx` | 分析页主组件 | high |
 
 ## Most Important Commands
 
 | Command | Purpose | Risk |
 |---------|---------|------|
-| 浏览器打开 index.html | 本地预览 demo | Safe |
-| `npx wrangler pages deploy` | 部署到 Cloudflare Pages | Critical |
+| `npm run dev` | 本地开发 (端口 4173) | Safe |
+| `npm run build` | 生产构建 | Safe |
+| `git push` | 推送到 GitHub (SSH) | Low |
+| `python scripts/fetch_news.py` | 手动抓取新闻 | Safe |
 
 ## Agent Entry Page
 
@@ -51,23 +68,14 @@ aliases: ["世界杯", "世界杯 Home", "worldcup2026"]
 
 **After completing any task, you MUST:**
 - Update [[01_CURRENT_BASELINE]] if status changed
-- Append to [[10_REPORT_INDEX]] if a report was generated
 - Append to [[VAULT_CHANGELOG]]
 
-## Current Known Risks
+## Key Decisions
 
-| Risk | Severity | Confidence | Mitigation |
-|------|----------|------------|------------|
-| 距开赛仅 10 天 | High | high | 基础版 2-3 天上线 |
-| API 额度有限 (500次/月) | Medium | high | Workers 缓存 + API-Football 做主力 |
-| 赔率数据实时性未确定 | Medium | medium | 待确认比赛日更新频率 |
-| Polymarket 无世界杯盘口 | Medium | high | 需要小改 polymarket-odds-scanner |
-
-## Next Recommended Action
-
-1. 确认功能优先级（赔率分析 vs 基础赛程 vs 互动）
-2. 对接 API-Football 获取真实数据
-3. 将 demo 升级为可部署的静态站
+- **React SPA** 而非 Cloudflare Worker — 前端交互复杂度需要组件化
+- **predictions.ts 唯一数据源** — 删除了 Elo/Form/ensemble 三套矛盾数据 + 7个Python脚本
+- **GitHub Action 新闻** — fetch_news.py (ESPN+BBC RSS) → news.json, 每2h
+- **SSH push** — HTTPS 在 WSL 超时，已切 SSH (git@github.com:gunqiuwang/xxx.git)
 
 ## Vault Navigation
 
@@ -76,5 +84,6 @@ aliases: ["世界杯", "世界杯 Home", "worldcup2026"]
 - [[03_DO_NOT_TOUCH]] — Danger zones
 - [[04_ARCHITECTURE]] — How it all fits together
 - [[05_COMMANDS_AND_FILES]] — What you can run and touch
+- [[08_INCIDENTS_AND_FIXES]] — What broke and how we fixed it
 - [[VAULT_SCHEMA]] — Vault rules
 - [[VAULT_CHANGELOG]] — Vault log

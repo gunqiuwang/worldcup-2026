@@ -2,9 +2,9 @@
 type: report-index
 status: active
 confidence: medium
-last_updated: 2026-06-02
+last_updated: 2026-06-07
 owner: both
-reviewed_by: unreviewed
+reviewed_by: agent
 ---
 
 # Report Index
@@ -14,3 +14,4 @@ Full reports in `assets/intake/reports/`. Summaries here only.
 | Date | Type | Topic | Full Report |
 |------|------|-------|-------------|
 | 2026-06-02 | Setup | Vault initialization | [View](../../assets/intake/reports/2026-06-02_setup-report.md) |
+| 2026-06-07 | Sync | Vault full sync — React SPA migration | N/A (inline update) |
