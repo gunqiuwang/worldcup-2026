@@ -135,34 +135,61 @@ export default function LandingPage({ onEnter }: Props) {
         </motion.div>
 
         {/* 主办国 */}
-        <motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 1.4, duration: 0.6 }} className="flex items-center gap-2 mb-6">
-          <span className="text-[10px] text-white/30">HOST</span>
-          <Flag code="CAN" size="sm" />
-          <Flag code="USA" size="sm" />
-          <Flag code="MEX" size="sm" />
-          <span className="text-[10px] text-white/30 ml-auto">48 队 · 104 场 · 39 天</span>
+        <motion.div initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 1.4, duration: 0.6 }} className="flex items-center gap-3 mb-6">
+          <span className="text-[10px] text-white/30 tracking-wider">HOST</span>
+          <div className="flex items-center gap-1.5">
+            <Flag code="CAN" size="sm" />
+            <Flag code="USA" size="sm" />
+            <Flag code="MEX" size="sm" />
+          </div>
+          <div className="h-3 w-px bg-white/10 mx-1" />
+          <span className="text-[10px] text-white/30">48 队 · 104 场 · 39 天</span>
         </motion.div>
 
-        {/* CTA */}
+        {/* CTA 按钮 — 毛玻璃风格 */}
         <motion.button
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.8, duration: 0.6 }}
-          whileHover={{ scale: 1.02, boxShadow: '0 0 30px rgba(255,215,0,0.3)' }}
-          whileTap={{ scale: 0.97 }}
+          whileHover={{ scale: 1.01 }}
+          whileTap={{ scale: 0.98 }}
           onClick={onEnter}
-          className="w-full py-4 rounded-2xl bg-gradient-to-r from-gold to-gold-dark text-bg font-bold text-sm flex items-center justify-center gap-2 mb-10 shadow-lg shadow-gold/20 relative overflow-hidden"
+          className="w-full py-4 rounded-2xl mb-10 relative overflow-hidden group cursor-pointer
+            bg-white/[0.06] backdrop-blur-xl
+            border border-white/[0.12]
+            hover:bg-white/[0.1] hover:border-gold/30
+            transition-all duration-300"
         >
-          <motion.div
-            className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent"
-            animate={{ x: ['-100%', '100%'] }}
-            transition={{ duration: 2, repeat: Infinity, ease: 'linear' }}
-          />
-          <span className="relative z-10 flex items-center gap-2">
-            进入倒计时
-            <ChevronRight className="w-4 h-4" />
+          {/* 底部金色光晕 */}
+          <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500"
+            style={{ background: 'radial-gradient(ellipse at 50% 100%, rgba(255,213,79,0.15) 0%, transparent 70%)' }} />
+
+          {/* 顶部高光线 */}
+          <div className="absolute top-0 left-[10%] right-[10%] h-px bg-gradient-to-r from-transparent via-white/20 to-transparent" />
+
+          {/* 文字 */}
+          <span className="relative z-10 flex items-center justify-center gap-2">
+            <span className="text-sm font-semibold bg-gradient-to-r from-white via-white to-white/70 bg-clip-text text-transparent">
+              进入倒计时
+            </span>
+            <motion.div
+              animate={{ x: [0, 4, 0] }}
+              transition={{ duration: 1.5, repeat: Infinity, ease: 'easeInOut' }}
+            >
+              <ChevronRight className="w-4 h-4 text-gold/70" />
+            </motion.div>
           </span>
         </motion.button>
+
+        {/* 底部小字 */}
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 2.2 }}
+          className="text-center pb-6"
+        >
+          <span className="text-[9px] text-white/20 tracking-wider">MATCHLENS AI · DATA-DRIVEN PREDICTIONS</span>
+        </motion.div>
       </div>
     </motion.div>
   );

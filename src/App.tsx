@@ -42,8 +42,18 @@ const THEME_ORDER: Theme[] = ['dark', 'light', 'matchday'];
 const THEME_LABELS: Record<Theme, string> = { dark: '深色', light: '浅色', matchday: '比赛日' };
 
 export default function App() {
-  const [showLanding, setShowLanding] = useState(true);
-  const [page, setPage] = useState('matches');
+  const [showLanding, setShowLanding] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return !localStorage.getItem('wc-visited');
+    }
+    return true;
+  });
+  const [page, setPage] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('wc-page') || 'matches';
+    }
+    return 'matches';
+  });
   const [tab, setTab] = useState<Tab>('today');
   const [theme, setTheme] = useState<Theme>(() => {
     if (typeof window !== 'undefined') {
@@ -102,6 +112,8 @@ export default function App() {
   const handleEnterFromLanding = useCallback(() => {
     setShowLanding(false);
     setPage('matches');
+    localStorage.setItem('wc-visited', '1');
+    localStorage.setItem('wc-page', 'matches');
   }, []);
 
   return (
@@ -374,7 +386,7 @@ export default function App() {
         </AnimatePresence>
 
         {/* Bottom Nav */}
-        <BottomNav active={page} onNavigate={setPage} />
+        <BottomNav active={page} onNavigate={(id) => { setPage(id); localStorage.setItem('wc-page', id); }} />
       </div>
 
       {/* Match Detail Modal */}
