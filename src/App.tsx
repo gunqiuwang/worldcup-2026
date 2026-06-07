@@ -1,6 +1,6 @@
 import { useState, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Wifi, Sun, Moon, Sparkles } from 'lucide-react';
+import { Wifi, Sun, Moon, Sparkles, Search, X } from 'lucide-react';
 import Countdown from './components/Countdown';
 import MatchCard from './components/MatchCard';
 import GroupStandings from './components/GroupStandings';
@@ -9,7 +9,6 @@ import OddsPage from './components/OddsPage';
 import Dashboard from './components/Dashboard';
 import NewsPage from './components/NewsPage';
 import ParticleBackground from './components/ParticleBackground';
-import SearchBar from './components/SearchBar';
 import MatchModal from './components/MatchModal';
 import TeamPage from './components/TeamPage';
 import LandingPage from './components/LandingPage';
@@ -44,10 +43,11 @@ const THEME_LABELS: Record<Theme, string> = { dark: '深色', light: '浅色', m
 
 export default function App() {
   const [showLanding, setShowLanding] = useState(true);
-  const [page, setPage] = useState('matches');  // 进入后默认显示赛程页（含倒计时）
+  const [page, setPage] = useState('matches');
   const [tab, setTab] = useState<Tab>('today');
   const [theme, setTheme] = useState<Theme>('dark');
   const [searchQuery, setSearchQuery] = useState('');
+  const [showSearch, setShowSearch] = useState(false);
   const [filterGroup, setFilterGroup] = useState<string | null>(null);
   const [selectedMatch, setSelectedMatch] = useState<MatchData | null>(null);
   const [selectedTeam, setSelectedTeam] = useState<string | null>(null);
@@ -94,7 +94,7 @@ export default function App() {
 
   const handleEnterFromLanding = useCallback(() => {
     setShowLanding(false);
-    setPage('matches');  // 确保进入倒计时页
+    setPage('matches');
   }, []);
 
   return (
@@ -114,29 +114,85 @@ export default function App() {
 
       <div className="max-w-[560px] mx-auto pb-20 relative z-10">
         {/* Header */}
-        <header className="flex items-center justify-between px-4 py-4">
-          <h1 className="text-xl font-extrabold gold-gradient tracking-tight flex items-center gap-2">
-            MatchLens AI
-          </h1>
-          <div className="flex items-center gap-3">
-            <button
-              onClick={toggleTheme}
-              className="w-8 h-8 rounded-full bg-glass border border-glass-border flex items-center justify-center hover:border-gold/30 transition"
-              title={THEME_LABELS[theme]}
-            >
-              {theme === 'dark' ? (
-                <Moon className="w-4 h-4 text-gray-400" />
-              ) : theme === 'light' ? (
-                <Sun className="w-4 h-4 text-gold" />
-              ) : (
-                <Sparkles className="w-4 h-4 text-red" />
-              )}
-            </button>
-            <div className="pulse-dot">
-              <Wifi className="w-3 h-3" />
-              LIVE
+        <header className="sticky top-0 z-40 px-4 py-3 backdrop-blur-xl" style={{ background: 'rgba(8,9,10,0.8)' }}>
+          <div className="flex items-center justify-between">
+            <h1 className="text-lg font-bold gold-gradient tracking-tight flex items-center gap-2">
+              MatchLens AI
+            </h1>
+            <div className="flex items-center gap-2">
+              {/* 搜索按钮 */}
+              <button
+                onClick={() => setShowSearch(!showSearch)}
+                className="w-8 h-8 rounded-full flex items-center justify-center transition-all"
+                style={{ 
+                  background: showSearch ? 'rgba(255,213,79,0.1)' : 'rgba(255,255,255,0.03)',
+                  border: `1px solid ${showSearch ? 'rgba(255,213,79,0.3)' : 'rgba(255,255,255,0.06)'}`
+                }}
+              >
+                {showSearch ? (
+                  <X className="w-4 h-4 text-gold" />
+                ) : (
+                  <Search className="w-4 h-4 text-gray-400" />
+                )}
+              </button>
+              
+              {/* 主题切换 */}
+              <button
+                onClick={toggleTheme}
+                className="w-8 h-8 rounded-full flex items-center justify-center transition-all"
+                style={{ 
+                  background: 'rgba(255,255,255,0.03)',
+                  border: '1px solid rgba(255,255,255,0.06)'
+                }}
+                title={THEME_LABELS[theme]}
+              >
+                {theme === 'dark' ? (
+                  <Moon className="w-4 h-4 text-gray-400" />
+                ) : theme === 'light' ? (
+                  <Sun className="w-4 h-4 text-gold" />
+                ) : (
+                  <Sparkles className="w-4 h-4 text-red" />
+                )}
+              </button>
+              
+              {/* LIVE 指示 */}
+              <div className="pulse-dot">
+                <Wifi className="w-3 h-3" />
+                LIVE
+              </div>
             </div>
           </div>
+          
+          {/* 搜索栏 */}
+          <AnimatePresence>
+            {showSearch && (
+              <motion.div
+                initial={{ height: 0, opacity: 0 }}
+                animate={{ height: 'auto', opacity: 1 }}
+                exit={{ height: 0, opacity: 0 }}
+                transition={{ duration: 0.2 }}
+                className="overflow-hidden"
+              >
+                <div className="pt-3">
+                  <div className="relative">
+                    <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-500" />
+                    <input
+                      type="text"
+                      placeholder="搜索球队..."
+                      value={searchQuery}
+                      onChange={(e) => setSearchQuery(e.target.value)}
+                      className="w-full pl-10 pr-4 py-2.5 rounded-xl text-sm text-white placeholder-gray-500 outline-none transition-all"
+                      style={{ 
+                        background: 'rgba(255,255,255,0.04)',
+                        border: '1px solid rgba(255,255,255,0.08)'
+                      }}
+                      autoFocus
+                    />
+                  </div>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
         </header>
 
         {/* Countdown - 只在赛程页显示 */}
@@ -183,27 +239,51 @@ export default function App() {
               transition={{ duration: 0.2 }}
             >
               {/* Tabs */}
-              <div className="flex gap-1 bg-glass rounded-xl p-1 mx-4 mb-3 border border-glass-border">
+              <div className="flex gap-1 mx-4 mb-3 p-1 rounded-xl" style={{ background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.06)' }}>
                 {(['today', 'all'] as Tab[]).map((t) => (
                   <button
                     key={t}
                     onClick={() => setTab(t)}
                     className={`flex-1 text-center py-2.5 rounded-lg text-sm font-semibold transition-all ${
-                      tab === t ? 'bg-gold/10 text-gold' : 'text-gray-500 hover:text-gray-300'
+                      tab === t ? 'text-gold' : 'text-gray-500 hover:text-gray-300'
                     }`}
+                    style={tab === t ? { background: 'rgba(255,213,79,0.1)' } : {}}
                   >
                     {t === 'today' ? '今日' : '全部赛程'}
                   </button>
                 ))}
               </div>
 
-              {/* Search + Filter */}
-              <SearchBar
-                onSearch={setSearchQuery}
-                onFilterGroup={setFilterGroup}
-                activeGroup={filterGroup}
-                groups={allGroups}
-              />
+              {/* 筛选器 */}
+              <div className="flex gap-2 px-4 mb-3 overflow-x-auto scrollbar-hide">
+                <button
+                  onClick={() => setFilterGroup(null)}
+                  className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-all ${
+                    !filterGroup ? 'text-gold' : 'text-gray-500 hover:text-gray-300'
+                  }`}
+                  style={!filterGroup 
+                    ? { background: 'rgba(255,213,79,0.1)', border: '1px solid rgba(255,213,79,0.2)' }
+                    : { background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.06)' }
+                  }
+                >
+                  全部
+                </button>
+                {allGroups.map((g) => (
+                  <button
+                    key={g}
+                    onClick={() => setFilterGroup(filterGroup === g ? null : g)}
+                    className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-all ${
+                      filterGroup === g ? 'text-gold' : 'text-gray-500 hover:text-gray-300'
+                    }`}
+                    style={filterGroup === g 
+                      ? { background: 'rgba(255,213,79,0.1)', border: '1px solid rgba(255,213,79,0.2)' }
+                      : { background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.06)' }
+                    }
+                  >
+                    {g}组
+                  </button>
+                ))}
+              </div>
 
               {/* Matches */}
               <div className="px-4">
