@@ -9,6 +9,14 @@ reviewed_by: agent
 
 # Vault Changelog
 
+## [2026-06-07] feat | 赔率自动更新
+
+- ESPN API自带DraftKings赔率, 不需要单独的赔率API
+- fetch_scores.py: 拉取比分+赔率, 原地替换predictions.ts的PREDICTIONS数组
+- GROUP_PREDICTIONS(出线率)保留不动, 只更新单场胜/平/负概率
+- 72场全部有赔率: MEX -225(66.3%), KOR +165(36.1%), ARG -500(79.1%) 等
+- 赔率随比赛进展实时变化(博彩公司调整)
+
 ## [2026-06-07] feat | 实时比分管道
 
 - ESPN API (免费无限次) 替代 API-Football (免费版不支持2026)

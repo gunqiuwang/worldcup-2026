@@ -46,8 +46,9 @@ fetch_news.py (GitHub Action, 每2h)
 fetch_scores.py (GitHub Action, 每30min)
     ├── ESPN API (site.api.espn.com) → 免费无限次
     ├── 72场小组赛比分 + 状态(live/scheduled/finished)
+    ├── DraftKings赔率 → 原地替换predictions.ts
     ├── 积分榜(开赛后自动生成)
-    └── → public/live_scores.json + standings.json → 前端 useLiveScores hook
+    └── → live_scores.json + standings.json + predictions.ts
 ```
 
 ## Component Architecture
