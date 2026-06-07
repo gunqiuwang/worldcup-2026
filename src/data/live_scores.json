@@ -1,0 +1,1302 @@
+{
+  "updated_at": "2026-06-07T14:28:51.291413+00:00",
+  "count": 72,
+  "matches": [
+    {
+      "espn_id": "760415",
+      "date": "2026-06-11T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "MEX",
+        "name": "墨西哥",
+        "score": null
+      },
+      "away": {
+        "abbr": "RSA",
+        "name": "南非",
+        "score": null
+      },
+      "venue": "Estadio Banorte"
+    },
+    {
+      "espn_id": "760414",
+      "date": "2026-06-12T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "KOR",
+        "name": "韩国",
+        "score": null
+      },
+      "away": {
+        "abbr": "CZE",
+        "name": "捷克",
+        "score": null
+      },
+      "venue": "Estadio Akron"
+    },
+    {
+      "espn_id": "760416",
+      "date": "2026-06-12T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CAN",
+        "name": "加拿大",
+        "score": null
+      },
+      "away": {
+        "abbr": "BIH",
+        "name": "波黑",
+        "score": null
+      },
+      "venue": "BMO Field"
+    },
+    {
+      "espn_id": "760417",
+      "date": "2026-06-13T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "USA",
+        "name": "美国",
+        "score": null
+      },
+      "away": {
+        "abbr": "PAR",
+        "name": "巴拉圭",
+        "score": null
+      },
+      "venue": "SoFi Stadium"
+    },
+    {
+      "espn_id": "760420",
+      "date": "2026-06-13T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "QAT",
+        "name": "卡塔尔",
+        "score": null
+      },
+      "away": {
+        "abbr": "SUI",
+        "name": "瑞士",
+        "score": null
+      },
+      "venue": "Levi's Stadium"
+    },
+    {
+      "espn_id": "760419",
+      "date": "2026-06-13T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "BRA",
+        "name": "巴西",
+        "score": null
+      },
+      "away": {
+        "abbr": "MAR",
+        "name": "摩洛哥",
+        "score": null
+      },
+      "venue": "MetLife Stadium"
+    },
+    {
+      "espn_id": "760418",
+      "date": "2026-06-14T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "HAI",
+        "name": "海地",
+        "score": null
+      },
+      "away": {
+        "abbr": "SCO",
+        "name": "苏格兰",
+        "score": null
+      },
+      "venue": "Gillette Stadium"
+    },
+    {
+      "espn_id": "760421",
+      "date": "2026-06-14T04:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "AUS",
+        "name": "澳大利亚",
+        "score": null
+      },
+      "away": {
+        "abbr": "TUR",
+        "name": "土耳其",
+        "score": null
+      },
+      "venue": "BC Place"
+    },
+    {
+      "espn_id": "760422",
+      "date": "2026-06-14T17:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "GER",
+        "name": "德国",
+        "score": null
+      },
+      "away": {
+        "abbr": "CUW",
+        "name": "库拉索",
+        "score": null
+      },
+      "venue": "NRG Stadium"
+    },
+    {
+      "espn_id": "760425",
+      "date": "2026-06-14T20:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "NED",
+        "name": "荷兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "JPN",
+        "name": "日本",
+        "score": null
+      },
+      "venue": "AT&T Stadium"
+    },
+    {
+      "espn_id": "760423",
+      "date": "2026-06-14T23:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CIV",
+        "name": "科特迪瓦",
+        "score": null
+      },
+      "away": {
+        "abbr": "ECU",
+        "name": "厄瓜多尔",
+        "score": null
+      },
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "espn_id": "760424",
+      "date": "2026-06-15T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "SWE",
+        "name": "瑞典",
+        "score": null
+      },
+      "away": {
+        "abbr": "TUN",
+        "name": "突尼斯",
+        "score": null
+      },
+      "venue": "Estadio BBVA"
+    },
+    {
+      "espn_id": "760428",
+      "date": "2026-06-15T16:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ESP",
+        "name": "西班牙",
+        "score": null
+      },
+      "away": {
+        "abbr": "CPV",
+        "name": "Cape Verde",
+        "score": null
+      },
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "espn_id": "760426",
+      "date": "2026-06-15T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "BEL",
+        "name": "比利时",
+        "score": null
+      },
+      "away": {
+        "abbr": "EGY",
+        "name": "埃及",
+        "score": null
+      },
+      "venue": "Lumen Field"
+    },
+    {
+      "espn_id": "760429",
+      "date": "2026-06-15T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "KSA",
+        "name": "沙特",
+        "score": null
+      },
+      "away": {
+        "abbr": "URU",
+        "name": "乌拉圭",
+        "score": null
+      },
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "espn_id": "760427",
+      "date": "2026-06-16T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "IRN",
+        "name": "伊朗",
+        "score": null
+      },
+      "away": {
+        "abbr": "NZL",
+        "name": "新西兰",
+        "score": null
+      },
+      "venue": "SoFi Stadium"
+    },
+    {
+      "espn_id": "760432",
+      "date": "2026-06-16T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "FRA",
+        "name": "法国",
+        "score": null
+      },
+      "away": {
+        "abbr": "SEN",
+        "name": "塞内加尔",
+        "score": null
+      },
+      "venue": "MetLife Stadium"
+    },
+    {
+      "espn_id": "760430",
+      "date": "2026-06-16T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "IRQ",
+        "name": "伊拉克",
+        "score": null
+      },
+      "away": {
+        "abbr": "NOR",
+        "name": "挪威",
+        "score": null
+      },
+      "venue": "Gillette Stadium"
+    },
+    {
+      "espn_id": "760433",
+      "date": "2026-06-17T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ARG",
+        "name": "阿根廷",
+        "score": null
+      },
+      "away": {
+        "abbr": "ALG",
+        "name": "阿尔及利亚",
+        "score": null
+      },
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "espn_id": "760431",
+      "date": "2026-06-17T04:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "AUT",
+        "name": "奥地利",
+        "score": null
+      },
+      "away": {
+        "abbr": "JOR",
+        "name": "约旦",
+        "score": null
+      },
+      "venue": "Levi's Stadium"
+    },
+    {
+      "espn_id": "760435",
+      "date": "2026-06-17T17:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "POR",
+        "name": "葡萄牙",
+        "score": null
+      },
+      "away": {
+        "abbr": "COD",
+        "name": "Congo DR",
+        "score": null
+      },
+      "venue": "NRG Stadium"
+    },
+    {
+      "espn_id": "760437",
+      "date": "2026-06-17T20:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ENG",
+        "name": "英格兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "CRO",
+        "name": "克罗地亚",
+        "score": null
+      },
+      "venue": "AT&T Stadium"
+    },
+    {
+      "espn_id": "760434",
+      "date": "2026-06-17T23:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "GHA",
+        "name": "加纳",
+        "score": null
+      },
+      "away": {
+        "abbr": "PAN",
+        "name": "巴拿马",
+        "score": null
+      },
+      "venue": "BMO Field"
+    },
+    {
+      "espn_id": "760436",
+      "date": "2026-06-18T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "UZB",
+        "name": "乌兹别克斯坦",
+        "score": null
+      },
+      "away": {
+        "abbr": "COL",
+        "name": "哥伦比亚",
+        "score": null
+      },
+      "venue": "Estadio Banorte"
+    },
+    {
+      "espn_id": "760438",
+      "date": "2026-06-18T16:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CZE",
+        "name": "捷克",
+        "score": null
+      },
+      "away": {
+        "abbr": "RSA",
+        "name": "南非",
+        "score": null
+      },
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "espn_id": "760439",
+      "date": "2026-06-18T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "SUI",
+        "name": "瑞士",
+        "score": null
+      },
+      "away": {
+        "abbr": "BIH",
+        "name": "波黑",
+        "score": null
+      },
+      "venue": "SoFi Stadium"
+    },
+    {
+      "espn_id": "760440",
+      "date": "2026-06-18T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CAN",
+        "name": "加拿大",
+        "score": null
+      },
+      "away": {
+        "abbr": "QAT",
+        "name": "卡塔尔",
+        "score": null
+      },
+      "venue": "BC Place"
+    },
+    {
+      "espn_id": "760441",
+      "date": "2026-06-19T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "MEX",
+        "name": "墨西哥",
+        "score": null
+      },
+      "away": {
+        "abbr": "KOR",
+        "name": "韩国",
+        "score": null
+      },
+      "venue": "Estadio Akron"
+    },
+    {
+      "espn_id": "760442",
+      "date": "2026-06-19T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "USA",
+        "name": "美国",
+        "score": null
+      },
+      "away": {
+        "abbr": "AUS",
+        "name": "澳大利亚",
+        "score": null
+      },
+      "venue": "Lumen Field"
+    },
+    {
+      "espn_id": "760445",
+      "date": "2026-06-19T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "SCO",
+        "name": "苏格兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "MAR",
+        "name": "摩洛哥",
+        "score": null
+      },
+      "venue": "Gillette Stadium"
+    },
+    {
+      "espn_id": "760444",
+      "date": "2026-06-20T00:30Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "BRA",
+        "name": "巴西",
+        "score": null
+      },
+      "away": {
+        "abbr": "HAI",
+        "name": "海地",
+        "score": null
+      },
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "espn_id": "760443",
+      "date": "2026-06-20T03:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "TUR",
+        "name": "土耳其",
+        "score": null
+      },
+      "away": {
+        "abbr": "PAR",
+        "name": "巴拉圭",
+        "score": null
+      },
+      "venue": "Levi's Stadium"
+    },
+    {
+      "espn_id": "760447",
+      "date": "2026-06-20T17:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "NED",
+        "name": "荷兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "SWE",
+        "name": "瑞典",
+        "score": null
+      },
+      "venue": "NRG Stadium"
+    },
+    {
+      "espn_id": "760448",
+      "date": "2026-06-20T20:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "GER",
+        "name": "德国",
+        "score": null
+      },
+      "away": {
+        "abbr": "CIV",
+        "name": "科特迪瓦",
+        "score": null
+      },
+      "venue": "BMO Field"
+    },
+    {
+      "espn_id": "760446",
+      "date": "2026-06-21T00:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ECU",
+        "name": "厄瓜多尔",
+        "score": null
+      },
+      "away": {
+        "abbr": "CUW",
+        "name": "库拉索",
+        "score": null
+      },
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "espn_id": "760449",
+      "date": "2026-06-21T04:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "TUN",
+        "name": "突尼斯",
+        "score": null
+      },
+      "away": {
+        "abbr": "JPN",
+        "name": "日本",
+        "score": null
+      },
+      "venue": "Estadio BBVA"
+    },
+    {
+      "espn_id": "760453",
+      "date": "2026-06-21T16:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ESP",
+        "name": "西班牙",
+        "score": null
+      },
+      "away": {
+        "abbr": "KSA",
+        "name": "沙特",
+        "score": null
+      },
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "espn_id": "760451",
+      "date": "2026-06-21T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "BEL",
+        "name": "比利时",
+        "score": null
+      },
+      "away": {
+        "abbr": "IRN",
+        "name": "伊朗",
+        "score": null
+      },
+      "venue": "SoFi Stadium"
+    },
+    {
+      "espn_id": "760450",
+      "date": "2026-06-21T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "URU",
+        "name": "乌拉圭",
+        "score": null
+      },
+      "away": {
+        "abbr": "CPV",
+        "name": "Cape Verde",
+        "score": null
+      },
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "espn_id": "760452",
+      "date": "2026-06-22T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "NZL",
+        "name": "新西兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "EGY",
+        "name": "埃及",
+        "score": null
+      },
+      "venue": "BC Place"
+    },
+    {
+      "espn_id": "760456",
+      "date": "2026-06-22T17:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ARG",
+        "name": "阿根廷",
+        "score": null
+      },
+      "away": {
+        "abbr": "AUT",
+        "name": "奥地利",
+        "score": null
+      },
+      "venue": "AT&T Stadium"
+    },
+    {
+      "espn_id": "760457",
+      "date": "2026-06-22T21:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "FRA",
+        "name": "法国",
+        "score": null
+      },
+      "away": {
+        "abbr": "IRQ",
+        "name": "伊拉克",
+        "score": null
+      },
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "espn_id": "760454",
+      "date": "2026-06-23T00:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "NOR",
+        "name": "挪威",
+        "score": null
+      },
+      "away": {
+        "abbr": "SEN",
+        "name": "塞内加尔",
+        "score": null
+      },
+      "venue": "MetLife Stadium"
+    },
+    {
+      "espn_id": "760455",
+      "date": "2026-06-23T03:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "JOR",
+        "name": "约旦",
+        "score": null
+      },
+      "away": {
+        "abbr": "ALG",
+        "name": "阿尔及利亚",
+        "score": null
+      },
+      "venue": "Levi's Stadium"
+    },
+    {
+      "espn_id": "760461",
+      "date": "2026-06-23T17:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "POR",
+        "name": "葡萄牙",
+        "score": null
+      },
+      "away": {
+        "abbr": "UZB",
+        "name": "乌兹别克斯坦",
+        "score": null
+      },
+      "venue": "NRG Stadium"
+    },
+    {
+      "espn_id": "760458",
+      "date": "2026-06-23T20:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ENG",
+        "name": "英格兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "GHA",
+        "name": "加纳",
+        "score": null
+      },
+      "venue": "Gillette Stadium"
+    },
+    {
+      "espn_id": "760460",
+      "date": "2026-06-23T23:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "PAN",
+        "name": "巴拿马",
+        "score": null
+      },
+      "away": {
+        "abbr": "CRO",
+        "name": "克罗地亚",
+        "score": null
+      },
+      "venue": "BMO Field"
+    },
+    {
+      "espn_id": "760459",
+      "date": "2026-06-24T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "COL",
+        "name": "哥伦比亚",
+        "score": null
+      },
+      "away": {
+        "abbr": "COD",
+        "name": "Congo DR",
+        "score": null
+      },
+      "venue": "Estadio Akron"
+    },
+    {
+      "espn_id": "760462",
+      "date": "2026-06-24T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "BIH",
+        "name": "波黑",
+        "score": null
+      },
+      "away": {
+        "abbr": "QAT",
+        "name": "卡塔尔",
+        "score": null
+      },
+      "venue": "Lumen Field"
+    },
+    {
+      "espn_id": "760463",
+      "date": "2026-06-24T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "SUI",
+        "name": "瑞士",
+        "score": null
+      },
+      "away": {
+        "abbr": "CAN",
+        "name": "加拿大",
+        "score": null
+      },
+      "venue": "BC Place"
+    },
+    {
+      "espn_id": "760464",
+      "date": "2026-06-24T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "MAR",
+        "name": "摩洛哥",
+        "score": null
+      },
+      "away": {
+        "abbr": "HAI",
+        "name": "海地",
+        "score": null
+      },
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "espn_id": "760465",
+      "date": "2026-06-24T22:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "SCO",
+        "name": "苏格兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "BRA",
+        "name": "巴西",
+        "score": null
+      },
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "espn_id": "760467",
+      "date": "2026-06-25T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CZE",
+        "name": "捷克",
+        "score": null
+      },
+      "away": {
+        "abbr": "MEX",
+        "name": "墨西哥",
+        "score": null
+      },
+      "venue": "Estadio Banorte"
+    },
+    {
+      "espn_id": "760466",
+      "date": "2026-06-25T01:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "RSA",
+        "name": "南非",
+        "score": null
+      },
+      "away": {
+        "abbr": "KOR",
+        "name": "韩国",
+        "score": null
+      },
+      "venue": "Estadio BBVA"
+    },
+    {
+      "espn_id": "760473",
+      "date": "2026-06-25T20:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CUW",
+        "name": "库拉索",
+        "score": null
+      },
+      "away": {
+        "abbr": "CIV",
+        "name": "科特迪瓦",
+        "score": null
+      },
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "espn_id": "760468",
+      "date": "2026-06-25T20:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ECU",
+        "name": "厄瓜多尔",
+        "score": null
+      },
+      "away": {
+        "abbr": "GER",
+        "name": "德国",
+        "score": null
+      },
+      "venue": "MetLife Stadium"
+    },
+    {
+      "espn_id": "760471",
+      "date": "2026-06-25T23:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "JPN",
+        "name": "日本",
+        "score": null
+      },
+      "away": {
+        "abbr": "SWE",
+        "name": "瑞典",
+        "score": null
+      },
+      "venue": "AT&T Stadium"
+    },
+    {
+      "espn_id": "760472",
+      "date": "2026-06-25T23:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "TUN",
+        "name": "突尼斯",
+        "score": null
+      },
+      "away": {
+        "abbr": "NED",
+        "name": "荷兰",
+        "score": null
+      },
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "espn_id": "760469",
+      "date": "2026-06-26T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "PAR",
+        "name": "巴拉圭",
+        "score": null
+      },
+      "away": {
+        "abbr": "AUS",
+        "name": "澳大利亚",
+        "score": null
+      },
+      "venue": "Levi's Stadium"
+    },
+    {
+      "espn_id": "760470",
+      "date": "2026-06-26T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "TUR",
+        "name": "土耳其",
+        "score": null
+      },
+      "away": {
+        "abbr": "USA",
+        "name": "美国",
+        "score": null
+      },
+      "venue": "SoFi Stadium"
+    },
+    {
+      "espn_id": "760475",
+      "date": "2026-06-26T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "NOR",
+        "name": "挪威",
+        "score": null
+      },
+      "away": {
+        "abbr": "FRA",
+        "name": "法国",
+        "score": null
+      },
+      "venue": "Gillette Stadium"
+    },
+    {
+      "espn_id": "760474",
+      "date": "2026-06-26T19:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "SEN",
+        "name": "塞内加尔",
+        "score": null
+      },
+      "away": {
+        "abbr": "IRQ",
+        "name": "伊拉克",
+        "score": null
+      },
+      "venue": "BMO Field"
+    },
+    {
+      "espn_id": "760478",
+      "date": "2026-06-27T00:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CPV",
+        "name": "Cape Verde",
+        "score": null
+      },
+      "away": {
+        "abbr": "KSA",
+        "name": "沙特",
+        "score": null
+      },
+      "venue": "NRG Stadium"
+    },
+    {
+      "espn_id": "760479",
+      "date": "2026-06-27T00:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "URU",
+        "name": "乌拉圭",
+        "score": null
+      },
+      "away": {
+        "abbr": "ESP",
+        "name": "西班牙",
+        "score": null
+      },
+      "venue": "Estadio Akron"
+    },
+    {
+      "espn_id": "760476",
+      "date": "2026-06-27T03:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "EGY",
+        "name": "埃及",
+        "score": null
+      },
+      "away": {
+        "abbr": "IRN",
+        "name": "伊朗",
+        "score": null
+      },
+      "venue": "Lumen Field"
+    },
+    {
+      "espn_id": "760477",
+      "date": "2026-06-27T03:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "NZL",
+        "name": "新西兰",
+        "score": null
+      },
+      "away": {
+        "abbr": "BEL",
+        "name": "比利时",
+        "score": null
+      },
+      "venue": "BC Place"
+    },
+    {
+      "espn_id": "760480",
+      "date": "2026-06-27T21:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "CRO",
+        "name": "克罗地亚",
+        "score": null
+      },
+      "away": {
+        "abbr": "GHA",
+        "name": "加纳",
+        "score": null
+      },
+      "venue": "Lincoln Financial Field"
+    },
+    {
+      "espn_id": "760485",
+      "date": "2026-06-27T21:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "PAN",
+        "name": "巴拿马",
+        "score": null
+      },
+      "away": {
+        "abbr": "ENG",
+        "name": "英格兰",
+        "score": null
+      },
+      "venue": "MetLife Stadium"
+    },
+    {
+      "espn_id": "760481",
+      "date": "2026-06-27T23:30Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "COL",
+        "name": "哥伦比亚",
+        "score": null
+      },
+      "away": {
+        "abbr": "POR",
+        "name": "葡萄牙",
+        "score": null
+      },
+      "venue": "Hard Rock Stadium"
+    },
+    {
+      "espn_id": "760482",
+      "date": "2026-06-27T23:30Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "COD",
+        "name": "Congo DR",
+        "score": null
+      },
+      "away": {
+        "abbr": "UZB",
+        "name": "乌兹别克斯坦",
+        "score": null
+      },
+      "venue": "Mercedes-Benz Stadium"
+    },
+    {
+      "espn_id": "760484",
+      "date": "2026-06-28T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "ALG",
+        "name": "阿尔及利亚",
+        "score": null
+      },
+      "away": {
+        "abbr": "AUT",
+        "name": "奥地利",
+        "score": null
+      },
+      "venue": "GEHA Field at Arrowhead Stadium"
+    },
+    {
+      "espn_id": "760483",
+      "date": "2026-06-28T02:00Z",
+      "status": "scheduled",
+      "status_detail": "Scheduled",
+      "elapsed": null,
+      "home": {
+        "abbr": "JOR",
+        "name": "约旦",
+        "score": null
+      },
+      "away": {
+        "abbr": "ARG",
+        "name": "阿根廷",
+        "score": null
+      },
+      "venue": "AT&T Stadium"
+    }
+  ]
+}
