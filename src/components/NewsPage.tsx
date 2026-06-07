@@ -103,7 +103,7 @@ function NewsCard({ news, index }: { news: NewsItem; index: number }) {
             {news.time}
           </div>
           <div className="text-[10px] text-gray-500">
-            来源: {news.source}
+            {news.source === "懂球帝" || news.source === "直播吧" ? "🇨🇳" : "🇬🇧"} {news.source}
           </div>
         </div>
         <ExternalLink className="w-3.5 h-3.5 text-gray-500 group-hover:text-gold transition-colors" />
@@ -240,7 +240,7 @@ export default function NewsPage() {
       {/* 底部信息 */}
       <div className="text-center py-4">
         <p className="text-[10px] text-gray-600 mb-1">
-          数据源: ESPN + BBC Sport | 每2小时自动更新
+          数据源: 懂球帝 + 直播吧 + ESPN + BBC | 每小时自动更新
         </p>
         <button
           onClick={handleRefresh}

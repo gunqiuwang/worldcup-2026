@@ -89,8 +89,7 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
               <tr className="text-gray-500 uppercase tracking-wider">
                 <th className="text-left py-1">球队</th>
                 <th className="text-center py-1 px-0.5">预测分</th>
-                <th className="text-center py-1 px-0.5">进球</th>
-                <th className="text-center py-1 px-0.5">失球</th>
+                
                 <th className="text-center py-1 font-bold text-gold">出线%</th>
               </tr>
             </thead>
@@ -105,8 +104,7 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
                       <span className="font-medium">{t.cn}</span>
                     </td>
                     <td className="text-center text-gray-400">{tp.avg_points.toFixed(1)}</td>
-                    <td className="text-center text-gray-400">{tp.avg_gf.toFixed(1)}</td>
-                    <td className="text-center text-gray-400">{tp.avg_ga.toFixed(1)}</td>
+                    
                     <td className="text-center font-extrabold text-gold">{tp.advancement_pct}%</td>
                   </tr>
                 );

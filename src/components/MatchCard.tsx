@@ -89,7 +89,7 @@ export default function MatchCard({ match, index, onClick }: Props) {
           </div>
           <div className="flex items-center gap-1 text-[10px] text-gray-500 mt-0.5">
             <MapPin className="w-3 h-3" />
-            {match.venue}{match.city ? ` · ${match.city}` : ''}
+            {match.venue}
           </div>
         </div>
         <div className="flex gap-1.5">
