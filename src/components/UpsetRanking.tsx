@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { AlertTriangle, Flame, ChevronRight } from 'lucide-react';
 import { TEAMS } from '../data/teams';
-import { ENSEMBLE_PREDICTIONS } from '../data/ensemble_predictions';
+import { PREDICTIONS } from '../data/predictions';
 import Flag from './Flag';
 import { useMemo } from 'react';
 
@@ -14,7 +14,6 @@ interface UpsetMatch {
   homeProb: number;
   awayProb: number;
   upsetIndex: number;
-  date: string;
   level: 'high' | 'medium' | 'low';
 }
 
@@ -22,8 +21,11 @@ export default function UpsetRanking() {
   const upsetMatches = useMemo(() => {
     const results: UpsetMatch[] = [];
 
-    for (const pred of ENSEMBLE_PREDICTIONS) {
-      if (pred.upset_index < 40) continue;
+    for (const pred of PREDICTIONS) {
+      const diff = Math.abs(pred.home_win - pred.away_win);
+      // 爆冷指数：差距越小越容易爆冷
+      const upsetIndex = Math.round(Math.max(0, 100 - diff * 2));
+      if (upsetIndex < 60) continue;
 
       const homeTeam = TEAMS[pred.home];
       const awayTeam = TEAMS[pred.away];
@@ -36,9 +38,8 @@ export default function UpsetRanking() {
         awayName: awayTeam?.cn || pred.away,
         homeProb: pred.home_win,
         awayProb: pred.away_win,
-        upsetIndex: pred.upset_index,
-        date: '',
-        level: pred.upset_index >= 70 ? 'high' : pred.upset_index >= 55 ? 'medium' : 'low',
+        upsetIndex,
+        level: upsetIndex >= 80 ? 'high' : upsetIndex >= 70 ? 'medium' : 'low',
       });
     }
 
@@ -52,22 +53,17 @@ export default function UpsetRanking() {
   };
 
   return (
-    <motion.div
-      initial={{ opacity: 0, y: 20 }}
-      animate={{ opacity: 1, y: 0 }}
-      className="glass-card p-4 mb-3"
-    >
+    <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="glass-card p-4 mb-3">
       <div className="flex items-center gap-2 mb-4">
         <div className="w-8 h-8 rounded-xl bg-red/10 flex items-center justify-center">
           <AlertTriangle className="w-4 h-4 text-red" />
         </div>
         <div>
           <h3 className="text-sm font-bold">爆冷预警</h3>
-          <p className="text-[10px] text-gray-500">集成模型识别的潜在冷门</p>
+          <p className="text-[10px] text-gray-500">赔率接近的比赛</p>
         </div>
         <Flame className="w-4 h-4 text-red ml-auto" />
       </div>
-
       <div className="space-y-2">
         {upsetMatches.map((m, i) => {
           const colors = levelColors[m.level];
@@ -85,9 +81,7 @@ export default function UpsetRanking() {
                 <div className="text-xs font-semibold">
                   {m.homeName} <span className="text-gray-500">vs</span> {m.awayName}
                 </div>
-                <div className="text-[10px] text-gray-500">
-                  {m.homeProb}% - {m.awayProb}%
-                </div>
+                <div className="text-[10px] text-gray-500">{m.homeProb}% - {m.awayProb}%</div>
               </div>
               <div className="flex flex-col items-end gap-0.5 flex-shrink-0">
                 <div className={`text-xs font-bold ${colors.text}`}>{m.upsetIndex}</div>

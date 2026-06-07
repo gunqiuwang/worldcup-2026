@@ -2,19 +2,23 @@ import { motion } from 'framer-motion';
 import { ArrowUpCircle, Shield } from 'lucide-react';
 import { GROUPS, TEAMS } from '../data/teams';
 import { GROUP_PREDICTIONS } from '../data/predictions';
-import { getTeamForm } from '../data/team_form';
-import { getEloRating, getEloTier, getEloTierColor } from '../data/elo_ratings';
 import Flag from './Flag';
 import RingChart from './RingChart';
 import { SoccerBall } from './Icons';
 import KnockoutPredict from './KnockoutPredict';
 import ErrorBoundary from './ErrorBoundary';
 
+const TIER_COLORS: Record<string, string> = {
+  S: 'text-red-400',
+  A: 'text-gold',
+  B: 'text-blue-400',
+  C: 'text-gray-500',
+};
+
 function GroupTable({ group, teams }: { group: string; teams: string[] }) {
   const pred = GROUP_PREDICTIONS[group];
-  
-  // 按出线概率排序
-  const sortedTeams = pred 
+
+  const sortedTeams = pred
     ? [...pred.teams].sort((a, b) => b.advancement_pct - a.advancement_pct)
     : teams.map((t, i) => ({ team: t, advancement_pct: i < 2 ? 70 : 30 }));
 
@@ -37,9 +41,6 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
           if (!t) return null;
           const qualify = i < 2;
           const prob = tp.advancement_pct;
-          const form = getTeamForm(abbr);
-          const elo = getEloRating(abbr);
-          const eloTier = elo ? getEloTier(elo.elo) : '-';
 
           return (
             <motion.div
@@ -59,20 +60,16 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
                 <div className="text-sm font-semibold">{t.cn}</div>
                 <div className="flex items-center gap-2">
                   <span className="text-[10px] text-gray-500">FIFA #{t.fifa_rank}</span>
-                  {elo && (
-                    <span className={`text-[10px] font-bold ${getEloTierColor(eloTier)}`}>
-                      {eloTier}
-                    </span>
-                  )}
-                  {form && (
-                    <span className={`text-[10px] ${
-                      form.form_score >= 80 ? 'text-green' :
-                      form.form_score >= 60 ? 'text-gold' :
-                      'text-gray-500'
-                    }`}>
-                      {form.form_score}分
-                    </span>
-                  )}
+                  <span className={`text-[10px] font-bold ${TIER_COLORS[t.tier]}`}>
+                    {t.tier}
+                  </span>
+                  <span className={`text-[10px] ${
+                    t.trend === '↑' ? 'text-green' :
+                    t.trend === '↓' ? 'text-red-400' :
+                    'text-gray-500'
+                  }`}>
+                    {t.trend}
+                  </span>
                 </div>
               </div>
               <RingChart value={prob} size={40} strokeWidth={3} color={qualify ? '#00E676' : '#5F6368'} showValue={false} />
@@ -108,8 +105,8 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
                       <span className="font-medium">{t.cn}</span>
                     </td>
                     <td className="text-center text-gray-400">{tp.avg_points.toFixed(1)}</td>
-                    <td className="text-center text-gray-400">{tp.avg_goals_for.toFixed(1)}</td>
-                    <td className="text-center text-gray-400">{tp.avg_goals_against.toFixed(1)}</td>
+                    <td className="text-center text-gray-400">{tp.avg_gf.toFixed(1)}</td>
+                    <td className="text-center text-gray-400">{tp.avg_ga.toFixed(1)}</td>
                     <td className="text-center font-extrabold text-gold">{tp.advancement_pct}%</td>
                   </tr>
                 );
@@ -134,7 +131,6 @@ export default function GroupStandings() {
       {groups.map((g) => (
         <GroupTable key={g} group={g} teams={GROUPS[g]} />
       ))}
-      {/* 淘汰赛预测 */}
       <ErrorBoundary fallback={<div className="glass-card p-4 text-center text-gray-500 text-sm">淘汰赛预测加载中...</div>}>
         <KnockoutPredict />
       </ErrorBoundary>

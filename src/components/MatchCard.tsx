@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Clock, MapPin, Zap, CheckCircle2, Calendar } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
-import { getEnsemblePrediction } from '../data/ensemble_predictions';
+import { getPrediction } from '../data/predictions';
 import Flag from './Flag';
 
 function formatTime(iso: string) {
@@ -63,7 +63,7 @@ export default function MatchCard({ match, index, onClick }: Props) {
   const showScore = match.status === 'live' || match.status === 'finished';
   
   // 优先使用集成预测
-  const pred = getEnsemblePrediction(match.id);
+  const pred = getPrediction(match.id);
   const homeProb = pred?.home_win || match.odds?.home_win_prob || 0;
   const drawProb = pred?.draw || match.odds?.draw_prob || 0;
   const awayProb = pred?.away_win || match.odds?.away_win_prob || 0;
@@ -100,11 +100,11 @@ export default function MatchCard({ match, index, onClick }: Props) {
           )}
           {pred && (
             <span className={`px-2 py-0.5 rounded-full text-[10px] font-semibold ${
-              pred.confidence === 'high' ? 'bg-green/20 text-green' :
-              pred.confidence === 'medium' ? 'bg-gold/20 text-gold' :
+              Math.abs(pred.home_win - pred.away_win) > 20 ? 'bg-green/20 text-green' :
+              Math.abs(pred.home_win - pred.away_win) > 10 ? 'bg-gold/20 text-gold' :
               'bg-gray-500/20 text-gray-400'
             }`}>
-              {pred.confidence === 'high' ? '高置信' : pred.confidence === 'medium' ? '中置信' : '低置信'}
+              {Math.abs(pred.home_win - pred.away_win) > 20 ? '差距明显' : Math.abs(pred.home_win - pred.away_win) > 10 ? '小有差距' : '势均力敌'}
             </span>
           )}
           <StatusBadge status={match.status} />
@@ -170,11 +170,11 @@ export default function MatchCard({ match, index, onClick }: Props) {
       )}
 
       {/* 爆冷预警 */}
-      {pred && pred.upset_index > 60 && (
+      {pred && Math.abs(pred.home_win - pred.away_win) < 15 && (
         <div className="mt-2 flex items-center gap-1">
-          <span className="text-[10px] text-red">🔥 爆冷指数 {pred.upset_index}</span>
+          <span className="text-[10px] text-red">🔥 爆冷指数 {Math.round(100 - Math.abs(pred.home_win - pred.away_win) * 2)}</span>
           <div className="flex-1 h-0.5 rounded-full bg-white/10 overflow-hidden">
-            <div className="h-full bg-red rounded-full" style={{ width: `${pred.upset_index}%` }} />
+            <div className="h-full bg-red rounded-full" style={{ width: `${Math.round(100 - Math.abs(pred.home_win - pred.away_win) * 2)}%` }} />
           </div>
         </div>
       )}

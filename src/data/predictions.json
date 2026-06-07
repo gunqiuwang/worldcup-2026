@@ -6,8 +6,6 @@
     "home_win": 63.9,
     "draw": 17.6,
     "away_win": 18.5,
-    "confidence": "high",
-    "upset_index": 63,
     "details": "MEX -215"
   },
   {
@@ -17,8 +15,6 @@
     "home_win": 56.1,
     "draw": 18.7,
     "away_win": 25.1,
-    "confidence": "high",
-    "upset_index": 49,
     "details": "KOR +165"
   },
   {
@@ -28,8 +24,6 @@
     "home_win": 53.0,
     "draw": 20.3,
     "away_win": 26.7,
-    "confidence": "medium",
-    "upset_index": 46,
     "details": "CAN -120"
   },
   {
@@ -39,8 +33,6 @@
     "home_win": 55.7,
     "draw": 20.3,
     "away_win": 24.0,
-    "confidence": "high",
-    "upset_index": 52,
     "details": "USA +100"
   },
   {
@@ -50,8 +42,6 @@
     "home_win": 37.5,
     "draw": 17.6,
     "away_win": 44.9,
-    "confidence": "low",
-    "upset_index": 25,
     "details": "SUI -400"
   },
   {
@@ -61,8 +51,6 @@
     "home_win": 53.4,
     "draw": 18.7,
     "away_win": 27.9,
-    "confidence": "medium",
-    "upset_index": 44,
     "details": "BRA -165"
   },
   {
@@ -72,8 +60,6 @@
     "home_win": 33.2,
     "draw": 17.6,
     "away_win": 49.1,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "SCO -220"
   },
   {
@@ -83,8 +69,6 @@
     "home_win": 45.5,
     "draw": 19.5,
     "away_win": 35.0,
-    "confidence": "medium",
-    "upset_index": 30,
     "details": "TUR -125"
   },
   {
@@ -94,8 +78,6 @@
     "home_win": 73.8,
     "draw": 17.6,
     "away_win": 8.5,
-    "confidence": "high",
-    "upset_index": 83,
     "details": "GER -5000"
   },
   {
@@ -105,8 +87,6 @@
     "home_win": 50.9,
     "draw": 20.3,
     "away_win": 28.8,
-    "confidence": "medium",
-    "upset_index": 42,
     "details": "NED +100"
   },
   {
@@ -116,8 +96,6 @@
     "home_win": 37.5,
     "draw": 19.5,
     "away_win": 43.0,
-    "confidence": "low",
-    "upset_index": 25,
     "details": "ECU +135"
   },
   {
@@ -127,8 +105,6 @@
     "home_win": 50.5,
     "draw": 20.3,
     "away_win": 29.2,
-    "confidence": "medium",
-    "upset_index": 41,
     "details": "SWE -105"
   },
   {
@@ -138,8 +114,6 @@
     "home_win": 71.7,
     "draw": 17.6,
     "away_win": 10.6,
-    "confidence": "high",
-    "upset_index": 78,
     "details": "ESP -1200"
   },
   {
@@ -149,8 +123,6 @@
     "home_win": 59.2,
     "draw": 18.7,
     "away_win": 22.1,
-    "confidence": "high",
-    "upset_index": 55,
     "details": "BEL -155"
   },
   {
@@ -160,8 +132,6 @@
     "home_win": 30.8,
     "draw": 17.6,
     "away_win": 51.6,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "URU -205"
   },
   {
@@ -171,8 +141,6 @@
     "home_win": 58.3,
     "draw": 19.5,
     "away_win": 22.2,
-    "confidence": "high",
-    "upset_index": 55,
     "details": "IRN -125"
   },
   {
@@ -182,8 +150,6 @@
     "home_win": 59.5,
     "draw": 17.6,
     "away_win": 22.8,
-    "confidence": "high",
-    "upset_index": 54,
     "details": "FRA -220"
   },
   {
@@ -193,8 +159,6 @@
     "home_win": 43.6,
     "draw": 17.6,
     "away_win": 38.8,
-    "confidence": "low",
-    "upset_index": 22,
     "details": "NOR -475"
   },
   {
@@ -204,8 +168,6 @@
     "home_win": 64.7,
     "draw": 17.6,
     "away_win": 17.6,
-    "confidence": "high",
-    "upset_index": 64,
     "details": "ARG -230"
   },
   {
@@ -215,8 +177,6 @@
     "home_win": 65.1,
     "draw": 17.6,
     "away_win": 17.3,
-    "confidence": "high",
-    "upset_index": 65,
     "details": "AUT -310"
   },
   {
@@ -226,8 +186,6 @@
     "home_win": 67.3,
     "draw": 17.6,
     "away_win": 15.0,
-    "confidence": "high",
-    "upset_index": 70,
     "details": "POR -370"
   },
   {
@@ -237,8 +195,6 @@
     "home_win": 49.6,
     "draw": 19.5,
     "away_win": 30.9,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "ENG -140"
   },
   {
@@ -248,8 +204,6 @@
     "home_win": 43.0,
     "draw": 20.3,
     "away_win": 36.8,
-    "confidence": "low",
-    "upset_index": 26,
     "details": "GHA +100"
   },
   {
@@ -259,8 +213,6 @@
     "home_win": 32.5,
     "draw": 17.6,
     "away_win": 49.9,
-    "confidence": "medium",
-    "upset_index": 35,
     "details": "COL -240"
   },
   {
@@ -270,8 +222,6 @@
     "home_win": 53.3,
     "draw": 20.3,
     "away_win": 26.5,
-    "confidence": "medium",
-    "upset_index": 47,
     "details": "CZE +100"
   },
   {
@@ -281,8 +231,6 @@
     "home_win": 60.7,
     "draw": 18.7,
     "away_win": 20.6,
-    "confidence": "high",
-    "upset_index": 58,
     "details": "SUI -170"
   },
   {
@@ -292,8 +240,6 @@
     "home_win": 48.9,
     "draw": 17.6,
     "away_win": 33.5,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "CAN -285"
   },
   {
@@ -303,8 +249,6 @@
     "home_win": 50.4,
     "draw": 20.3,
     "away_win": 29.3,
-    "confidence": "medium",
-    "upset_index": 41,
     "details": "MEX -120"
   },
   {
@@ -314,8 +258,6 @@
     "home_win": 53.5,
     "draw": 19.5,
     "away_win": 26.9,
-    "confidence": "medium",
-    "upset_index": 46,
     "details": "USA -130"
   },
   {
@@ -325,8 +267,6 @@
     "home_win": 26.5,
     "draw": 20.3,
     "away_win": 53.3,
-    "confidence": "medium",
-    "upset_index": 47,
     "details": "MAR +105"
   },
   {
@@ -336,8 +276,6 @@
     "home_win": 72.9,
     "draw": 17.6,
     "away_win": 9.5,
-    "confidence": "high",
-    "upset_index": 81,
     "details": "BRA -1400"
   },
   {
@@ -347,8 +285,6 @@
     "home_win": 57.1,
     "draw": 19.5,
     "away_win": 23.4,
-    "confidence": "high",
-    "upset_index": 53,
     "details": "TUR +125"
   },
   {
@@ -358,8 +294,6 @@
     "home_win": 57.7,
     "draw": 18.7,
     "away_win": 23.6,
-    "confidence": "high",
-    "upset_index": 52,
     "details": "NED -155"
   },
   {
@@ -369,8 +303,6 @@
     "home_win": 60.9,
     "draw": 18.7,
     "away_win": 20.3,
-    "confidence": "high",
-    "upset_index": 59,
     "details": "GER -180"
   },
   {
@@ -380,8 +312,6 @@
     "home_win": 66.0,
     "draw": 17.6,
     "away_win": 16.3,
-    "confidence": "high",
-    "upset_index": 67,
     "details": "ECU -350"
   },
   {
@@ -391,8 +321,6 @@
     "home_win": 30.7,
     "draw": 19.5,
     "away_win": 49.7,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "JPN -125"
   },
   {
@@ -402,8 +330,6 @@
     "home_win": 70.5,
     "draw": 17.6,
     "away_win": 11.9,
-    "confidence": "high",
-    "upset_index": 76,
     "details": "ESP -900"
   },
   {
@@ -413,8 +339,6 @@
     "home_win": 59.0,
     "draw": 17.6,
     "away_win": 23.4,
-    "confidence": "high",
-    "upset_index": 53,
     "details": "BEL -245"
   },
   {
@@ -424,8 +348,6 @@
     "home_win": 64.6,
     "draw": 17.6,
     "away_win": 17.7,
-    "confidence": "high",
-    "upset_index": 64,
     "details": "URU -225"
   },
   {
@@ -435,8 +357,6 @@
     "home_win": 28.3,
     "draw": 19.5,
     "away_win": 52.1,
-    "confidence": "medium",
-    "upset_index": 43,
     "details": "EGY -140"
   },
   {
@@ -446,8 +366,6 @@
     "home_win": 59.4,
     "draw": 18.7,
     "away_win": 21.9,
-    "confidence": "high",
-    "upset_index": 56,
     "details": "ARG -155"
   },
   {
@@ -457,8 +375,6 @@
     "home_win": 71.1,
     "draw": 17.6,
     "away_win": 11.2,
-    "confidence": "high",
-    "upset_index": 77,
     "details": "FRA -1000"
   },
   {
@@ -468,8 +384,6 @@
     "home_win": 25.9,
     "draw": 20.3,
     "away_win": 53.8,
-    "confidence": "medium",
-    "upset_index": 48,
     "details": "NOR +110"
   },
   {
@@ -479,8 +393,6 @@
     "home_win": 31.7,
     "draw": 18.7,
     "away_win": 49.6,
-    "confidence": "medium",
-    "upset_index": 36,
     "details": "ALG -155"
   },
   {
@@ -490,8 +402,6 @@
     "home_win": 68.2,
     "draw": 17.6,
     "away_win": 14.1,
-    "confidence": "high",
-    "upset_index": 71,
     "details": "POR -400"
   },
   {
@@ -501,8 +411,6 @@
     "home_win": 66.0,
     "draw": 17.6,
     "away_win": 16.4,
-    "confidence": "high",
-    "upset_index": 67,
     "details": "ENG -310"
   },
   {
@@ -512,8 +420,6 @@
     "home_win": 30.8,
     "draw": 17.6,
     "away_win": 51.5,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "CRO -190"
   },
   {
@@ -523,8 +429,6 @@
     "home_win": 62.4,
     "draw": 17.6,
     "away_win": 20.0,
-    "confidence": "high",
-    "upset_index": 60,
     "details": "COL -205"
   },
   {
@@ -534,8 +438,6 @@
     "home_win": 33.7,
     "draw": 18.7,
     "away_win": 47.5,
-    "confidence": "medium",
-    "upset_index": 32,
     "details": "BIH -165"
   },
   {
@@ -545,8 +447,6 @@
     "home_win": 55.9,
     "draw": 20.3,
     "away_win": 23.8,
-    "confidence": "high",
-    "upset_index": 52,
     "details": "SUI +110"
   },
   {
@@ -556,8 +456,6 @@
     "home_win": 68.8,
     "draw": 17.6,
     "away_win": 13.6,
-    "confidence": "high",
-    "upset_index": 72,
     "details": "MAR -450"
   },
   {
@@ -567,8 +465,6 @@
     "home_win": 33.4,
     "draw": 17.6,
     "away_win": 49.0,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "BRA -250"
   },
   {
@@ -578,8 +474,6 @@
     "home_win": 28.8,
     "draw": 19.5,
     "away_win": 51.6,
-    "confidence": "medium",
-    "upset_index": 42,
     "details": "MEX -125"
   },
   {
@@ -589,8 +483,6 @@
     "home_win": 25.1,
     "draw": 20.3,
     "away_win": 54.6,
-    "confidence": "medium",
-    "upset_index": 49,
     "details": "KOR -105"
   },
   {
@@ -600,8 +492,6 @@
     "home_win": 36.4,
     "draw": 17.6,
     "away_win": 46.0,
-    "confidence": "low",
-    "upset_index": 27,
     "details": "CIV -290"
   },
   {
@@ -611,8 +501,6 @@
     "home_win": 30.9,
     "draw": 19.5,
     "away_win": 49.6,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "GER -150"
   },
   {
@@ -622,8 +510,6 @@
     "home_win": 48.1,
     "draw": 20.3,
     "away_win": 31.6,
-    "confidence": "medium",
-    "upset_index": 36,
     "details": "JPN +105"
   },
   {
@@ -633,8 +519,6 @@
     "home_win": 31.6,
     "draw": 17.6,
     "away_win": 50.8,
-    "confidence": "medium",
-    "upset_index": 36,
     "details": "NED -195"
   },
   {
@@ -644,8 +528,6 @@
     "home_win": 27.2,
     "draw": 20.3,
     "away_win": 52.5,
-    "confidence": "medium",
-    "upset_index": 45,
     "details": "PAR +120"
   },
   {
@@ -655,8 +537,6 @@
     "home_win": 34.4,
     "draw": 19.5,
     "away_win": 46.1,
-    "confidence": "medium",
-    "upset_index": 31,
     "details": "USA +150"
   },
   {
@@ -666,8 +546,6 @@
     "home_win": 25.7,
     "draw": 19.5,
     "away_win": 54.8,
-    "confidence": "medium",
-    "upset_index": 48,
     "details": "FRA -125"
   },
   {
@@ -677,8 +555,6 @@
     "home_win": 63.7,
     "draw": 17.6,
     "away_win": 18.6,
-    "confidence": "high",
-    "upset_index": 62,
     "details": "SEN -225"
   },
   {
@@ -688,8 +564,6 @@
     "home_win": 39.0,
     "draw": 19.5,
     "away_win": 41.5,
-    "confidence": "low",
-    "upset_index": 22,
     "details": "CPV +150"
   },
   {
@@ -699,8 +573,6 @@
     "home_win": 40.1,
     "draw": 18.7,
     "away_win": 41.2,
-    "confidence": "low",
-    "upset_index": 19,
     "details": "ESP -155"
   },
   {
@@ -710,8 +582,6 @@
     "home_win": 33.4,
     "draw": 19.5,
     "away_win": 47.1,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "EGY +125"
   },
   {
@@ -721,8 +591,6 @@
     "home_win": 34.6,
     "draw": 17.6,
     "away_win": 47.8,
-    "confidence": "medium",
-    "upset_index": 30,
     "details": "BEL -360"
   },
   {
@@ -732,8 +600,6 @@
     "home_win": 58.8,
     "draw": 19.5,
     "away_win": 21.7,
-    "confidence": "high",
-    "upset_index": 56,
     "details": "CRO -140"
   },
   {
@@ -743,8 +609,6 @@
     "home_win": 35.4,
     "draw": 17.6,
     "away_win": 47.0,
-    "confidence": "medium",
-    "upset_index": 29,
     "details": "ENG -400"
   },
   {
@@ -754,8 +618,6 @@
     "home_win": 36.0,
     "draw": 20.3,
     "away_win": 43.7,
-    "confidence": "low",
-    "upset_index": 28,
     "details": "POR +115"
   },
   {
@@ -765,8 +627,6 @@
     "home_win": 48.7,
     "draw": 18.7,
     "away_win": 32.6,
-    "confidence": "medium",
-    "upset_index": 34,
     "details": "COD +155"
   },
   {
@@ -776,8 +636,6 @@
     "home_win": 32.8,
     "draw": 19.5,
     "away_win": 47.7,
-    "confidence": "medium",
-    "upset_index": 34,
     "details": "AUT +135"
   },
   {
@@ -787,8 +645,6 @@
     "home_win": 36.1,
     "draw": 17.6,
     "away_win": 46.2,
-    "confidence": "medium",
-    "upset_index": 27,
     "details": "ARG -550"
   }
 ]

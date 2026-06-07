@@ -1,6 +1,6 @@
-// 自动生成的预测数据
-// 由 generate_predictions.py 生成
-// 最后更新: 2026-06-07 (FIXED: 使用schedule中的概率而非重新解析赔率)
+// 唯一数据源 — 赔率概率 + 蒙特卡洛出线率
+// 赔率来自博彩公司（最聪明的预测）
+// 出线率来自 10000 次蒙特卡洛模拟（Poisson 比分模型）
 
 export interface MatchPrediction {
   match_id: string;
@@ -9,18 +9,19 @@ export interface MatchPrediction {
   home_win: number;
   draw: number;
   away_win: number;
-  confidence: 'high' | 'medium' | 'low';
-  upset_index: number;
   details: string;
 }
 
 export interface GroupPrediction {
+  group?: string;
+  simulations?: number;
   teams: {
     team: string;
     advancement_pct: number;
+    winner_pct: number;
     avg_points: number;
-    avg_goals_for: number;
-    avg_goals_against: number;
+    avg_gf: number;
+    avg_ga: number;
   }[];
 }
 
@@ -32,8 +33,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 63.9,
     "draw": 17.6,
     "away_win": 18.5,
-    "confidence": "high",
-    "upset_index": 63,
     "details": "MEX -215"
   },
   {
@@ -43,8 +42,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 56.1,
     "draw": 18.7,
     "away_win": 25.1,
-    "confidence": "high",
-    "upset_index": 49,
     "details": "KOR +165"
   },
   {
@@ -54,8 +51,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 53.0,
     "draw": 20.3,
     "away_win": 26.7,
-    "confidence": "medium",
-    "upset_index": 46,
     "details": "CAN -120"
   },
   {
@@ -65,8 +60,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 55.7,
     "draw": 20.3,
     "away_win": 24.0,
-    "confidence": "high",
-    "upset_index": 52,
     "details": "USA +100"
   },
   {
@@ -76,8 +69,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 37.5,
     "draw": 17.6,
     "away_win": 44.9,
-    "confidence": "low",
-    "upset_index": 25,
     "details": "SUI -400"
   },
   {
@@ -87,8 +78,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 53.4,
     "draw": 18.7,
     "away_win": 27.9,
-    "confidence": "medium",
-    "upset_index": 44,
     "details": "BRA -165"
   },
   {
@@ -98,8 +87,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 33.2,
     "draw": 17.6,
     "away_win": 49.1,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "SCO -220"
   },
   {
@@ -109,8 +96,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 45.5,
     "draw": 19.5,
     "away_win": 35.0,
-    "confidence": "medium",
-    "upset_index": 30,
     "details": "TUR -125"
   },
   {
@@ -120,8 +105,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 73.8,
     "draw": 17.6,
     "away_win": 8.5,
-    "confidence": "high",
-    "upset_index": 83,
     "details": "GER -5000"
   },
   {
@@ -131,8 +114,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 50.9,
     "draw": 20.3,
     "away_win": 28.8,
-    "confidence": "medium",
-    "upset_index": 42,
     "details": "NED +100"
   },
   {
@@ -142,8 +123,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 37.5,
     "draw": 19.5,
     "away_win": 43.0,
-    "confidence": "low",
-    "upset_index": 25,
     "details": "ECU +135"
   },
   {
@@ -153,8 +132,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 50.5,
     "draw": 20.3,
     "away_win": 29.2,
-    "confidence": "medium",
-    "upset_index": 41,
     "details": "SWE -105"
   },
   {
@@ -164,8 +141,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 71.7,
     "draw": 17.6,
     "away_win": 10.6,
-    "confidence": "high",
-    "upset_index": 78,
     "details": "ESP -1200"
   },
   {
@@ -175,8 +150,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 59.2,
     "draw": 18.7,
     "away_win": 22.1,
-    "confidence": "high",
-    "upset_index": 55,
     "details": "BEL -155"
   },
   {
@@ -186,8 +159,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 30.8,
     "draw": 17.6,
     "away_win": 51.6,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "URU -205"
   },
   {
@@ -197,8 +168,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 58.3,
     "draw": 19.5,
     "away_win": 22.2,
-    "confidence": "high",
-    "upset_index": 55,
     "details": "IRN -125"
   },
   {
@@ -208,8 +177,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 59.5,
     "draw": 17.6,
     "away_win": 22.8,
-    "confidence": "high",
-    "upset_index": 54,
     "details": "FRA -220"
   },
   {
@@ -219,8 +186,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 43.6,
     "draw": 17.6,
     "away_win": 38.8,
-    "confidence": "low",
-    "upset_index": 22,
     "details": "NOR -475"
   },
   {
@@ -230,8 +195,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 64.7,
     "draw": 17.6,
     "away_win": 17.6,
-    "confidence": "high",
-    "upset_index": 64,
     "details": "ARG -230"
   },
   {
@@ -241,8 +204,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 65.1,
     "draw": 17.6,
     "away_win": 17.3,
-    "confidence": "high",
-    "upset_index": 65,
     "details": "AUT -310"
   },
   {
@@ -252,8 +213,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 67.3,
     "draw": 17.6,
     "away_win": 15.0,
-    "confidence": "high",
-    "upset_index": 70,
     "details": "POR -370"
   },
   {
@@ -263,8 +222,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 49.6,
     "draw": 19.5,
     "away_win": 30.9,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "ENG -140"
   },
   {
@@ -274,8 +231,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 43.0,
     "draw": 20.3,
     "away_win": 36.8,
-    "confidence": "low",
-    "upset_index": 26,
     "details": "GHA +100"
   },
   {
@@ -285,8 +240,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 32.5,
     "draw": 17.6,
     "away_win": 49.9,
-    "confidence": "medium",
-    "upset_index": 35,
     "details": "COL -240"
   },
   {
@@ -296,8 +249,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 53.3,
     "draw": 20.3,
     "away_win": 26.5,
-    "confidence": "medium",
-    "upset_index": 47,
     "details": "CZE +100"
   },
   {
@@ -307,8 +258,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 60.7,
     "draw": 18.7,
     "away_win": 20.6,
-    "confidence": "high",
-    "upset_index": 58,
     "details": "SUI -170"
   },
   {
@@ -318,8 +267,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 48.9,
     "draw": 17.6,
     "away_win": 33.5,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "CAN -285"
   },
   {
@@ -329,8 +276,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 50.4,
     "draw": 20.3,
     "away_win": 29.3,
-    "confidence": "medium",
-    "upset_index": 41,
     "details": "MEX -120"
   },
   {
@@ -340,8 +285,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 53.5,
     "draw": 19.5,
     "away_win": 26.9,
-    "confidence": "medium",
-    "upset_index": 46,
     "details": "USA -130"
   },
   {
@@ -351,8 +294,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 26.5,
     "draw": 20.3,
     "away_win": 53.3,
-    "confidence": "medium",
-    "upset_index": 47,
     "details": "MAR +105"
   },
   {
@@ -362,8 +303,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 72.9,
     "draw": 17.6,
     "away_win": 9.5,
-    "confidence": "high",
-    "upset_index": 81,
     "details": "BRA -1400"
   },
   {
@@ -373,8 +312,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 57.1,
     "draw": 19.5,
     "away_win": 23.4,
-    "confidence": "high",
-    "upset_index": 53,
     "details": "TUR +125"
   },
   {
@@ -384,8 +321,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 57.7,
     "draw": 18.7,
     "away_win": 23.6,
-    "confidence": "high",
-    "upset_index": 52,
     "details": "NED -155"
   },
   {
@@ -395,8 +330,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 60.9,
     "draw": 18.7,
     "away_win": 20.3,
-    "confidence": "high",
-    "upset_index": 59,
     "details": "GER -180"
   },
   {
@@ -406,8 +339,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 66.0,
     "draw": 17.6,
     "away_win": 16.3,
-    "confidence": "high",
-    "upset_index": 67,
     "details": "ECU -350"
   },
   {
@@ -417,8 +348,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 30.7,
     "draw": 19.5,
     "away_win": 49.7,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "JPN -125"
   },
   {
@@ -428,8 +357,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 70.5,
     "draw": 17.6,
     "away_win": 11.9,
-    "confidence": "high",
-    "upset_index": 76,
     "details": "ESP -900"
   },
   {
@@ -439,8 +366,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 59.0,
     "draw": 17.6,
     "away_win": 23.4,
-    "confidence": "high",
-    "upset_index": 53,
     "details": "BEL -245"
   },
   {
@@ -450,8 +375,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 64.6,
     "draw": 17.6,
     "away_win": 17.7,
-    "confidence": "high",
-    "upset_index": 64,
     "details": "URU -225"
   },
   {
@@ -461,8 +384,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 28.3,
     "draw": 19.5,
     "away_win": 52.1,
-    "confidence": "medium",
-    "upset_index": 43,
     "details": "EGY -140"
   },
   {
@@ -472,8 +393,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 59.4,
     "draw": 18.7,
     "away_win": 21.9,
-    "confidence": "high",
-    "upset_index": 56,
     "details": "ARG -155"
   },
   {
@@ -483,8 +402,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 71.1,
     "draw": 17.6,
     "away_win": 11.2,
-    "confidence": "high",
-    "upset_index": 77,
     "details": "FRA -1000"
   },
   {
@@ -494,8 +411,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 25.9,
     "draw": 20.3,
     "away_win": 53.8,
-    "confidence": "medium",
-    "upset_index": 48,
     "details": "NOR +110"
   },
   {
@@ -505,8 +420,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 31.7,
     "draw": 18.7,
     "away_win": 49.6,
-    "confidence": "medium",
-    "upset_index": 36,
     "details": "ALG -155"
   },
   {
@@ -516,8 +429,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 68.2,
     "draw": 17.6,
     "away_win": 14.1,
-    "confidence": "high",
-    "upset_index": 71,
     "details": "POR -400"
   },
   {
@@ -527,8 +438,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 66.0,
     "draw": 17.6,
     "away_win": 16.4,
-    "confidence": "high",
-    "upset_index": 67,
     "details": "ENG -310"
   },
   {
@@ -538,8 +447,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 30.8,
     "draw": 17.6,
     "away_win": 51.5,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "CRO -190"
   },
   {
@@ -549,8 +456,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 62.4,
     "draw": 17.6,
     "away_win": 20.0,
-    "confidence": "high",
-    "upset_index": 60,
     "details": "COL -205"
   },
   {
@@ -560,8 +465,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 33.7,
     "draw": 18.7,
     "away_win": 47.5,
-    "confidence": "medium",
-    "upset_index": 32,
     "details": "BIH -165"
   },
   {
@@ -571,8 +474,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 55.9,
     "draw": 20.3,
     "away_win": 23.8,
-    "confidence": "high",
-    "upset_index": 52,
     "details": "SUI +110"
   },
   {
@@ -582,8 +483,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 68.8,
     "draw": 17.6,
     "away_win": 13.6,
-    "confidence": "high",
-    "upset_index": 72,
     "details": "MAR -450"
   },
   {
@@ -593,8 +492,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 33.4,
     "draw": 17.6,
     "away_win": 49.0,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "BRA -250"
   },
   {
@@ -604,8 +501,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 28.8,
     "draw": 19.5,
     "away_win": 51.6,
-    "confidence": "medium",
-    "upset_index": 42,
     "details": "MEX -125"
   },
   {
@@ -615,8 +510,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 25.1,
     "draw": 20.3,
     "away_win": 54.6,
-    "confidence": "medium",
-    "upset_index": 49,
     "details": "KOR -105"
   },
   {
@@ -626,8 +519,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 36.4,
     "draw": 17.6,
     "away_win": 46.0,
-    "confidence": "low",
-    "upset_index": 27,
     "details": "CIV -290"
   },
   {
@@ -637,8 +528,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 30.9,
     "draw": 19.5,
     "away_win": 49.6,
-    "confidence": "medium",
-    "upset_index": 38,
     "details": "GER -150"
   },
   {
@@ -648,8 +537,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 48.1,
     "draw": 20.3,
     "away_win": 31.6,
-    "confidence": "medium",
-    "upset_index": 36,
     "details": "JPN +105"
   },
   {
@@ -659,8 +546,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 31.6,
     "draw": 17.6,
     "away_win": 50.8,
-    "confidence": "medium",
-    "upset_index": 36,
     "details": "NED -195"
   },
   {
@@ -670,8 +555,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 27.2,
     "draw": 20.3,
     "away_win": 52.5,
-    "confidence": "medium",
-    "upset_index": 45,
     "details": "PAR +120"
   },
   {
@@ -681,8 +564,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 34.4,
     "draw": 19.5,
     "away_win": 46.1,
-    "confidence": "medium",
-    "upset_index": 31,
     "details": "USA +150"
   },
   {
@@ -692,8 +573,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 25.7,
     "draw": 19.5,
     "away_win": 54.8,
-    "confidence": "medium",
-    "upset_index": 48,
     "details": "FRA -125"
   },
   {
@@ -703,8 +582,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 63.7,
     "draw": 17.6,
     "away_win": 18.6,
-    "confidence": "high",
-    "upset_index": 62,
     "details": "SEN -225"
   },
   {
@@ -714,8 +591,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 39.0,
     "draw": 19.5,
     "away_win": 41.5,
-    "confidence": "low",
-    "upset_index": 22,
     "details": "CPV +150"
   },
   {
@@ -725,8 +600,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 40.1,
     "draw": 18.7,
     "away_win": 41.2,
-    "confidence": "low",
-    "upset_index": 19,
     "details": "ESP -155"
   },
   {
@@ -736,8 +609,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 33.4,
     "draw": 19.5,
     "away_win": 47.1,
-    "confidence": "medium",
-    "upset_index": 33,
     "details": "EGY +125"
   },
   {
@@ -747,8 +618,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 34.6,
     "draw": 17.6,
     "away_win": 47.8,
-    "confidence": "medium",
-    "upset_index": 30,
     "details": "BEL -360"
   },
   {
@@ -758,8 +627,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 58.8,
     "draw": 19.5,
     "away_win": 21.7,
-    "confidence": "high",
-    "upset_index": 56,
     "details": "CRO -140"
   },
   {
@@ -769,8 +636,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 35.4,
     "draw": 17.6,
     "away_win": 47.0,
-    "confidence": "medium",
-    "upset_index": 29,
     "details": "ENG -400"
   },
   {
@@ -780,8 +645,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 36.0,
     "draw": 20.3,
     "away_win": 43.7,
-    "confidence": "low",
-    "upset_index": 28,
     "details": "POR +115"
   },
   {
@@ -791,8 +654,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 48.7,
     "draw": 18.7,
     "away_win": 32.6,
-    "confidence": "medium",
-    "upset_index": 34,
     "details": "COD +155"
   },
   {
@@ -802,8 +663,6 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 32.8,
     "draw": 19.5,
     "away_win": 47.7,
-    "confidence": "medium",
-    "upset_index": 34,
     "details": "AUT +135"
   },
   {
@@ -813,400 +672,476 @@ export const PREDICTIONS: MatchPrediction[] = [
     "home_win": 36.1,
     "draw": 17.6,
     "away_win": 46.2,
-    "confidence": "medium",
-    "upset_index": 27,
     "details": "ARG -550"
   }
 ];
 
 export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
   "A": {
+    "group": "A",
+    "simulations": 10000,
     "teams": [
       {
         "team": "ARG",
-        "advancement_pct": 90,
-        "avg_points": 5.65,
-        "avg_goals_for": 5.68,
-        "avg_goals_against": 2.52
+        "advancement_pct": 74.2,
+        "winner_pct": 47.4,
+        "avg_points": 5.44,
+        "avg_gf": 5.4,
+        "avg_ga": 3.4
       },
       {
         "team": "AUT",
-        "advancement_pct": 70,
-        "avg_points": 4.6,
-        "avg_goals_for": 4.49,
-        "avg_goals_against": 3.65
+        "advancement_pct": 51.0,
+        "winner_pct": 22.7,
+        "avg_points": 4.22,
+        "avg_gf": 4.43,
+        "avg_ga": 4.32
       },
       {
         "team": "ALG",
-        "advancement_pct": 30,
-        "avg_points": 3.56,
-        "avg_goals_for": 3.33,
-        "avg_goals_against": 4.8
+        "advancement_pct": 37.5,
+        "winner_pct": 14.9,
+        "avg_points": 3.48,
+        "avg_gf": 3.82,
+        "avg_ga": 4.89
       },
       {
         "team": "JOR",
-        "advancement_pct": 10,
-        "avg_points": 3.09,
-        "avg_goals_for": 2.84,
-        "avg_goals_against": 5.36
+        "advancement_pct": 37.3,
+        "winner_pct": 15.0,
+        "avg_points": 3.49,
+        "avg_gf": 3.85,
+        "avg_ga": 4.89
       }
     ]
   },
   "B": {
+    "group": "B",
+    "simulations": 10000,
     "teams": [
       {
         "team": "USA",
-        "advancement_pct": 90,
-        "avg_points": 5.25,
-        "avg_goals_for": 5.18,
-        "avg_goals_against": 2.84
+        "advancement_pct": 67.9,
+        "winner_pct": 40.6,
+        "avg_points": 5.12,
+        "avg_gf": 5.11,
+        "avg_ga": 3.59
       },
       {
         "team": "TUR",
-        "advancement_pct": 70,
-        "avg_points": 4.38,
-        "avg_goals_for": 4.22,
-        "avg_goals_against": 3.83
+        "advancement_pct": 55.4,
+        "winner_pct": 27.9,
+        "avg_points": 4.5,
+        "avg_gf": 4.64,
+        "avg_ga": 4.09
       },
       {
         "team": "AUS",
-        "advancement_pct": 30,
-        "avg_points": 4.34,
-        "avg_goals_for": 4.16,
-        "avg_goals_against": 3.86
+        "advancement_pct": 48.5,
+        "winner_pct": 21.5,
+        "avg_points": 4.07,
+        "avg_gf": 4.29,
+        "avg_ga": 4.43
       },
       {
         "team": "PAR",
-        "advancement_pct": 10,
-        "avg_points": 2.84,
-        "avg_goals_for": 2.49,
-        "avg_goals_against": 5.51
+        "advancement_pct": 28.2,
+        "winner_pct": 10.1,
+        "avg_points": 2.9,
+        "avg_gf": 3.39,
+        "avg_ga": 5.32
       }
     ]
   },
   "C": {
+    "group": "C",
+    "simulations": 10000,
     "teams": [
       {
         "team": "BEL",
-        "advancement_pct": 90,
-        "avg_points": 5.52,
-        "avg_goals_for": 5.53,
-        "avg_goals_against": 2.67
+        "advancement_pct": 71.7,
+        "winner_pct": 45.7,
+        "avg_points": 5.35,
+        "avg_gf": 5.31,
+        "avg_ga": 3.47
       },
       {
         "team": "IRN",
-        "advancement_pct": 70,
-        "avg_points": 4.43,
-        "avg_goals_for": 4.29,
-        "avg_goals_against": 3.82
+        "advancement_pct": 49.3,
+        "winner_pct": 21.1,
+        "avg_points": 4.1,
+        "avg_gf": 4.31,
+        "avg_ga": 4.38
       },
       {
         "team": "EGY",
-        "advancement_pct": 30,
-        "avg_points": 3.81,
-        "avg_goals_for": 3.59,
-        "avg_goals_against": 4.49
+        "advancement_pct": 40.7,
+        "winner_pct": 17.5,
+        "avg_points": 3.62,
+        "avg_gf": 3.94,
+        "avg_ga": 4.76
       },
       {
         "team": "NZL",
-        "advancement_pct": 10,
-        "avg_points": 3.12,
-        "avg_goals_for": 2.84,
-        "avg_goals_against": 5.27
+        "advancement_pct": 38.3,
+        "winner_pct": 15.7,
+        "avg_points": 3.53,
+        "avg_gf": 3.89,
+        "avg_ga": 4.84
       }
     ]
   },
   "D": {
+    "group": "D",
+    "simulations": 10000,
     "teams": [
       {
         "team": "SUI",
-        "advancement_pct": 90,
-        "avg_points": 5.41,
-        "avg_goals_for": 5.38,
-        "avg_goals_against": 2.73
+        "advancement_pct": 69.9,
+        "winner_pct": 41.7,
+        "avg_points": 5.27,
+        "avg_gf": 5.22,
+        "avg_ga": 3.52
       },
       {
         "team": "CAN",
-        "advancement_pct": 70,
-        "avg_points": 4.35,
-        "avg_goals_for": 4.19,
-        "avg_goals_against": 3.87
+        "advancement_pct": 57.3,
+        "winner_pct": 27.7,
+        "avg_points": 4.49,
+        "avg_gf": 4.64,
+        "avg_ga": 4.14
       },
       {
         "team": "QAT",
-        "advancement_pct": 30,
-        "avg_points": 4.09,
-        "avg_goals_for": 3.95,
-        "avg_goals_against": 4.25
+        "advancement_pct": 43.7,
+        "winner_pct": 19.5,
+        "avg_points": 3.82,
+        "avg_gf": 4.17,
+        "avg_ga": 4.63
       },
       {
         "team": "BIH",
-        "advancement_pct": 10,
-        "avg_points": 3.01,
-        "avg_goals_for": 2.7,
-        "avg_goals_against": 5.37
+        "advancement_pct": 29.0,
+        "winner_pct": 11.0,
+        "avg_points": 3.03,
+        "avg_gf": 3.51,
+        "avg_ga": 5.25
       }
     ]
   },
   "E": {
+    "group": "E",
+    "simulations": 10000,
     "teams": [
       {
         "team": "BRA",
-        "advancement_pct": 90,
-        "avg_points": 5.8,
-        "avg_goals_for": 5.84,
-        "avg_goals_against": 2.36
+        "advancement_pct": 75.2,
+        "winner_pct": 46.7,
+        "avg_points": 5.54,
+        "avg_gf": 5.48,
+        "avg_ga": 3.29
       },
       {
         "team": "MAR",
-        "advancement_pct": 70,
-        "avg_points": 5.07,
-        "avg_goals_for": 5.0,
-        "avg_goals_against": 3.12
+        "advancement_pct": 58.0,
+        "winner_pct": 27.0,
+        "avg_points": 4.6,
+        "avg_gf": 4.73,
+        "avg_ga": 4.01
       },
       {
         "team": "SCO",
-        "advancement_pct": 30,
-        "avg_points": 3.83,
-        "avg_goals_for": 3.63,
-        "avg_goals_against": 4.52
+        "advancement_pct": 47.1,
+        "winner_pct": 20.5,
+        "avg_points": 4.0,
+        "avg_gf": 4.27,
+        "avg_ga": 4.45
       },
       {
         "team": "HAI",
-        "advancement_pct": 10,
-        "avg_points": 2.22,
-        "avg_goals_for": 1.88,
-        "avg_goals_against": 6.36
+        "advancement_pct": 19.7,
+        "winner_pct": 5.8,
+        "avg_points": 2.49,
+        "avg_gf": 3.01,
+        "avg_ga": 5.74
       }
     ]
   },
   "F": {
+    "group": "F",
+    "simulations": 10000,
     "teams": [
       {
         "team": "GER",
-        "advancement_pct": 90,
-        "avg_points": 6.09,
-        "avg_goals_for": 6.14,
-        "avg_goals_against": 1.99
+        "advancement_pct": 79.0,
+        "winner_pct": 50.2,
+        "avg_points": 5.77,
+        "avg_gf": 5.63,
+        "avg_ga": 3.08
       },
       {
         "team": "ECU",
-        "advancement_pct": 70,
-        "avg_points": 4.76,
-        "avg_goals_for": 4.66,
-        "avg_goals_against": 3.45
+        "advancement_pct": 61.2,
+        "winner_pct": 29.6,
+        "avg_points": 4.74,
+        "avg_gf": 4.88,
+        "avg_ga": 3.92
       },
       {
         "team": "CIV",
-        "advancement_pct": 30,
-        "avg_points": 3.67,
-        "avg_goals_for": 3.46,
-        "avg_goals_against": 4.68
+        "advancement_pct": 37.9,
+        "winner_pct": 14.0,
+        "avg_points": 3.52,
+        "avg_gf": 3.89,
+        "avg_ga": 4.86
       },
       {
         "team": "CUW",
-        "advancement_pct": 10,
-        "avg_points": 2.36,
-        "avg_goals_for": 2.04,
-        "avg_goals_against": 6.19
+        "advancement_pct": 21.9,
+        "winner_pct": 6.1,
+        "avg_points": 2.64,
+        "avg_gf": 3.12,
+        "avg_ga": 5.66
       }
     ]
   },
   "G": {
+    "group": "G",
+    "simulations": 10000,
     "teams": [
       {
         "team": "POR",
-        "advancement_pct": 90,
-        "avg_points": 5.93,
-        "avg_goals_for": 5.97,
-        "avg_goals_against": 2.17
+        "advancement_pct": 76.4,
+        "winner_pct": 47.0,
+        "avg_points": 5.62,
+        "avg_gf": 5.53,
+        "avg_ga": 3.21
       },
       {
         "team": "COL",
-        "advancement_pct": 70,
-        "avg_points": 5.0,
-        "avg_goals_for": 4.94,
-        "avg_goals_against": 3.21
+        "advancement_pct": 66.3,
+        "winner_pct": 34.8,
+        "avg_points": 4.96,
+        "avg_gf": 4.99,
+        "avg_ga": 3.74
       },
       {
         "team": "COD",
-        "advancement_pct": 30,
-        "avg_points": 3.05,
-        "avg_goals_for": 2.79,
-        "avg_goals_against": 5.41
+        "advancement_pct": 29.0,
+        "winner_pct": 9.2,
+        "avg_points": 3.1,
+        "avg_gf": 3.52,
+        "avg_ga": 5.24
       },
       {
         "team": "UZB",
-        "advancement_pct": 10,
-        "avg_points": 2.92,
-        "avg_goals_for": 2.64,
-        "avg_goals_against": 5.56
+        "advancement_pct": 28.3,
+        "winner_pct": 9.0,
+        "avg_points": 2.99,
+        "avg_gf": 3.43,
+        "avg_ga": 5.28
       }
     ]
   },
   "H": {
+    "group": "H",
+    "simulations": 10000,
     "teams": [
       {
         "team": "ESP",
-        "advancement_pct": 90,
-        "avg_points": 6.04,
-        "avg_goals_for": 6.11,
-        "avg_goals_against": 2.09
+        "advancement_pct": 78.4,
+        "winner_pct": 46.6,
+        "avg_points": 5.69,
+        "avg_gf": 5.56,
+        "avg_ga": 3.13
       },
       {
         "team": "URU",
-        "advancement_pct": 70,
-        "avg_points": 5.23,
-        "avg_goals_for": 5.21,
-        "avg_goals_against": 2.99
+        "advancement_pct": 67.5,
+        "winner_pct": 36.1,
+        "avg_points": 5.1,
+        "avg_gf": 5.1,
+        "avg_ga": 3.61
       },
       {
         "team": "KSA",
-        "advancement_pct": 30,
-        "avg_points": 3.07,
-        "avg_goals_for": 2.81,
-        "avg_goals_against": 5.37
+        "advancement_pct": 30.1,
+        "winner_pct": 10.1,
+        "avg_points": 3.13,
+        "avg_gf": 3.54,
+        "avg_ga": 5.17
       },
       {
         "team": "CPV",
-        "advancement_pct": 10,
-        "avg_points": 2.57,
-        "avg_goals_for": 2.24,
-        "avg_goals_against": 5.93
+        "advancement_pct": 23.9,
+        "winner_pct": 7.2,
+        "avg_points": 2.77,
+        "avg_gf": 3.21,
+        "avg_ga": 5.5
       }
     ]
   },
   "I": {
+    "group": "I",
+    "simulations": 10000,
     "teams": [
       {
         "team": "ENG",
-        "advancement_pct": 90,
-        "avg_points": 5.43,
-        "avg_goals_for": 5.42,
-        "avg_goals_against": 2.76
+        "advancement_pct": 70.7,
+        "winner_pct": 42.9,
+        "avg_points": 5.24,
+        "avg_gf": 5.2,
+        "avg_ga": 3.5
       },
       {
         "team": "CRO",
-        "advancement_pct": 70,
-        "avg_points": 4.8,
-        "avg_goals_for": 4.71,
-        "avg_goals_against": 3.4
+        "advancement_pct": 54.6,
+        "winner_pct": 25.8,
+        "avg_points": 4.38,
+        "avg_gf": 4.51,
+        "avg_ga": 4.15
       },
       {
         "team": "PAN",
-        "advancement_pct": 30,
-        "avg_points": 3.64,
-        "avg_goals_for": 3.43,
-        "avg_goals_against": 4.72
+        "advancement_pct": 45.6,
+        "winner_pct": 20.5,
+        "avg_points": 3.9,
+        "avg_gf": 4.18,
+        "avg_ga": 4.55
       },
       {
         "team": "GHA",
-        "advancement_pct": 10,
-        "avg_points": 3.01,
-        "avg_goals_for": 2.7,
-        "avg_goals_against": 5.39
+        "advancement_pct": 29.1,
+        "winner_pct": 10.8,
+        "avg_points": 3.07,
+        "avg_gf": 3.49,
+        "avg_ga": 5.18
       }
     ]
   },
   "J": {
+    "group": "J",
+    "simulations": 10000,
     "teams": [
       {
         "team": "MEX",
-        "advancement_pct": 90,
-        "avg_points": 5.55,
-        "avg_goals_for": 5.53,
-        "avg_goals_against": 2.55
+        "advancement_pct": 72.2,
+        "winner_pct": 45.1,
+        "avg_points": 5.4,
+        "avg_gf": 5.33,
+        "avg_ga": 3.4
       },
       {
         "team": "KOR",
-        "advancement_pct": 70,
-        "avg_points": 4.79,
-        "avg_goals_for": 4.67,
-        "avg_goals_against": 3.35
+        "advancement_pct": 54.6,
+        "winner_pct": 24.9,
+        "avg_points": 4.39,
+        "avg_gf": 4.51,
+        "avg_ga": 4.15
       },
       {
         "team": "CZE",
-        "advancement_pct": 30,
-        "avg_points": 3.8,
-        "avg_goals_for": 3.57,
-        "avg_goals_against": 4.47
+        "advancement_pct": 47.9,
+        "winner_pct": 21.2,
+        "avg_points": 4.05,
+        "avg_gf": 4.28,
+        "avg_ga": 4.43
       },
       {
         "team": "RSA",
-        "advancement_pct": 10,
-        "avg_points": 2.69,
-        "avg_goals_for": 2.34,
-        "avg_goals_against": 5.73
+        "advancement_pct": 25.2,
+        "winner_pct": 8.9,
+        "avg_points": 2.78,
+        "avg_gf": 3.27,
+        "avg_ga": 5.42
       }
     ]
   },
   "K": {
+    "group": "K",
+    "simulations": 10000,
     "teams": [
       {
         "team": "FRA",
-        "advancement_pct": 90,
-        "avg_points": 6.11,
-        "avg_goals_for": 6.18,
-        "avg_goals_against": 1.99
+        "advancement_pct": 78.6,
+        "winner_pct": 52.0,
+        "avg_points": 5.78,
+        "avg_gf": 5.65,
+        "avg_ga": 3.11
       },
       {
         "team": "SEN",
-        "advancement_pct": 70,
-        "avg_points": 4.76,
-        "avg_goals_for": 4.68,
-        "avg_goals_against": 3.47
+        "advancement_pct": 54.5,
+        "winner_pct": 22.9,
+        "avg_points": 4.37,
+        "avg_gf": 4.54,
+        "avg_ga": 4.21
       },
       {
         "team": "NOR",
-        "advancement_pct": 30,
-        "avg_points": 3.29,
-        "avg_goals_for": 3.01,
-        "avg_goals_against": 5.07
+        "advancement_pct": 40.7,
+        "winner_pct": 16.6,
+        "avg_points": 3.6,
+        "avg_gf": 3.95,
+        "avg_ga": 4.73
       },
       {
         "team": "IRQ",
-        "advancement_pct": 10,
-        "avg_points": 2.73,
-        "avg_goals_for": 2.45,
-        "avg_goals_against": 5.79
+        "advancement_pct": 26.2,
+        "winner_pct": 8.6,
+        "avg_points": 2.9,
+        "avg_gf": 3.31,
+        "avg_ga": 5.41
       }
     ]
   },
   "L": {
+    "group": "L",
+    "simulations": 10000,
     "teams": [
       {
         "team": "NED",
-        "advancement_pct": 90,
-        "avg_points": 5.35,
-        "avg_goals_for": 5.31,
-        "avg_goals_against": 2.8
+        "advancement_pct": 69.5,
+        "winner_pct": 42.9,
+        "avg_points": 5.21,
+        "avg_gf": 5.19,
+        "avg_ga": 3.57
       },
       {
         "team": "JPN",
-        "advancement_pct": 70,
-        "avg_points": 4.4,
-        "avg_goals_for": 4.22,
-        "avg_goals_against": 3.77
-      },
-      {
-        "team": "SWE",
-        "advancement_pct": 30,
-        "avg_points": 3.76,
-        "avg_goals_for": 3.52,
-        "avg_goals_against": 4.5
+        "advancement_pct": 49.8,
+        "winner_pct": 22.2,
+        "avg_points": 4.1,
+        "avg_gf": 4.31,
+        "avg_ga": 4.4
       },
       {
         "team": "TUN",
-        "advancement_pct": 10,
-        "avg_points": 3.32,
-        "avg_goals_for": 3.05,
-        "avg_goals_against": 5.03
+        "advancement_pct": 40.7,
+        "winner_pct": 18.4,
+        "avg_points": 3.66,
+        "avg_gf": 4.02,
+        "avg_ga": 4.73
+      },
+      {
+        "team": "SWE",
+        "advancement_pct": 40.0,
+        "winner_pct": 16.6,
+        "avg_points": 3.62,
+        "avg_gf": 3.93,
+        "avg_ga": 4.75
       }
     ]
   }
 };
 
-export function findTeamInGroups(teamAbbr: string): { group: string; team: GroupPrediction['teams'][0] } | undefined {
+/** 查找单场预测 */
+export function getPrediction(matchId: string): MatchPrediction | undefined {
+  return PREDICTIONS.find(p => p.match_id === matchId);
+}
+
+/** 查找球队所在小组的预测 */
+export function getGroupPrediction(teamAbbr: string): { group: string; team: GroupPrediction["teams"][0] } | undefined {
   for (const [group, pred] of Object.entries(GROUP_PREDICTIONS)) {
     const team = pred.teams.find(t => t.team === teamAbbr);
     if (team) return { group, team };
