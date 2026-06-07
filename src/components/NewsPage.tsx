@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion';
-import { Newspaper, Clock, ExternalLink, TrendingUp, AlertCircle, Zap, ChevronRight } from 'lucide-react';
+import { Newspaper, Clock, ExternalLink, TrendingUp, AlertCircle, Zap, ChevronRight, RefreshCw, Loader2 } from 'lucide-react';
 import { TEAMS } from '../data/teams';
 import Flag from './Flag';
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect, useCallback } from 'react';
 
 // 新闻分类
 const CATEGORIES = [
@@ -12,113 +12,54 @@ const CATEGORIES = [
   { id: 'hot', label: '热点', icon: Zap },
 ];
 
-// 模拟新闻数据（实际可接 API）
-const MOCK_NEWS = [
-  {
-    id: '1',
-    category: 'injury',
-    title: '梅西确认缺席小组赛首轮',
-    summary: '阿根廷队长梅西在训练中遭遇肌肉拉伤，将缺席对阵沙特阿拉伯的首场小组赛。教练组表示伤势不严重，预计第二场可复出。',
-    team: 'ARG',
-    time: '2小时前',
-    source: 'ESPN',
-    isHot: true,
-  },
-  {
-    id: '2',
-    category: 'tactical',
-    title: '法国队公布433阵型',
-    summary: '德尚确认世界杯将采用433阵型，姆巴佩居左，登贝莱居右，吉鲁突前。中场由楚阿梅尼、拉比奥、格列兹曼组成。',
-    team: 'FRA',
-    time: '4小时前',
-    source: 'L\'Equipe',
-    isHot: false,
-  },
-  {
-    id: '3',
-    category: 'hot',
-    title: '巴西队抵达多哈，内马尔状态火热',
-    summary: '巴西全队已抵达多哈，内马尔在训练中表现出色，连续三场热身赛进球。球迷在机场高呼"六星巴西"。',
-    team: 'BRA',
-    time: '6小时前',
-    source: 'Globo',
-    isHot: true,
-  },
-  {
-    id: '4',
-    category: 'injury',
-    title: '英格兰队长凯恩脚踝伤势存疑',
-    summary: '哈里·凯恩在英超最后一轮比赛中脚踝受伤，目前恢复情况良好，但能否出战首场对阵伊朗的比赛仍存疑问。',
-    team: 'ENG',
-    time: '8小时前',
-    source: 'BBC',
-    isHot: false,
-  },
-  {
-    id: '5',
-    category: 'tactical',
-    title: '西班牙主打传控，佩德里核心',
-    summary: '恩里克确认将继续坚持tiki-taka风格，佩德里将扮演核心角色。年轻阵容平均年龄仅25.3岁。',
-    team: 'ESP',
-    time: '10小时前',
-    source: 'Marca',
-    isHot: false,
-  },
-  {
-    id: '6',
-    category: 'hot',
-    title: '东道主卡塔尔首秀引关注',
-    summary: '作为首次参加世界杯的东道主，卡塔尔队将在揭幕战对阵厄瓜多尔。球队近期状态出色，热身赛击败多支强队。',
-    team: 'QAT',
-    time: '12小时前',
-    source: 'Al Jazeera',
-    isHot: true,
-  },
-  {
-    id: '7',
-    category: 'injury',
-    title: '德国队诺伊尔伤愈复出',
-    summary: '拜仁门将诺伊尔已完全康复，将在世界杯首战担任首发。他的回归极大增强了德国队的防守稳定性。',
-    team: 'GER',
-    time: '14小时前',
-    source: 'Bild',
-    isHot: false,
-  },
-  {
-    id: '8',
-    category: 'tactical',
-    title: '阿根廷主打梅西自由人战术',
-    summary: '斯卡洛尼透露梅西将获得更多自由度，不再固定在右路。新的战术体系让梅西可以自由游走，寻找最佳进攻位置。',
-    team: 'ARG',
-    time: '16小时前',
-    source: 'TyC Sports',
-    isHot: true,
-  },
-];
-
 interface NewsItem {
   id: string;
   category: string;
   title: string;
   summary: string;
+  url: string;
   team: string;
   time: string;
   source: string;
-  isHot: boolean;
+  is_hot: boolean;
 }
 
+interface NewsData {
+  updated_at: string;
+  count: number;
+  articles: NewsItem[];
+}
+
+// 本地 mock 数据 (RSS 抓取失败时的 fallback)
+const FALLBACK_NEWS: NewsItem[] = [
+  {
+    id: 'fb1',
+    category: 'hot',
+    title: '2026 世界杯倒计时进行中',
+    summary: '第23届FIFA世界杯将在美国、加拿大、墨西哥三国举办，48支球队参赛。',
+    url: '#',
+    team: '',
+    time: '刚刚',
+    source: '系统',
+    is_hot: true,
+  },
+];
+
 function NewsCard({ news, index }: { news: NewsItem; index: number }) {
-  const team = TEAMS[news.team];
-  
+  const team = news.team ? TEAMS[news.team] : null;
+
   return (
-    <motion.div
+    <motion.a
+      href={news.url}
+      target="_blank"
+      rel="noopener noreferrer"
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ delay: index * 0.05, duration: 0.3 }}
-      className="glass-card p-4 mb-3 relative overflow-hidden group cursor-pointer hover:border-gold/20 transition-colors"
+      transition={{ delay: index * 0.04, duration: 0.3 }}
+      className="glass-card p-4 mb-3 relative overflow-hidden group cursor-pointer hover:border-gold/20 transition-all block"
     >
       {/* 热点标记 */}
-      {news.isHot && (
+      {news.is_hot && (
         <div className="absolute top-3 right-3">
           <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-semibold bg-red/20 text-red">
             <Zap className="w-3 h-3" /> 热点
@@ -167,24 +108,94 @@ function NewsCard({ news, index }: { news: NewsItem; index: number }) {
         </div>
         <ExternalLink className="w-3.5 h-3.5 text-gray-500 group-hover:text-gold transition-colors" />
       </div>
-    </motion.div>
+    </motion.a>
   );
 }
 
 export default function NewsPage() {
   const [activeCategory, setActiveCategory] = useState('all');
-  
+  const [news, setNews] = useState<NewsItem[]>(FALLBACK_NEWS);
+  const [updatedAt, setUpdatedAt] = useState('');
+  const [loading, setLoading] = useState(true);
+  const [refreshing, setRefreshing] = useState(false);
+
+  // 从 public/news.json 加载
+  const fetchNews = useCallback(async () => {
+    try {
+      const resp = await fetch('/news.json?t=' + Date.now());
+      if (!resp.ok) throw new Error('fetch failed');
+      const data: NewsData = await resp.json();
+      if (data.articles && data.articles.length > 0) {
+        setNews(data.articles);
+        setUpdatedAt(data.updated_at);
+      }
+    } catch (e) {
+      console.warn('News fetch failed, using fallback:', e);
+    } finally {
+      setLoading(false);
+      setRefreshing(false);
+    }
+  }, []);
+
+  // 初始加载
+  useEffect(() => {
+    fetchNews();
+  }, [fetchNews]);
+
+  // 每 10 分钟自动刷新
+  useEffect(() => {
+    const timer = setInterval(fetchNews, 10 * 60 * 1000);
+    return () => clearInterval(timer);
+  }, [fetchNews]);
+
+  // 手动刷新
+  const handleRefresh = () => {
+    setRefreshing(true);
+    fetchNews();
+  };
+
   const filteredNews = useMemo(() => {
-    if (activeCategory === 'all') return MOCK_NEWS;
-    return MOCK_NEWS.filter(n => n.category === activeCategory);
-  }, [activeCategory]);
+    if (activeCategory === 'all') return news;
+    return news.filter(n => n.category === activeCategory);
+  }, [news, activeCategory]);
+
+  // 更新时间显示
+  const updatedAgo = useMemo(() => {
+    if (!updatedAt) return '';
+    try {
+      const diff = Date.now() - new Date(updatedAt).getTime();
+      const mins = Math.floor(diff / 60000);
+      if (mins < 1) return '刚刚更新';
+      if (mins < 60) return `${mins}分钟前更新`;
+      return `${Math.floor(mins / 60)}小时前更新`;
+    } catch {
+      return '';
+    }
+  }, [updatedAt]);
 
   return (
     <div>
+      {/* 顶部栏 */}
+      <div className="flex items-center justify-between mb-3">
+        <div className="flex items-center gap-2 text-[10px] text-gray-500">
+          <span className="inline-block w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse" />
+          {updatedAgo || '自动更新中'}
+        </div>
+        <button
+          onClick={handleRefresh}
+          disabled={refreshing}
+          className="flex items-center gap-1 text-[10px] text-gray-500 hover:text-gold transition-colors disabled:opacity-50"
+        >
+          <RefreshCw className={`w-3 h-3 ${refreshing ? 'animate-spin' : ''}`} />
+          刷新
+        </button>
+      </div>
+
       {/* 分类标签 */}
       <div className="flex gap-2 mb-4 overflow-x-auto pb-2 scrollbar-hide">
         {CATEGORIES.map((cat) => {
           const Icon = cat.icon;
+          const count = cat.id === 'all' ? news.length : news.filter(n => n.category === cat.id).length;
           return (
             <button
               key={cat.id}
@@ -197,22 +208,45 @@ export default function NewsPage() {
             >
               <Icon className="w-3.5 h-3.5" />
               {cat.label}
+              <span className="text-[10px] opacity-60">{count}</span>
             </button>
           );
         })}
       </div>
 
-      {/* 新闻列表 */}
-      <div>
-        {filteredNews.map((news, i) => (
-          <NewsCard key={news.id} news={news} index={i} />
-        ))}
-      </div>
+      {/* 加载状态 */}
+      {loading && (
+        <div className="flex items-center justify-center py-12 text-gray-500">
+          <Loader2 className="w-5 h-5 animate-spin mr-2" />
+          <span className="text-sm">加载新闻中...</span>
+        </div>
+      )}
 
-      {/* 加载更多 */}
+      {/* 新闻列表 */}
+      {!loading && (
+        <div>
+          {filteredNews.length === 0 ? (
+            <div className="text-center py-12 text-gray-500 text-sm">
+              暂无相关新闻
+            </div>
+          ) : (
+            filteredNews.map((n, i) => (
+              <NewsCard key={n.id} news={n} index={i} />
+            ))
+          )}
+        </div>
+      )}
+
+      {/* 底部信息 */}
       <div className="text-center py-4">
-        <button className="text-xs text-gray-500 hover:text-gold transition-colors flex items-center gap-1 mx-auto">
-          加载更多
+        <p className="text-[10px] text-gray-600 mb-1">
+          数据源: ESPN + BBC Sport | 每2小时自动更新
+        </p>
+        <button
+          onClick={handleRefresh}
+          className="text-xs text-gray-500 hover:text-gold transition-colors flex items-center gap-1 mx-auto"
+        >
+          刷新最新
           <ChevronRight className="w-3 h-3" />
         </button>
       </div>
