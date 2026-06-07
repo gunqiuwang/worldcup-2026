@@ -20,7 +20,7 @@ export default function HotTeams({ onTeamClick }: { onTeamClick?: (abbr: string)
       { abbr: 'ARG', name: '阿根廷', heat: 92, trend: 'up', reason: '卫冕冠军梅西接班人' },
       { abbr: 'FRA', name: '法国', heat: 90, trend: 'flat', reason: '姆巴佩领衔' },
       { abbr: 'ENG', name: '英格兰', heat: 88, trend: 'up', reason: '欧洲杯亚军' },
-      { abbr: 'GER', name: '德国', heat: 85, trend: 'down', reason: '东道主世界杯冠军' },
+      { abbr: 'GER', name: '德国', heat: 85, trend: 'down', reason: '历史4次冠军' },
       { abbr: 'ESP', name: '西班牙', heat: 83, trend: 'up', reason: '欧洲杯冠军' },
     ];
     return data;

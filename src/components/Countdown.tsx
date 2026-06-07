@@ -14,7 +14,7 @@ export default function Countdown() {
       >
         <div className="flex items-center justify-center gap-2 text-lg font-bold text-gold">
           <Flame className="w-5 h-5" />
-          世界杯进行中
+          赛事进行中
           <Flame className="w-5 h-5" />
         </div>
       </motion.div>
