@@ -101,6 +101,53 @@ def fetch_standings():
         return []
 
 
+def american_to_prob(odds):
+    """美式赔率 → 隐含概率 (0-100)"""
+    if odds < 0:
+        return round(abs(odds) / (abs(odds) + 100) * 100, 1)
+    return round(100 / (odds + 100) * 100, 1)
+
+
+def extract_odds(comp):
+    """从ESPN比赛数据提取DraftKings赔率"""
+    odds_list = comp.get("odds", [])
+    if not odds_list:
+        return None
+    odds = odds_list[0]  # DraftKings
+
+    ml = odds.get("moneyline", {})
+    home_odds = ml.get("home", {}).get("close", {}).get("odds")
+    away_odds = ml.get("away", {}).get("close", {}).get("odds")
+    draw_odds = ml.get("draw", {}).get("close", {}).get("odds")
+
+    if home_odds is None or away_odds is None:
+        return None
+
+    home_american = int(home_odds)
+    away_american = int(away_odds)
+    draw_american = int(draw_odds) if draw_odds else 0
+
+    home_prob = american_to_prob(home_american)
+    away_prob = american_to_prob(away_american)
+    draw_prob = american_to_prob(draw_american) if draw_odds else round(100 - home_prob - away_prob, 1)
+
+    # Normalize to 100%
+    total = home_prob + draw_prob + away_prob
+    if total > 0:
+        home_prob = round(home_prob / total * 100, 1)
+        draw_prob = round(draw_prob / total * 100, 1)
+        away_prob = round(100 - home_prob - draw_prob, 1)
+
+    details = odds.get("details", "")
+
+    return {
+        "home_prob": home_prob,
+        "draw_prob": draw_prob,
+        "away_prob": away_prob,
+        "details": details,
+    }
+
+
 def process_matches(events):
     """Process ESPN events into our format"""
     matches = []
@@ -113,14 +160,12 @@ def process_matches(events):
         home_team = home["team"]
         away_team = away["team"]
 
-        # Map ESPN abbreviations to our codes
         home_abbr = ESPN_TO_ABBR.get(home_team.get("abbreviation", ""), home_team.get("abbreviation", ""))
         away_abbr = ESPN_TO_ABBR.get(away_team.get("abbreviation", ""), away_team.get("abbreviation", ""))
 
         home_score = home.get("score")
         away_score = away.get("score")
 
-        # Score is "0" for scheduled, convert to int or None
         if espn_status_to_our(status_info) == "scheduled":
             home_score = None
             away_score = None
@@ -129,6 +174,7 @@ def process_matches(events):
             away_score = int(away_score) if away_score is not None else None
 
         elapsed = comp["status"].get("elapsed")
+        odds = extract_odds(comp)
 
         matches.append({
             "espn_id": event["id"],
@@ -147,6 +193,7 @@ def process_matches(events):
                 "score": away_score,
             },
             "venue": comp.get("venue", {}).get("fullName", ""),
+            "odds": odds,
         })
 
     return matches
@@ -219,7 +266,85 @@ def main():
         json.dump(scores_data, f, ensure_ascii=False, indent=2)
     print(f"  ✅ 写入 {scores_path}")
 
-    # 3. Fetch standings (may be empty before tournament)
+    # 3. Generate predictions.ts from live odds
+    print("\n📊 生成 predictions.ts...")
+    predictions = []
+    for m in matches:
+        if m["odds"]:
+            predictions.append({
+                "match_id": m["espn_id"],
+                "home": m["home"]["abbr"],
+                "away": m["away"]["abbr"],
+                "home_win": m["odds"]["home_prob"],
+                "draw": m["odds"]["draw_prob"],
+                "away_win": m["odds"]["away_prob"],
+                "details": m["odds"]["details"],
+            })
+
+    if predictions:
+        pred_path = os.path.join(project_dir, "src", "data", "predictions.ts")
+        import re as _re
+
+        # Build new PREDICTIONS array
+        pred_lines = ["export const PREDICTIONS: MatchPrediction[] = ["]
+        for p in predictions:
+            pred_lines.append("  {")
+            pred_lines.append(f'    "match_id": "{p["match_id"]}",')
+            pred_lines.append(f'    "home": "{p["home"]}",')
+            pred_lines.append(f'    "away": "{p["away"]}",')
+            pred_lines.append(f'    "home_win": {p["home_win"]},')
+            pred_lines.append(f'    "draw": {p["draw"]},')
+            pred_lines.append(f'    "away_win": {p["away_win"]},')
+            pred_lines.append(f'    "details": "{p["details"]}"')
+            pred_lines.append("  },")
+        pred_lines.append("];")
+        new_array = "\n".join(pred_lines)
+
+        # Read existing file and replace only the PREDICTIONS array
+        try:
+            with open(pred_path, "r") as f:
+                existing = f.read()
+
+            # Replace the PREDICTIONS array (from "export const PREDICTIONS" to the closing "];")
+            pattern = r"export const PREDICTIONS: MatchPrediction\[\] = \[.*?\];"
+            updated = _re.sub(pattern, new_array, existing, flags=_re.DOTALL)
+
+            # Update the header comment
+            updated = _re.sub(
+                r"// 最后更新: .*",
+                f"// 最后更新: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
+                updated,
+            )
+
+            with open(pred_path, "w", encoding="utf-8") as f:
+                f.write(updated)
+        except FileNotFoundError:
+            # First time - create full file
+            with open(pred_path, "w", encoding="utf-8") as f:
+                f.write(f"""// 唯一数据源 — 赔率概率 (DraftKings via ESPN API)
+// 自动更新: fetch_scores.py → GitHub Action 每30分钟
+// 最后更新: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}
+
+export interface MatchPrediction {{
+  match_id: string;
+  home: string;
+  away: string;
+  home_win: number;
+  draw: number;
+  away_win: number;
+  details: string;
+}}
+
+{new_array}
+
+export function getPrediction(matchId: string): MatchPrediction | undefined {{
+  return PREDICTIONS.find((p) => p.match_id === matchId);
+}}
+""")
+
+        print(f"  ✅ 更新 {len(predictions)} 场赔率到 predictions.ts")
+
+    # 4. Fetch standings (may be empty before tournament)
     print("\n📡 拉取积分榜...")
     groups = fetch_standings()
     if groups:
