@@ -8,7 +8,6 @@ import BottomNav from './components/BottomNav';
 import OddsPage from './components/OddsPage';
 import Dashboard from './components/Dashboard';
 import ParticleBackground from './components/ParticleBackground';
-import WorldMap from './components/WorldMap';
 import SearchBar from './components/SearchBar';
 import MatchModal from './components/MatchModal';
 import TeamPage from './components/TeamPage';
@@ -97,7 +96,6 @@ export default function App() {
 
       {/* Particle background */}
       <ParticleBackground />
-      <WorldMap />
 
       <div className="max-w-[560px] mx-auto pb-20 relative z-10">
         {/* Header */}

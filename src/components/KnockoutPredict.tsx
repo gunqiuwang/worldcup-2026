@@ -51,17 +51,23 @@ function generateRounds(bracket: ReturnType<typeof generateBracket>) {
   // 8强
   const qf: TeamSlot[] = [];
   for (let i = 0; i < r16.length; i += 2) {
-    qf.push(r16[i].prob >= r16[i + 1]?.prob ? r16[i] : r16[i + 1]);
+    const a = r16[i];
+    const b = r16[i + 1];
+    qf.push(b ? (a.prob >= b.prob ? a : b) : a);
   }
   // 4强
   const sf: TeamSlot[] = [];
   for (let i = 0; i < qf.length; i += 2) {
-    sf.push(qf[i].prob >= qf[i + 1]?.prob ? qf[i] : qf[i + 1]);
+    const a = qf[i];
+    const b = qf[i + 1];
+    sf.push(b ? (a.prob >= b.prob ? a : b) : a);
   }
   // 决赛
   const final: TeamSlot[] = [];
   for (let i = 0; i < sf.length; i += 2) {
-    final.push(sf[i].prob >= sf[i + 1]?.prob ? sf[i] : sf[i + 1]);
+    const a = sf[i];
+    const b = sf[i + 1];
+    final.push(b ? (a.prob >= b.prob ? a : b) : a);
   }
 
   return { r16, qf, sf, final };
@@ -92,7 +98,7 @@ function RoundColumn({ title, teams, delay }: { title: string; teams: TeamSlot[]
   return (
     <div className="flex flex-col gap-2 min-w-[100px]">
       <div className="text-[10px] font-bold text-gold text-center mb-1">{title}</div>
-      {teams.map((t, i) => (
+      {teams.filter((t) => t && t.abbr).map((t, i) => (
         <MatchSlot key={t.abbr + i} team={t} delay={delay + i * 0.05} />
       ))}
     </div>
