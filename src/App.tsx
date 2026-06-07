@@ -6,6 +6,7 @@ import MatchCard from './components/MatchCard';
 import GroupStandings from './components/GroupStandings';
 import BottomNav from './components/BottomNav';
 import OddsPage from './components/OddsPage';
+import Dashboard from './components/Dashboard';
 import ParticleBackground from './components/ParticleBackground';
 import SearchBar from './components/SearchBar';
 import MatchModal from './components/MatchModal';
@@ -39,7 +40,7 @@ const THEME_ORDER: Theme[] = ['dark', 'light', 'matchday'];
 const THEME_LABELS: Record<Theme, string> = { dark: '深色', light: '浅色', matchday: '比赛日' };
 
 export default function App() {
-  const [page, setPage] = useState('matches');
+  const [page, setPage] = useState('data');  // 默认显示数据中心
   const [tab, setTab] = useState<Tab>('today');
   const [theme, setTheme] = useState<Theme>('dark');
   const [searchQuery, setSearchQuery] = useState('');
@@ -121,11 +122,23 @@ export default function App() {
           </div>
         </header>
 
-        {/* Countdown */}
-        <Countdown />
+        {/* Countdown - 只在赛程页显示 */}
+        {page === 'matches' && <Countdown />}
 
         {/* Content */}
         <AnimatePresence mode="wait">
+          {page === 'data' && (
+            <motion.div
+              key="data"
+              initial={{ opacity: 0, x: -20 }}
+              animate={{ opacity: 1, x: 0 }}
+              exit={{ opacity: 0, x: 20 }}
+              transition={{ duration: 0.2 }}
+            >
+              <Dashboard />
+            </motion.div>
+          )}
+
           {page === 'matches' && (
             <motion.div
               key="matches"

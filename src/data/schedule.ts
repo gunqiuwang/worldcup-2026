@@ -15,9 +15,9 @@ export interface MatchData {
   home: TeamData;
   away: TeamData;
   odds?: {
-    home_win_prob?: number;
-    draw_prob?: number;
-    away_win_prob?: number;
+    home_win_prob?: number | null;
+    draw_prob?: number | null;
+    away_win_prob?: number | null;
     details?: string;
   } | null;
 }
