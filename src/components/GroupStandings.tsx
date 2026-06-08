@@ -39,8 +39,16 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
         )}
       </div>
 
+      {/* Column headers */}
+      <div className="flex items-center px-2 pb-1.5 mb-1 text-[8px] text-gray-600 border-b border-white/[0.04]">
+        <div className="w-4 text-center">#</div>
+        <div className="flex-1 ml-2">球队</div>
+        <div className="w-12 text-right">出线</div>
+        <div className="w-12 text-right">夺冠</div>
+      </div>
+
       {/* Team rows */}
-      <div className="space-y-1">
+      <div className="space-y-0.5">
         {sortedTeams.map((tp, i) => {
           const abbr = tp.team;
           const t = TEAMS[abbr];
@@ -55,7 +63,7 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
               initial={{ opacity: 0, x: -8 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ delay: i * 0.06, duration: 0.3, ease: [0.16, 1, 0.3, 1] }}
-              className={`flex items-center gap-2 p-2 rounded-lg transition-colors ${
+              className={`flex items-center gap-2 px-2 py-2 rounded-lg transition-colors ${
                 qualify ? 'bg-green/[0.04]' : 'hover:bg-white/[0.02]'
               }`}
             >
@@ -69,45 +77,34 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
                 <Flag code={abbr} size="sm" />
               </div>
 
-              {/* Name + meta */}
-              <div className="flex-1 min-w-0">
-                <div className="flex items-center gap-1.5 flex-wrap">
-                  <span className="text-[13px] font-semibold">{t.cn}</span>
-                  <span className={`px-1 py-0 rounded text-[7px] font-bold border leading-none flex-shrink-0 ${tc.bg} ${tc.text} ${tc.border}`}>
-                    {t.tier}
-                  </span>
-                  <span className={`text-[10px] flex-shrink-0 ${
-                    t.trend === '↑' ? 'text-green' :
-                    t.trend === '↓' ? 'text-red' :
-                    'text-gray-600'
-                  }`}>
-                    {t.trend}
-                  </span>
-                </div>
-                <div className="text-[9px] text-gray-600 mt-0.5">
-                  FIFA #{t.fifa_rank}
-                  {pred && tp.avg_points > 0 && (
-                    <span className="ml-1.5">· {tp.avg_points.toFixed(1)}分</span>
-                  )}
-                </div>
+              {/* Name + meta — single line, truncate name if needed */}
+              <div className="flex-1 min-w-0 flex items-center gap-1.5">
+                <span className="text-[13px] font-semibold truncate">{t.cn}</span>
+                <span className={`px-1 py-0 rounded text-[7px] font-bold border leading-none flex-shrink-0 ${tc.bg} ${tc.text} ${tc.border}`}>
+                  {t.tier}
+                </span>
+                <span className={`text-[10px] flex-shrink-0 ${
+                  t.trend === '↑' ? 'text-green' :
+                  t.trend === '↓' ? 'text-red' :
+                  'text-gray-600'
+                }`}>
+                  {t.trend}
+                </span>
+                <span className="text-[9px] text-gray-600 flex-shrink-0 hidden min-[400px]:inline">
+                  #{t.fifa_rank}
+                </span>
               </div>
 
-              {/* Progress bar + numbers */}
-              <div className="flex items-center gap-2 flex-shrink-0">
-                <div className="w-16">
-                  <div className="h-1.5 rounded-full overflow-hidden bg-white/[0.04]">
-                    <motion.div
-                      initial={{ width: 0 }}
-                      animate={{ width: `${prob}%` }}
-                      transition={{ duration: 0.8, delay: i * 0.1, ease: [0.16, 1, 0.3, 1] }}
-                      className={`h-full rounded-full ${qualify ? 'bg-gradient-to-r from-green/70 to-green' : 'bg-gray-600/40'}`}
-                    />
-                  </div>
-                </div>
-                <span className={`text-[11px] font-bold tabular-nums w-9 text-right ${qualify ? 'text-green' : 'text-gray-500'}`}>
+              {/* Advancement % */}
+              <div className={`w-12 text-right flex-shrink-0`}>
+                <span className={`text-[12px] font-bold tabular-nums ${qualify ? 'text-green' : 'text-gray-500'}`}>
                   {prob}%
                 </span>
-                <span className={`text-[10px] font-bold tabular-nums w-8 text-right ${tp.winner_pct > 30 ? 'text-gold' : 'text-gray-600'}`}>
+              </div>
+
+              {/* Winner % */}
+              <div className="w-12 text-right flex-shrink-0">
+                <span className={`text-[11px] font-bold tabular-nums ${tp.winner_pct > 30 ? 'text-gold' : 'text-gray-600'}`}>
                   {tp.winner_pct}%
                 </span>
               </div>
@@ -119,7 +116,7 @@ function GroupTable({ group, teams }: { group: string; teams: string[] }) {
       {/* Legend */}
       <div className="flex items-center gap-4 mt-2 pt-2 border-t border-white/[0.03] text-[8px] text-gray-600">
         <span className="flex items-center gap-1"><span className="w-1.5 h-1.5 rounded-full bg-green" /> 前2出线</span>
-        <span>出线% / 第一%</span>
+        <span>出线% · 夺冠%</span>
       </div>
     </motion.div>
   );
