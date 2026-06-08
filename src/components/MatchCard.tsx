@@ -148,15 +148,11 @@ export default function MatchCard({ match, index, onClick }: Props) {
       <div className="flex items-center gap-3">
         {/* Home */}
         <div className="flex-1 flex flex-col items-center">
-          <div className="relative">
-            <Flag code={match.home.abbr} size="lg" />
-            {homeTeam && (
-              <div className="absolute -top-1 -right-2">
-                <TierBadge tier={homeTeam.tier} />
-              </div>
-            )}
+          <Flag code={match.home.abbr} size="lg" />
+          <div className="flex items-center justify-center gap-1 mt-1.5">
+            <span className="text-[13px] font-semibold leading-tight">{match.home.name}</span>
+            {homeTeam && <TierBadge tier={homeTeam.tier} />}
           </div>
-          <div className="text-[13px] font-semibold mt-1.5 text-center leading-tight">{match.home.name}</div>
           {homeTeam && (
             <div className="text-[9px] text-gray-600 mt-0.5">
               #{homeTeam.fifa_rank} {homeTeam.trend}
@@ -202,15 +198,11 @@ export default function MatchCard({ match, index, onClick }: Props) {
 
         {/* Away */}
         <div className="flex-1 flex flex-col items-center">
-          <div className="relative">
-            <Flag code={match.away.abbr} size="lg" />
-            {awayTeam && (
-              <div className="absolute -top-1 -right-2">
-                <TierBadge tier={awayTeam.tier} />
-              </div>
-            )}
+          <Flag code={match.away.abbr} size="lg" />
+          <div className="flex items-center justify-center gap-1 mt-1.5">
+            <span className="text-[13px] font-semibold leading-tight">{match.away.name}</span>
+            {awayTeam && <TierBadge tier={awayTeam.tier} />}
           </div>
-          <div className="text-[13px] font-semibold mt-1.5 text-center leading-tight">{match.away.name}</div>
           {awayTeam && (
             <div className="text-[9px] text-gray-600 mt-0.5">
               #{awayTeam.fifa_rank} {awayTeam.trend}
