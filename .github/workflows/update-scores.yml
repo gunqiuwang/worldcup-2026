@@ -2,18 +2,13 @@ name: Update Live Scores & Simulate
 
 on:
   schedule:
-    # 比赛期间每30分钟 (6月11日-7月19日)，用条件判断避免非赛期浪费CI
+    # 比赛期间每30分钟 (6月11日-7月19日)
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   update-scores:
     runs-on: ubuntu-latest
-    # 只在赛期(6月11日-7月20日)或手动触发时运行
-    if: >
-      github.event_name == 'workflow_dispatch' ||
-      (github.event.schedule == '*/30 * * * *' && 
-       (contains('Jun', github.event.repository.updated_at) || contains('Jul', github.event.repository.updated_at)))
     steps:
       - uses: actions/checkout@v4
 
