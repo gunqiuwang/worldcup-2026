@@ -184,7 +184,7 @@ function OddsOverview() {
                 <div className="flex h-2 rounded-full overflow-hidden bg-white/5 mb-1.5">
                   <div className="bg-gradient-to-r from-green to-green-dark transition-all" style={{ width: `${m.homeProb}%` }} />
                   <div className="bg-gradient-to-r from-gold to-gold-dark transition-all" style={{ width: `${m.drawProb}%` }} />
-                  <div className="bg-gradient-to-r from-red to-red-dark transition-all" style={{ width: `${m.awayProb}%` }} />
+                  <div className="bg-gradient-to-r from-red to-red-dark transition-all flex-1" />
                 </div>
                 <div className="flex justify-between text-[10px]">
                   <span className="text-green font-semibold">{m.homeProb}%</span>
