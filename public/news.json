@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T20:17:17.674203+00:00",
+  "updated_at": "2026-06-09T23:23:26.099822+00:00",
   "count": 30,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-10/6a28719183131native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.040814+00:00",
+      "time_iso": "2026-06-09T23:23:25.857915+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a280118d0478native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.041503+00:00",
+      "time_iso": "2026-06-09T23:23:25.858495+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a27b48b487a8native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.041544+00:00",
+      "time_iso": "2026-06-09T23:23:25.858573+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -46,7 +46,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a28144c6c8f9native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.041944+00:00",
+      "time_iso": "2026-06-09T23:23:25.858954+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a24f49e8c526native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.042210+00:00",
+      "time_iso": "2026-06-09T23:23:25.859158+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -70,7 +70,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a2485349009enative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.042672+00:00",
+      "time_iso": "2026-06-09T23:23:25.859541+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-06/6a2410ef92f0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.042704+00:00",
+      "time_iso": "2026-06-09T23:23:25.859575+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -94,7 +94,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-06/6a23bf04631c7native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.042763+00:00",
+      "time_iso": "2026-06-09T23:23:25.859634+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-03/6a1ff0ee2417cnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.042823+00:00",
+      "time_iso": "2026-06-09T23:23:25.859695+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,7 +118,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a2752c7d0d27native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.042876+00:00",
+      "time_iso": "2026-06-09T23:23:25.859749+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a272a5553c97native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.042920+00:00",
+      "time_iso": "2026-06-09T23:23:25.859817+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -142,7 +142,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a2510b6453denative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.043010+00:00",
+      "time_iso": "2026-06-09T23:23:25.859909+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "ba9702f327",
+      "category": "hot",
+      "title": "挥汗如雨！征战世界杯，葡萄牙队长C罗晒训练照：逐步备战中",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-10/6a287839565d6native.htm",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-06-09T23:23:25.860908+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +166,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a27c32dd2420native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044150+00:00",
+      "time_iso": "2026-06-09T23:23:25.860969+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -166,19 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a2766df19908native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044210+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "c2a75e6b9e",
-      "category": "hot",
-      "title": "贝托：C罗很自律，我不确定今夏世界杯是否是他的最后一届大赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a2758b5b7006native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044244+00:00",
+      "time_iso": "2026-06-09T23:23:25.861031+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -190,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a275634bb06anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044273+00:00",
+      "time_iso": "2026-06-09T23:23:25.861066+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -202,7 +202,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a251cd47fdf0native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044326+00:00",
+      "time_iso": "2026-06-09T23:23:25.861119+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "c2a75e6b9e",
+      "category": "hot",
+      "title": "贝托：C罗很自律，我不确定今夏世界杯是否是他的最后一届大赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a2758b5b7006native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-06-09T23:23:25.861154+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -214,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a2740b51e937native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044393+00:00",
+      "time_iso": "2026-06-09T23:23:25.861216+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -226,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a25510b26496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044439+00:00",
+      "time_iso": "2026-06-09T23:23:25.861264+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -238,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a2528a7ea9a9native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044466+00:00",
+      "time_iso": "2026-06-09T23:23:25.861292+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -250,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a248bbc4f9c6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044525+00:00",
+      "time_iso": "2026-06-09T23:23:25.861352+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -262,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-05/6a22768e2b8dfnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044609+00:00",
+      "time_iso": "2026-06-09T23:23:25.861429+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -274,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-05/6a21c756d46abnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044690+00:00",
+      "time_iso": "2026-06-09T23:23:25.861503+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -286,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-05/6a21ab7194801native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044718+00:00",
+      "time_iso": "2026-06-09T23:23:25.861532+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -298,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e55fee765cnative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044760+00:00",
+      "time_iso": "2026-06-09T23:23:25.861575+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -310,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1de069d18d2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-09T20:17:17.044787+00:00",
+      "time_iso": "2026-06-09T23:23:25.861603+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -321,7 +333,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-06-01/6a1cc2bb04824native.htm",
       "team": "BRA",
-      "time": "7小时前",
+      "time": "10小时前",
       "time_iso": "2026-06-09T12:48:31.133785+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -333,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1dbfa5cab22native.htm",
       "team": "POR",
-      "time": "7小时前",
+      "time": "10小时前",
       "time_iso": "2026-06-09T12:48:31.135867+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -345,20 +357,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-06-06/6a23eeb0daed1native.htm",
       "team": "FRA",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-06-09T09:59:47.994322+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "5f186f6763",
-      "category": "hot",
-      "title": "不影响世界杯！阿根廷国家队首次公开训练，队长梅西已正常训练",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-04/6a20ba82f0db4native.htm",
-      "team": "ARG",
-      "time": "10小时前",
-      "time_iso": "2026-06-09T09:59:47.996076+00:00",
       "source": "直播吧",
       "is_hot": true
     }
