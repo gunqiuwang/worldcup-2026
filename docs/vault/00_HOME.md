@@ -2,7 +2,7 @@
 type: home
 status: active
 confidence: high
-last_updated: 2026-06-07
+last_updated: 2026-06-10
 owner: both
 reviewed_by: agent
 aliases: ["世界杯", "MatchLens AI", "worldcup2026"]
@@ -24,16 +24,16 @@ aliases: ["世界杯", "MatchLens AI", "worldcup2026"]
 | **Deploy** | GitHub → Vercel/Cloudflare |
 | **Style** | 深色科技感，金色点缀，glass morphism |
 | **JS Bundle** | 377KB (gzip 112KB) |
-| **Last Updated** | 2026-06-07 |
+| **Last Updated** | 2026-06-10 |
 
 ## 4 Tabs
 
 | Tab | Component | Content |
 |-----|-----------|---------|
-| 赛程 | App.tsx → MatchCard | 今日/全部赛程，分组筛选，搜索 |
-| 排名 | GroupStandings | 小组积分榜 + 出线概率 |
+| 赛程 | App.tsx → MatchCard | FotMob风格, 概率条(红/蓝/绿), 主/客badge, 搜索 |
+| 排名 | GroupStandings | FiveThirtyEight风格积分榜 + 出线概率, 单行truncate |
 | 分析 | Dashboard | 焦点比赛、预测总览、冷门榜、热门队、赔率一览、赔率走势 |
-| 资讯 | NewsPage | ESPN+BBC RSS 新闻，GitHub Action 每2h更新 |
+| 资讯 | NewsPage | 多源RSS(ESPN+BBC+中文), 源轮换排序, GitHub Action 每2h |
 
 ## Most Important Files
 

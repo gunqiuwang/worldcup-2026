@@ -21,7 +21,7 @@ reviewed_by: agent
 ```yaml
 vault_version: 5.4.0
 vault_created: 2026-06-02
-last_upgraded: 2026-06-07
+last_upgraded: 2026-06-10
 ```
 
 ## Project Phase

@@ -2,7 +2,7 @@
 type: decision-log
 status: active
 confidence: high
-last_updated: 2026-06-07
+last_updated: 2026-06-10
 owner: both
 reviewed_by: agent
 ---
@@ -45,6 +45,28 @@ reviewed_by: agent
 **Why:** WSL 环境下 HTTPS push 经常超时
 
 ## Decision: 深色科技感设计
+## Decision: 概率条颜色方案 — 红=主/蓝=平/绿=客
+
+**Date:** 2026-06-10 | **Status:** Accepted
+**Decision:** MatchCard概率条: 红色=主胜, 蓝色=平局, 绿色=客胜
+**Why:** 直觉映射(主=红=热, 客=绿=冷), 与FotMob风格一致
+**Alternatives rejected:** red=favorite/green=underdog (不直觉), gold=draw (与背景冲突)
+**Note:** 经过5次迭代才确定, 颜色方案应在设计阶段锁定
+
+## Decision: 去rss2json改直接RSS解析
+
+**Date:** 2026-06-09 | **Status:** Accepted
+**Decision:** fetch_news.py不再依赖rss2json第三方服务, 直接解析RSS XML
+**Why:** rss2json不稳定导致新闻数量锐减, 直接解析更可靠
+**Impact:** 新闻管道v4, 源轮换排序保证同源新闻分散
+
+## Decision: ESPN API统一数据获取
+
+**Date:** 2026-06-07 | **Status:** Accepted
+**Decision:** 用ESPN API同时获取比分+赔率+积分榜
+**Why:** 免费无限次, 自带DraftKings赔率, 不需要单独的赔率API
+**Impact:** fetch_scores.py一石三鸟(比分+赔率+积分榜)
+
 
 **Date:** 2026-06-01 | **Status:** Accepted
 **Decision:** 深色底 + 金色点缀，glass morphism 风格
