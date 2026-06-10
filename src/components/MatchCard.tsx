@@ -144,6 +144,7 @@ export default function MatchCard({ match, index, onClick }: Props) {
           <div className="flex items-center justify-center gap-1 mt-1.5">
             <span className="text-[13px] font-semibold leading-tight">{match.home.name}</span>
             {homeTeam && <TierBadge tier={homeTeam.tier} />}
+            <span className="inline-block px-1 py-0 rounded text-[8px] font-bold border leading-tight bg-white/[0.06] text-gray-400 border-white/[0.08]">主</span>
           </div>
           {homeTeam && (
             <div className="text-[9px] text-gray-600 mt-0.5">
@@ -194,6 +195,7 @@ export default function MatchCard({ match, index, onClick }: Props) {
           <div className="flex items-center justify-center gap-1 mt-1.5">
             <span className="text-[13px] font-semibold leading-tight">{match.away.name}</span>
             {awayTeam && <TierBadge tier={awayTeam.tier} />}
+            <span className="inline-block px-1 py-0 rounded text-[8px] font-bold border leading-tight bg-white/[0.06] text-gray-400 border-white/[0.08]">客</span>
           </div>
           {awayTeam && (
             <div className="text-[9px] text-gray-600 mt-0.5">
