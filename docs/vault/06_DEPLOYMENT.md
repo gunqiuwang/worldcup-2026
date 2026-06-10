@@ -20,7 +20,8 @@ npm run build    # tsc -b && vite build
 
 ```
 GitHub push (SSH) → GitHub repo (gunqiuwang/worldcup-2026)
-    → Vercel 自动部署 → www.404969.xyz
+    → Vercel 连接 GitHub 仓库自动部署
+    → Cloudflare 代理 → www.404969.xyz
 ```
 
 **当前状态:** 已部署 Vercel (www.404969.xyz)。CI/CD 数据管道运行中。

@@ -34,9 +34,9 @@ aliases: ["世界杯", "MatchLens AI", "worldcup2026"]
 | **Project** | MatchLens AI |
 | **Repo** | gunqiuwang/worldcup-2026 (GitHub) |
 | **Domain** | 404969.xyz (Cloudflare) |
-| **Phase** | mvp (功能完整，待部署) |
+| **Phase** | mvp (已部署) |
 | **Stack** | React + Vite + TypeScript + Tailwind + Framer Motion |
-| **Deploy** | GitHub → Vercel/Cloudflare |
+| **Deploy** | GitHub → Vercel 自动部署 → Cloudflare 代理 |
 | **Style** | 深色科技感，金色点缀，glass morphism |
 | **JS Bundle** | 377KB (gzip 112KB) |
 | **Last Updated** | 2026-06-10 |
