@@ -31,6 +31,8 @@ MAX_AGE_HOURS = 48      # 滚动窗口 (小时)
 # 英文 RSS 源 (直接请求，不用rss2json)
 RSS_FEEDS = [
     {"url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "source": "BBC Sport"},
+    {"url": "https://www.skysports.com/rss/12040", "source": "Sky Sports"},
+    {"url": "https://www.espn.com/espn/rss/soccer/news", "source": "ESPN"},
 ]
 
 # 中文网页源
@@ -360,11 +362,35 @@ def merge_and_prune(old_articles, new_articles, max_age_hours, max_count):
         unique.append(a)
 
     unique.sort(key=lambda x: (
-        0 if x.get("source") in ("直播吧",) else 1,
         -(1 if x.get("is_hot") else 0),
     ))
 
-    return unique[:max_count]
+    # 按源轮换: 不让单一源独占所有坑位
+    from collections import defaultdict
+    by_source = defaultdict(list)
+    for a in unique:
+        by_source[a.get("source", "")].append(a)
+
+    # 每个源最多占 60% 的坑位
+    max_per_source = max(3, int(max_count * 0.6))
+    interleaved = []
+    source_keys = list(by_source.keys())
+    idx = 0
+    while len(interleaved) < max_count:
+        added = False
+        for src in source_keys:
+            if idx < len(by_source[src]) and len(interleaved) < max_count:
+                article = by_source[src][idx]
+                # 限制每个源
+                count_so_far = sum(1 for a in interleaved if a.get("source") == src)
+                if count_so_far < max_per_source:
+                    interleaved.append(article)
+                    added = True
+        idx += 1
+        if not added:
+            break
+
+    return interleaved
 
 
 def main():

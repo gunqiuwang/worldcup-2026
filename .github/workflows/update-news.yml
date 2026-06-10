@@ -5,6 +5,11 @@ on:
     # Every 2 hours
     - cron: '0 */2 * * *'
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/fetch_news.py'
+      - '.github/workflows/update-news.yml'
 
 jobs:
   update-news:
