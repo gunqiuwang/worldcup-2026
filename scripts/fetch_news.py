@@ -25,8 +25,8 @@ from datetime import datetime, timezone, timedelta
 
 # ============ 配置 ============
 
-MAX_ARTICLES = 30       # 最多保留条数
-MAX_AGE_HOURS = 48      # 滚动窗口 (小时)
+MAX_ARTICLES = 50       # 固定保留50条，滚动淘汰最老的
+MAX_AGE_HOURS = 72      # 滚动窗口3天 (匹配日/非比赛日都要有内容)
 
 # 英文 RSS 源 (已彻底删除 — v5只保留中文源)
 # RSS_FEEDS = []  # 已删除
