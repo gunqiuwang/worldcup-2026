@@ -14,7 +14,7 @@ reviewed_by: agent
 | Key | Value | Confidence |
 |-----|-------|------------|
 | **Current Branch** | master | high |
-| **HEAD Commit** | 1f7eca7 refactor: 分析页删赔率一览 + 首页今日→焦点赛程 | high |
+| **HEAD Commit** | 8e4e646 fix: 删掉英文新闻源，只保留中文(直播吧) | high |
 | **Unpushed Commits** | 0 (全部已推送到 GitHub) | high |
 | **Phase** | mvp (功能完整，已部署数据管道) | high |
 | **Build** | ✅ TypeScript零错误 | high |
@@ -36,7 +36,7 @@ reviewed_by: agent
 | 赛程 | MatchCard | **焦点赛程**(开赛前显示揭幕日)/全部, 概率条(红/蓝/绿), 主/客badge |
 | 排名 | GroupStandings | FiveThirtyEight风格积分榜 + 出线概率, 单行truncate |
 | 分析 | Dashboard | 焦点比赛(5场), 爆冷预警(10条), 热门队 |
-| 资讯 | NewsPage | 多源RSS(ESPN+BBC+中文源), 48h滚动, 源轮换排序, 上限30条 |
+| 资讯 | NewsPage | 中文源(直播吧), 48h滚动, 上限30条, GitHub Action每2h |
 
 ## Data Pipeline (Current)
 
@@ -55,9 +55,8 @@ fetch_scores.py (GitHub Action, 比赛期间每30min)
     └── → live_scores.json + standings.json + predictions.ts
 
 fetch_news.py (GitHub Action, 每2h)
-    ├── 多源RSS直接解析 (ESPN+BBC+中文源)
-    ├── 源轮换排序 (同源新闻分散)
-    ├── 严格WC过滤 + 48h滚动窗口
+    ├── 中文源(直播吧)爬取
+    ├── 严格WC过滤 + 48h滚动窗口 + 上限30条
     └── → public/news.json → 前端 fetch
 ```
 
