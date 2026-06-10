@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T03:54:55.986151+00:00",
+  "updated_at": "2026-06-10T03:55:51.280326+00:00",
   "count": 30,
   "articles": [
     {
@@ -10,8 +10,20 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-10/6a28c73b29b7dnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.865613+00:00",
+      "time_iso": "2026-06-10T03:55:50.358444+00:00",
       "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "193c2b5cea",
+      "category": "hot",
+      "title": "From dazzling winger to veteran who barely runs - the evolution of Messi",
+      "summary": "Lionel Messi is set for his sixth World Cup with Argentina. Guillem Balague looks at how the Argentine has evolved.",
+      "url": "https://www.bbc.com/sport/football/articles/ckg42nvgx77o?at_medium=RSS&at_campaign=rss",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.007629+00:00",
+      "source": "BBC Sport",
       "is_hot": true
     },
     {
@@ -34,7 +46,7 @@
       "url": "https://www.skysports.com/football/news/12040/13552532/england-women-3-0-ukraine-women-lionesses-rue-spain-defeat-as-they-question-how-one-defeat-cost-them-automatic-world-cup-spot",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.389797+00:00",
+      "time_iso": "2026-06-10T03:55:51.180573+00:00",
       "source": "Sky Sports",
       "is_hot": false
     },
@@ -46,8 +58,20 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-10/6a28719183131native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.865778+00:00",
+      "time_iso": "2026-06-10T03:55:50.358569+00:00",
       "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "d44ddf452f",
+      "category": "hot",
+      "title": "Born in Leeds, crafted in Norway: How Haaland became nation's superstar",
+      "summary": "Erling Haaland has guided Norway to their first World Cup since 1998. So what is it like being a global name from a nati",
+      "url": "https://www.bbc.com/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.007684+00:00",
+      "source": "BBC Sport",
       "is_hot": true
     },
     {
@@ -70,7 +94,7 @@
       "url": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.389980+00:00",
+      "time_iso": "2026-06-10T03:55:51.180778+00:00",
       "source": "Sky Sports",
       "is_hot": false
     },
@@ -82,8 +106,20 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a280118d0478native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866209+00:00",
+      "time_iso": "2026-06-10T03:55:50.359020+00:00",
       "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "26c1bf2293",
+      "category": "injury",
+      "title": "Are Portugal better without Ronaldo - and is he undroppable?",
+      "summary": "As Cristiano Ronaldo prepares for his sixth World Cup with Portugal, BBC Sport take a closer look at his place in the te",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.007746+00:00",
+      "source": "BBC Sport",
       "is_hot": true
     },
     {
@@ -106,7 +142,7 @@
       "url": "https://www.skysports.com/watch/video/13552406/lionesses-how-can-england-qualify-for-the-world-cup-tonight",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.390116+00:00",
+      "time_iso": "2026-06-10T03:55:51.180998+00:00",
       "source": "Sky Sports",
       "is_hot": false
     },
@@ -118,9 +154,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a27b48b487a8native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866263+00:00",
+      "time_iso": "2026-06-10T03:55:50.359105+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "cbf4e08ed3",
+      "category": "hot",
+      "title": "Caution over Saka as Tuchel says England must dare to dream",
+      "summary": "England head coach Thomas Tuchel says Bukayo Saka's fitness is being managed with a \"little bit of care\" heading into th",
+      "url": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&at_campaign=rss",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.005020+00:00",
+      "source": "BBC Sport",
+      "is_hot": false
     },
     {
       "id": "dec112b070",
@@ -142,7 +190,7 @@
       "url": "https://www.skysports.com/football/england-women-vs-ukraine-women/report/550130",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.390222+00:00",
+      "time_iso": "2026-06-10T03:55:51.181099+00:00",
       "source": "Sky Sports",
       "is_hot": false
     },
@@ -154,9 +202,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-10/6a28a3e79c8d9native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866471+00:00",
+      "time_iso": "2026-06-10T03:55:50.359422+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "e12ed7699a",
+      "category": "injury",
+      "title": "Does referee case show Fifa has lost control of its own World Cup?",
+      "summary": "With referee Omar Artan denied entry to the United States and worries over staff and supporters being turned back, what ",
+      "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.005137+00:00",
+      "source": "BBC Sport",
+      "is_hot": false
     },
     {
       "id": "969b53c227",
@@ -178,7 +238,7 @@
       "url": "https://www.skysports.com/rugby-union/news/12040/13552315/maggie-alphonsi-rfu-council-member-resigns-over-discriminatory-comments-about-world-cup-winner",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.390331+00:00",
+      "time_iso": "2026-06-10T03:55:51.181184+00:00",
       "source": "Sky Sports",
       "is_hot": false
     },
@@ -190,9 +250,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a28144c6c8f9native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866671+00:00",
+      "time_iso": "2026-06-10T03:55:50.359712+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "fd0328d614",
+      "category": "injury",
+      "title": "England miss out on automatic World Cup spot - so what happens now?",
+      "summary": "England beat Ukraine 3-0 on Tuesday night but it did not matter what they did as automatic qualification for the 2027 Wo",
+      "url": "https://www.bbc.com/sport/football/articles/cvg70dzg3ngo?at_medium=RSS&at_campaign=rss",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.005215+00:00",
+      "source": "BBC Sport",
+      "is_hot": false
     },
     {
       "id": "9b9639c858",
@@ -214,7 +286,7 @@
       "url": "https://www.skysports.com/football/news/12040/13552469/world-cup-2026-england-boss-thomas-tuchel-says-three-lions-not-favourites-for-tournament",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.390384+00:00",
+      "time_iso": "2026-06-10T03:55:51.181241+00:00",
       "source": "Sky Sports",
       "is_hot": false
     },
@@ -226,9 +298,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a24f49e8c526native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866706+00:00",
+      "time_iso": "2026-06-10T03:55:50.359767+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "2256abcf89",
+      "category": "hot",
+      "title": "From risk of death to oldest man at World Cup - walking miracle Gordon",
+      "summary": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed a",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.005306+00:00",
+      "source": "BBC Sport",
+      "is_hot": false
     },
     {
       "id": "6c99eadabc",
@@ -250,9 +334,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a2485349009enative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866731+00:00",
+      "time_iso": "2026-06-10T03:55:50.360139+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "8e47956ded",
+      "category": "hot",
+      "title": "Wales can reach Women's World Cup - Wilkinson",
+      "summary": "Rhian Wilkinson says Wales have the potential to qualify for next year's Women's World Cup after they beat the Czech Rep",
+      "url": "https://www.bbc.com/sport/football/articles/c2ly99d4ljjo?at_medium=RSS&at_campaign=rss",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-06-10T03:55:51.005405+00:00",
+      "source": "BBC Sport",
+      "is_hot": false
     },
     {
       "id": "dee36d40f7",
@@ -263,102 +359,6 @@
       "team": "",
       "time": "1分钟前",
       "time_iso": "2026-06-10T03:54:55.985231+00:00",
-      "source": "ESPN",
-      "is_hot": false
-    },
-    {
-      "id": "1f4b4debb7",
-      "category": "hot",
-      "title": "记者：内马尔仍有可能出战巴西队世界杯首战，但更可能次战复出",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-06/6a2410ef92f0dnative.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866750+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "3516975b1e",
-      "category": "injury",
-      "title": "The World Cup is almost here! Time for the soccer ...",
-      "summary": "All of the pre-tournament noise will be drowned out by events on the pitch when thing kick off on Thursday.",
-      "url": "https://www.espn.com/soccer/story/_/id/48998867/the-2026-fifa-world-cup-almost-here-soccer-do-talking",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.985279+00:00",
-      "source": "ESPN",
-      "is_hot": false
-    },
-    {
-      "id": "16b01378a0",
-      "category": "hot",
-      "title": "奥尔莫世界杯球星二选一：内马尔姆巴佩选前者，贝利＜老马＜梅西",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-06/6a23bf04631c7native.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866785+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "6b38a42bb1",
-      "category": "hot",
-      "title": "Final World Cup Power Rankings before the tourname...",
-      "summary": "Our reporters ranked the top 15 contenders for this summer's top prize as they see it right now.",
-      "url": "https://www.espn.com/soccer/story/_/id/49001555/fifa-world-cup-power-rankings-spain-brazil-germany-england-argentina",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.985321+00:00",
-      "source": "ESPN",
-      "is_hot": false
-    },
-    {
-      "id": "9f84c5174f",
-      "category": "hot",
-      "title": "世界杯球星财富榜：C罗10亿镑第1，梅西、内马尔二三，孙兴慜第7",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-03/6a1ff0ee2417cnative.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866825+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "1660c92e32",
-      "category": "hot",
-      "title": "World Cup Rank: The 50 best players in the 2026 to...",
-      "summary": "The 2026 FIFA World Cup will feature the world's best talent. Let's rank the top 50 players who will be there!",
-      "url": "https://www.espn.com/soccer/story/_/id/48991846/world-cup-rank-50-best-players-2026-tournament",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.985372+00:00",
-      "source": "ESPN",
-      "is_hot": false
-    },
-    {
-      "id": "6fd5528245",
-      "category": "hot",
-      "title": "德尚：我不担心姆巴佩的状态，他之前告诉我要把进球留在世界杯时",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-09/6a2752c7d0d27native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:39.866868+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "5ac943e19e",
-      "category": "hot",
-      "title": "16 players who could use World Cup to get a big tr...",
-      "summary": "The World Cup is the biggest stage in sports, so which players can use it to get their next big transfer?",
-      "url": "https://www.espn.com/soccer/story/_/id/48956021/16-players-use-world-cup-get-big-transfer-europe",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-06-10T03:54:55.985452+00:00",
       "source": "ESPN",
       "is_hot": false
     }
