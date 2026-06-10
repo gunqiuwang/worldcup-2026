@@ -1,9 +1,10 @@
 import { motion } from 'framer-motion';
-import { X, Clock, MapPin, BarChart3 } from 'lucide-react';
+import { X, Clock, MapPin, BarChart3, Target } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
 import { TEAMS } from '../data/teams';
 import { getPrediction } from '../data/predictions';
 import Flag from './Flag';
+import RadarChart from './RadarChart';
 
 
 interface Props {
@@ -152,6 +153,41 @@ export default function MatchModal({ match, onClose }: Props) {
               </>
             )}
           </div>
+
+          {/* 雷达图对比 */}
+          {homeTeam && awayTeam && (() => {
+            const tierScore = (t: string) => ({ S: 100, A: 75, B: 50, C: 25 }[t] || 25);
+            const trendScore = (t: string) => t === '↑' ? 80 : t === '→' ? 50 : 20;
+            const rankScore = (r: number) => Math.max(5, 100 - r * 1.5);
+            const makeData = (rank: number, team: typeof homeTeam) => [
+              { label: 'FIFA', value: rankScore(rank) },
+              { label: '实力', value: tierScore(team.tier) },
+              { label: '状态', value: trendScore(team.trend) },
+              { label: '排名', value: rankScore(rank) },
+            ];
+            return (
+              <div className="glass-card p-4 mb-3">
+                <div className="flex items-center gap-2 mb-3">
+                  <Target className="w-4 h-4 text-gold" />
+                  <span className="text-sm font-semibold">实力雷达</span>
+                </div>
+                <div className="flex items-center justify-center gap-6">
+                  <div className="text-center">
+                    <RadarChart data={makeData(homeRank, homeTeam)} size={130} color="#FFD54F" />
+                    <div className="text-[10px] text-gold mt-1">{match.home.name}</div>
+                  </div>
+                  <div className="text-center">
+                    <RadarChart data={makeData(awayRank, awayTeam)} size={130} color="#6A9AB8" />
+                    <div className="text-[10px] text-blue mt-1">{match.away.name}</div>
+                  </div>
+                </div>
+                <div className="flex justify-center gap-4 mt-2">
+                  <span className="flex items-center gap-1 text-[10px]"><span className="w-2 h-2 rounded-full bg-gold inline-block" />{match.home.name}</span>
+                  <span className="flex items-center gap-1 text-[10px]"><span className="w-2 h-2 rounded-full bg-blue inline-block" />{match.away.name}</span>
+                </div>
+              </div>
+            );
+          })()}
 
           {/* 实力评级 */}
           {homeTeam && awayTeam && (
