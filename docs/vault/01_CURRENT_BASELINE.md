@@ -26,7 +26,7 @@ reviewed_by: agent
 - **Data:** predictions.ts (唯一数据源 — 赔率概率 + 蒙特卡洛出线率)
 - **Live Scores:** fetch_scores.py (ESPN API) → live_scores.json + standings.json + predictions.ts 原地替换
 - **News:** fetch_news.py (多源RSS直接解析, 源轮换排序) → news.json
-- **Hosting:** GitHub repo → 待配置 Vercel/Cloudflare Pages
+- **Hosting:** Vercel → www.404969.xyz (已部署)
 - **Git:** SSH push (git@github.com:gunqiuwang/worldcup-2026.git)
 
 ## 4-Tab Structure

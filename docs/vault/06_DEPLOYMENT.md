@@ -20,10 +20,10 @@ npm run build    # tsc -b && vite build
 
 ```
 GitHub push (SSH) → GitHub repo (gunqiuwang/worldcup-2026)
-    → 待配置: Vercel / Cloudflare Pages 自动部署
+    → Vercel 自动部署 → www.404969.xyz
 ```
 
-**当前状态:** 代码功能完整，CI/CD 数据管道已运行，前端部署待配置。
+**当前状态:** 已部署 Vercel (www.404969.xyz)。CI/CD 数据管道运行中。
 
 ## GitHub Actions (已运行)
 
