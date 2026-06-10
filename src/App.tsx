@@ -288,7 +288,7 @@ export default function App() {
                     }`}
                     style={tab === t ? { background: 'rgba(255,213,79,0.1)' } : {}}
                   >
-                    {t === 'today' ? '今日' : '全部赛程'}
+                    {t === 'today' ? '焦点赛程' : '全部赛程'}
                   </button>
                 ))}
               </div>
