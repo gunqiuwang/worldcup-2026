@@ -19,9 +19,9 @@ reviewed_by: agent
 | **Styling** | Tailwind CSS + 自定义 CSS 变量 |
 | **Animation** | Framer Motion (split-flap countdown, breathing glow) |
 | **Icons** | Lucide React |
-| **Hosting** | GitHub repo → 待配置 Vercel/Cloudflare Pages |
-| **Data** | ESPN API (免费无限次) + 多源RSS |
-| **CI** | GitHub Actions (新闻每2h, 比分每30min) |
+| **Hosting** | GitHub → Vercel → Cloudflare → www.404969.xyz |
+| **Data** | ESPN API (免费无限次) + 直播吧 + 虎扑 |
+| **CI** | GitHub Actions (新闻每2h, 比分每30min, 预测每30min) |
 
 ## Data Flow
 
@@ -46,11 +46,16 @@ fetch_scores.py (GitHub Action, 比赛期间每30min)
     ├── 积分榜(开赛后自动生成)
     └── → live_scores.json + standings.json + predictions.ts
 
-fetch_news.py (GitHub Action, 每2h)
-    ├── 多源RSS直接解析 (ESPN+BBC+中文源)
-    ├── 源轮换排序 — 同源新闻分散排列
-    ├── 严格WC过滤 + 48h滚动窗口 + 上限30条
+fetch_news.py (GitHub Action, 每2h, v5)
+    ├── 直播吧 (网页抓取)
+    ├── 虎扑国际足球 (__NEXT_DATA__ JSON)
+    ├── 固定50条滚动 + 72h窗口
     └── → public/news.json → 前端 fetch
+
+match_preview.py (GitHub Action, 赔率更新时同步)
+    ├── 赔率 → xG → Poisson分布 → 最可能比分TOP5
+    ├── 72场小组赛全部生成预览
+    └── → public/match-previews.json → 前端异步加载
 ```
 
 ## Component Architecture
