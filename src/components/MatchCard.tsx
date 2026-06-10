@@ -49,7 +49,7 @@ function BattleBar({ home, draw, away }: { home: number; draw: number; away: num
             className="flex h-full w-full"
           >
             <div className="h-full bg-gradient-to-r from-green/80 to-green rounded-l-full" style={{ width: `${home}%` }} />
-            <div className="h-full bg-gray-500/40" style={{ width: `${draw}%` }} />
+            <div className="h-full bg-blue/50" style={{ width: `${draw}%` }} />
             <div className="h-full bg-gradient-to-r from-red to-red/80 rounded-r-full" style={{ width: `${away}%` }} />
           </motion.div>
         </div>
