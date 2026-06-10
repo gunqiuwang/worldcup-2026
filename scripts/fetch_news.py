@@ -28,12 +28,8 @@ from datetime import datetime, timezone, timedelta
 MAX_ARTICLES = 30       # 最多保留条数
 MAX_AGE_HOURS = 48      # 滚动窗口 (小时)
 
-# 英文 RSS 源 (直接请求，不用rss2json)
-RSS_FEEDS = [
-    {"url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "source": "BBC Sport"},
-    {"url": "https://www.skysports.com/rss/12040", "source": "Sky Sports"},
-    {"url": "https://www.espn.com/espn/rss/soccer/news", "source": "ESPN"},
-]
+# 英文 RSS 源 (已禁用 — 用户要求只保留中文源)
+RSS_FEEDS = []
 
 # 中文网页源
 WEB_SOURCES = [
