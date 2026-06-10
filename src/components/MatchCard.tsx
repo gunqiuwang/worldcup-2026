@@ -40,26 +40,18 @@ function BattleBar({ home, draw, away }: { home: number; draw: number; away: num
     <div className="mt-2.5">
       <div className="flex items-center gap-1.5">
         <span className="text-[9px] font-bold text-green tabular-nums w-7 text-right">{home.toFixed(0)}%</span>
-        <div className="relative flex-1 h-1.5 rounded-full overflow-hidden bg-white/[0.04]">
+        <div className="flex-1 h-1.5 rounded-full overflow-hidden bg-white/[0.04]">
+          {/* 单个动画容器：从左到右展开，内部三段静态色块无缝衔接 */}
           <motion.div
-            initial={{ right: '100%' }}
-            animate={{ right: `${100 - home}%` }}
+            initial={{ clipPath: 'inset(0 100% 0 0)' }}
+            animate={{ clipPath: 'inset(0 0 0 0)' }}
             transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-            className="absolute inset-y-0 left-0 bg-gradient-to-r from-green/80 to-green rounded-l-full"
-          />
-          <motion.div
-            initial={{ left: '100%' }}
-            animate={{ left: `${home}%` }}
-            transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-            className="absolute inset-y-0 bg-white/10"
-            style={{ width: `${draw}%` }}
-          />
-          <motion.div
-            initial={{ left: '100%' }}
-            animate={{ left: `${home + draw}%` }}
-            transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1], delay: 0.1 }}
-            className="absolute inset-y-0 right-0 bg-gradient-to-r from-red to-red/80 rounded-r-full"
-          />
+            className="flex h-full w-full"
+          >
+            <div className="h-full bg-gradient-to-r from-green/80 to-green rounded-l-full" style={{ width: `${home}%` }} />
+            <div className="h-full bg-gray-500/40" style={{ width: `${draw}%` }} />
+            <div className="h-full bg-gradient-to-r from-red to-red/80 rounded-r-full" style={{ width: `${away}%` }} />
+          </motion.div>
         </div>
         <span className="text-[9px] font-bold text-red tabular-nums w-7">{away.toFixed(0)}%</span>
       </div>
