@@ -1,8 +1,10 @@
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { X, Clock, MapPin, BarChart3, Target } from 'lucide-react';
+import { X, Clock, MapPin, BarChart3, Target, TrendingUp } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
 import { TEAMS } from '../data/teams';
 import { getPrediction } from '../data/predictions';
+import { getMatchPreview, type MatchPreview } from '../data/matchPreview';
 import Flag from './Flag';
 import RadarChart from './RadarChart';
 
@@ -44,6 +46,13 @@ export default function MatchModal({ match, onClose }: Props) {
   const awayTeam = TEAMS[match.away.abbr];
   const homeRank = homeTeam?.fifa_rank || 50;
   const awayRank = awayTeam?.fifa_rank || 50;
+
+  const [preview, setPreview] = useState<MatchPreview | null>(null);
+  useEffect(() => {
+    if (match) {
+      getMatchPreview(match.home.abbr, match.away.abbr).then(setPreview);
+    }
+  }, [match]);
 
   return (
       <motion.div
@@ -188,6 +197,44 @@ export default function MatchModal({ match, onClose }: Props) {
               </div>
             );
           })()}
+
+          {/* Poisson 预测 */}
+          {preview && (
+            <div className="glass-card p-4 mb-3">
+              <div className="flex items-center gap-2 mb-3">
+                <TrendingUp className="w-4 h-4 text-gold" />
+                <span className="text-sm font-semibold">AI 赛前预测</span>
+                <span className="pill-badge ml-auto">{preview.style}</span>
+              </div>
+              <div className="text-xs text-gray-400 mb-3">{preview.verdict}</div>
+              <div className="flex items-center justify-between mb-3">
+                <div className="text-center flex-1">
+                  <div className="text-lg font-bold text-gold">{preview.home_xg}</div>
+                  <div className="text-[10px] text-gray-500">期望进球</div>
+                </div>
+                <div className="text-center flex-1 border-x border-white/5">
+                  <div className="text-sm font-semibold text-gray-300">{preview.likely_score}</div>
+                  <div className="text-[10px] text-gray-500">最可能比分</div>
+                </div>
+                <div className="text-center flex-1">
+                  <div className="text-lg font-bold text-blue">{preview.away_xg}</div>
+                  <div className="text-[10px] text-gray-500">期望进球</div>
+                </div>
+              </div>
+              <div className="text-[10px] text-gray-400 text-center mb-3">{preview.goals_note}</div>
+              {/* 概率条 */}
+              <div className="flex h-2 rounded-full overflow-hidden mb-1">
+                <div className="bg-green transition-all" style={{ width: `${preview.probabilities.home_win}%` }} />
+                <div className="bg-gray-500 transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
+                <div className="bg-blue transition-all" style={{ width: `${preview.probabilities.away_win}%` }} />
+              </div>
+              <div className="flex justify-between text-[10px] text-gray-500">
+                <span>主胜 {preview.probabilities.home_win}%</span>
+                <span>平 {preview.probabilities.draw}%</span>
+                <span>客胜 {preview.probabilities.away_win}%</span>
+              </div>
+            </div>
+          )}
 
           {/* 实力评级 */}
           {homeTeam && awayTeam && (
