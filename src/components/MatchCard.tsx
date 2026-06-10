@@ -40,24 +40,25 @@ function BattleBar({ home, draw, away }: { home: number; draw: number; away: num
     <div className="mt-2.5">
       <div className="flex items-center gap-1.5">
         <span className="text-[9px] font-bold text-green tabular-nums w-7 text-right">{home.toFixed(0)}%</span>
-        <div className="flex-1 flex h-1.5 rounded-full overflow-hidden bg-white/[0.04]">
+        <div className="relative flex-1 h-1.5 rounded-full overflow-hidden bg-white/[0.04]">
           <motion.div
-            initial={{ width: 0 }}
-            animate={{ width: `${home}%` }}
+            initial={{ right: '100%' }}
+            animate={{ right: `${100 - home}%` }}
             transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-            className="bg-gradient-to-r from-green/80 to-green rounded-l-full"
+            className="absolute inset-y-0 left-0 bg-gradient-to-r from-green/80 to-green rounded-l-full"
           />
           <motion.div
-            initial={{ width: 0 }}
-            animate={{ width: `${draw}%` }}
+            initial={{ left: '100%' }}
+            animate={{ left: `${home}%` }}
+            transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
+            className="absolute inset-y-0 bg-white/10"
+            style={{ width: `${draw}%` }}
+          />
+          <motion.div
+            initial={{ left: '100%' }}
+            animate={{ left: `${home + draw}%` }}
             transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1], delay: 0.1 }}
-            className="bg-white/10"
-          />
-          <motion.div
-            initial={{ width: 0 }}
-            animate={{ width: `${away}%` }}
-            transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
-            className="bg-gradient-to-r from-red to-red/80 rounded-r-full"
+            className="absolute inset-y-0 right-0 bg-gradient-to-r from-red to-red/80 rounded-r-full"
           />
         </div>
         <span className="text-[9px] font-bold text-red tabular-nums w-7">{away.toFixed(0)}%</span>
