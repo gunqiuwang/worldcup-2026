@@ -103,8 +103,10 @@ export default function App() {
     if (tab === 'today') {
       const todayMatches = filteredMatches.filter((m) => m.date.slice(0, 10) === today);
       if (todayMatches.length > 0) return todayMatches;
-      const future = filteredMatches.filter((m) => new Date(m.date) > now);
-      return future.length > 0 ? future.slice(0, 6) : filteredMatches.slice(0, 6);
+      // 开赛前：显示揭幕日（第一场比赛的日期）的所有比赛
+      const firstDate = filteredMatches.length > 0 ? filteredMatches[0].date.slice(0, 10) : today;
+      const openingDay = filteredMatches.filter((m) => m.date.slice(0, 10) === firstDate);
+      return openingDay.length > 0 ? openingDay : filteredMatches.slice(0, 6);
     }
     return filteredMatches;
   }, [tab, today, filteredMatches]);
