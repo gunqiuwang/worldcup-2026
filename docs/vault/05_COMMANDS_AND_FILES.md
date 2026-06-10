@@ -31,7 +31,7 @@ reviewed_by: agent
 
 | Command | Purpose | Risk |
 |---------|---------|------|
-| `python scripts/fetch_news.py` | 手动抓取多源RSS新闻 | Safe |
+| `python scripts/fetch_news.py` | 手动抓取直播吧+虎扑新闻 | Safe |
 | `python scripts/fetch_scores.py` | 手动拉取比分+赔率+积分榜 | Safe |
 
 ### GitHub Actions (自动)
@@ -80,7 +80,7 @@ reviewed_by: agent
 
 | File | Purpose | Risk |
 |------|---------|------|
-| `scripts/fetch_news.py` | 多源RSS新闻抓取 + 源轮换排序 | 🟡 Medium |
+| `scripts/fetch_news.py` | 直播吧+虎扑国际足球新闻抓取 + 源轮换排序 | 🟡 Medium |
 | `scripts/fetch_scores.py` | ESPN API比分+赔率+积分榜 | 🟡 Medium |
 
 ### Config
