@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """
-世界杯新闻自动抓取器 v4
+世界杯新闻自动抓取器 v5
 变更:
-  - v4: 去掉rss2json中间层(ESPN 422)，RSS直接用feedparser或urllib解析
+  - v5: 加虎扑国际足球, 彻底删除英文源, 清理死代码
+  - v4: 去掉rss2json中间层(ESPN 422)
   - 严格世界杯过滤: 必须包含 WC 核心词, 单球队名不够
   - 48h 滚动窗口: 自动淘汰旧新闻
   - 合并旧数据: 新旧去重, 保留已有的 time 原始时间
   - 上限 30 条
 数据源:
-  - 中文: 直播吧 (网页抓取)
-  - 英文: BBC Sport RSS (直接解析)
+  - 直播吧 (网页抓取)
+  - 虎扑国际足球 (__NEXT_DATA__ JSON 解析)
 输出: public/news.json
 定时: 每2小时由 GitHub Action 运行
 """
@@ -17,7 +18,6 @@
 import json
 import urllib.request
 import urllib.parse
-import xml.etree.ElementTree as ET
 import os
 import re
 import hashlib
@@ -28,12 +28,13 @@ from datetime import datetime, timezone, timedelta
 MAX_ARTICLES = 30       # 最多保留条数
 MAX_AGE_HOURS = 48      # 滚动窗口 (小时)
 
-# 英文 RSS 源 (已禁用 — 用户要求只保留中文源)
-RSS_FEEDS = []
+# 英文 RSS 源 (已彻底删除 — v5只保留中文源)
+# RSS_FEEDS = []  # 已删除
 
 # 中文网页源
 WEB_SOURCES = [
     {"url": "https://news.zhibo8.cc/zuqiu/", "source": "直播吧", "parser": "zhibo8"},
+    {"url": "https://voice.hupu.com/fifa/1", "source": "虎扑", "parser": "hupu_fifa"},
 ]
 
 HEADERS = {
@@ -176,18 +177,6 @@ def is_hot(text):
     return sum(1 for s in HOT_KEYWORDS if s.lower() in text_lower) >= 1
 
 
-def parse_time(pub_date):
-    for fmt in ["%Y-%m-%d %H:%M:%S", "%Y-%m-%dT%H:%M:%S", "%a, %d %b %Y %H:%M:%S %z"]:
-        try:
-            dt = datetime.strptime(pub_date, fmt)
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=timezone.utc)
-            return dt
-        except ValueError:
-            continue
-    return None
-
-
 def time_ago(dt):
     if dt is None:
         return "刚刚"
@@ -250,58 +239,61 @@ def fetch_zhibo8():
     return items
 
 
-# ============ 英文 RSS 源 (直接解析 XML) ============
-
-def fetch_rss(feed_url, source_name):
-    """直接请求RSS并解析XML，不依赖第三方API"""
+def fetch_hupu_fifa():
+    """抓取虎扑国际足球频道世界杯新闻（__NEXT_DATA__ JSON 解析）"""
+    import html as html_mod
+    url = "https://voice.hupu.com/fifa/1"
     try:
-        req = urllib.request.Request(feed_url, headers={"User-Agent": "WorldCup2026Bot/1.0"})
+        req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=15) as resp:
-            xml_content = resp.read().decode("utf-8", errors="ignore")
+            content = resp.read().decode("utf-8", errors="ignore")
     except Exception as e:
-        print(f"  ❌ {source_name}: {e}")
+        print(f"  ❌ 虎扑: {e}")
+        return []
+
+    # 提取 __NEXT_DATA__ JSON
+    match = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', content, re.DOTALL)
+    if not match:
+        print(f"  ❌ 虎扑: 找不到 __NEXT_DATA__")
+        return []
+
+    try:
+        data = json.loads(match.group(1))
+        raw_items = data["props"]["pageProps"]["data"]
+    except (json.JSONDecodeError, KeyError) as e:
+        print(f"  ❌ 虎扑: JSON解析失败: {e}")
         return []
 
     items = []
-    try:
-        # 解析RSS XML
-        root = ET.fromstring(xml_content)
-        # RSS 2.0: channel/item
-        for item in root.findall('.//item'):
-            title_el = item.find('title')
-            desc_el = item.find('description')
-            link_el = item.find('link')
-            pub_el = item.find('pubDate')
+    seen = set()
+    for item in raw_items:
+        title = html_mod.unescape(item.get("title", ""))
+        if not title or title in seen or len(title) < 8:
+            continue
+        seen.add(title)
 
-            title = clean_html(title_el.text or "") if title_el is not None else ""
-            desc = clean_html(desc_el.text or "") if desc_el is not None else ""
-            link = (link_el.text or "").strip() if link_el is not None else ""
-            pub_date = (pub_el.text or "").strip() if pub_el is not None else ""
+        if not is_world_cup_related(title):
+            continue
 
-            text = f"{title} {desc}"
-            if not is_world_cup_related(text):
-                continue
+        link = item.get("url", "")
+        if not link.startswith("http"):
+            continue
 
-            pub_dt = parse_time(pub_date)
-            now = datetime.now(timezone.utc)
+        now = datetime.now(timezone.utc)
+        items.append({
+            "id": hash_key(f"hupu-{title}"),
+            "category": classify(title),
+            "title": title,
+            "summary": "",
+            "url": link,
+            "team": detect_team(title),
+            "time": "刚刚",
+            "time_iso": now.isoformat(),
+            "source": "虎扑",
+            "is_hot": is_hot(title),
+        })
 
-            items.append({
-                "id": hash_key(link or title),
-                "category": classify(text),
-                "title": title,
-                "summary": desc[:120],
-                "url": link,
-                "team": detect_team(text),
-                "time": time_ago(pub_dt),
-                "time_iso": (pub_dt or now).isoformat(),
-                "source": source_name,
-                "is_hot": is_hot(text),
-            })
-    except ET.ParseError as e:
-        print(f"  ❌ {source_name}: XML解析失败: {e}")
-        return []
-
-    print(f"  ✅ {source_name}: {len(items)} 条")
+    print(f"  ✅ 虎扑: {len(items)} 条")
     return items
 
 
@@ -390,7 +382,7 @@ def merge_and_prune(old_articles, new_articles, max_age_hours, max_count):
 
 
 def main():
-    print("🌍 世界杯新闻抓取器 v4 启动...")
+    print("🌍 世界杯新闻抓取器 v5 启动...")
     print(f"⏰ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -406,14 +398,19 @@ def main():
     errors = []
 
     print("\n📡 中文源:")
-    new_articles.extend(fetch_zhibo8())
-
-    print("\n📡 英文源:")
-    for feed in RSS_FEEDS:
-        result = fetch_rss(feed["url"], feed["source"])
+    for src in WEB_SOURCES:
+        if src["parser"] == "zhibo8":
+            result = fetch_zhibo8()
+        elif src["parser"] == "hupu_fifa":
+            result = fetch_hupu_fifa()
+        else:
+            continue
         if not result:
-            errors.append(feed["source"])
+            errors.append(src["source"])
         new_articles.extend(result)
+
+    # 清理旧数据中的英文源残留
+    old_articles = [a for a in old_articles if a.get("source") in ("直播吧", "虎扑")]
 
     print(f"\n📥 本次抓取: {len(new_articles)} 条世界杯相关新闻")
 
@@ -432,7 +429,7 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     # 5. 统计
-    cn_count = sum(1 for n in articles if n.get("source") in ("直播吧",))
+    cn_count = sum(1 for n in articles if n.get("source") in ("直播吧", "虎扑"))
     en_count = len(articles) - cn_count
 
     print(f"\n✅ 写入 {len(articles)} 条 ({cn_count} 中文 / {en_count} 英文)")
@@ -445,7 +442,7 @@ def main():
     for n in articles[:5]:
         team_str = f" [{TEAM_CN.get(n['team'], n['team'])}]" if n.get("team") else ""
         hot_str = " 🔥" if n.get("is_hot") else ""
-        lang = "🇨🇳" if n.get("source") in ("直播吧",) else "🇬🇧"
+        lang = "🇨🇳" if n.get("source") in ("直播吧", "虎扑") else "🇬🇧"
         print(f"  {lang} {n['category']:8s} | {n['source']:8s} | {n['title'][:45]}{team_str}{hot_str}")
 
 
