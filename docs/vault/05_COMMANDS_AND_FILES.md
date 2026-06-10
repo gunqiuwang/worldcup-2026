@@ -82,6 +82,7 @@ reviewed_by: agent
 |------|---------|------|
 | `scripts/fetch_news.py` | 直播吧+虎扑国际足球新闻抓取 + 源轮换排序 | 🟡 Medium |
 | `scripts/fetch_scores.py` | ESPN API比分+赔率+积分榜 | 🟡 Medium |
+| `scripts/match_preview.py` | Poisson比分预测+赛前预览 | Safe |
 
 ### Config
 
