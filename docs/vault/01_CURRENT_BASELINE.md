@@ -14,7 +14,7 @@ reviewed_by: agent
 | Key | Value | Confidence |
 |-----|-------|------------|
 | **Current Branch** | master | high |
-| **HEAD Commit** | d0796f5 fix: 今日tab开赛前显示揭幕日比赛而非随机6场 | high |
+| **HEAD Commit** | 1f7eca7 refactor: 分析页删赔率一览 + 首页今日→焦点赛程 | high |
 | **Unpushed Commits** | 0 (全部已推送到 GitHub) | high |
 | **Phase** | mvp (功能完整，已部署数据管道) | high |
 | **Build** | ✅ TypeScript零错误 | high |
@@ -33,9 +33,9 @@ reviewed_by: agent
 
 | Tab | Component | Key Features |
 |-----|-----------|-------------|
-| 赛程 | MatchCard | 今日/全部, 分组筛选, 搜索, MatchModal详情, 概率条(红=主/蓝=平/绿=客) |
+| 赛程 | MatchCard | **焦点赛程**(开赛前显示揭幕日)/全部, 概率条(红/蓝/绿), 主/客badge |
 | 排名 | GroupStandings | FiveThirtyEight风格积分榜 + 出线概率, 单行truncate |
-| 分析 | Dashboard | 赔率一览(按分组折叠), 焦点比赛(5场), 爆冷预警(10条), 热门队 |
+| 分析 | Dashboard | 焦点比赛(5场), 爆冷预警(10条), 热门队 |
 | 资讯 | NewsPage | 多源RSS(ESPN+BBC+中文源), 48h滚动, 源轮换排序, 上限30条 |
 
 ## Data Pipeline (Current)
