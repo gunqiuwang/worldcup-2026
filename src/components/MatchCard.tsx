@@ -48,9 +48,9 @@ function BattleBar({ home, draw, away }: { home: number; draw: number; away: num
             transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
             className="flex h-full w-full"
           >
-            <div className="h-full bg-gradient-to-r from-green/80 to-green rounded-l-full" style={{ width: `${home}%` }} />
-            <div className="h-full bg-blue/50" style={{ width: `${draw}%` }} />
-            <div className="h-full bg-gradient-to-r from-red to-red/80 rounded-r-full" style={{ width: `${away}%` }} />
+            <div className="h-full bg-gradient-to-r from-green/80 to-green rounded-l-full" style={{ width: `${home / (home + draw + away) * 100}%` }} />
+            <div className="h-full bg-blue/50" style={{ width: `${draw / (home + draw + away) * 100}%` }} />
+            <div className="h-full bg-gradient-to-r from-red to-red/80 rounded-r-full flex-1" />
           </motion.div>
         </div>
         <span className="text-[9px] font-bold text-red tabular-nums w-7">{away.toFixed(0)}%</span>
