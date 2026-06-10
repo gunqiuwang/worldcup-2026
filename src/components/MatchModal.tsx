@@ -1,10 +1,10 @@
 import { motion } from 'framer-motion';
-import { X, Clock, MapPin, TrendingUp, BarChart3 } from 'lucide-react';
+import { X, Clock, MapPin, BarChart3 } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
 import { TEAMS } from '../data/teams';
 import { getPrediction } from '../data/predictions';
 import Flag from './Flag';
-import RadarChart from './RadarChart';
+
 
 interface Props {
   match: MatchData | null;
@@ -39,20 +39,10 @@ export default function MatchModal({ match, onClose }: Props) {
   if (!match) return null;
 
   const pred = getPrediction(match.id);
-  const probs = pred
-    ? { homeProb: Math.round(pred.home_win), drawProb: Math.round(pred.draw), awayProb: Math.round(pred.away_win) }
-    : null;
-
   const homeTeam = TEAMS[match.home.abbr];
   const awayTeam = TEAMS[match.away.abbr];
   const homeRank = homeTeam?.fifa_rank || 50;
   const awayRank = awayTeam?.fifa_rank || 50;
-
-  const radarData = probs ? [
-    { label: '主胜', value: probs.homeProb },
-    { label: '平局', value: probs.drawProb },
-    { label: '客胜', value: probs.awayProb },
-  ] : [];
 
   return (
       <motion.div
@@ -128,38 +118,7 @@ export default function MatchModal({ match, onClose }: Props) {
             </div>
           </div>
 
-          {/* 赔率预测 */}
-          {probs && (
-            <div className="glass-card p-4 mb-3">
-              <div className="flex items-center gap-2 mb-3">
-                <TrendingUp className="w-4 h-4 text-gold" />
-                <span className="text-sm font-semibold">赔率预测</span>
-                {(() => {
-                  const diff = Math.abs(probs.homeProb - probs.awayProb);
-                  const label = diff < 10 ? '势均力敌' : diff < 20 ? '小有差距' : '差距明显';
-                  const cls = diff < 10 ? 'text-red' : diff < 20 ? 'text-gold' : 'text-green';
-                  return <span className={`text-[10px] font-bold ml-auto ${cls}`}>{label}</span>;
-                })()}
-              </div>
-              <div className="flex justify-center mb-3">
-                <RadarChart data={radarData} size={120} />
-              </div>
-              <div className="grid grid-cols-3 gap-2 text-center">
-                <div className="glass-card p-2">
-                  <div className="text-[10px] text-gray-500 mb-0.5">{match.home.name} 胜</div>
-                  <div className="text-lg font-bold text-green">{probs.homeProb}%</div>
-                </div>
-                <div className="glass-card p-2">
-                  <div className="text-[10px] text-gray-500 mb-0.5">平局</div>
-                  <div className="text-lg font-bold text-gold">{probs.drawProb}%</div>
-                </div>
-                <div className="glass-card p-2">
-                  <div className="text-[10px] text-gray-500 mb-0.5">{match.away.name} 胜</div>
-                  <div className="text-lg font-bold text-red">{probs.awayProb}%</div>
-                </div>
-              </div>
-            </div>
-          )}
+
 
           {/* 数据对比 */}
           <div className="glass-card p-4 mb-3">
