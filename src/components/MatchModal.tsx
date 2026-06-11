@@ -200,40 +200,25 @@ export default function MatchModal({ match, onClose }: Props) {
                 <span className="text-sm font-semibold">AI 赛前预测</span>
                 <span className="pill-badge ml-auto">{preview.style}</span>
               </div>
-              <div className="text-xs text-gray-400 mb-4">{preview.verdict}</div>
+              <div className="text-xs text-gray-400 mb-3">{preview.verdict}</div>
 
-              {/* 期望进球 — 对称条形 */}
-              <div className="flex items-center gap-3 mb-3">
-                <div className="flex-1">
-                  <div className="flex items-center justify-between mb-1">
-                    <span className="text-[10px] text-gold">{match.home.name}</span>
-                    <span className="text-sm font-bold text-gold">{preview.home_xg}</span>
-                  </div>
-                  <div className="h-2 rounded-full bg-white/5 overflow-hidden">
-                    <div className="h-full rounded-full bg-gold/70" style={{ width: `${(preview.home_xg / 3) * 100}%` }} />
-                  </div>
+              {/* 第一排：xG 对比 + 最可能比分 */}
+              <div className="grid grid-cols-3 gap-2 mb-3">
+                <div className="text-center py-2 rounded-lg bg-white/[0.03]">
+                  <div className="text-lg font-bold text-gold">{preview.home_xg}</div>
+                  <div className="text-[10px] text-gold/70">{match.home.name} xG</div>
                 </div>
-                <div className="text-[10px] text-gray-600 shrink-0">xG</div>
-                <div className="flex-1">
-                  <div className="flex items-center justify-between mb-1">
-                    <span className="text-sm font-bold text-blue">{preview.away_xg}</span>
-                    <span className="text-[10px] text-blue">{match.away.name}</span>
-                  </div>
-                  <div className="h-2 rounded-full bg-white/5 overflow-hidden">
-                    <div className="h-full rounded-full bg-blue/70 ml-auto" style={{ width: `${(preview.away_xg / 3) * 100}%` }} />
-                  </div>
+                <div className="text-center py-2 rounded-lg bg-white/[0.05] border border-white/[0.06]">
+                  <div className="text-2xl font-extrabold text-white">{preview.likely_score}</div>
+                  <div className="text-[10px] text-gray-500">最可能比分</div>
+                </div>
+                <div className="text-center py-2 rounded-lg bg-white/[0.03]">
+                  <div className="text-lg font-bold text-blue">{preview.away_xg}</div>
+                  <div className="text-[10px] text-blue/70">{match.away.name} xG</div>
                 </div>
               </div>
 
-              {/* 最可能比分 — 居中突出 */}
-              <div className="flex items-center justify-center gap-2 py-2.5 mb-3 rounded-xl bg-white/[0.03] border border-white/[0.04]">
-                <span className="text-[10px] text-gray-500">最可能比分</span>
-                <span className="text-xl font-extrabold text-white tracking-wider">{preview.likely_score}</span>
-              </div>
-
-              <div className="text-[10px] text-gray-400 text-center mb-3">{preview.goals_note}</div>
-
-              {/* 概率条 */}
+              {/* 第二排：概率条 */}
               <div className="flex h-2 rounded-full overflow-hidden mb-1.5">
                 <div className="bg-green transition-all" style={{ width: `${preview.probabilities.home_win}%` }} />
                 <div className="bg-gray-600 transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
