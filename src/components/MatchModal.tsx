@@ -163,7 +163,7 @@ export default function MatchModal({ match, onClose }: Props) {
             )}
           </div>
 
-          {/* 雷达图对比 */}
+          {/* 雷达图对比 — 双色叠加 */}
           {homeTeam && awayTeam && (() => {
             const tierScore = (t: string) => ({ S: 100, A: 75, B: 50, C: 25 }[t] || 25);
             const trendScore = (t: string) => t === '↑' ? 80 : t === '→' ? 50 : 20;
@@ -172,7 +172,6 @@ export default function MatchModal({ match, onClose }: Props) {
               { label: 'FIFA', value: rankScore(rank) },
               { label: '实力', value: tierScore(team.tier) },
               { label: '状态', value: trendScore(team.trend) },
-              { label: '排名', value: rankScore(rank) },
             ];
             return (
               <div className="glass-card p-4 mb-3">
@@ -180,19 +179,14 @@ export default function MatchModal({ match, onClose }: Props) {
                   <Target className="w-4 h-4 text-gold" />
                   <span className="text-sm font-semibold">实力雷达</span>
                 </div>
-                <div className="flex items-center justify-center gap-6">
-                  <div className="text-center">
-                    <RadarChart data={makeData(homeRank, homeTeam)} size={130} color="#FFD54F" />
-                    <div className="text-[10px] text-gold mt-1">{match.home.name}</div>
-                  </div>
-                  <div className="text-center">
-                    <RadarChart data={makeData(awayRank, awayTeam)} size={130} color="#6A9AB8" />
-                    <div className="text-[10px] text-blue mt-1">{match.away.name}</div>
-                  </div>
-                </div>
-                <div className="flex justify-center gap-4 mt-2">
-                  <span className="flex items-center gap-1 text-[10px]"><span className="w-2 h-2 rounded-full bg-gold inline-block" />{match.home.name}</span>
-                  <span className="flex items-center gap-1 text-[10px]"><span className="w-2 h-2 rounded-full bg-blue inline-block" />{match.away.name}</span>
+                <div className="flex justify-center">
+                  <RadarChart
+                    datasets={[
+                      { data: makeData(homeRank, homeTeam), color: '#FFD54F', label: match.home.name },
+                      { data: makeData(awayRank, awayTeam), color: '#6A9AB8', label: match.away.name },
+                    ]}
+                    size={180}
+                  />
                 </div>
               </div>
             );
@@ -201,37 +195,54 @@ export default function MatchModal({ match, onClose }: Props) {
           {/* Poisson 预测 */}
           {preview && (
             <div className="glass-card p-4 mb-3">
-              <div className="flex items-center gap-2 mb-3">
+              <div className="flex items-center gap-2 mb-2">
                 <TrendingUp className="w-4 h-4 text-gold" />
                 <span className="text-sm font-semibold">AI 赛前预测</span>
                 <span className="pill-badge ml-auto">{preview.style}</span>
               </div>
-              <div className="text-xs text-gray-400 mb-3">{preview.verdict}</div>
-              <div className="flex items-center justify-between mb-3">
-                <div className="text-center flex-1">
-                  <div className="text-lg font-bold text-gold">{preview.home_xg}</div>
-                  <div className="text-[10px] text-gray-500">期望进球</div>
+              <div className="text-xs text-gray-400 mb-4">{preview.verdict}</div>
+
+              {/* 期望进球 — 对称条形 */}
+              <div className="flex items-center gap-3 mb-3">
+                <div className="flex-1">
+                  <div className="flex items-center justify-between mb-1">
+                    <span className="text-[10px] text-gold">{match.home.name}</span>
+                    <span className="text-sm font-bold text-gold">{preview.home_xg}</span>
+                  </div>
+                  <div className="h-2 rounded-full bg-white/5 overflow-hidden">
+                    <div className="h-full rounded-full bg-gold/70" style={{ width: `${(preview.home_xg / 3) * 100}%` }} />
+                  </div>
                 </div>
-                <div className="text-center flex-1 border-x border-white/5">
-                  <div className="text-sm font-semibold text-gray-300">{preview.likely_score}</div>
-                  <div className="text-[10px] text-gray-500">最可能比分</div>
-                </div>
-                <div className="text-center flex-1">
-                  <div className="text-lg font-bold text-blue">{preview.away_xg}</div>
-                  <div className="text-[10px] text-gray-500">期望进球</div>
+                <div className="text-[10px] text-gray-600 shrink-0">xG</div>
+                <div className="flex-1">
+                  <div className="flex items-center justify-between mb-1">
+                    <span className="text-sm font-bold text-blue">{preview.away_xg}</span>
+                    <span className="text-[10px] text-blue">{match.away.name}</span>
+                  </div>
+                  <div className="h-2 rounded-full bg-white/5 overflow-hidden">
+                    <div className="h-full rounded-full bg-blue/70 ml-auto" style={{ width: `${(preview.away_xg / 3) * 100}%` }} />
+                  </div>
                 </div>
               </div>
+
+              {/* 最可能比分 — 居中突出 */}
+              <div className="flex items-center justify-center gap-2 py-2.5 mb-3 rounded-xl bg-white/[0.03] border border-white/[0.04]">
+                <span className="text-[10px] text-gray-500">最可能比分</span>
+                <span className="text-xl font-extrabold text-white tracking-wider">{preview.likely_score}</span>
+              </div>
+
               <div className="text-[10px] text-gray-400 text-center mb-3">{preview.goals_note}</div>
+
               {/* 概率条 */}
-              <div className="flex h-2 rounded-full overflow-hidden mb-1">
+              <div className="flex h-2 rounded-full overflow-hidden mb-1.5">
                 <div className="bg-green transition-all" style={{ width: `${preview.probabilities.home_win}%` }} />
-                <div className="bg-gray-500 transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
+                <div className="bg-gray-600 transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
                 <div className="bg-blue transition-all" style={{ width: `${preview.probabilities.away_win}%` }} />
               </div>
-              <div className="flex justify-between text-[10px] text-gray-500">
-                <span>主胜 {preview.probabilities.home_win}%</span>
-                <span>平 {preview.probabilities.draw}%</span>
-                <span>客胜 {preview.probabilities.away_win}%</span>
+              <div className="flex justify-between text-[10px]">
+                <span className="text-green">主胜 {preview.probabilities.home_win}%</span>
+                <span className="text-gray-500">平 {preview.probabilities.draw}%</span>
+                <span className="text-blue">客胜 {preview.probabilities.away_win}%</span>
               </div>
             </div>
           )}
