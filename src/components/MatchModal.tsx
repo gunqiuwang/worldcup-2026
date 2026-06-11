@@ -200,35 +200,43 @@ export default function MatchModal({ match, onClose }: Props) {
                 <span className="text-sm font-semibold">AI 赛前预测</span>
                 <span className="pill-badge ml-auto">{preview.style}</span>
               </div>
-              <div className="text-xs text-gray-400 mb-3">{preview.verdict}</div>
+              <div className="text-xs text-gray-400 mb-4">{preview.verdict}</div>
 
-              {/* 第一排：xG 对比 + 最可能比分 */}
-              <div className="grid grid-cols-3 gap-2 mb-3">
-                <div className="text-center py-2 rounded-lg bg-white/[0.03]">
-                  <div className="text-lg font-bold text-gold">{preview.home_xg}</div>
+              {/* 第一行：最可能比分 */}
+              <div className="text-center mb-4">
+                {preview.likely_score.split(' 或 ').map((s, i) => (
+                  <div key={i} className={i === 0 ? 'text-3xl font-extrabold text-white tracking-wider' : 'text-base font-semibold text-gray-400 mt-1'}>
+                    {s.trim()}
+                  </div>
+                ))}
+                <div className="text-[11px] text-gray-500 mt-1">最可能比分</div>
+              </div>
+
+              {/* 第二行：xG 左右 + 概率条 */}
+              <div className="flex items-center justify-between mb-3">
+                <div className="text-center">
+                  <div className="text-xl font-bold text-gold">{preview.home_xg}</div>
                   <div className="text-[10px] text-gold/70">{match.home.name} xG</div>
                 </div>
-                <div className="text-center py-2 rounded-lg bg-white/[0.05] border border-white/[0.06]">
-                  <div className="text-2xl font-extrabold text-white">{preview.likely_score}</div>
-                  <div className="text-[10px] text-gray-500">最可能比分</div>
+                <div className="flex-1 mx-4">
+                  <div className="flex h-2 rounded-full overflow-hidden mb-1.5">
+                    <div className="bg-green transition-all" style={{ width: `${preview.probabilities.home_win}%` }} />
+                    <div className="bg-gray-600 transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
+                    <div className="bg-blue transition-all" style={{ width: `${preview.probabilities.away_win}%` }} />
+                  </div>
+                  <div className="flex justify-between text-[10px]">
+                    <span className="text-green">主胜 {preview.probabilities.home_win}%</span>
+                    <span className="text-gray-500">平 {preview.probabilities.draw}%</span>
+                    <span className="text-blue">客胜 {preview.probabilities.away_win}%</span>
+                  </div>
                 </div>
-                <div className="text-center py-2 rounded-lg bg-white/[0.03]">
-                  <div className="text-lg font-bold text-blue">{preview.away_xg}</div>
+                <div className="text-center">
+                  <div className="text-xl font-bold text-blue">{preview.away_xg}</div>
                   <div className="text-[10px] text-blue/70">{match.away.name} xG</div>
                 </div>
               </div>
 
-              {/* 第二排：概率条 */}
-              <div className="flex h-2 rounded-full overflow-hidden mb-1.5">
-                <div className="bg-green transition-all" style={{ width: `${preview.probabilities.home_win}%` }} />
-                <div className="bg-gray-600 transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
-                <div className="bg-blue transition-all" style={{ width: `${preview.probabilities.away_win}%` }} />
-              </div>
-              <div className="flex justify-between text-[10px]">
-                <span className="text-green">主胜 {preview.probabilities.home_win}%</span>
-                <span className="text-gray-500">平 {preview.probabilities.draw}%</span>
-                <span className="text-blue">客胜 {preview.probabilities.away_win}%</span>
-              </div>
+              <div className="text-[10px] text-gray-400 text-center">{preview.goals_note}</div>
             </div>
           )}
 
