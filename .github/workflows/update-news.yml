@@ -32,4 +32,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/news.json
           git diff --cached --quiet || git commit -m "chore: update news $(date -u '+%Y-%m-%d %H:%M')"
+          git pull --rebase origin master
           git push
