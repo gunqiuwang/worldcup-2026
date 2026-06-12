@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T20:36:09.945424+00:00",
+  "updated_at": "2026-06-12T22:26:34.750061+00:00",
   "count": 72,
   "matches": [
     {
@@ -43,13 +43,13 @@
     {
       "espn_id": "760416",
       "date": "2026-06-12T19:00Z",
-      "status": "live",
-      "status_detail": "74'",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "CAN",
         "name": "加拿大",
-        "score": 0
+        "score": 1
       },
       "away": {
         "abbr": "BIH",
@@ -57,12 +57,7 @@
         "score": 1
       },
       "venue": "BMO Field",
-      "odds": {
-        "home_prob": 51.3,
-        "draw_prob": 27.4,
-        "away_prob": 21.3,
-        "details": "CAN -115"
-      }
+      "odds": null
     },
     {
       "espn_id": "760417",
@@ -82,9 +77,9 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 45.4,
-        "draw_prob": 29.8,
-        "away_prob": 24.8,
+        "home_prob": 45.6,
+        "draw_prob": 30.4,
+        "away_prob": 24.0,
         "details": "USA +110"
       }
     },
@@ -274,9 +269,9 @@
       },
       "venue": "Estadio BBVA",
       "odds": {
-        "home_prob": 50.0,
-        "draw_prob": 27.7,
-        "away_prob": 22.3,
+        "home_prob": 50.4,
+        "draw_prob": 27.1,
+        "away_prob": 22.5,
         "details": "SWE -110"
       }
     },
@@ -610,10 +605,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 59.1,
-        "draw_prob": 23.4,
-        "away_prob": 17.5,
-        "details": "SUI -160"
+        "home_prob": 60.2,
+        "draw_prob": 23.0,
+        "away_prob": 16.8,
+        "details": "SUI -165"
       }
     },
     {
@@ -634,10 +629,10 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 73.8,
-        "draw_prob": 17.5,
+        "home_prob": 73.9,
+        "draw_prob": 17.4,
         "away_prob": 8.7,
-        "details": "CAN -330"
+        "details": "CAN -340"
       }
     },
     {

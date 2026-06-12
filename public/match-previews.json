@@ -1,69 +1,28 @@
 [
   {
-    "match": "加拿大 vs 波黑",
-    "home": "CAN",
-    "away": "BIH",
-    "home_name": "加拿大",
-    "away_name": "波黑",
-    "style": "主队优势",
-    "verdict": "加拿大略占上风，但波黑不可小觑",
-    "likely_score": "1-0(13.3%) 或 1-1(11.7%)",
-    "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.62,
-    "away_xg": 0.88,
-    "top_scores": [
-      {
-        "score": "1-0",
-        "prob": 13.3
-      },
-      {
-        "score": "1-1",
-        "prob": 11.7
-      },
-      {
-        "score": "2-0",
-        "prob": 10.8
-      },
-      {
-        "score": "2-1",
-        "prob": 9.5
-      },
-      {
-        "score": "0-0",
-        "prob": 8.2
-      }
-    ],
-    "odds": "CAN -115",
-    "probabilities": {
-      "home_win": 51.3,
-      "draw": 27.4,
-      "away_win": 21.3
-    }
-  },
-  {
     "match": "美国 vs 巴拉圭",
     "home": "USA",
     "away": "PAR",
     "home_name": "美国",
     "away_name": "巴拉圭",
-    "style": "接近对决",
-    "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-0(12.4%) 或 1-1(12.3%)",
+    "style": "五五开",
+    "verdict": "势均力敌，平局概率最高",
+    "likely_score": "1-0(12.5%) 或 1-1(12.2%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.51,
-    "away_xg": 0.99,
+    "home_xg": 1.52,
+    "away_xg": 0.98,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 12.4
+        "prob": 12.5
       },
       {
         "score": "1-1",
-        "prob": 12.3
+        "prob": 12.2
       },
       {
         "score": "2-0",
-        "prob": 9.4
+        "prob": 9.5
       },
       {
         "score": "2-1",
@@ -76,9 +35,9 @@
     ],
     "odds": "USA +110",
     "probabilities": {
-      "home_win": 45.4,
-      "draw": 29.8,
-      "away_win": 24.8
+      "home_win": 45.6,
+      "draw": 30.4,
+      "away_win": 24.0
     }
   },
   {
@@ -374,8 +333,8 @@
     "away": "TUN",
     "home_name": "SWE",
     "away_name": "TUN",
-    "style": "接近对决",
-    "verdict": "两队实力接近，胜负难料",
+    "style": "主队优势",
+    "verdict": "SWE略占上风，但TUN不可小觑",
     "likely_score": "1-0(13.1%) 或 1-1(11.8%)",
     "goals_note": "正常节奏，2-3球可期",
     "home_xg": 1.6,
@@ -404,9 +363,9 @@
     ],
     "odds": "SWE -110",
     "probabilities": {
-      "home_win": 50.0,
-      "draw": 27.7,
-      "away_win": 22.3
+      "home_win": 50.4,
+      "draw": 27.1,
+      "away_win": 22.5
     }
   },
   {
@@ -950,37 +909,37 @@
     "away_name": "波黑",
     "style": "主队优势",
     "verdict": "瑞士略占上风，但波黑不可小觑",
-    "likely_score": "1-0(14.5%) 或 2-0(12.9%)",
+    "likely_score": "1-0(14.7%) 或 2-0(13.2%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.77,
-    "away_xg": 0.73,
+    "home_xg": 1.79,
+    "away_xg": 0.71,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.5
+        "prob": 14.7
       },
       {
         "score": "2-0",
-        "prob": 12.9
+        "prob": 13.2
       },
       {
         "score": "1-1",
-        "prob": 10.6
+        "prob": 10.4
       },
       {
         "score": "2-1",
-        "prob": 9.4
+        "prob": 9.3
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "SUI -160",
+    "odds": "SUI -165",
     "probabilities": {
-      "home_win": 59.1,
-      "draw": 23.4,
-      "away_win": 17.5
+      "home_win": 60.2,
+      "draw": 23.0,
+      "away_win": 16.8
     }
   },
   {
@@ -991,36 +950,36 @@
     "away_name": "卡塔尔",
     "style": "强弱分明",
     "verdict": "加拿大大热，晋级概率极高",
-    "likely_score": "2-0(17.4%) 或 1-0(16.9%)",
+    "likely_score": "2-0(17.6%) 或 1-0(17.1%)",
     "goals_note": "正常节奏，2-3球可期",
     "home_xg": 2.06,
-    "away_xg": 0.44,
+    "away_xg": 0.43,
     "top_scores": [
       {
         "score": "2-0",
-        "prob": 17.4
+        "prob": 17.6
       },
       {
         "score": "1-0",
-        "prob": 16.9
+        "prob": 17.1
       },
       {
         "score": "3-0",
-        "prob": 12.0
+        "prob": 12.1
       },
       {
         "score": "0-0",
-        "prob": 8.2
+        "prob": 8.3
       },
       {
         "score": "2-1",
-        "prob": 7.7
+        "prob": 7.6
       }
     ],
-    "odds": "CAN -330",
+    "odds": "CAN -340",
     "probabilities": {
-      "home_win": 73.8,
-      "draw": 17.5,
+      "home_win": 73.9,
+      "draw": 17.4,
       "away_win": 8.7
     }
   },
