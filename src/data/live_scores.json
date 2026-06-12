@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T18:23:56.503687+00:00",
+  "updated_at": "2026-06-12T20:36:09.945424+00:00",
   "count": 72,
   "matches": [
     {
@@ -43,25 +43,25 @@
     {
       "espn_id": "760416",
       "date": "2026-06-12T19:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "live",
+      "status_detail": "74'",
       "elapsed": null,
       "home": {
         "abbr": "CAN",
         "name": "加拿大",
-        "score": null
+        "score": 0
       },
       "away": {
         "abbr": "BIH",
         "name": "波黑",
-        "score": null
+        "score": 1
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 52.2,
+        "home_prob": 51.3,
         "draw_prob": 27.4,
-        "away_prob": 20.4,
-        "details": "CAN -120"
+        "away_prob": 21.3,
+        "details": "CAN -115"
       }
     },
     {
@@ -82,10 +82,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 44.7,
-        "draw_prob": 30.0,
-        "away_prob": 25.3,
-        "details": "USA +115"
+        "home_prob": 45.4,
+        "draw_prob": 29.8,
+        "away_prob": 24.8,
+        "details": "USA +110"
       }
     },
     {
@@ -106,10 +106,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 6.8,
+        "home_prob": 7.4,
         "draw_prob": 14.8,
-        "away_prob": 78.4,
-        "details": "SUI -450"
+        "away_prob": 77.8,
+        "details": "SUI -425"
       }
     },
     {
@@ -130,10 +130,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 58.6,
-        "draw_prob": 24.7,
-        "away_prob": 16.7,
-        "details": "BRA -155"
+        "home_prob": 57.4,
+        "draw_prob": 25.2,
+        "away_prob": 17.4,
+        "details": "BRA -150"
       }
     },
     {
@@ -202,9 +202,9 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 91.0,
-        "draw_prob": 5.8,
-        "away_prob": 3.2,
+        "home_prob": 90.6,
+        "draw_prob": 6.3,
+        "away_prob": 3.1,
         "details": "GER -3000"
       }
     },
@@ -1162,10 +1162,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 58.3,
-        "draw_prob": 25.0,
-        "away_prob": 16.7,
-        "details": "BIH -155"
+        "home_prob": 57.6,
+        "draw_prob": 25.6,
+        "away_prob": 16.8,
+        "details": "BIH -150"
       }
     },
     {
@@ -1426,10 +1426,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 35.4,
-        "draw_prob": 27.0,
-        "away_prob": 37.6,
-        "details": "USA +155"
+        "home_prob": 37.6,
+        "draw_prob": 26.3,
+        "away_prob": 36.1,
+        "details": "TUR +155"
       }
     },
     {
@@ -1498,9 +1498,9 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 42.5,
-        "draw_prob": 26.6,
-        "away_prob": 30.9,
+        "home_prob": 42.4,
+        "draw_prob": 26.2,
+        "away_prob": 31.4,
         "details": "CPV +125"
       }
     },
@@ -1690,10 +1690,10 @@
       },
       "venue": "GEHA Field at Arrowhead Stadium",
       "odds": {
-        "home_prob": 26.1,
-        "draw_prob": 30.5,
-        "away_prob": 43.4,
-        "details": "AUT +125"
+        "home_prob": 25.6,
+        "draw_prob": 29.9,
+        "away_prob": 44.5,
+        "details": "AUT +115"
       }
     },
     {
