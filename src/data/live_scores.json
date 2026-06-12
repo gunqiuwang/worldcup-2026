@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T08:41:22.849230+00:00",
+  "updated_at": "2026-06-12T09:43:52.055718+00:00",
   "count": 72,
   "matches": [
     {
@@ -106,10 +106,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 6.8,
-        "draw_prob": 14.8,
-        "away_prob": 78.4,
-        "details": "SUI -450"
+        "home_prob": 6.4,
+        "draw_prob": 14.7,
+        "away_prob": 78.9,
+        "details": "SUI -475"
       }
     },
     {
