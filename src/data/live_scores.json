@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T09:43:52.055718+00:00",
+  "updated_at": "2026-06-12T12:55:38.674528+00:00",
   "count": 72,
   "matches": [
     {
@@ -58,9 +58,9 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 52.0,
-        "draw_prob": 27.3,
-        "away_prob": 20.7,
+        "home_prob": 52.5,
+        "draw_prob": 27.5,
+        "away_prob": 20.0,
         "details": "CAN -120"
       }
     },
@@ -83,8 +83,8 @@
       "venue": "SoFi Stadium",
       "odds": {
         "home_prob": 45.6,
-        "draw_prob": 29.5,
-        "away_prob": 24.9,
+        "draw_prob": 29.9,
+        "away_prob": 24.5,
         "details": "USA +110"
       }
     },
@@ -106,10 +106,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 6.4,
-        "draw_prob": 14.7,
-        "away_prob": 78.9,
-        "details": "SUI -475"
+        "home_prob": 6.8,
+        "draw_prob": 14.8,
+        "away_prob": 78.4,
+        "details": "SUI -450"
       }
     },
     {
@@ -226,10 +226,10 @@
       },
       "venue": "AT&T Stadium",
       "odds": {
-        "home_prob": 46.8,
-        "draw_prob": 27.2,
-        "away_prob": 26.0,
-        "details": "NED +100"
+        "home_prob": 47.8,
+        "draw_prob": 26.7,
+        "away_prob": 25.5,
+        "details": "NED -105"
       }
     },
     {
@@ -322,10 +322,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 57.7,
-        "draw_prob": 24.4,
-        "away_prob": 17.9,
-        "details": "BEL -160"
+        "home_prob": 59.6,
+        "draw_prob": 23.9,
+        "away_prob": 16.5,
+        "details": "BEL -170"
       }
     },
     {
@@ -346,10 +346,10 @@
       },
       "venue": "Hard Rock Stadium",
       "odds": {
-        "home_prob": 12.8,
-        "draw_prob": 21.3,
-        "away_prob": 65.9,
-        "details": "URU -220"
+        "home_prob": 12.0,
+        "draw_prob": 21.4,
+        "away_prob": 66.6,
+        "details": "URU -225"
       }
     },
     {
@@ -490,10 +490,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 74.6,
-        "draw_prob": 16.7,
+        "home_prob": 74.7,
+        "draw_prob": 16.6,
         "away_prob": 8.7,
-        "details": "POR -350"
+        "details": "POR -360"
       }
     },
     {
@@ -586,10 +586,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 57.6,
+        "home_prob": 56.8,
         "draw_prob": 25.0,
-        "away_prob": 17.4,
-        "details": "CZE -150"
+        "away_prob": 18.2,
+        "details": "CZE -145"
       }
     },
     {
@@ -634,10 +634,10 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 73.1,
-        "draw_prob": 18.2,
+        "home_prob": 73.8,
+        "draw_prob": 17.5,
         "away_prob": 8.7,
-        "details": "CAN -320"
+        "details": "CAN -330"
       }
     },
     {
@@ -1498,10 +1498,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 36.9,
-        "draw_prob": 29.5,
-        "away_prob": 33.6,
-        "details": "CPV +160"
+        "home_prob": 39.9,
+        "draw_prob": 28.2,
+        "away_prob": 31.9,
+        "details": "CPV +140"
       }
     },
     {
