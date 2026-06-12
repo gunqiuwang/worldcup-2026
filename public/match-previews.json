@@ -909,22 +909,22 @@
     "away_name": "南非",
     "style": "主队优势",
     "verdict": "捷克略占上风，但南非不可小觑",
-    "likely_score": "1-0(14.2%) 或 2-0(12.3%)",
+    "likely_score": "1-0(14.0%) 或 2-0(11.9%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.73,
-    "away_xg": 0.77,
+    "home_xg": 1.7,
+    "away_xg": 0.8,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.2
+        "prob": 14.0
       },
       {
         "score": "2-0",
-        "prob": 12.3
+        "prob": 11.9
       },
       {
         "score": "1-1",
-        "prob": 10.9
+        "prob": 11.2
       },
       {
         "score": "2-1",
@@ -935,11 +935,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "CZE -145",
+    "odds": "CZE -135",
     "probabilities": {
-      "home_win": 56.8,
-      "draw": 25.0,
-      "away_win": 18.2
+      "home_win": 55.4,
+      "draw": 25.4,
+      "away_win": 19.2
     }
   },
   {
@@ -1142,9 +1142,9 @@
     ],
     "odds": "MAR +100",
     "probabilities": {
-      "home_win": 22.9,
-      "draw": 29.1,
-      "away_win": 48.0
+      "home_win": 23.3,
+      "draw": 28.9,
+      "away_win": 47.8
     }
   },
   {
@@ -2631,22 +2631,22 @@
     "away_name": "加纳",
     "style": "主队优势",
     "verdict": "克罗地亚略占上风，但加纳不可小觑",
-    "likely_score": "1-0(14.4%) 或 2-0(12.6%)",
+    "likely_score": "1-0(14.5%) 或 2-0(12.9%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.75,
-    "away_xg": 0.75,
+    "home_xg": 1.77,
+    "away_xg": 0.73,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.4
+        "prob": 14.5
       },
       {
         "score": "2-0",
-        "prob": 12.6
+        "prob": 12.9
       },
       {
         "score": "1-1",
-        "prob": 10.8
+        "prob": 10.6
       },
       {
         "score": "2-1",
@@ -2657,11 +2657,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "CRO -150",
+    "odds": "CRO -155",
     "probabilities": {
-      "home_win": 57.6,
-      "draw": 25.0,
-      "away_win": 17.4
+      "home_win": 58.7,
+      "draw": 24.4,
+      "away_win": 16.9
     }
   },
   {
