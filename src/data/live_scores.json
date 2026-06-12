@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T02:20:33.408381+00:00",
+  "updated_at": "2026-06-12T08:41:22.849230+00:00",
   "count": 72,
   "matches": [
     {
@@ -24,26 +24,21 @@
     {
       "espn_id": "760414",
       "date": "2026-06-12T02:00Z",
-      "status": "live",
-      "status_detail": "20'",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "KOR",
         "name": "韩国",
-        "score": 0
+        "score": 2
       },
       "away": {
         "abbr": "CZE",
         "name": "捷克",
-        "score": 0
+        "score": 1
       },
       "venue": "Estadio Akron",
-      "odds": {
-        "home_prob": 37.0,
-        "draw_prob": 31.0,
-        "away_prob": 32.0,
-        "details": "KOR +160"
-      }
+      "odds": null
     },
     {
       "espn_id": "760416",
@@ -63,10 +58,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 51.5,
-        "draw_prob": 27.1,
-        "away_prob": 21.4,
-        "details": "CAN -115"
+        "home_prob": 52.0,
+        "draw_prob": 27.3,
+        "away_prob": 20.7,
+        "details": "CAN -120"
       }
     },
     {
@@ -87,10 +82,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 48.8,
-        "draw_prob": 28.0,
-        "away_prob": 23.2,
-        "details": "USA -105"
+        "home_prob": 45.6,
+        "draw_prob": 29.5,
+        "away_prob": 24.9,
+        "details": "USA +110"
       }
     },
     {
@@ -111,10 +106,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 7.4,
+        "home_prob": 6.8,
         "draw_prob": 14.8,
-        "away_prob": 77.8,
-        "details": "SUI -425"
+        "away_prob": 78.4,
+        "details": "SUI -450"
       }
     },
     {
@@ -136,9 +131,9 @@
       "venue": "MetLife Stadium",
       "odds": {
         "home_prob": 58.6,
-        "draw_prob": 24.8,
-        "away_prob": 16.6,
-        "details": "BRA -160"
+        "draw_prob": 24.7,
+        "away_prob": 16.7,
+        "details": "BRA -155"
       }
     },
     {
@@ -471,10 +466,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 72.5,
-        "draw_prob": 17.4,
-        "away_prob": 10.1,
-        "details": "AUT -310"
+        "home_prob": 71.8,
+        "draw_prob": 17.5,
+        "away_prob": 10.7,
+        "details": "AUT -295"
       }
     },
     {
@@ -543,10 +538,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 45.6,
-        "draw_prob": 27.8,
-        "away_prob": 26.6,
-        "details": "GHA +110"
+        "home_prob": 44.5,
+        "draw_prob": 28.1,
+        "away_prob": 27.4,
+        "details": "GHA +115"
       }
     },
     {
@@ -591,10 +586,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 58.7,
-        "draw_prob": 23.9,
+        "home_prob": 57.6,
+        "draw_prob": 25.0,
         "away_prob": 17.4,
-        "details": "CZE -160"
+        "details": "CZE -150"
       }
     },
     {
@@ -663,10 +658,10 @@
       },
       "venue": "Estadio Akron",
       "odds": {
-        "home_prob": 51.0,
-        "draw_prob": 26.9,
-        "away_prob": 22.1,
-        "details": "MEX -115"
+        "home_prob": 47.9,
+        "draw_prob": 28.2,
+        "away_prob": 23.9,
+        "details": "MEX +100"
       }
     },
     {
@@ -1167,10 +1162,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 59.2,
-        "draw_prob": 24.7,
-        "away_prob": 16.1,
-        "details": "BIH -160"
+        "home_prob": 58.3,
+        "draw_prob": 25.0,
+        "away_prob": 16.7,
+        "details": "BIH -155"
       }
     },
     {
@@ -1215,10 +1210,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 71.5,
-        "draw_prob": 18.4,
-        "away_prob": 10.1,
-        "details": "MAR -285"
+        "home_prob": 72.3,
+        "draw_prob": 18.2,
+        "away_prob": 9.5,
+        "details": "MAR -310"
       }
     },
     {
@@ -1263,10 +1258,10 @@
       },
       "venue": "Estadio Banorte",
       "odds": {
-        "home_prob": 20.4,
-        "draw_prob": 26.3,
-        "away_prob": 53.3,
-        "details": "MEX -125"
+        "home_prob": 21.2,
+        "draw_prob": 26.6,
+        "away_prob": 52.2,
+        "details": "MEX -120"
       }
     },
     {
@@ -1287,10 +1282,10 @@
       },
       "venue": "Estadio BBVA",
       "odds": {
-        "home_prob": 19.2,
-        "draw_prob": 24.9,
-        "away_prob": 55.9,
-        "details": "KOR -140"
+        "home_prob": 16.7,
+        "draw_prob": 23.4,
+        "away_prob": 59.9,
+        "details": "KOR -165"
       }
     },
     {
@@ -1479,10 +1474,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 67.5,
-        "draw_prob": 20.5,
+        "home_prob": 68.1,
+        "draw_prob": 19.9,
         "away_prob": 12.0,
-        "details": "SEN -235"
+        "details": "SEN -245"
       }
     },
     {

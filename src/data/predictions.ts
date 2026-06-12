@@ -27,49 +27,40 @@ export interface GroupPrediction {
 
 export const PREDICTIONS: MatchPrediction[] = [
   {
-    "match_id": "760414",
-    "home": "KOR",
-    "away": "CZE",
-    "home_win": 37.0,
-    "draw": 31.0,
-    "away_win": 32.0,
-    "details": "KOR +160"
-  },
-  {
     "match_id": "760416",
     "home": "CAN",
     "away": "BIH",
-    "home_win": 51.5,
-    "draw": 27.1,
-    "away_win": 21.4,
-    "details": "CAN -115"
+    "home_win": 52.0,
+    "draw": 27.3,
+    "away_win": 20.7,
+    "details": "CAN -120"
   },
   {
     "match_id": "760417",
     "home": "USA",
     "away": "PAR",
-    "home_win": 48.8,
-    "draw": 28.0,
-    "away_win": 23.2,
-    "details": "USA -105"
+    "home_win": 45.6,
+    "draw": 29.5,
+    "away_win": 24.9,
+    "details": "USA +110"
   },
   {
     "match_id": "760420",
     "home": "QAT",
     "away": "SUI",
-    "home_win": 7.4,
+    "home_win": 6.8,
     "draw": 14.8,
-    "away_win": 77.8,
-    "details": "SUI -425"
+    "away_win": 78.4,
+    "details": "SUI -450"
   },
   {
     "match_id": "760419",
     "home": "BRA",
     "away": "MAR",
     "home_win": 58.6,
-    "draw": 24.8,
-    "away_win": 16.6,
-    "details": "BRA -160"
+    "draw": 24.7,
+    "away_win": 16.7,
+    "details": "BRA -155"
   },
   {
     "match_id": "760418",
@@ -192,10 +183,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760431",
     "home": "AUT",
     "away": "JOR",
-    "home_win": 72.5,
-    "draw": 17.4,
-    "away_win": 10.1,
-    "details": "AUT -310"
+    "home_win": 71.8,
+    "draw": 17.5,
+    "away_win": 10.7,
+    "details": "AUT -295"
   },
   {
     "match_id": "760435",
@@ -219,10 +210,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760434",
     "home": "GHA",
     "away": "PAN",
-    "home_win": 45.6,
-    "draw": 27.8,
-    "away_win": 26.6,
-    "details": "GHA +110"
+    "home_win": 44.5,
+    "draw": 28.1,
+    "away_win": 27.4,
+    "details": "GHA +115"
   },
   {
     "match_id": "760436",
@@ -237,10 +228,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760438",
     "home": "CZE",
     "away": "RSA",
-    "home_win": 58.7,
-    "draw": 23.9,
+    "home_win": 57.6,
+    "draw": 25.0,
     "away_win": 17.4,
-    "details": "CZE -160"
+    "details": "CZE -150"
   },
   {
     "match_id": "760439",
@@ -264,10 +255,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760441",
     "home": "MEX",
     "away": "KOR",
-    "home_win": 51.0,
-    "draw": 26.9,
-    "away_win": 22.1,
-    "details": "MEX -115"
+    "home_win": 47.9,
+    "draw": 28.2,
+    "away_win": 23.9,
+    "details": "MEX +100"
   },
   {
     "match_id": "760442",
@@ -453,10 +444,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760462",
     "home": "BIH",
     "away": "QAT",
-    "home_win": 59.2,
-    "draw": 24.7,
-    "away_win": 16.1,
-    "details": "BIH -160"
+    "home_win": 58.3,
+    "draw": 25.0,
+    "away_win": 16.7,
+    "details": "BIH -155"
   },
   {
     "match_id": "760463",
@@ -471,10 +462,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760464",
     "home": "MAR",
     "away": "HAI",
-    "home_win": 71.5,
-    "draw": 18.4,
-    "away_win": 10.1,
-    "details": "MAR -285"
+    "home_win": 72.3,
+    "draw": 18.2,
+    "away_win": 9.5,
+    "details": "MAR -310"
   },
   {
     "match_id": "760465",
@@ -489,19 +480,19 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760467",
     "home": "CZE",
     "away": "MEX",
-    "home_win": 20.4,
-    "draw": 26.3,
-    "away_win": 53.3,
-    "details": "MEX -125"
+    "home_win": 21.2,
+    "draw": 26.6,
+    "away_win": 52.2,
+    "details": "MEX -120"
   },
   {
     "match_id": "760466",
     "home": "RSA",
     "away": "KOR",
-    "home_win": 19.2,
-    "draw": 24.9,
-    "away_win": 55.9,
-    "details": "KOR -140"
+    "home_win": 16.7,
+    "draw": 23.4,
+    "away_win": 59.9,
+    "details": "KOR -165"
   },
   {
     "match_id": "760473",
@@ -570,10 +561,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760474",
     "home": "SEN",
     "away": "IRQ",
-    "home_win": 67.5,
-    "draw": 20.5,
+    "home_win": 68.1,
+    "draw": 19.9,
     "away_win": 12.0,
-    "details": "SEN -235"
+    "details": "SEN -245"
   },
   {
     "match_id": "760478",
