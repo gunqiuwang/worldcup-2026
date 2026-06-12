@@ -114,6 +114,8 @@ def extract_odds(comp):
     if not odds_list:
         return None
     odds = odds_list[0]  # DraftKings
+    if not odds:
+        return None
 
     ml = odds.get("moneyline", {})
     home_odds = ml.get("home", {}).get("close", {}).get("odds")
