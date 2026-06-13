@@ -1,6 +1,6 @@
 // 唯一数据源 — 赔率概率 (DraftKings via ESPN API)
 // 自动更新: fetch_scores.py → GitHub Action 每30分钟
-// 出线率来自蒙特卡洛模拟 (10000次, 最后更新: 2026-06-13 16:56 UTC)
+// 出线率来自蒙特卡洛模拟 (10000次, 最后更新: 2026-06-13 18:17 UTC)
 
 export interface MatchPrediction {
   match_id: string;
@@ -30,10 +30,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760420",
     "home": "QAT",
     "away": "SUI",
-    "home_win": 6.8,
-    "draw": 13.8,
-    "away_win": 79.4,
-    "details": "SUI -475"
+    "home_win": 6.4,
+    "draw": 13.7,
+    "away_win": 79.9,
+    "details": "SUI -500"
   },
   {
     "match_id": "760419",
@@ -102,10 +102,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760428",
     "home": "ESP",
     "away": "CPV",
-    "home_win": 88.3,
+    "home_win": 88.8,
     "draw": 8.0,
-    "away_win": 3.7,
-    "details": "ESP -1100"
+    "away_win": 3.2,
+    "details": "ESP -1200"
   },
   {
     "match_id": "760426",
@@ -246,10 +246,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760442",
     "home": "USA",
     "away": "AUS",
-    "home_win": 61.9,
-    "draw": 21.4,
-    "away_win": 16.7,
-    "details": "USA -180"
+    "home_win": 62.7,
+    "draw": 21.3,
+    "away_win": 16.0,
+    "details": "USA -190"
   },
   {
     "match_id": "760445",
@@ -647,35 +647,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "ARG",
-        "advancement_pct": 90.2,
-        "winner_pct": 66.2,
-        "avg_points": 6.81,
+        "advancement_pct": 89.8,
+        "winner_pct": 66.9,
+        "avg_points": 6.82,
         "avg_gf": 5.06,
-        "avg_ga": 2.07
+        "avg_ga": 2.06
       },
       {
         "team": "AUT",
-        "advancement_pct": 61.5,
-        "winner_pct": 21.0,
-        "avg_points": 4.71,
-        "avg_gf": 3.87,
-        "avg_ga": 3.23
+        "advancement_pct": 61.9,
+        "winner_pct": 20.8,
+        "avg_points": 4.7,
+        "avg_gf": 3.85,
+        "avg_ga": 3.2
       },
       {
         "team": "ALG",
-        "advancement_pct": 39.7,
-        "winner_pct": 11.3,
-        "avg_points": 3.75,
+        "advancement_pct": 39.9,
+        "winner_pct": 10.8,
+        "avg_points": 3.74,
         "avg_gf": 3.3,
-        "avg_ga": 3.73
+        "avg_ga": 3.77
       },
       {
         "team": "JOR",
-        "advancement_pct": 8.6,
-        "winner_pct": 1.4,
-        "avg_points": 1.44,
-        "avg_gf": 1.96,
-        "avg_ga": 5.17
+        "advancement_pct": 8.4,
+        "winner_pct": 1.6,
+        "avg_points": 1.46,
+        "avg_gf": 1.95,
+        "avg_ga": 5.13
       },
     ]
   },
@@ -686,34 +686,34 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
       {
         "team": "USA",
         "advancement_pct": 67.2,
-        "winner_pct": 38.2,
+        "winner_pct": 37.7,
         "avg_points": 5.1,
-        "avg_gf": 4.09,
-        "avg_ga": 2.96
+        "avg_gf": 4.13,
+        "avg_ga": 3.01
       },
       {
         "team": "TUR",
-        "advancement_pct": 65.8,
-        "winner_pct": 35.6,
-        "avg_points": 5.01,
-        "avg_gf": 4.04,
-        "avg_ga": 3.0
+        "advancement_pct": 66.6,
+        "winner_pct": 36.4,
+        "avg_points": 5.07,
+        "avg_gf": 4.08,
+        "avg_ga": 2.97
       },
       {
         "team": "PAR",
-        "advancement_pct": 43.1,
-        "winner_pct": 18.1,
-        "avg_points": 3.74,
-        "avg_gf": 3.32,
-        "avg_ga": 3.72
+        "advancement_pct": 42.6,
+        "winner_pct": 18.0,
+        "avg_points": 3.73,
+        "avg_gf": 3.31,
+        "avg_ga": 3.73
       },
       {
         "team": "AUS",
-        "advancement_pct": 24.0,
-        "winner_pct": 8.1,
-        "avg_points": 2.59,
-        "avg_gf": 2.67,
-        "avg_ga": 4.43
+        "advancement_pct": 23.5,
+        "winner_pct": 8.0,
+        "avg_points": 2.55,
+        "avg_gf": 2.63,
+        "avg_ga": 4.45
       },
     ]
   },
@@ -723,35 +723,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "BEL",
-        "advancement_pct": 88.3,
-        "winner_pct": 65.8,
-        "avg_points": 6.68,
+        "advancement_pct": 88.5,
+        "winner_pct": 66.4,
+        "avg_points": 6.67,
         "avg_gf": 4.96,
         "avg_ga": 2.13
       },
       {
         "team": "EGY",
-        "advancement_pct": 54.5,
-        "winner_pct": 18.4,
-        "avg_points": 4.21,
-        "avg_gf": 3.59,
-        "avg_ga": 3.48
+        "advancement_pct": 53.7,
+        "winner_pct": 18.1,
+        "avg_points": 4.18,
+        "avg_gf": 3.57,
+        "avg_ga": 3.47
       },
       {
         "team": "IRN",
-        "advancement_pct": 39.0,
-        "winner_pct": 11.3,
-        "avg_points": 3.51,
+        "advancement_pct": 39.4,
+        "winner_pct": 11.1,
+        "avg_points": 3.53,
         "avg_gf": 3.2,
-        "avg_ga": 3.88
+        "avg_ga": 3.87
       },
       {
         "team": "NZL",
-        "advancement_pct": 18.2,
+        "advancement_pct": 18.4,
         "winner_pct": 4.4,
         "avg_points": 2.18,
-        "avg_gf": 2.42,
-        "avg_ga": 4.69
+        "avg_gf": 2.41,
+        "avg_ga": 4.67
       },
     ]
   },
@@ -761,35 +761,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "SUI",
-        "advancement_pct": 81.8,
-        "winner_pct": 51.7,
-        "avg_points": 6.18,
-        "avg_gf": 4.73,
-        "avg_ga": 2.43
+        "advancement_pct": 82.3,
+        "winner_pct": 52.2,
+        "avg_points": 6.21,
+        "avg_gf": 4.7,
+        "avg_ga": 2.39
       },
       {
         "team": "CAN",
-        "advancement_pct": 66.7,
-        "winner_pct": 31.1,
-        "avg_points": 5.1,
+        "advancement_pct": 67.6,
+        "winner_pct": 31.0,
+        "avg_points": 5.13,
         "avg_gf": 4.11,
-        "avg_ga": 3.02
+        "avg_ga": 2.99
       },
       {
         "team": "BIH",
-        "advancement_pct": 42.9,
-        "winner_pct": 15.3,
-        "avg_points": 3.93,
-        "avg_gf": 3.46,
-        "avg_ga": 3.7
+        "advancement_pct": 42.1,
+        "winner_pct": 15.1,
+        "avg_points": 3.88,
+        "avg_gf": 3.4,
+        "avg_ga": 3.66
       },
       {
         "team": "QAT",
-        "advancement_pct": 8.6,
-        "winner_pct": 1.9,
-        "avg_points": 1.48,
-        "avg_gf": 2.01,
-        "avg_ga": 5.17
+        "advancement_pct": 8.0,
+        "winner_pct": 1.7,
+        "avg_points": 1.46,
+        "avg_gf": 1.98,
+        "avg_ga": 5.14
       },
     ]
   },
@@ -799,35 +799,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "BRA",
-        "advancement_pct": 90.2,
-        "winner_pct": 65.5,
-        "avg_points": 6.89,
-        "avg_gf": 5.11,
-        "avg_ga": 2.07
+        "advancement_pct": 89.8,
+        "winner_pct": 65.8,
+        "avg_points": 6.87,
+        "avg_gf": 5.09,
+        "avg_ga": 2.08
       },
       {
         "team": "MAR",
-        "advancement_pct": 64.2,
-        "winner_pct": 22.1,
-        "avg_points": 4.85,
-        "avg_gf": 3.98,
-        "avg_ga": 3.15
+        "advancement_pct": 64.6,
+        "winner_pct": 21.8,
+        "avg_points": 4.83,
+        "avg_gf": 3.95,
+        "avg_ga": 3.16
       },
       {
         "team": "SCO",
-        "advancement_pct": 37.4,
-        "winner_pct": 11.2,
-        "avg_points": 3.66,
-        "avg_gf": 3.24,
-        "avg_ga": 3.83
+        "advancement_pct": 37.7,
+        "winner_pct": 11.1,
+        "avg_points": 3.69,
+        "avg_gf": 3.27,
+        "avg_ga": 3.81
       },
       {
         "team": "HAI",
-        "advancement_pct": 8.2,
-        "winner_pct": 1.1,
+        "advancement_pct": 7.9,
+        "winner_pct": 1.3,
         "avg_points": 1.41,
-        "avg_gf": 1.95,
-        "avg_ga": 5.25
+        "avg_gf": 1.96,
+        "avg_ga": 5.22
       },
     ]
   },
@@ -837,35 +837,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "GER",
-        "advancement_pct": 87.4,
-        "winner_pct": 61.2,
-        "avg_points": 6.75,
-        "avg_gf": 5.02,
-        "avg_ga": 2.14
+        "advancement_pct": 87.5,
+        "winner_pct": 61.6,
+        "avg_points": 6.76,
+        "avg_gf": 5.03,
+        "avg_ga": 2.15
       },
       {
         "team": "ECU",
         "advancement_pct": 60.2,
-        "winner_pct": 22.5,
-        "avg_points": 4.89,
-        "avg_gf": 4.0,
-        "avg_ga": 3.13
+        "winner_pct": 21.8,
+        "avg_points": 4.88,
+        "avg_gf": 3.96,
+        "avg_ga": 3.1
       },
       {
         "team": "CIV",
-        "advancement_pct": 48.9,
-        "winner_pct": 15.8,
-        "avg_points": 4.34,
+        "advancement_pct": 49.0,
+        "winner_pct": 16.2,
+        "avg_points": 4.39,
         "avg_gf": 3.68,
-        "avg_ga": 3.45
+        "avg_ga": 3.42
       },
       {
         "team": "CUW",
-        "advancement_pct": 3.5,
-        "winner_pct": 0.5,
-        "avg_points": 0.87,
+        "advancement_pct": 3.3,
+        "winner_pct": 0.4,
+        "avg_points": 0.85,
         "avg_gf": 1.61,
-        "avg_ga": 5.59
+        "avg_ga": 5.61
       },
     ]
   },
@@ -875,35 +875,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "POR",
-        "advancement_pct": 88.1,
-        "winner_pct": 55.7,
-        "avg_points": 6.48,
-        "avg_gf": 4.87,
-        "avg_ga": 2.26
+        "advancement_pct": 88.2,
+        "winner_pct": 56.1,
+        "avg_points": 6.5,
+        "avg_gf": 4.9,
+        "avg_ga": 2.24
       },
       {
         "team": "COL",
-        "advancement_pct": 78.9,
-        "winner_pct": 37.1,
-        "avg_points": 5.6,
+        "advancement_pct": 79.3,
+        "winner_pct": 36.4,
+        "avg_points": 5.58,
         "avg_gf": 4.36,
         "avg_ga": 2.72
       },
       {
         "team": "COD",
-        "advancement_pct": 18.3,
-        "winner_pct": 4.0,
-        "avg_points": 2.49,
-        "avg_gf": 2.58,
-        "avg_ga": 4.5
+        "advancement_pct": 18.4,
+        "winner_pct": 4.4,
+        "avg_points": 2.51,
+        "avg_gf": 2.6,
+        "avg_ga": 4.52
       },
       {
         "team": "UZB",
-        "advancement_pct": 14.7,
-        "winner_pct": 3.2,
-        "avg_points": 2.14,
+        "advancement_pct": 14.1,
+        "winner_pct": 3.1,
+        "avg_points": 2.1,
         "avg_gf": 2.39,
-        "avg_ga": 4.73
+        "avg_ga": 4.76
       },
     ]
   },
@@ -913,35 +913,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "ESP",
-        "advancement_pct": 95.8,
-        "winner_pct": 73.5,
-        "avg_points": 7.41,
-        "avg_gf": 5.38,
+        "advancement_pct": 96.1,
+        "winner_pct": 74.6,
+        "avg_points": 7.44,
+        "avg_gf": 5.39,
         "avg_ga": 1.8
       },
       {
         "team": "URU",
-        "advancement_pct": 73.9,
-        "winner_pct": 22.1,
-        "avg_points": 5.18,
-        "avg_gf": 4.12,
-        "avg_ga": 2.95
+        "advancement_pct": 73.6,
+        "winner_pct": 21.4,
+        "avg_points": 5.15,
+        "avg_gf": 4.11,
+        "avg_ga": 2.99
       },
       {
         "team": "CPV",
-        "advancement_pct": 15.4,
+        "advancement_pct": 15.8,
         "winner_pct": 2.1,
         "avg_points": 2.19,
-        "avg_gf": 2.38,
-        "avg_ga": 4.74
+        "avg_gf": 2.41,
+        "avg_ga": 4.76
       },
       {
         "team": "KSA",
-        "advancement_pct": 14.8,
-        "winner_pct": 2.3,
+        "advancement_pct": 14.6,
+        "winner_pct": 1.9,
         "avg_points": 2.14,
-        "avg_gf": 2.37,
-        "avg_ga": 4.75
+        "avg_gf": 2.39,
+        "avg_ga": 4.76
       },
     ]
   },
@@ -951,35 +951,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "ENG",
-        "advancement_pct": 87.8,
-        "winner_pct": 64.2,
+        "advancement_pct": 87.9,
+        "winner_pct": 63.1,
         "avg_points": 6.63,
-        "avg_gf": 4.95,
-        "avg_ga": 2.18
+        "avg_gf": 4.92,
+        "avg_ga": 2.17
       },
       {
         "team": "CRO",
-        "advancement_pct": 68.7,
-        "winner_pct": 24.7,
-        "avg_points": 4.91,
-        "avg_gf": 4.0,
-        "avg_ga": 3.12
+        "advancement_pct": 69.2,
+        "winner_pct": 26.0,
+        "avg_points": 4.97,
+        "avg_gf": 4.02,
+        "avg_ga": 3.05
       },
       {
         "team": "GHA",
-        "advancement_pct": 25.4,
-        "winner_pct": 6.5,
-        "avg_points": 2.85,
-        "avg_gf": 2.81,
-        "avg_ga": 4.3
+        "advancement_pct": 24.8,
+        "winner_pct": 6.2,
+        "avg_points": 2.82,
+        "avg_gf": 2.78,
+        "avg_ga": 4.29
       },
       {
         "team": "PAN",
         "advancement_pct": 18.1,
         "winner_pct": 4.6,
-        "avg_points": 2.27,
-        "avg_gf": 2.48,
-        "avg_ga": 4.65
+        "avg_points": 2.24,
+        "avg_gf": 2.42,
+        "avg_ga": 4.62
       },
     ]
   },
@@ -990,33 +990,33 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
       {
         "team": "MEX",
         "advancement_pct": 68.9,
-        "winner_pct": 40.7,
-        "avg_points": 5.15,
-        "avg_gf": 4.12,
-        "avg_ga": 2.92
+        "winner_pct": 41.2,
+        "avg_points": 5.19,
+        "avg_gf": 4.16,
+        "avg_ga": 2.91
       },
       {
         "team": "KOR",
-        "advancement_pct": 59.1,
-        "winner_pct": 29.7,
+        "advancement_pct": 59.5,
+        "winner_pct": 29.4,
         "avg_points": 4.63,
-        "avg_gf": 3.83,
+        "avg_gf": 3.82,
         "avg_ga": 3.24
       },
       {
         "team": "CZE",
-        "advancement_pct": 46.8,
-        "winner_pct": 20.2,
-        "avg_points": 3.94,
-        "avg_gf": 3.43,
-        "avg_ga": 3.62
+        "advancement_pct": 46.3,
+        "winner_pct": 20.0,
+        "avg_points": 3.93,
+        "avg_gf": 3.42,
+        "avg_ga": 3.63
       },
       {
         "team": "RSA",
         "advancement_pct": 25.3,
         "winner_pct": 9.3,
-        "avg_points": 2.74,
-        "avg_gf": 2.75,
+        "avg_points": 2.7,
+        "avg_gf": 2.73,
         "avg_ga": 4.34
       },
     ]
@@ -1027,35 +1027,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "FRA",
-        "advancement_pct": 87.8,
+        "advancement_pct": 87.1,
         "winner_pct": 59.5,
-        "avg_points": 6.62,
-        "avg_gf": 4.93,
-        "avg_ga": 2.17
+        "avg_points": 6.6,
+        "avg_gf": 4.95,
+        "avg_ga": 2.2
       },
       {
         "team": "NOR",
-        "advancement_pct": 65.3,
-        "winner_pct": 26.6,
+        "advancement_pct": 65.6,
+        "winner_pct": 26.5,
         "avg_points": 5.08,
-        "avg_gf": 4.07,
-        "avg_ga": 3.03
+        "avg_gf": 4.05,
+        "avg_ga": 3.01
       },
       {
         "team": "SEN",
-        "advancement_pct": 41.4,
-        "winner_pct": 13.1,
+        "advancement_pct": 41.9,
+        "winner_pct": 13.0,
         "avg_points": 4.0,
         "avg_gf": 3.47,
         "avg_ga": 3.65
       },
       {
         "team": "IRQ",
-        "advancement_pct": 5.5,
-        "winner_pct": 0.8,
-        "avg_points": 1.12,
-        "avg_gf": 1.78,
-        "avg_ga": 5.4
+        "advancement_pct": 5.3,
+        "winner_pct": 1.0,
+        "avg_points": 1.14,
+        "avg_gf": 1.77,
+        "avg_ga": 5.37
       },
     ]
   },
@@ -1065,35 +1065,35 @@ export const GROUP_PREDICTIONS: Record<string, GroupPrediction> = {
     "teams": [
       {
         "team": "NED",
-        "advancement_pct": 78.1,
+        "advancement_pct": 77.9,
         "winner_pct": 50.8,
-        "avg_points": 5.79,
-        "avg_gf": 4.48,
-        "avg_ga": 2.6
+        "avg_points": 5.82,
+        "avg_gf": 4.52,
+        "avg_ga": 2.58
       },
       {
         "team": "JPN",
-        "advancement_pct": 60.2,
-        "winner_pct": 27.3,
+        "advancement_pct": 60.1,
+        "winner_pct": 27.1,
         "avg_points": 4.6,
         "avg_gf": 3.83,
         "avg_ga": 3.26
       },
       {
         "team": "SWE",
-        "advancement_pct": 40.3,
-        "winner_pct": 15.3,
-        "avg_points": 3.64,
-        "avg_gf": 3.26,
-        "avg_ga": 3.79
+        "advancement_pct": 41.1,
+        "winner_pct": 15.8,
+        "avg_points": 3.68,
+        "avg_gf": 3.3,
+        "avg_ga": 3.81
       },
       {
         "team": "TUN",
-        "advancement_pct": 21.5,
-        "winner_pct": 6.7,
-        "avg_points": 2.43,
-        "avg_gf": 2.57,
-        "avg_ga": 4.49
+        "advancement_pct": 20.8,
+        "winner_pct": 6.3,
+        "avg_points": 2.37,
+        "avg_gf": 2.55,
+        "avg_ga": 4.55
       },
     ]
   },
