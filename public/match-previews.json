@@ -5,24 +5,24 @@
     "away": "PAR",
     "home_name": "美国",
     "away_name": "巴拉圭",
-    "style": "五五开",
-    "verdict": "势均力敌，平局概率最高",
-    "likely_score": "1-0(12.5%) 或 1-1(12.2%)",
+    "style": "接近对决",
+    "verdict": "两队实力接近，胜负难料",
+    "likely_score": "1-0(12.6%) 或 1-1(12.1%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.52,
-    "away_xg": 0.98,
+    "home_xg": 1.54,
+    "away_xg": 0.96,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 12.5
+        "prob": 12.6
       },
       {
         "score": "1-1",
-        "prob": 12.2
+        "prob": 12.1
       },
       {
         "score": "2-0",
-        "prob": 9.5
+        "prob": 9.7
       },
       {
         "score": "2-1",
@@ -33,11 +33,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "USA +110",
+    "odds": "USA +105",
     "probabilities": {
-      "home_win": 45.6,
-      "draw": 30.4,
-      "away_win": 24.0
+      "home_win": 46.7,
+      "draw": 29.9,
+      "away_win": 23.4
     }
   },
   {
@@ -199,9 +199,9 @@
     ],
     "odds": "TUR -140",
     "probabilities": {
-      "home_win": 19.1,
-      "draw": 25.1,
-      "away_win": 55.8
+      "home_win": 19.2,
+      "draw": 24.9,
+      "away_win": 55.9
     }
   },
   {

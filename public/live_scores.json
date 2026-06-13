@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T22:26:34.750061+00:00",
+  "updated_at": "2026-06-13T00:02:41.978098+00:00",
   "count": 72,
   "matches": [
     {
@@ -77,10 +77,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 45.6,
-        "draw_prob": 30.4,
-        "away_prob": 24.0,
-        "details": "USA +110"
+        "home_prob": 46.7,
+        "draw_prob": 29.9,
+        "away_prob": 23.4,
+        "details": "USA +105"
       }
     },
     {
@@ -173,9 +173,9 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 19.1,
-        "draw_prob": 25.1,
-        "away_prob": 55.8,
+        "home_prob": 19.2,
+        "draw_prob": 24.9,
+        "away_prob": 55.9,
         "details": "TUR -140"
       }
     },
