@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T00:02:41.978098+00:00",
+  "updated_at": "2026-06-13T05:04:46.473816+00:00",
   "count": 72,
   "matches": [
     {
@@ -62,26 +62,21 @@
     {
       "espn_id": "760417",
       "date": "2026-06-13T01:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "USA",
         "name": "美国",
-        "score": null
+        "score": 4
       },
       "away": {
         "abbr": "PAR",
         "name": "巴拉圭",
-        "score": null
+        "score": 1
       },
       "venue": "SoFi Stadium",
-      "odds": {
-        "home_prob": 46.7,
-        "draw_prob": 29.9,
-        "away_prob": 23.4,
-        "details": "USA +105"
-      }
+      "odds": null
     },
     {
       "espn_id": "760420",
@@ -101,10 +96,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 7.4,
+        "home_prob": 6.8,
         "draw_prob": 14.8,
-        "away_prob": 77.8,
-        "details": "SUI -425"
+        "away_prob": 78.4,
+        "details": "SUI -450"
       }
     },
     {
@@ -125,9 +120,9 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 57.4,
-        "draw_prob": 25.2,
-        "away_prob": 17.4,
+        "home_prob": 57.0,
+        "draw_prob": 25.0,
+        "away_prob": 18.0,
         "details": "BRA -150"
       }
     },
@@ -150,9 +145,9 @@
       "venue": "Gillette Stadium",
       "odds": {
         "home_prob": 16.0,
-        "draw_prob": 22.9,
-        "away_prob": 61.1,
-        "details": "SCO -175"
+        "draw_prob": 22.3,
+        "away_prob": 61.7,
+        "details": "SCO -180"
       }
     },
     {
@@ -677,10 +672,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 54.3,
-        "draw_prob": 24.3,
-        "away_prob": 21.4,
-        "details": "USA -130"
+        "home_prob": 61.2,
+        "draw_prob": 21.3,
+        "away_prob": 17.5,
+        "details": "USA -175"
       }
     },
     {
@@ -749,10 +744,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 42.4,
-        "draw_prob": 29.8,
-        "away_prob": 27.8,
-        "details": "TUR +125"
+        "home_prob": 47.8,
+        "draw_prob": 29.4,
+        "away_prob": 22.8,
+        "details": "TUR +100"
       }
     },
     {
@@ -1157,10 +1152,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 57.6,
-        "draw_prob": 25.6,
-        "away_prob": 16.8,
-        "details": "BIH -150"
+        "home_prob": 58.3,
+        "draw_prob": 25.0,
+        "away_prob": 16.7,
+        "details": "BIH -155"
       }
     },
     {
@@ -1421,10 +1416,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 37.6,
+        "home_prob": 36.1,
         "draw_prob": 26.3,
-        "away_prob": 36.1,
-        "details": "TUR +155"
+        "away_prob": 37.6,
+        "details": "USA +155"
       }
     },
     {
