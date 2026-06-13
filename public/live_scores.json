@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T11:17:21.729499+00:00",
+  "updated_at": "2026-06-13T13:06:19.692745+00:00",
   "count": 72,
   "matches": [
     {
@@ -144,10 +144,10 @@
       },
       "venue": "Gillette Stadium",
       "odds": {
-        "home_prob": 16.7,
+        "home_prob": 16.1,
         "draw_prob": 20.9,
-        "away_prob": 62.4,
-        "details": "SCO -185"
+        "away_prob": 63.0,
+        "details": "SCO -190"
       }
     },
     {
@@ -192,10 +192,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 90.6,
-        "draw_prob": 6.3,
-        "away_prob": 3.1,
-        "details": "GER -3000"
+        "home_prob": 91.2,
+        "draw_prob": 5.8,
+        "away_prob": 3.0,
+        "details": "GER -3500"
       }
     },
     {
@@ -576,10 +576,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 55.4,
-        "draw_prob": 25.4,
-        "away_prob": 19.2,
-        "details": "CZE -135"
+        "home_prob": 54.5,
+        "draw_prob": 25.8,
+        "away_prob": 19.7,
+        "details": "CZE -130"
       }
     },
     {
@@ -649,8 +649,8 @@
       "venue": "Estadio Akron",
       "odds": {
         "home_prob": 47.9,
-        "draw_prob": 28.2,
-        "away_prob": 23.9,
+        "draw_prob": 28.7,
+        "away_prob": 23.4,
         "details": "MEX +100"
       }
     },
@@ -1032,10 +1032,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 14.8,
-        "draw_prob": 22.4,
-        "away_prob": 62.8,
-        "details": "ALG -190"
+        "home_prob": 13.8,
+        "draw_prob": 21.9,
+        "away_prob": 64.3,
+        "details": "ALG -200"
       }
     },
     {
