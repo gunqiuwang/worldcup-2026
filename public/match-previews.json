@@ -48,22 +48,22 @@
     "away_name": "摩洛哥",
     "style": "主队优势",
     "verdict": "巴西略占上风，但摩洛哥不可小觑",
-    "likely_score": "1-0(14.3%) 或 2-0(12.4%)",
+    "likely_score": "1-0(14.4%) 或 2-0(12.6%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.74,
-    "away_xg": 0.76,
+    "home_xg": 1.75,
+    "away_xg": 0.75,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.3
+        "prob": 14.4
       },
       {
         "score": "2-0",
-        "prob": 12.4
+        "prob": 12.6
       },
       {
         "score": "1-1",
-        "prob": 10.9
+        "prob": 10.8
       },
       {
         "score": "2-1",
@@ -74,11 +74,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "BRA -145",
+    "odds": "BRA -150",
     "probabilities": {
-      "home_win": 56.7,
-      "draw": 25.9,
-      "away_win": 17.4
+      "home_win": 57.2,
+      "draw": 25.5,
+      "away_win": 17.3
     }
   },
   {
@@ -89,22 +89,22 @@
     "away_name": "苏格兰",
     "style": "客队优势",
     "verdict": "苏格兰反客为主，有望客场拿分",
-    "likely_score": "0-1(15.1%) 或 0-2(13.9%)",
+    "likely_score": "0-1(15.0%) 或 0-2(13.7%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.66,
-    "away_xg": 1.84,
+    "home_xg": 0.67,
+    "away_xg": 1.83,
     "top_scores": [
       {
         "score": "0-1",
-        "prob": 15.1
+        "prob": 15.0
       },
       {
         "score": "0-2",
-        "prob": 13.9
+        "prob": 13.7
       },
       {
         "score": "1-1",
-        "prob": 10.0
+        "prob": 10.1
       },
       {
         "score": "1-2",
@@ -112,14 +112,14 @@
       },
       {
         "score": "0-3",
-        "prob": 8.5
+        "prob": 8.4
       }
     ],
     "odds": "SCO -190",
     "probabilities": {
-      "home_win": 16.1,
-      "draw": 20.9,
-      "away_win": 63.0
+      "home_win": 16.6,
+      "draw": 20.7,
+      "away_win": 62.7
     }
   },
   {
@@ -130,22 +130,22 @@
     "away_name": "土耳其",
     "style": "客队优势",
     "verdict": "土耳其反客为主，有望客场拿分",
-    "likely_score": "0-1(14.0%) 或 0-2(12.0%)",
+    "likely_score": "0-1(14.2%) 或 0-2(12.3%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.79,
-    "away_xg": 1.71,
+    "home_xg": 0.77,
+    "away_xg": 1.73,
     "top_scores": [
       {
         "score": "0-1",
-        "prob": 14.0
+        "prob": 14.2
       },
       {
         "score": "0-2",
-        "prob": 12.0
+        "prob": 12.3
       },
       {
         "score": "1-1",
-        "prob": 11.1
+        "prob": 10.9
       },
       {
         "score": "1-2",
@@ -156,11 +156,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "TUR -140",
+    "odds": "TUR -145",
     "probabilities": {
-      "home_win": 19.1,
-      "draw": 25.1,
-      "away_win": 55.8
+      "home_win": 18.2,
+      "draw": 25.0,
+      "away_win": 56.8
     }
   },
   {
@@ -361,11 +361,11 @@
         "prob": 7.4
       }
     ],
-    "odds": "ESP -1200",
+    "odds": "ESP -1100",
     "probabilities": {
-      "home_win": 88.4,
+      "home_win": 88.3,
       "draw": 8.0,
-      "away_win": 3.6
+      "away_win": 3.7
     }
   },
   {
@@ -2385,10 +2385,10 @@
     "away_name": "沙特",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-1(12.8%) 或 1-0(10.6%)",
+    "likely_score": "1-1(12.8%) 或 1-0(10.5%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.29,
-    "away_xg": 1.21,
+    "home_xg": 1.28,
+    "away_xg": 1.22,
     "top_scores": [
       {
         "score": "1-1",
@@ -2396,26 +2396,26 @@
       },
       {
         "score": "1-0",
-        "prob": 10.6
+        "prob": 10.5
       },
       {
         "score": "0-1",
-        "prob": 9.9
-      },
-      {
-        "score": "2-1",
-        "prob": 8.3
+        "prob": 10.0
       },
       {
         "score": "0-0",
         "prob": 8.2
+      },
+      {
+        "score": "2-1",
+        "prob": 8.2
       }
     ],
-    "odds": "CPV +145",
+    "odds": "CPV +150",
     "probabilities": {
-      "home_win": 39.3,
-      "draw": 25.0,
-      "away_win": 35.7
+      "home_win": 38.3,
+      "draw": 25.6,
+      "away_win": 36.1
     }
   },
   {

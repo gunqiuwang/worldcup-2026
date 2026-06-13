@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:06:19.692745+00:00",
+  "updated_at": "2026-06-13T15:17:55.977188+00:00",
   "count": 72,
   "matches": [
     {
@@ -120,10 +120,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 56.7,
-        "draw_prob": 25.9,
-        "away_prob": 17.4,
-        "details": "BRA -145"
+        "home_prob": 57.2,
+        "draw_prob": 25.5,
+        "away_prob": 17.3,
+        "details": "BRA -150"
       }
     },
     {
@@ -144,9 +144,9 @@
       },
       "venue": "Gillette Stadium",
       "odds": {
-        "home_prob": 16.1,
-        "draw_prob": 20.9,
-        "away_prob": 63.0,
+        "home_prob": 16.6,
+        "draw_prob": 20.7,
+        "away_prob": 62.7,
         "details": "SCO -190"
       }
     },
@@ -168,10 +168,10 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 19.1,
-        "draw_prob": 25.1,
-        "away_prob": 55.8,
-        "details": "TUR -140"
+        "home_prob": 18.2,
+        "draw_prob": 25.0,
+        "away_prob": 56.8,
+        "details": "TUR -145"
       }
     },
     {
@@ -288,10 +288,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 88.4,
+        "home_prob": 88.3,
         "draw_prob": 8.0,
-        "away_prob": 3.6,
-        "details": "ESP -1200"
+        "away_prob": 3.7,
+        "details": "ESP -1100"
       }
     },
     {
@@ -1488,10 +1488,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 39.3,
-        "draw_prob": 25.0,
-        "away_prob": 35.7,
-        "details": "CPV +145"
+        "home_prob": 38.3,
+        "draw_prob": 25.6,
+        "away_prob": 36.1,
+        "details": "CPV +150"
       }
     },
     {
