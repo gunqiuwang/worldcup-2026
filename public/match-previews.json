@@ -7,22 +7,22 @@
     "away_name": "瑞士",
     "style": "客队优势",
     "verdict": "瑞士反客为主，有望客场拿分",
-    "likely_score": "0-2(19.0%) 或 0-1(17.6%)",
+    "likely_score": "0-2(19.1%) 或 0-1(17.7%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.35,
-    "away_xg": 2.15,
+    "home_xg": 0.34,
+    "away_xg": 2.16,
     "top_scores": [
       {
         "score": "0-2",
-        "prob": 19.0
+        "prob": 19.1
       },
       {
         "score": "0-1",
-        "prob": 17.6
+        "prob": 17.7
       },
       {
         "score": "0-3",
-        "prob": 13.6
+        "prob": 13.8
       },
       {
         "score": "0-0",
@@ -30,14 +30,14 @@
       },
       {
         "score": "0-4",
-        "prob": 7.3
+        "prob": 7.4
       }
     ],
-    "odds": "SUI -450",
+    "odds": "SUI -475",
     "probabilities": {
       "home_win": 6.8,
-      "draw": 14.8,
-      "away_win": 78.4
+      "draw": 13.8,
+      "away_win": 79.4
     }
   },
   {
@@ -89,10 +89,10 @@
     "away_name": "苏格兰",
     "style": "客队优势",
     "verdict": "苏格兰反客为主，有望客场拿分",
-    "likely_score": "0-1(14.9%) 或 0-2(13.4%)",
+    "likely_score": "0-1(14.9%) 或 0-2(13.6%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.69,
-    "away_xg": 1.81,
+    "home_xg": 0.68,
+    "away_xg": 1.82,
     "top_scores": [
       {
         "score": "0-1",
@@ -100,26 +100,26 @@
       },
       {
         "score": "0-2",
-        "prob": 13.4
+        "prob": 13.6
       },
       {
         "score": "1-1",
-        "prob": 10.3
+        "prob": 10.2
       },
       {
         "score": "1-2",
-        "prob": 9.3
+        "prob": 9.2
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "SCO -180",
+    "odds": "SCO -185",
     "probabilities": {
       "home_win": 16.7,
-      "draw": 21.7,
-      "away_win": 61.6
+      "draw": 20.9,
+      "away_win": 62.4
     }
   },
   {
@@ -566,11 +566,11 @@
         "prob": 7.4
       }
     ],
-    "odds": "NOR -475",
+    "odds": "NOR -500",
     "probabilities": {
       "home_win": 6.8,
-      "draw": 13.8,
-      "away_win": 79.4
+      "draw": 13.7,
+      "away_win": 79.5
     }
   },
   {
@@ -786,37 +786,37 @@
     "away_name": "哥伦比亚",
     "style": "客队优势",
     "verdict": "哥伦比亚反客为主，有望客场拿分",
-    "likely_score": "0-1(16.1%) 或 0-2(15.8%)",
+    "likely_score": "0-1(16.3%) 或 0-2(16.1%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.54,
-    "away_xg": 1.96,
+    "home_xg": 0.52,
+    "away_xg": 1.98,
     "top_scores": [
       {
         "score": "0-1",
-        "prob": 16.1
+        "prob": 16.3
       },
       {
         "score": "0-2",
-        "prob": 15.8
+        "prob": 16.1
       },
       {
         "score": "0-3",
-        "prob": 10.3
+        "prob": 10.6
       },
       {
         "score": "1-1",
-        "prob": 8.7
+        "prob": 8.5
       },
       {
         "score": "1-2",
-        "prob": 8.5
+        "prob": 8.4
       }
     ],
-    "odds": "COL -250",
+    "odds": "COL -255",
     "probabilities": {
-      "home_win": 11.3,
+      "home_win": 10.7,
       "draw": 20.4,
-      "away_win": 68.3
+      "away_win": 68.9
     }
   },
   {
@@ -2221,37 +2221,37 @@
     "away_name": "澳大利亚",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-1(12.4%) 或 1-0(12.1%)",
+    "likely_score": "1-0(12.3%) 或 1-1(12.3%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.48,
-    "away_xg": 1.02,
+    "home_xg": 1.5,
+    "away_xg": 1.0,
     "top_scores": [
       {
-        "score": "1-1",
-        "prob": 12.4
+        "score": "1-0",
+        "prob": 12.3
       },
       {
-        "score": "1-0",
-        "prob": 12.1
+        "score": "1-1",
+        "prob": 12.3
+      },
+      {
+        "score": "2-0",
+        "prob": 9.2
       },
       {
         "score": "2-1",
         "prob": 9.2
       },
       {
-        "score": "2-0",
-        "prob": 9.0
-      },
-      {
-        "score": "0-1",
-        "prob": 8.4
+        "score": "0-0",
+        "prob": 8.2
       }
     ],
-    "odds": "PAR +115",
+    "odds": "PAR +110",
     "probabilities": {
-      "home_win": 44.5,
-      "draw": 29.0,
-      "away_win": 26.5
+      "home_win": 45.6,
+      "draw": 28.6,
+      "away_win": 25.8
     }
   },
   {
@@ -2385,37 +2385,37 @@
     "away_name": "沙特",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-1(12.7%) 或 1-0(11.4%)",
+    "likely_score": "1-1(12.8%) 或 1-0(10.6%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.39,
-    "away_xg": 1.11,
+    "home_xg": 1.29,
+    "away_xg": 1.21,
     "top_scores": [
       {
         "score": "1-1",
-        "prob": 12.7
+        "prob": 12.8
       },
       {
         "score": "1-0",
-        "prob": 11.4
+        "prob": 10.6
       },
       {
         "score": "0-1",
-        "prob": 9.1
+        "prob": 9.9
       },
       {
         "score": "2-1",
-        "prob": 8.8
+        "prob": 8.3
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "CPV +125",
+    "odds": "CPV +145",
     "probabilities": {
-      "home_win": 42.4,
-      "draw": 26.2,
-      "away_win": 31.4
+      "home_win": 39.3,
+      "draw": 25.0,
+      "away_win": 35.7
     }
   },
   {

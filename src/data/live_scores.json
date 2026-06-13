@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T08:37:20.358086+00:00",
+  "updated_at": "2026-06-13T11:17:21.729499+00:00",
   "count": 72,
   "matches": [
     {
@@ -97,9 +97,9 @@
       "venue": "Levi's Stadium",
       "odds": {
         "home_prob": 6.8,
-        "draw_prob": 14.8,
-        "away_prob": 78.4,
-        "details": "SUI -450"
+        "draw_prob": 13.8,
+        "away_prob": 79.4,
+        "details": "SUI -475"
       }
     },
     {
@@ -145,9 +145,9 @@
       "venue": "Gillette Stadium",
       "odds": {
         "home_prob": 16.7,
-        "draw_prob": 21.7,
-        "away_prob": 61.6,
-        "details": "SCO -180"
+        "draw_prob": 20.9,
+        "away_prob": 62.4,
+        "details": "SCO -185"
       }
     },
     {
@@ -409,9 +409,9 @@
       "venue": "Gillette Stadium",
       "odds": {
         "home_prob": 6.8,
-        "draw_prob": 13.8,
-        "away_prob": 79.4,
-        "details": "NOR -475"
+        "draw_prob": 13.7,
+        "away_prob": 79.5,
+        "details": "NOR -500"
       }
     },
     {
@@ -552,10 +552,10 @@
       },
       "venue": "Estadio Banorte",
       "odds": {
-        "home_prob": 11.3,
+        "home_prob": 10.7,
         "draw_prob": 20.4,
-        "away_prob": 68.3,
-        "details": "COL -250"
+        "away_prob": 68.9,
+        "details": "COL -255"
       }
     },
     {
@@ -1392,10 +1392,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 44.5,
-        "draw_prob": 29.0,
-        "away_prob": 26.5,
-        "details": "PAR +115"
+        "home_prob": 45.6,
+        "draw_prob": 28.6,
+        "away_prob": 25.8,
+        "details": "PAR +110"
       }
     },
     {
@@ -1488,10 +1488,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 42.4,
-        "draw_prob": 26.2,
-        "away_prob": 31.4,
-        "details": "CPV +125"
+        "home_prob": 39.3,
+        "draw_prob": 25.0,
+        "away_prob": 35.7,
+        "details": "CPV +145"
       }
     },
     {
