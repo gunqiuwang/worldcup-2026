@@ -8,6 +8,7 @@
 """
 
 import json
+import re
 import urllib.request
 import os
 import sys
@@ -238,6 +239,78 @@ def process_standings(groups):
     return result
 
 
+def update_schedule_ts(project_dir, matches):
+    """
+    用 live_scores.json 的数据更新 schedule.ts 的 status 和 score。
+    按 espn_id 匹配，只修改 status + home.score + away.score，其余保留。
+    """
+    schedule_path = os.path.join(project_dir, "src", "data", "schedule.ts")
+    try:
+        with open(schedule_path, "r", encoding="utf-8") as f:
+            content = f.read()
+    except FileNotFoundError:
+        print("  ⚠️ schedule.ts 不存在，跳过")
+        return
+
+    updates = 0
+    for m in matches:
+        espn_id = m["espn_id"]
+        status = m["status"]
+        home_score = m["home"]["score"] if m["home"]["score"] is not None else 0
+        away_score = m["away"]["score"] if m["away"]["score"] is not None else 0
+
+        # Find the match block by espn_id, then update status + scores
+        # Pattern: "id": "760415", ... "status": "scheduled", ... "score": 0 ... "score": 0
+        # We match a region around the id and replace status + both scores
+
+        # Find the position of this match's id
+        id_pattern = f'"id": "{espn_id}"'
+        id_pos = content.find(id_pattern)
+        if id_pos == -1:
+            continue
+
+        # Find the next match's id (or end of array) to bound our region
+        next_id_pattern = '"id": "'
+        next_pos = content.find(next_id_pattern, id_pos + len(id_pattern))
+
+        if next_pos == -1:
+            # Last match — search for end of array
+            region_end = len(content)
+        else:
+            region_end = next_pos
+
+        region = content[id_pos:region_end]
+
+        # Update status
+        new_region = re.sub(
+            r'"status": "\w+"',
+            f'"status": "{status}"',
+            region,
+            count=1
+        )
+
+        # Update scores — find both "score": <number> patterns
+        # First one is home score, second is away score
+        score_count = 0
+        def replace_score(match):
+            nonlocal score_count
+            score_count += 1
+            if score_count == 1:
+                return f'"score": {home_score}'
+            else:
+                return f'"score": {away_score}'
+
+        new_region = re.sub(r'"score": \d+', replace_score, new_region, count=2)
+
+        if new_region != region:
+            content = content[:id_pos] + new_region + content[region_end:]
+            updates += 1
+
+    with open(schedule_path, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"  ✅ 更新 schedule.ts: {updates} 场比赛比分/状态已同步")
+
+
 def main():
     print("⚽ 世界杯比分更新器 v1 启动...")
     print(f"⏰ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -267,6 +340,10 @@ def main():
     with open(scores_path, "w", encoding="utf-8") as f:
         json.dump(scores_data, f, ensure_ascii=False, indent=2)
     print(f"  ✅ 写入 {scores_path}")
+
+    # 2b. 同步比分到 schedule.ts (前端直接用的数据)
+    print("\n🔄 同步比分到 schedule.ts...")
+    update_schedule_ts(project_dir, matches)
 
     # 3. Generate predictions.ts from live odds
     print("\n📊 生成 predictions.ts...")
