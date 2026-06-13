@@ -1,9 +1,20 @@
 import { motion } from 'framer-motion';
-import { Clock, MapPin, Zap, CheckCircle2 } from 'lucide-react';
+import { Clock, MapPin, Zap, CheckCircle2, XCircle } from 'lucide-react';
 import type { MatchData } from '../data/schedule';
 import { getPrediction } from '../data/predictions';
 import { TEAMS } from '../data/teams';
 import Flag from './Flag';
+
+export function getPredictionResult(match: MatchData): 'correct' | 'wrong' | null {
+  const pred = getPrediction(match.id);
+  if (!pred || match.status !== 'finished') return null;
+  const hs = match.home.score, as = match.away.score;
+  if (hs == null || as == null) return null;
+  const actualWinner = hs > as ? 'home' : hs < as ? 'away' : 'draw';
+  const predictedWinner = pred.home_win > Math.max(pred.draw, pred.away_win) ? 'home'
+    : pred.away_win > Math.max(pred.draw, pred.home_win) ? 'away' : 'draw';
+  return actualWinner === predictedWinner ? 'correct' : 'wrong';
+}
 
 function formatTime(iso: string) {
   return new Date(iso).toLocaleTimeString('zh-CN', {
@@ -205,15 +216,23 @@ export default function MatchCard({ match, index, onClick }: Props) {
         </div>
       </div>
 
-      {/* Battle probability bar */}
-      {homeProb > 0 && (
-        <BattleBar home={homeProb} draw={drawProb} away={awayProb} />
-      )}
-
-      {/* Venue */}
+      {/* Venue + Prediction Result */}
       <div className="flex items-center gap-1 text-[9px] text-gray-600 mt-2.5">
         <MapPin className="w-2.5 h-2.5 flex-shrink-0" />
         <span className="truncate">{match.venue}</span>
+        {(() => {
+          const result = getPredictionResult(match);
+          if (!result) return null;
+          return result === 'correct' ? (
+            <span className="ml-auto inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded-full text-[9px] font-bold bg-green/15 text-green">
+              <CheckCircle2 className="w-2.5 h-2.5" /> 预测正确
+            </span>
+          ) : (
+            <span className="ml-auto inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded-full text-[9px] font-bold bg-red/15 text-red">
+              <XCircle className="w-2.5 h-2.5" /> 预测失误
+            </span>
+          );
+        })()}
       </div>
     </motion.div>
   );

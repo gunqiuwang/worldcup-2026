@@ -1,7 +1,8 @@
 import { motion, AnimatePresence } from 'framer-motion';
-import { Zap } from 'lucide-react';
+import { Zap, CheckCircle2, XCircle, Target } from 'lucide-react';
 import { SCHEDULE } from '../data/schedule';
 import { getPrediction } from '../data/predictions';
+import { getPredictionResult } from './MatchCard';
 import Flag from './Flag';
 import UpsetRanking from './UpsetRanking';
 import HotTeams from './HotTeams';
@@ -23,6 +24,66 @@ function LazySection({ children, fallback }: { children: ReactNode; fallback?: R
   return (
     <div ref={ref}>
       {visible ? children : fallback || <div className="h-32 rounded-xl bg-white/[0.02] animate-pulse mb-3" />}
+    </div>
+  );
+}
+
+/* 预测准确率 */
+function AccuracyStats() {
+  const stats = useMemo(() => {
+    const finished = SCHEDULE.filter(m => m.status === 'finished');
+    let correct = 0, wrong = 0;
+    const details: { id: string; home: string; away: string; hs: number; as: number; result: 'correct' | 'wrong' }[] = [];
+    for (const m of finished) {
+      const r = getPredictionResult(m);
+      if (!r) continue;
+      if (r === 'correct') correct++;
+      else wrong++;
+      details.push({ id: m.id, home: m.home.name, away: m.away.name, hs: m.home.score!, as: m.away.score!, result: r });
+    }
+    const total = correct + wrong;
+    return { correct, wrong, total, pct: total > 0 ? Math.round(correct / total * 100) : 0, details };
+  }, []);
+
+  if (stats.total === 0) return null;
+
+  return (
+    <div className="glass-card p-4 mb-3">
+      <div className="flex items-center gap-2 mb-3">
+        <div className="w-7 h-7 rounded-lg bg-gold/10 flex items-center justify-center">
+          <Target className="w-3.5 h-3.5 text-gold" />
+        </div>
+        <div>
+          <span className="text-sm font-bold">预测准确率</span>
+          <span className="text-[10px] text-gray-500 block">基于博彩赔率方向预测</span>
+        </div>
+        <span className="ml-auto text-2xl font-extrabold text-gold">{stats.pct}%</span>
+      </div>
+      {/* Progress bar */}
+      <div className="flex h-2 rounded-full overflow-hidden mb-3 bg-white/[0.04]">
+        <div className="bg-green rounded-l-full transition-all" style={{ width: `${stats.pct}%` }} />
+        <div className="bg-red rounded-r-full transition-all flex-1" />
+      </div>
+      <div className="flex items-center justify-between text-[10px] mb-3">
+        <span className="text-green flex items-center gap-1"><CheckCircle2 className="w-3 h-3" /> {stats.correct} 正确</span>
+        <span className="text-gray-500">{stats.total} 场已结束</span>
+        <span className="text-red flex items-center gap-1"><XCircle className="w-3 h-3" /> {stats.wrong} 失误</span>
+      </div>
+      {/* Recent results */}
+      <div className="space-y-1.5">
+        {stats.details.slice(-5).map((d) => (
+          <div key={d.id} className="flex items-center justify-between text-[10px] py-1 px-2 rounded-lg bg-white/[0.02]">
+            <span className="text-gray-300 w-16 truncate text-right">{d.home}</span>
+            <span className="text-white font-bold tabular-nums mx-2">{d.hs}-{d.as}</span>
+            <span className="text-gray-300 w-16 truncate">{d.away}</span>
+            {d.result === 'correct' ? (
+              <CheckCircle2 className="w-3 h-3 text-green ml-2 flex-shrink-0" />
+            ) : (
+              <XCircle className="w-3 h-3 text-red ml-2 flex-shrink-0" />
+            )}
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
@@ -106,6 +167,11 @@ export default function Dashboard({ onTeamClick }: { onTeamClick?: (abbr: string
         <span className="text-lg font-bold">分析</span>
         <span className="text-xs text-gray-500">赔率数据 · 博彩公司共识</span>
       </div>
+
+      {/* 🎯 预测准确率 */}
+      <LazySection>
+        <ErrorBoundary><AccuracyStats /></ErrorBoundary>
+      </LazySection>
 
       {/* 🥈 焦点比赛 */}
       <LazySection>
