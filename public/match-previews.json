@@ -991,37 +991,37 @@
     "away_name": "澳大利亚",
     "style": "主队优势",
     "verdict": "美国略占上风，但澳大利亚不可小觑",
-    "likely_score": "1-0(14.8%) 或 2-0(13.3%)",
+    "likely_score": "1-0(15.0%) 或 2-0(13.6%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.8,
-    "away_xg": 0.7,
+    "home_xg": 1.81,
+    "away_xg": 0.68,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.8
+        "prob": 15.0
       },
       {
         "score": "2-0",
-        "prob": 13.3
+        "prob": 13.6
       },
       {
         "score": "1-1",
-        "prob": 10.3
+        "prob": 10.2
       },
       {
         "score": "2-1",
-        "prob": 9.3
+        "prob": 9.2
       },
       {
         "score": "0-0",
-        "prob": 8.2
+        "prob": 8.3
       }
     ],
-    "odds": "USA -175",
+    "odds": "USA -180",
     "probabilities": {
-      "home_win": 61.2,
-      "draw": 21.3,
-      "away_win": 17.5
+      "home_win": 61.9,
+      "draw": 21.4,
+      "away_win": 16.7
     }
   },
   {
@@ -1032,22 +1032,22 @@
     "away_name": "摩洛哥",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "0-1(12.8%) 或 1-1(12.0%)",
+    "likely_score": "0-1(13.0%) 或 1-1(11.9%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.94,
-    "away_xg": 1.56,
+    "home_xg": 0.92,
+    "away_xg": 1.58,
     "top_scores": [
       {
         "score": "0-1",
-        "prob": 12.8
+        "prob": 13.0
       },
       {
         "score": "1-1",
-        "prob": 12.0
+        "prob": 11.9
       },
       {
         "score": "0-2",
-        "prob": 10.0
+        "prob": 10.2
       },
       {
         "score": "1-2",
@@ -1058,11 +1058,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "MAR +100",
+    "odds": "MAR -105",
     "probabilities": {
-      "home_win": 23.3,
-      "draw": 28.9,
-      "away_win": 47.8
+      "home_win": 22.3,
+      "draw": 28.6,
+      "away_win": 49.1
     }
   },
   {
@@ -1114,22 +1114,22 @@
     "away_name": "巴拉圭",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-0(12.8%) 或 1-1(12.0%)",
+    "likely_score": "1-0(13.0%) 或 1-1(11.9%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.56,
-    "away_xg": 0.94,
+    "home_xg": 1.58,
+    "away_xg": 0.92,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 12.8
+        "prob": 13.0
       },
       {
         "score": "1-1",
-        "prob": 12.0
+        "prob": 11.9
       },
       {
         "score": "2-0",
-        "prob": 10.0
+        "prob": 10.2
       },
       {
         "score": "2-1",
@@ -1140,11 +1140,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "TUR +100",
+    "odds": "TUR -105",
     "probabilities": {
-      "home_win": 47.8,
-      "draw": 29.4,
-      "away_win": 22.8
+      "home_win": 48.9,
+      "draw": 28.9,
+      "away_win": 22.2
     }
   },
   {
@@ -1647,22 +1647,22 @@
     "away_name": "乌兹别克斯坦",
     "style": "强弱分明",
     "verdict": "葡萄牙大热，晋级概率极高",
-    "likely_score": "2-0(18.4%) 或 1-0(17.4%)",
+    "likely_score": "2-0(18.3%) 或 1-0(17.3%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 2.12,
-    "away_xg": 0.38,
+    "home_xg": 2.11,
+    "away_xg": 0.39,
     "top_scores": [
       {
         "score": "2-0",
-        "prob": 18.4
+        "prob": 18.3
       },
       {
         "score": "1-0",
-        "prob": 17.4
+        "prob": 17.3
       },
       {
         "score": "3-0",
-        "prob": 13.0
+        "prob": 12.9
       },
       {
         "score": "0-0",
@@ -1670,14 +1670,14 @@
       },
       {
         "score": "2-1",
-        "prob": 7.0
+        "prob": 7.1
       }
     ],
-    "odds": "POR -425",
+    "odds": "POR -400",
     "probabilities": {
-      "home_win": 77.4,
-      "draw": 14.7,
-      "away_win": 7.9
+      "home_win": 77.1,
+      "draw": 14.9,
+      "away_win": 8.0
     }
   },
   {
@@ -1811,37 +1811,37 @@
     "away_name": "卡塔尔",
     "style": "主队优势",
     "verdict": "波黑略占上风，但卡塔尔不可小觑",
-    "likely_score": "1-0(14.5%) 或 2-0(12.9%)",
+    "likely_score": "1-0(14.8%) 或 2-0(13.3%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.77,
-    "away_xg": 0.73,
+    "home_xg": 1.8,
+    "away_xg": 0.7,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.5
+        "prob": 14.8
       },
       {
         "score": "2-0",
-        "prob": 12.9
+        "prob": 13.3
       },
       {
         "score": "1-1",
-        "prob": 10.6
+        "prob": 10.3
       },
       {
         "score": "2-1",
-        "prob": 9.4
+        "prob": 9.3
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "BIH -155",
+    "odds": "BIH -165",
     "probabilities": {
-      "home_win": 58.3,
-      "draw": 25.0,
-      "away_win": 16.7
+      "home_win": 59.6,
+      "draw": 24.5,
+      "away_win": 15.9
     }
   },
   {
