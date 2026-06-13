@@ -221,18 +221,18 @@ export default function MatchModal({ match, onClose }: Props) {
                 <div className="flex-1 mx-4">
                   <div className="flex h-2 rounded-full overflow-hidden mb-1.5">
                     <div className="bg-green transition-all" style={{ width: `${preview.probabilities.home_win}%` }} />
-                    <div className="bg-gray-600 transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
-                    <div className="bg-blue transition-all" style={{ width: `${preview.probabilities.away_win}%` }} />
+                    <div className="bg-gold transition-all" style={{ width: `${preview.probabilities.draw}%` }} />
+                    <div className="bg-red transition-all" style={{ width: `${preview.probabilities.away_win}%` }} />
                   </div>
                   <div className="flex justify-between text-[10px]">
                     <span className="text-green">主胜 {preview.probabilities.home_win}%</span>
-                    <span className="text-gray-500">平 {preview.probabilities.draw}%</span>
-                    <span className="text-blue">客胜 {preview.probabilities.away_win}%</span>
+                    <span className="text-gold">平 {preview.probabilities.draw}%</span>
+                    <span className="text-red">客胜 {preview.probabilities.away_win}%</span>
                   </div>
                 </div>
                 <div className="text-center">
-                  <div className="text-xl font-bold text-blue">{preview.away_xg}</div>
-                  <div className="text-[10px] text-blue/70">{match.away.name} xG</div>
+                  <div className="text-xl font-bold text-red">{preview.away_xg}</div>
+                  <div className="text-[10px] text-red/70">{match.away.name} xG</div>
                 </div>
               </div>
 
