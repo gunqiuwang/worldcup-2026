@@ -74,11 +74,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "BRA -150",
+    "odds": "BRA -145",
     "probabilities": {
-      "home_win": 57.0,
-      "draw": 25.0,
-      "away_win": 18.0
+      "home_win": 56.7,
+      "draw": 25.9,
+      "away_win": 17.4
     }
   },
   {
@@ -89,10 +89,10 @@
     "away_name": "苏格兰",
     "style": "客队优势",
     "verdict": "苏格兰反客为主，有望客场拿分",
-    "likely_score": "0-1(14.9%) 或 0-2(13.6%)",
+    "likely_score": "0-1(14.9%) 或 0-2(13.4%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.68,
-    "away_xg": 1.82,
+    "home_xg": 0.69,
+    "away_xg": 1.81,
     "top_scores": [
       {
         "score": "0-1",
@@ -100,15 +100,15 @@
       },
       {
         "score": "0-2",
-        "prob": 13.6
+        "prob": 13.4
       },
       {
         "score": "1-1",
-        "prob": 10.2
+        "prob": 10.3
       },
       {
         "score": "1-2",
-        "prob": 9.2
+        "prob": 9.3
       },
       {
         "score": "0-0",
@@ -117,9 +117,9 @@
     ],
     "odds": "SCO -180",
     "probabilities": {
-      "home_win": 16.0,
-      "draw": 22.3,
-      "away_win": 61.7
+      "home_win": 16.7,
+      "draw": 21.7,
+      "away_win": 61.6
     }
   },
   {
@@ -158,9 +158,9 @@
     ],
     "odds": "TUR -140",
     "probabilities": {
-      "home_win": 19.2,
-      "draw": 24.9,
-      "away_win": 55.9
+      "home_win": 19.1,
+      "draw": 25.1,
+      "away_win": 55.8
     }
   },
   {
@@ -2262,10 +2262,10 @@
     "away_name": "美国",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-1(12.8%) 或 0-1(10.4%)",
+    "likely_score": "1-1(12.8%) 或 0-1(10.6%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.23,
-    "away_xg": 1.27,
+    "home_xg": 1.21,
+    "away_xg": 1.29,
     "top_scores": [
       {
         "score": "1-1",
@@ -2273,26 +2273,26 @@
       },
       {
         "score": "0-1",
-        "prob": 10.4
+        "prob": 10.6
       },
       {
         "score": "1-0",
-        "prob": 10.1
+        "prob": 9.9
+      },
+      {
+        "score": "1-2",
+        "prob": 8.3
       },
       {
         "score": "0-0",
         "prob": 8.2
-      },
-      {
-        "score": "1-2",
-        "prob": 8.1
       }
     ],
-    "odds": "USA +155",
+    "odds": "USA +150",
     "probabilities": {
-      "home_win": 36.1,
-      "draw": 26.3,
-      "away_win": 37.6
+      "home_win": 35.4,
+      "draw": 26.2,
+      "away_win": 38.4
     }
   },
   {
