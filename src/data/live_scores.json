@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T21:16:36.415776+00:00",
+  "updated_at": "2026-06-14T22:43:12.576620+00:00",
   "count": 72,
   "matches": [
     {
@@ -176,26 +176,21 @@
     {
       "espn_id": "760425",
       "date": "2026-06-14T20:00Z",
-      "status": "live",
-      "status_detail": "58'",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "NED",
         "name": "荷兰",
-        "score": 1
+        "score": 2
       },
       "away": {
         "abbr": "JPN",
         "name": "日本",
-        "score": 0
+        "score": 2
       },
       "venue": "AT&T Stadium",
-      "odds": {
-        "home_prob": 47.0,
-        "draw_prob": 27.6,
-        "away_prob": 25.4,
-        "details": "NED +100"
-      }
+      "odds": null
     },
     {
       "espn_id": "760423",
@@ -216,9 +211,9 @@
       "venue": "Lincoln Financial Field",
       "odds": {
         "home_prob": 29.1,
-        "draw_prob": 33.2,
-        "away_prob": 37.7,
-        "details": "ECU +155"
+        "draw_prob": 32.5,
+        "away_prob": 38.4,
+        "details": "ECU +150"
       }
     },
     {
@@ -239,10 +234,10 @@
       },
       "venue": "Estadio BBVA",
       "odds": {
-        "home_prob": 49.0,
-        "draw_prob": 28.2,
-        "away_prob": 22.8,
-        "details": "SWE -105"
+        "home_prob": 50.4,
+        "draw_prob": 28.3,
+        "away_prob": 21.3,
+        "details": "SWE -110"
       }
     },
     {
@@ -623,9 +618,9 @@
       },
       "venue": "Estadio Akron",
       "odds": {
-        "home_prob": 47.9,
-        "draw_prob": 28.7,
-        "away_prob": 23.4,
+        "home_prob": 48.2,
+        "draw_prob": 28.8,
+        "away_prob": 23.0,
         "details": "MEX +100"
       }
     },
@@ -1583,10 +1578,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 11.3,
+        "home_prob": 10.6,
         "draw_prob": 14.7,
-        "away_prob": 74.0,
-        "details": "ENG -340"
+        "away_prob": 74.7,
+        "details": "ENG -360"
       }
     },
     {

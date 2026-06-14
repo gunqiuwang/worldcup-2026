@@ -1,46 +1,5 @@
 [
   {
-    "match": "荷兰 vs 日本",
-    "home": "NED",
-    "away": "JPN",
-    "home_name": "荷兰",
-    "away_name": "日本",
-    "style": "接近对决",
-    "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-0(12.5%) 或 1-1(12.2%)",
-    "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.52,
-    "away_xg": 0.98,
-    "top_scores": [
-      {
-        "score": "1-0",
-        "prob": 12.5
-      },
-      {
-        "score": "1-1",
-        "prob": 12.2
-      },
-      {
-        "score": "2-0",
-        "prob": 9.5
-      },
-      {
-        "score": "2-1",
-        "prob": 9.3
-      },
-      {
-        "score": "0-0",
-        "prob": 8.2
-      }
-    ],
-    "odds": "NED +100",
-    "probabilities": {
-      "home_win": 47.0,
-      "draw": 27.6,
-      "away_win": 25.4
-    }
-  },
-  {
     "match": "CIV vs 厄瓜多尔",
     "home": "CIV",
     "away": "ECU",
@@ -50,8 +9,8 @@
     "verdict": "势均力敌，平局概率最高",
     "likely_score": "1-1(12.7%) 或 0-1(11.2%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.14,
-    "away_xg": 1.36,
+    "home_xg": 1.13,
+    "away_xg": 1.37,
     "top_scores": [
       {
         "score": "1-1",
@@ -63,7 +22,7 @@
       },
       {
         "score": "1-0",
-        "prob": 9.4
+        "prob": 9.3
       },
       {
         "score": "1-2",
@@ -74,11 +33,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "ECU +155",
+    "odds": "ECU +150",
     "probabilities": {
       "home_win": 29.1,
-      "draw": 33.2,
-      "away_win": 37.7
+      "draw": 32.5,
+      "away_win": 38.4
     }
   },
   {
@@ -87,39 +46,39 @@
     "away": "TUN",
     "home_name": "SWE",
     "away_name": "TUN",
-    "style": "接近对决",
-    "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-0(13.0%) 或 1-1(11.9%)",
+    "style": "主队优势",
+    "verdict": "SWE略占上风，但TUN不可小觑",
+    "likely_score": "1-0(13.2%) 或 1-1(11.8%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.58,
-    "away_xg": 0.92,
+    "home_xg": 1.61,
+    "away_xg": 0.89,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 13.0
+        "prob": 13.2
       },
       {
         "score": "1-1",
-        "prob": 11.9
+        "prob": 11.8
       },
       {
         "score": "2-0",
-        "prob": 10.2
+        "prob": 10.6
       },
       {
         "score": "2-1",
-        "prob": 9.4
+        "prob": 9.5
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "SWE -105",
+    "odds": "SWE -110",
     "probabilities": {
-      "home_win": 49.0,
-      "draw": 28.2,
-      "away_win": 22.8
+      "home_win": 50.4,
+      "draw": 28.3,
+      "away_win": 21.3
     }
   },
   {
@@ -773,9 +732,9 @@
     ],
     "odds": "MEX +100",
     "probabilities": {
-      "home_win": 47.9,
-      "draw": 28.7,
-      "away_win": 23.4
+      "home_win": 48.2,
+      "draw": 28.8,
+      "away_win": 23.0
     }
   },
   {
@@ -2385,22 +2344,22 @@
     "away_name": "英格兰",
     "style": "客队优势",
     "verdict": "英格兰反客为主，有望客场拿分",
-    "likely_score": "0-2(16.9%) 或 0-1(16.7%)",
+    "likely_score": "0-2(17.2%) 或 0-1(16.8%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.47,
-    "away_xg": 2.03,
+    "home_xg": 0.45,
+    "away_xg": 2.05,
     "top_scores": [
       {
         "score": "0-2",
-        "prob": 16.9
+        "prob": 17.2
       },
       {
         "score": "0-1",
-        "prob": 16.7
+        "prob": 16.8
       },
       {
         "score": "0-3",
-        "prob": 11.4
+        "prob": 11.8
       },
       {
         "score": "0-0",
@@ -2408,14 +2367,14 @@
       },
       {
         "score": "1-2",
-        "prob": 7.9
+        "prob": 7.8
       }
     ],
-    "odds": "ENG -340",
+    "odds": "ENG -360",
     "probabilities": {
-      "home_win": 11.3,
+      "home_win": 10.6,
       "draw": 14.7,
-      "away_win": 74.0
+      "away_win": 74.7
     }
   },
   {
