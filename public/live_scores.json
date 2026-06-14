@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T10:26:52.707442+00:00",
+  "updated_at": "2026-06-14T12:24:49.723009+00:00",
   "count": 72,
   "matches": [
     {
@@ -172,10 +172,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 91.5,
+        "home_prob": 91.3,
         "draw_prob": 5.5,
-        "away_prob": 3.0,
-        "details": "GER -4000"
+        "away_prob": 3.2,
+        "details": "GER -3500"
       }
     },
     {
@@ -220,10 +220,10 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 29.0,
+        "home_prob": 29.5,
         "draw_prob": 33.6,
-        "away_prob": 37.4,
-        "details": "ECU +155"
+        "away_prob": 36.9,
+        "details": "ECU +160"
       }
     },
     {
@@ -244,10 +244,10 @@
       },
       "venue": "Estadio BBVA",
       "odds": {
-        "home_prob": 48.9,
-        "draw_prob": 27.7,
+        "home_prob": 47.9,
+        "draw_prob": 28.7,
         "away_prob": 23.4,
-        "details": "SWE -105"
+        "details": "SWE +100"
       }
     },
     {
@@ -580,10 +580,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 60.5,
+        "home_prob": 59.8,
         "draw_prob": 23.4,
-        "away_prob": 16.1,
-        "details": "SUI -170"
+        "away_prob": 16.8,
+        "details": "SUI -165"
       }
     },
     {
@@ -700,10 +700,10 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 86.7,
-        "draw_prob": 8.7,
+        "home_prob": 86.6,
+        "draw_prob": 8.8,
         "away_prob": 4.6,
-        "details": "BRA -1000"
+        "details": "BRA -900"
       }
     },
     {
