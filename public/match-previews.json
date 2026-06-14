@@ -35,8 +35,8 @@
     ],
     "odds": "GER -3500",
     "probabilities": {
-      "home_win": 91.3,
-      "draw": 5.5,
+      "home_win": 91.0,
+      "draw": 5.8,
       "away_win": 3.2
     }
   },
@@ -48,37 +48,37 @@
     "away_name": "日本",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-0(12.3%) 或 1-1(12.3%)",
+    "likely_score": "1-1(12.4%) 或 1-0(12.2%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.5,
-    "away_xg": 1.0,
+    "home_xg": 1.49,
+    "away_xg": 1.01,
     "top_scores": [
       {
-        "score": "1-0",
-        "prob": 12.3
-      },
-      {
         "score": "1-1",
-        "prob": 12.3
+        "prob": 12.4
       },
       {
-        "score": "2-0",
-        "prob": 9.2
+        "score": "1-0",
+        "prob": 12.2
       },
       {
         "score": "2-1",
         "prob": 9.2
       },
       {
-        "score": "0-0",
-        "prob": 8.2
+        "score": "2-0",
+        "prob": 9.1
+      },
+      {
+        "score": "0-1",
+        "prob": 8.3
       }
     ],
-    "odds": "NED +100",
+    "odds": "NED +105",
     "probabilities": {
-      "home_win": 46.5,
-      "draw": 27.3,
-      "away_win": 26.2
+      "home_win": 45.7,
+      "draw": 28.0,
+      "away_win": 26.3
     }
   },
   {
@@ -130,22 +130,22 @@
     "away_name": "TUN",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-0(12.8%) 或 1-1(12.0%)",
+    "likely_score": "1-0(13.0%) 或 1-1(11.9%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.56,
-    "away_xg": 0.94,
+    "home_xg": 1.58,
+    "away_xg": 0.92,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 12.8
+        "prob": 13.0
       },
       {
         "score": "1-1",
-        "prob": 12.0
+        "prob": 11.9
       },
       {
         "score": "2-0",
-        "prob": 10.0
+        "prob": 10.2
       },
       {
         "score": "2-1",
@@ -156,11 +156,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "SWE +100",
+    "odds": "SWE -105",
     "probabilities": {
-      "home_win": 47.9,
-      "draw": 28.7,
-      "away_win": 23.4
+      "home_win": 49.0,
+      "draw": 28.2,
+      "away_win": 22.8
     }
   },
   {
@@ -171,37 +171,37 @@
     "away_name": "CPV",
     "style": "强弱分明",
     "verdict": "西班牙大热，晋级概率极高",
-    "likely_score": "2-0(19.6%) 或 1-0(17.1%)",
+    "likely_score": "2-0(19.7%) 或 1-0(17.2%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 2.3,
+    "home_xg": 2.29,
     "away_xg": 0.3,
     "top_scores": [
       {
         "score": "2-0",
-        "prob": 19.6
+        "prob": 19.7
       },
       {
         "score": "1-0",
-        "prob": 17.1
+        "prob": 17.2
       },
       {
         "score": "3-0",
-        "prob": 15.1
+        "prob": 15.0
       },
       {
         "score": "4-0",
-        "prob": 8.7
+        "prob": 8.6
       },
       {
         "score": "0-0",
-        "prob": 7.4
+        "prob": 7.5
       }
     ],
-    "odds": "ESP -1100",
+    "odds": "ESP -1000",
     "probabilities": {
-      "home_win": 87.7,
-      "draw": 8.7,
-      "away_win": 3.6
+      "home_win": 87.8,
+      "draw": 8.0,
+      "away_win": 4.2
     }
   },
   {
@@ -935,10 +935,10 @@
         "prob": 7.6
       }
     ],
-    "odds": "BRA -900",
+    "odds": "BRA -1000",
     "probabilities": {
-      "home_win": 86.6,
-      "draw": 8.8,
+      "home_win": 86.7,
+      "draw": 8.7,
       "away_win": 4.6
     }
   },

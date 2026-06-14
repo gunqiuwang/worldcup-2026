@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T12:24:49.723009+00:00",
+  "updated_at": "2026-06-14T14:42:26.926055+00:00",
   "count": 72,
   "matches": [
     {
@@ -172,8 +172,8 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 91.3,
-        "draw_prob": 5.5,
+        "home_prob": 91.0,
+        "draw_prob": 5.8,
         "away_prob": 3.2,
         "details": "GER -3500"
       }
@@ -196,10 +196,10 @@
       },
       "venue": "AT&T Stadium",
       "odds": {
-        "home_prob": 46.5,
-        "draw_prob": 27.3,
-        "away_prob": 26.2,
-        "details": "NED +100"
+        "home_prob": 45.7,
+        "draw_prob": 28.0,
+        "away_prob": 26.3,
+        "details": "NED +105"
       }
     },
     {
@@ -244,10 +244,10 @@
       },
       "venue": "Estadio BBVA",
       "odds": {
-        "home_prob": 47.9,
-        "draw_prob": 28.7,
-        "away_prob": 23.4,
-        "details": "SWE +100"
+        "home_prob": 49.0,
+        "draw_prob": 28.2,
+        "away_prob": 22.8,
+        "details": "SWE -105"
       }
     },
     {
@@ -268,10 +268,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 87.7,
-        "draw_prob": 8.7,
-        "away_prob": 3.6,
-        "details": "ESP -1100"
+        "home_prob": 87.8,
+        "draw_prob": 8.0,
+        "away_prob": 4.2,
+        "details": "ESP -1000"
       }
     },
     {
@@ -700,10 +700,10 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 86.6,
-        "draw_prob": 8.8,
+        "home_prob": 86.7,
+        "draw_prob": 8.7,
         "away_prob": 4.6,
-        "details": "BRA -900"
+        "details": "BRA -1000"
       }
     },
     {
