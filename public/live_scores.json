@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T17:58:46.490298+00:00",
+  "updated_at": "2026-06-14T19:50:47.494807+00:00",
   "count": 72,
   "matches": [
     {
@@ -157,13 +157,13 @@
     {
       "espn_id": "760422",
       "date": "2026-06-14T17:00Z",
-      "status": "live",
-      "status_detail": "HT",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "GER",
         "name": "德国",
-        "score": 3
+        "score": 7
       },
       "away": {
         "abbr": "CUW",
@@ -171,12 +171,7 @@
         "score": 1
       },
       "venue": "NRG Stadium",
-      "odds": {
-        "home_prob": 91.0,
-        "draw_prob": 5.8,
-        "away_prob": 3.2,
-        "details": "GER -3000"
-      }
+      "odds": null
     },
     {
       "espn_id": "760425",
@@ -196,10 +191,10 @@
       },
       "venue": "AT&T Stadium",
       "odds": {
-        "home_prob": 45.7,
-        "draw_prob": 28.0,
-        "away_prob": 26.3,
-        "details": "NED +105"
+        "home_prob": 47.0,
+        "draw_prob": 27.6,
+        "away_prob": 25.4,
+        "details": "NED +100"
       }
     },
     {
@@ -268,10 +263,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 87.8,
+        "home_prob": 87.9,
         "draw_prob": 8.0,
-        "away_prob": 4.2,
-        "details": "ESP -1000"
+        "away_prob": 4.1,
+        "details": "ESP -1100"
       }
     },
     {
@@ -316,10 +311,10 @@
       },
       "venue": "Hard Rock Stadium",
       "odds": {
-        "home_prob": 12.0,
-        "draw_prob": 21.4,
-        "away_prob": 66.6,
-        "details": "URU -225"
+        "home_prob": 12.8,
+        "draw_prob": 21.8,
+        "away_prob": 65.4,
+        "details": "URU -215"
       }
     },
     {
@@ -340,10 +335,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 52.3,
-        "draw_prob": 27.8,
-        "away_prob": 19.9,
-        "details": "IRN -120"
+        "home_prob": 49.3,
+        "draw_prob": 28.3,
+        "away_prob": 22.4,
+        "details": "IRN -105"
       }
     },
     {
@@ -772,10 +767,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 59.9,
-        "draw_prob": 21.8,
-        "away_prob": 18.3,
-        "details": "GER -165"
+        "home_prob": 61.2,
+        "draw_prob": 21.3,
+        "away_prob": 17.5,
+        "details": "GER -175"
       }
     },
     {
@@ -796,10 +791,10 @@
       },
       "venue": "GEHA Field at Arrowhead Stadium",
       "odds": {
-        "home_prob": 79.9,
-        "draw_prob": 12.8,
-        "away_prob": 7.3,
-        "details": "ECU -500"
+        "home_prob": 85.1,
+        "draw_prob": 10.1,
+        "away_prob": 4.8,
+        "details": "ECU -750"
       }
     },
     {
@@ -1276,10 +1271,10 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 7.4,
-        "draw_prob": 13.8,
-        "away_prob": 78.8,
-        "details": "CIV -450"
+        "home_prob": 5.4,
+        "draw_prob": 11.3,
+        "away_prob": 83.3,
+        "details": "CIV -650"
       }
     },
     {

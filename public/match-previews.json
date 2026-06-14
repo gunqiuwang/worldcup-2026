@@ -1,46 +1,5 @@
 [
   {
-    "match": "德国 vs 库拉索",
-    "home": "GER",
-    "away": "CUW",
-    "home_name": "德国",
-    "away_name": "库拉索",
-    "style": "强弱分明",
-    "verdict": "德国大热，晋级概率极高",
-    "likely_score": "2-0(19.5%) 或 1-0(16.6%)",
-    "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 2.35,
-    "away_xg": 0.3,
-    "top_scores": [
-      {
-        "score": "2-0",
-        "prob": 19.5
-      },
-      {
-        "score": "1-0",
-        "prob": 16.6
-      },
-      {
-        "score": "3-0",
-        "prob": 15.3
-      },
-      {
-        "score": "4-0",
-        "prob": 9.0
-      },
-      {
-        "score": "0-0",
-        "prob": 7.1
-      }
-    ],
-    "odds": "GER -3000",
-    "probabilities": {
-      "home_win": 91.0,
-      "draw": 5.8,
-      "away_win": 3.2
-    }
-  },
-  {
     "match": "荷兰 vs 日本",
     "home": "NED",
     "away": "JPN",
@@ -48,37 +7,37 @@
     "away_name": "日本",
     "style": "接近对决",
     "verdict": "两队实力接近，胜负难料",
-    "likely_score": "1-1(12.4%) 或 1-0(12.2%)",
+    "likely_score": "1-0(12.5%) 或 1-1(12.2%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.49,
-    "away_xg": 1.01,
+    "home_xg": 1.52,
+    "away_xg": 0.98,
     "top_scores": [
       {
-        "score": "1-1",
-        "prob": 12.4
+        "score": "1-0",
+        "prob": 12.5
       },
       {
-        "score": "1-0",
+        "score": "1-1",
         "prob": 12.2
       },
       {
-        "score": "2-1",
-        "prob": 9.2
-      },
-      {
         "score": "2-0",
-        "prob": 9.1
+        "prob": 9.5
       },
       {
-        "score": "0-1",
-        "prob": 8.3
+        "score": "2-1",
+        "prob": 9.3
+      },
+      {
+        "score": "0-0",
+        "prob": 8.2
       }
     ],
-    "odds": "NED +105",
+    "odds": "NED +100",
     "probabilities": {
-      "home_win": 45.7,
-      "draw": 28.0,
-      "away_win": 26.3
+      "home_win": 47.0,
+      "draw": 27.6,
+      "away_win": 25.4
     }
   },
   {
@@ -171,37 +130,37 @@
     "away_name": "CPV",
     "style": "强弱分明",
     "verdict": "西班牙大热，晋级概率极高",
-    "likely_score": "2-0(19.7%) 或 1-0(17.2%)",
+    "likely_score": "2-0(19.6%) 或 1-0(17.1%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 2.29,
+    "home_xg": 2.3,
     "away_xg": 0.3,
     "top_scores": [
       {
         "score": "2-0",
-        "prob": 19.7
+        "prob": 19.6
       },
       {
         "score": "1-0",
-        "prob": 17.2
+        "prob": 17.1
       },
       {
         "score": "3-0",
-        "prob": 15.0
+        "prob": 15.1
       },
       {
         "score": "4-0",
-        "prob": 8.6
+        "prob": 8.7
       },
       {
         "score": "0-0",
-        "prob": 7.5
+        "prob": 7.4
       }
     ],
-    "odds": "ESP -1000",
+    "odds": "ESP -1100",
     "probabilities": {
-      "home_win": 87.8,
+      "home_win": 87.9,
       "draw": 8.0,
-      "away_win": 4.2
+      "away_win": 4.1
     }
   },
   {
@@ -253,37 +212,37 @@
     "away_name": "乌拉圭",
     "style": "客队优势",
     "verdict": "乌拉圭反客为主，有望客场拿分",
-    "likely_score": "0-1(15.8%) 或 0-2(15.3%)",
+    "likely_score": "0-1(15.7%) 或 0-2(15.0%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.57,
-    "away_xg": 1.93,
+    "home_xg": 0.59,
+    "away_xg": 1.91,
     "top_scores": [
       {
         "score": "0-1",
-        "prob": 15.8
+        "prob": 15.7
       },
       {
         "score": "0-2",
-        "prob": 15.3
+        "prob": 15.0
       },
       {
         "score": "0-3",
-        "prob": 9.8
+        "prob": 9.5
       },
       {
         "score": "1-1",
-        "prob": 9.0
+        "prob": 9.3
       },
       {
         "score": "1-2",
-        "prob": 8.7
+        "prob": 8.8
       }
     ],
-    "odds": "URU -225",
+    "odds": "URU -215",
     "probabilities": {
-      "home_win": 12.0,
-      "draw": 21.4,
-      "away_win": 66.6
+      "home_win": 12.8,
+      "draw": 21.8,
+      "away_win": 65.4
     }
   },
   {
@@ -292,39 +251,39 @@
     "away": "NZL",
     "home_name": "伊朗",
     "away_name": "新西兰",
-    "style": "主队优势",
-    "verdict": "伊朗略占上风，但新西兰不可小觑",
-    "likely_score": "1-0(13.6%) 或 1-1(11.4%)",
+    "style": "接近对决",
+    "verdict": "两队实力接近，胜负难料",
+    "likely_score": "1-0(13.1%) 或 1-1(11.9%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.66,
-    "away_xg": 0.84,
+    "home_xg": 1.59,
+    "away_xg": 0.91,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 13.6
+        "prob": 13.1
       },
       {
         "score": "1-1",
-        "prob": 11.4
+        "prob": 11.9
       },
       {
         "score": "2-0",
-        "prob": 11.3
+        "prob": 10.4
       },
       {
         "score": "2-1",
-        "prob": 9.5
+        "prob": 9.4
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "IRN -120",
+    "odds": "IRN -105",
     "probabilities": {
-      "home_win": 52.3,
-      "draw": 27.8,
-      "away_win": 19.9
+      "home_win": 49.3,
+      "draw": 28.3,
+      "away_win": 22.4
     }
   },
   {
@@ -1032,37 +991,37 @@
     "away_name": "CIV",
     "style": "主队优势",
     "verdict": "德国略占上风，但CIV不可小觑",
-    "likely_score": "1-0(14.5%) 或 2-0(12.9%)",
+    "likely_score": "1-0(14.8%) 或 2-0(13.3%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.77,
-    "away_xg": 0.73,
+    "home_xg": 1.8,
+    "away_xg": 0.7,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.5
+        "prob": 14.8
       },
       {
         "score": "2-0",
-        "prob": 12.9
+        "prob": 13.3
       },
       {
         "score": "1-1",
-        "prob": 10.6
+        "prob": 10.3
       },
       {
         "score": "2-1",
-        "prob": 9.4
+        "prob": 9.3
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "GER -165",
+    "odds": "GER -175",
     "probabilities": {
-      "home_win": 59.9,
-      "draw": 21.8,
-      "away_win": 18.3
+      "home_win": 61.2,
+      "draw": 21.3,
+      "away_win": 17.5
     }
   },
   {
@@ -1073,37 +1032,37 @@
     "away_name": "库拉索",
     "style": "强弱分明",
     "verdict": "厄瓜多尔大热，晋级概率极高",
-    "likely_score": "2-0(19.1%) 或 1-0(17.7%)",
+    "likely_score": "2-0(19.8%) 或 1-0(17.6%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 2.16,
-    "away_xg": 0.34,
+    "home_xg": 2.25,
+    "away_xg": 0.3,
     "top_scores": [
       {
         "score": "2-0",
-        "prob": 19.1
+        "prob": 19.8
       },
       {
         "score": "1-0",
-        "prob": 17.7
+        "prob": 17.6
       },
       {
         "score": "3-0",
-        "prob": 13.8
-      },
-      {
-        "score": "0-0",
-        "prob": 8.2
+        "prob": 14.8
       },
       {
         "score": "4-0",
-        "prob": 7.4
+        "prob": 8.3
+      },
+      {
+        "score": "0-0",
+        "prob": 7.8
       }
     ],
-    "odds": "ECU -500",
+    "odds": "ECU -750",
     "probabilities": {
-      "home_win": 79.9,
-      "draw": 12.8,
-      "away_win": 7.3
+      "home_win": 85.1,
+      "draw": 10.1,
+      "away_win": 4.8
     }
   },
   {
@@ -1893,37 +1852,37 @@
     "away_name": "CIV",
     "style": "客队优势",
     "verdict": "CIV反客为主，有望客场拿分",
-    "likely_score": "0-2(18.8%) 或 0-1(17.6%)",
+    "likely_score": "0-2(19.8%) 或 0-1(17.9%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.36,
-    "away_xg": 2.14,
+    "home_xg": 0.3,
+    "away_xg": 2.22,
     "top_scores": [
       {
         "score": "0-2",
-        "prob": 18.8
+        "prob": 19.8
       },
       {
         "score": "0-1",
-        "prob": 17.6
+        "prob": 17.9
       },
       {
         "score": "0-3",
-        "prob": 13.4
-      },
-      {
-        "score": "0-0",
-        "prob": 8.2
+        "prob": 14.7
       },
       {
         "score": "0-4",
-        "prob": 7.2
+        "prob": 8.1
+      },
+      {
+        "score": "0-0",
+        "prob": 8.0
       }
     ],
-    "odds": "CIV -450",
+    "odds": "CIV -650",
     "probabilities": {
-      "home_win": 7.4,
-      "draw": 13.8,
-      "away_win": 78.8
+      "home_win": 5.4,
+      "draw": 11.3,
+      "away_win": 83.3
     }
   },
   {
