@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T16:25:39.641499+00:00",
+  "updated_at": "2026-06-14T17:58:46.490298+00:00",
   "count": 72,
   "matches": [
     {
@@ -157,25 +157,25 @@
     {
       "espn_id": "760422",
       "date": "2026-06-14T17:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "live",
+      "status_detail": "HT",
       "elapsed": null,
       "home": {
         "abbr": "GER",
         "name": "德国",
-        "score": null
+        "score": 3
       },
       "away": {
         "abbr": "CUW",
         "name": "库拉索",
-        "score": null
+        "score": 1
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 91.6,
-        "draw_prob": 5.3,
-        "away_prob": 3.1,
-        "details": "GER -4000"
+        "home_prob": 91.0,
+        "draw_prob": 5.8,
+        "away_prob": 3.2,
+        "details": "GER -3000"
       }
     },
     {
@@ -604,10 +604,10 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 74.7,
-        "draw_prob": 16.6,
+        "home_prob": 74.5,
+        "draw_prob": 16.8,
         "away_prob": 8.7,
-        "details": "CAN -360"
+        "details": "CAN -340"
       }
     },
     {
@@ -676,10 +676,10 @@
       },
       "venue": "Gillette Stadium",
       "odds": {
-        "home_prob": 19.6,
-        "draw_prob": 27.1,
-        "away_prob": 53.3,
-        "details": "MAR -125"
+        "home_prob": 19.2,
+        "draw_prob": 26.4,
+        "away_prob": 54.4,
+        "details": "MAR -130"
       }
     },
     {
@@ -772,10 +772,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 61.6,
-        "draw_prob": 21.7,
-        "away_prob": 16.7,
-        "details": "GER -180"
+        "home_prob": 59.9,
+        "draw_prob": 21.8,
+        "away_prob": 18.3,
+        "details": "GER -165"
       }
     },
     {
@@ -796,9 +796,9 @@
       },
       "venue": "GEHA Field at Arrowhead Stadium",
       "odds": {
-        "home_prob": 80.3,
+        "home_prob": 79.9,
         "draw_prob": 12.8,
-        "away_prob": 6.9,
+        "away_prob": 7.3,
         "details": "ECU -500"
       }
     },
@@ -1300,10 +1300,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 20.0,
-        "draw_prob": 24.7,
-        "away_prob": 55.3,
-        "details": "GER -135"
+        "home_prob": 20.8,
+        "draw_prob": 25.2,
+        "away_prob": 54.0,
+        "details": "GER -130"
       }
     },
     {
