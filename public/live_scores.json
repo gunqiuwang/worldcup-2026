@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T01:55:23.866078+00:00",
+  "updated_at": "2026-06-14T06:46:14.134710+00:00",
   "count": 72,
   "matches": [
     {
@@ -119,8 +119,8 @@
     {
       "espn_id": "760418",
       "date": "2026-06-14T01:00Z",
-      "status": "live",
-      "status_detail": "HT",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "HAI",
@@ -133,36 +133,26 @@
         "score": 1
       },
       "venue": "Gillette Stadium",
-      "odds": {
-        "home_prob": 18.2,
-        "draw_prob": 22.8,
-        "away_prob": 59.0,
-        "details": "SCO -160"
-      }
+      "odds": null
     },
     {
       "espn_id": "760421",
       "date": "2026-06-14T04:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "AUS",
         "name": "澳大利亚",
-        "score": null
+        "score": 2
       },
       "away": {
         "abbr": "TUR",
         "name": "土耳其",
-        "score": null
+        "score": 0
       },
       "venue": "BC Place",
-      "odds": {
-        "home_prob": 18.2,
-        "draw_prob": 25.0,
-        "away_prob": 56.8,
-        "details": "TUR -145"
-      }
+      "odds": null
     },
     {
       "espn_id": "760422",
@@ -182,10 +172,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 91.0,
-        "draw_prob": 5.8,
-        "away_prob": 3.2,
-        "details": "GER -3500"
+        "home_prob": 90.6,
+        "draw_prob": 6.3,
+        "away_prob": 3.1,
+        "details": "GER -3000"
       }
     },
     {
@@ -206,9 +196,9 @@
       },
       "venue": "AT&T Stadium",
       "odds": {
-        "home_prob": 46.8,
-        "draw_prob": 26.8,
-        "away_prob": 26.4,
+        "home_prob": 46.5,
+        "draw_prob": 27.3,
+        "away_prob": 26.2,
         "details": "NED +100"
       }
     },
@@ -230,10 +220,10 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 27.4,
+        "home_prob": 29.0,
         "draw_prob": 33.6,
-        "away_prob": 39.0,
-        "details": "ECU +145"
+        "away_prob": 37.4,
+        "details": "ECU +155"
       }
     },
     {
@@ -254,10 +244,10 @@
       },
       "venue": "Estadio BBVA",
       "odds": {
-        "home_prob": 50.0,
-        "draw_prob": 27.3,
-        "away_prob": 22.7,
-        "details": "SWE -110"
+        "home_prob": 48.9,
+        "draw_prob": 27.7,
+        "away_prob": 23.4,
+        "details": "SWE -105"
       }
     },
     {
@@ -590,10 +580,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 59.5,
-        "draw_prob": 23.9,
-        "away_prob": 16.6,
-        "details": "SUI -165"
+        "home_prob": 60.5,
+        "draw_prob": 23.4,
+        "away_prob": 16.1,
+        "details": "SUI -170"
       }
     },
     {
@@ -662,10 +652,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 63.3,
-        "draw_prob": 20.8,
-        "away_prob": 15.9,
-        "details": "USA -195"
+        "home_prob": 61.2,
+        "draw_prob": 21.3,
+        "away_prob": 17.5,
+        "details": "USA -175"
       }
     },
     {
@@ -710,9 +700,9 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 87.3,
-        "draw_prob": 9.6,
-        "away_prob": 3.1,
+        "home_prob": 87.4,
+        "draw_prob": 8.0,
+        "away_prob": 4.6,
         "details": "BRA -1000"
       }
     },
@@ -734,10 +724,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 48.9,
-        "draw_prob": 28.9,
-        "away_prob": 22.2,
-        "details": "TUR -105"
+        "home_prob": 50.3,
+        "draw_prob": 27.9,
+        "away_prob": 21.8,
+        "details": "TUR -110"
       }
     },
     {
@@ -1382,10 +1372,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 45.6,
-        "draw_prob": 28.6,
-        "away_prob": 25.8,
-        "details": "PAR +110"
+        "home_prob": 44.8,
+        "draw_prob": 28.8,
+        "away_prob": 26.4,
+        "details": "PAR +115"
       }
     },
     {
