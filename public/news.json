@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-06-14T19:49:02.698760+00:00",
+  "updated_at": "2026-06-14T21:22:40.497464+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "2c714ba248",
+      "category": "hot",
+      "title": "22年世界杯失利为何没哭？姆巴佩：就是哭不出来，我整个人都懵了",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-15/6a2f07122d257native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-06-14T21:22:38.754234+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "c17bff31d3",
+      "category": "hot",
+      "title": "世界杯中北美球队半场落后逆转欧洲仅有两次，上次是36年前",
+      "summary": "",
+      "url": "https://bbs.hupu.com/639925420.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-06-14T21:22:40.496762+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
     {
       "id": "f4b6bac8a1",
       "category": "hot",
@@ -10,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-15/6a2ee3fc8f5a2native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.317933+00:00",
+      "time_iso": "2026-06-14T21:22:38.754312+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/639925156.html",
       "team": "BRA",
-      "time": "2小时前",
+      "time": "3小时前",
       "time_iso": "2026-06-14T17:38:01.918474+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-14/6a2e79ec2cf48native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318059+00:00",
+      "time_iso": "2026-06-14T21:22:38.754425+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/639928400.html",
       "team": "FRA",
-      "time": "7小时前",
+      "time": "9小时前",
       "time_iso": "2026-06-14T12:05:00.132873+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-14/6a2e5e3e78db4native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318092+00:00",
+      "time_iso": "2026-06-14T21:22:38.754459+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/639925999.html",
       "team": "BRA",
-      "time": "7小时前",
+      "time": "9小时前",
       "time_iso": "2026-06-14T12:05:00.133088+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-13/6a2d77f696071native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318239+00:00",
+      "time_iso": "2026-06-14T21:22:38.754583+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/639971391.html",
       "team": "BRA",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-06-14T04:59:05.678296+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2c0af58cb8anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318302+00:00",
+      "time_iso": "2026-06-14T21:22:38.754645+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/639916011.html",
       "team": "",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-06-14T04:59:05.678376+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -130,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2c0915cb18dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318328+00:00",
+      "time_iso": "2026-06-14T21:22:38.754673+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/639894925.html",
       "team": "FRA",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-06-13T23:14:37.873568+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -154,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2beae1f0580native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318353+00:00",
+      "time_iso": "2026-06-14T21:22:38.754699+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/639916662.html",
       "team": "ARG",
-      "time": "22小时前",
+      "time": "23小时前",
       "time_iso": "2026-06-13T21:22:48.126892+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -178,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-13/6a2caa7061f57native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318451+00:00",
+      "time_iso": "2026-06-14T21:22:38.754787+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -202,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-15/6a2ee39123f09native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.318594+00:00",
+      "time_iso": "2026-06-14T21:22:38.754914+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -226,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-14/6a2e72da0777dnative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320015+00:00",
+      "time_iso": "2026-06-14T21:22:38.756222+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -250,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-14/6a2e4e0fdfb8anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320047+00:00",
+      "time_iso": "2026-06-14T21:22:38.756256+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -274,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-14/6a2e3f4156ccbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320080+00:00",
+      "time_iso": "2026-06-14T21:22:38.756289+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -298,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-14/6a2de885c4bd9native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320130+00:00",
+      "time_iso": "2026-06-14T21:22:38.756341+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -322,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-14/6a2dbc6883d24native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320156+00:00",
+      "time_iso": "2026-06-14T21:22:38.756368+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -346,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-13/6a2d03edc2254native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320240+00:00",
+      "time_iso": "2026-06-14T21:22:38.756456+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -370,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-13/6a2ced3f70e08native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320268+00:00",
+      "time_iso": "2026-06-14T21:22:38.756486+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,14 +411,14 @@
       "is_hot": true
     },
     {
-      "id": "32a767a6c3",
+      "id": "1ec4af960a",
       "category": "hot",
-      "title": "谁最帅？阿根廷世界杯定妆照：梅西、恩佐、小蜘蛛、劳塔罗出镜",
+      "title": "西装革履集结完毕 葡萄牙国家队晒照：菲利克斯B费居中 C罗居后排",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-13/6a2c9046d7267native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-13/6a2c3ff1c9d7dnative.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320306+00:00",
+      "time_iso": "2026-06-14T21:22:38.756553+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -411,14 +435,14 @@
       "is_hot": true
     },
     {
-      "id": "1ec4af960a",
+      "id": "746bc6f62f",
       "category": "hot",
-      "title": "西装革履集结完毕 葡萄牙国家队晒照：菲利克斯B费居中 C罗居后排",
+      "title": "迈阿密国际社媒祝福梅西等参加世界杯3人：一路陪伴你们，好运",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-13/6a2c3ff1c9d7dnative.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2b1aaf09e2enative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320362+00:00",
+      "time_iso": "2026-06-14T21:22:38.756672+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -435,14 +459,14 @@
       "is_hot": true
     },
     {
-      "id": "746bc6f62f",
+      "id": "cd176eb05c",
       "category": "hot",
-      "title": "迈阿密国际社媒祝福梅西等参加世界杯3人：一路陪伴你们，好运",
+      "title": "杰拉德预测世界杯：法国夺冠，梅西赛事最佳球员，小蜘蛛金靴",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2b1aaf09e2enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a2ac7b4946b9native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320508+00:00",
+      "time_iso": "2026-06-14T21:22:38.756701+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -459,14 +483,14 @@
       "is_hot": true
     },
     {
-      "id": "cd176eb05c",
+      "id": "7765c67d24",
       "category": "hot",
-      "title": "杰拉德预测世界杯：法国夺冠，梅西赛事最佳球员，小蜘蛛金靴",
+      "title": "吴宜泽：最崇拜的体育巨星是C罗；若世界杯梅罗大战一定会看直播",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a2ac7b4946b9native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2bcccc52ebcnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320535+00:00",
+      "time_iso": "2026-06-14T21:22:38.756794+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -483,14 +507,14 @@
       "is_hot": true
     },
     {
-      "id": "7765c67d24",
-      "category": "hot",
-      "title": "吴宜泽：最崇拜的体育巨星是C罗；若世界杯梅罗大战一定会看直播",
+      "id": "fe126778b2",
+      "category": "tactical",
+      "title": "葡萄牙主帅：让C罗出场踢45-60分钟很重要，我们世界杯的首发未定",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2bcccc52ebcnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a29e8830cb3enative.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320626+00:00",
+      "time_iso": "2026-06-14T21:22:38.756822+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -507,14 +531,14 @@
       "is_hot": true
     },
     {
-      "id": "fe126778b2",
-      "category": "tactical",
-      "title": "葡萄牙主帅：让C罗出场踢45-60分钟很重要，我们世界杯的首发未定",
+      "id": "a7313729e8",
+      "category": "hot",
+      "title": "马丁内斯：C罗是国家队的榜样 葡萄牙的目标是赢得世界杯八场比赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a29e8830cb3enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-10/6a291b1224a7dnative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320653+00:00",
+      "time_iso": "2026-06-14T21:22:38.756862+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -531,14 +555,14 @@
       "is_hot": true
     },
     {
-      "id": "a7313729e8",
+      "id": "4ebfe8f207",
       "category": "hot",
-      "title": "马丁内斯：C罗是国家队的榜样 葡萄牙的目标是赢得世界杯八场比赛",
+      "title": "“新人的黎明”：从哈兰德到苏尔克，这些世界杯“新人”值得关注",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-10/6a291b1224a7dnative.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a29824ff4124native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320692+00:00",
+      "time_iso": "2026-06-14T21:22:38.757052+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -555,14 +579,14 @@
       "is_hot": true
     },
     {
-      "id": "4ebfe8f207",
+      "id": "1537787016",
       "category": "hot",
-      "title": "“新人的黎明”：从哈兰德到苏尔克，这些世界杯“新人”值得关注",
+      "title": "时代的肖像——梅西的世界杯之旅与阿根廷沉浮记",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a29824ff4124native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a18e16d9b3c5native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320859+00:00",
+      "time_iso": "2026-06-14T21:22:38.757079+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -575,30 +599,6 @@
       "team": "ESP",
       "time": "1天前",
       "time_iso": "2026-06-13T04:40:50.252920+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "1537787016",
-      "category": "hot",
-      "title": "时代的肖像——梅西的世界杯之旅与阿根廷沉浮记",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-11/6a18e16d9b3c5native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-06-14T19:49:00.320887+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "b7f99c8268",
-      "category": "hot",
-      "title": "本届世界杯是首次参赛的球员身价：亚马尔、哈兰德2亿欧居首",
-      "summary": "",
-      "url": "https://bbs.hupu.com/639856842.html",
-      "team": "ESP",
-      "time": "1天前",
-      "time_iso": "2026-06-12T23:41:44.757901+00:00",
       "source": "虎扑",
       "is_hot": true
     }
