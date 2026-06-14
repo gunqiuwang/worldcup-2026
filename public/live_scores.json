@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T14:42:26.926055+00:00",
+  "updated_at": "2026-06-14T16:25:39.641499+00:00",
   "count": 72,
   "matches": [
     {
@@ -172,10 +172,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 91.0,
-        "draw_prob": 5.8,
-        "away_prob": 3.2,
-        "details": "GER -3500"
+        "home_prob": 91.6,
+        "draw_prob": 5.3,
+        "away_prob": 3.1,
+        "details": "GER -4000"
       }
     },
     {
@@ -652,10 +652,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 60.3,
-        "draw_prob": 22.3,
-        "away_prob": 17.4,
-        "details": "USA -170"
+        "home_prob": 59.7,
+        "draw_prob": 22.8,
+        "away_prob": 17.5,
+        "details": "USA -165"
       }
     },
     {

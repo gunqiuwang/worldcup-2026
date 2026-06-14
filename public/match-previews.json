@@ -7,9 +7,9 @@
     "away_name": "库拉索",
     "style": "强弱分明",
     "verdict": "德国大热，晋级概率极高",
-    "likely_score": "2-0(19.5%) 或 1-0(16.6%)",
+    "likely_score": "2-0(19.5%) 或 1-0(16.5%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 2.35,
+    "home_xg": 2.36,
     "away_xg": 0.3,
     "top_scores": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "score": "1-0",
-        "prob": 16.6
+        "prob": 16.5
       },
       {
         "score": "3-0",
@@ -30,14 +30,14 @@
       },
       {
         "score": "0-0",
-        "prob": 7.1
+        "prob": 7.0
       }
     ],
-    "odds": "GER -3500",
+    "odds": "GER -4000",
     "probabilities": {
-      "home_win": 91.0,
-      "draw": 5.8,
-      "away_win": 3.2
+      "home_win": 91.6,
+      "draw": 5.3,
+      "away_win": 3.1
     }
   },
   {
@@ -827,37 +827,37 @@
     "away_name": "澳大利亚",
     "style": "主队优势",
     "verdict": "美国略占上风，但澳大利亚不可小觑",
-    "likely_score": "1-0(14.7%) 或 2-0(13.2%)",
+    "likely_score": "1-0(14.6%) 或 2-0(13.0%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.79,
-    "away_xg": 0.71,
+    "home_xg": 1.78,
+    "away_xg": 0.72,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.7
+        "prob": 14.6
       },
       {
         "score": "2-0",
-        "prob": 13.2
+        "prob": 13.0
       },
       {
         "score": "1-1",
-        "prob": 10.4
+        "prob": 10.5
       },
       {
         "score": "2-1",
-        "prob": 9.3
+        "prob": 9.4
       },
       {
         "score": "0-0",
         "prob": 8.2
       }
     ],
-    "odds": "USA -170",
+    "odds": "USA -165",
     "probabilities": {
-      "home_win": 60.3,
-      "draw": 22.3,
-      "away_win": 17.4
+      "home_win": 59.7,
+      "draw": 22.8,
+      "away_win": 17.5
     }
   },
   {
