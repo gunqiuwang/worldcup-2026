@@ -26,11 +26,8 @@ jobs:
       - name: Fetch news
         run: python scripts/fetch_news.py
 
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/news.json
-          git diff --cached --quiet || git commit -m "chore: update news $(date -u '+%Y-%m-%d %H:%M')"
-          git pull --rebase origin master
-          git push
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update news"
+          file_pattern: public/news.json
