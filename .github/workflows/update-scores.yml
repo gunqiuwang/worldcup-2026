@@ -56,9 +56,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A public/ src/data/live_scores.json src/data/predictions.ts src/data/schedule.ts
+          git add src/data/live_scores.json src/data/predictions.ts src/data/schedule.ts public/live_scores.json public/standings.json public/match-previews.json
           if ! git diff --cached --quiet; then
             git commit -m "live: update scores & simulate $(date -u '+%Y-%m-%d %H:%M')"
             git pull --rebase -X theirs origin master
-            git push
+            git push || echo "⚠️ push failed, will retry next run"
+          else
+            echo "ℹ️ No changes to commit"
           fi
