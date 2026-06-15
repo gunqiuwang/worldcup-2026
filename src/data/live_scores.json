@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T22:43:12.576620+00:00",
+  "updated_at": "2026-06-15T00:04:54.991816+00:00",
   "count": 72,
   "matches": [
     {
@@ -195,23 +195,23 @@
     {
       "espn_id": "760423",
       "date": "2026-06-14T23:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "live",
+      "status_detail": "HT",
       "elapsed": null,
       "home": {
         "abbr": "CIV",
         "name": "科特迪瓦",
-        "score": null
+        "score": 0
       },
       "away": {
         "abbr": "ECU",
         "name": "厄瓜多尔",
-        "score": null
+        "score": 0
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 29.1,
-        "draw_prob": 32.5,
+        "home_prob": 29.6,
+        "draw_prob": 32.0,
         "away_prob": 38.4,
         "details": "ECU +150"
       }
@@ -762,10 +762,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 61.2,
-        "draw_prob": 21.3,
-        "away_prob": 17.5,
-        "details": "GER -175"
+        "home_prob": 64.0,
+        "draw_prob": 20.0,
+        "away_prob": 16.0,
+        "details": "GER -200"
       }
     },
     {
@@ -786,10 +786,10 @@
       },
       "venue": "GEHA Field at Arrowhead Stadium",
       "odds": {
-        "home_prob": 85.1,
-        "draw_prob": 10.1,
-        "away_prob": 4.8,
-        "details": "ECU -750"
+        "home_prob": 85.7,
+        "draw_prob": 9.6,
+        "away_prob": 4.7,
+        "details": "ECU -800"
       }
     },
     {
@@ -1266,10 +1266,10 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 5.7,
-        "draw_prob": 12.0,
-        "away_prob": 82.3,
-        "details": "CIV -600"
+        "home_prob": 5.3,
+        "draw_prob": 11.2,
+        "away_prob": 83.5,
+        "details": "CIV -700"
       }
     },
     {
@@ -1290,10 +1290,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 20.8,
-        "draw_prob": 25.2,
-        "away_prob": 54.0,
-        "details": "GER -130"
+        "home_prob": 19.2,
+        "draw_prob": 24.0,
+        "away_prob": 56.8,
+        "details": "GER -145"
       }
     },
     {

@@ -9,8 +9,8 @@
     "verdict": "势均力敌，平局概率最高",
     "likely_score": "1-1(12.7%) 或 0-1(11.2%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.13,
-    "away_xg": 1.37,
+    "home_xg": 1.14,
+    "away_xg": 1.36,
     "top_scores": [
       {
         "score": "1-1",
@@ -22,7 +22,7 @@
       },
       {
         "score": "1-0",
-        "prob": 9.3
+        "prob": 9.4
       },
       {
         "score": "1-2",
@@ -35,8 +35,8 @@
     ],
     "odds": "ECU +150",
     "probabilities": {
-      "home_win": 29.1,
-      "draw": 32.5,
+      "home_win": 29.6,
+      "draw": 32.0,
       "away_win": 38.4
     }
   },
@@ -950,37 +950,37 @@
     "away_name": "CIV",
     "style": "主队优势",
     "verdict": "德国略占上风，但CIV不可小觑",
-    "likely_score": "1-0(14.8%) 或 2-0(13.3%)",
+    "likely_score": "1-0(15.2%) 或 2-0(14.0%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 1.8,
-    "away_xg": 0.7,
+    "home_xg": 1.85,
+    "away_xg": 0.65,
     "top_scores": [
       {
         "score": "1-0",
-        "prob": 14.8
+        "prob": 15.2
       },
       {
         "score": "2-0",
-        "prob": 13.3
+        "prob": 14.0
       },
       {
         "score": "1-1",
-        "prob": 10.3
+        "prob": 9.9
       },
       {
         "score": "2-1",
-        "prob": 9.3
+        "prob": 9.1
       },
       {
-        "score": "0-0",
-        "prob": 8.2
+        "score": "3-0",
+        "prob": 8.7
       }
     ],
-    "odds": "GER -175",
+    "odds": "GER -200",
     "probabilities": {
-      "home_win": 61.2,
-      "draw": 21.3,
-      "away_win": 17.5
+      "home_win": 64.0,
+      "draw": 20.0,
+      "away_win": 16.0
     }
   },
   {
@@ -991,37 +991,37 @@
     "away_name": "库拉索",
     "style": "强弱分明",
     "verdict": "厄瓜多尔大热，晋级概率极高",
-    "likely_score": "2-0(19.8%) 或 1-0(17.6%)",
+    "likely_score": "2-0(19.7%) 或 1-0(17.5%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 2.25,
+    "home_xg": 2.26,
     "away_xg": 0.3,
     "top_scores": [
       {
         "score": "2-0",
-        "prob": 19.8
+        "prob": 19.7
       },
       {
         "score": "1-0",
-        "prob": 17.6
+        "prob": 17.5
       },
       {
         "score": "3-0",
-        "prob": 14.8
+        "prob": 14.9
       },
       {
         "score": "4-0",
-        "prob": 8.3
+        "prob": 8.4
       },
       {
         "score": "0-0",
-        "prob": 7.8
+        "prob": 7.7
       }
     ],
-    "odds": "ECU -750",
+    "odds": "ECU -800",
     "probabilities": {
-      "home_win": 85.1,
-      "draw": 10.1,
-      "away_win": 4.8
+      "home_win": 85.7,
+      "draw": 9.6,
+      "away_win": 4.7
     }
   },
   {
@@ -1811,10 +1811,10 @@
     "away_name": "CIV",
     "style": "客队优势",
     "verdict": "CIV反客为主，有望客场拿分",
-    "likely_score": "0-2(19.8%) 或 0-1(18.0%)",
+    "likely_score": "0-2(19.8%) 或 0-1(17.8%)",
     "goals_note": "正常节奏，2-3球可期",
     "home_xg": 0.3,
-    "away_xg": 2.21,
+    "away_xg": 2.23,
     "top_scores": [
       {
         "score": "0-2",
@@ -1822,26 +1822,26 @@
       },
       {
         "score": "0-1",
-        "prob": 18.0
+        "prob": 17.8
       },
       {
         "score": "0-3",
-        "prob": 14.6
-      },
-      {
-        "score": "0-0",
-        "prob": 8.1
+        "prob": 14.7
       },
       {
         "score": "0-4",
-        "prob": 8.1
+        "prob": 8.2
+      },
+      {
+        "score": "0-0",
+        "prob": 8.0
       }
     ],
-    "odds": "CIV -600",
+    "odds": "CIV -700",
     "probabilities": {
-      "home_win": 5.7,
-      "draw": 12.0,
-      "away_win": 82.3
+      "home_win": 5.3,
+      "draw": 11.2,
+      "away_win": 83.5
     }
   },
   {
@@ -1852,22 +1852,22 @@
     "away_name": "德国",
     "style": "客队优势",
     "verdict": "德国反客为主，有望客场拿分",
-    "likely_score": "0-1(13.7%) 或 0-2(11.4%)",
+    "likely_score": "0-1(14.1%) 或 0-2(12.1%)",
     "goals_note": "正常节奏，2-3球可期",
-    "home_xg": 0.83,
-    "away_xg": 1.67,
+    "home_xg": 0.78,
+    "away_xg": 1.72,
     "top_scores": [
       {
         "score": "0-1",
-        "prob": 13.7
+        "prob": 14.1
       },
       {
         "score": "0-2",
-        "prob": 11.4
+        "prob": 12.1
       },
       {
         "score": "1-1",
-        "prob": 11.4
+        "prob": 11.0
       },
       {
         "score": "1-2",
@@ -1878,11 +1878,11 @@
         "prob": 8.2
       }
     ],
-    "odds": "GER -130",
+    "odds": "GER -145",
     "probabilities": {
-      "home_win": 20.8,
-      "draw": 25.2,
-      "away_win": 54.0
+      "home_win": 19.2,
+      "draw": 24.0,
+      "away_win": 56.8
     }
   },
   {
