@@ -23,7 +23,6 @@ jobs:
         run: |
           MONTH=$(date -u +%m)
           DAY=$(date -u +%d)
-          # June 11 - July 19
           if [[ "$MONTH" == "06" && "$DAY" -ge "11" ]] || [[ "$MONTH" == "07" && "$DAY" -le "19" ]]; then
             echo "active=true" >> $GITHUB_OUTPUT
           else
@@ -53,13 +52,28 @@ jobs:
 
       - name: Commit and push
         if: steps.check.outputs.active == 'true' || github.event_name == 'workflow_dispatch'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "live: update scores & simulate"
-          file_pattern: >-
-            src/data/live_scores.json
-            src/data/predictions.ts
-            src/data/schedule.ts
-            public/live_scores.json
-            public/standings.json
-            public/match-previews.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the files we care about
+          git add src/data/live_scores.json src/data/predictions.ts src/data/schedule.ts
+          git add public/live_scores.json public/standings.json public/match-previews.json
+
+          # Check if there's anything to commit
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          echo "Staged changes:"
+          git diff --cached --stat
+
+          git commit -m "live: update scores & simulate $(date -u '+%Y-%m-%d %H:%M')"
+
+          # Pull with rebase, then push
+          git pull --rebase -X theirs origin master
+          git push origin master
