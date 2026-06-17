@@ -55,13 +55,13 @@ jobs:
 
       - name: Commit and push
         if: steps.check.outputs.active == 'true' || github.event_name == 'workflow_dispatch'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "live: update scores & simulate"
-          file_pattern: >-
-            src/data/live_scores.json
-            src/data/predictions.ts
-            src/data/schedule.ts
-            public/live_scores.json
-            public/standings.json
-            public/match-previews.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/live_scores.json src/data/predictions.ts src/data/schedule.ts public/live_scores.json public/standings.json public/match-previews.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit — skipping"
+          else
+            git commit -m "live: update scores & simulate"
+            git push
+          fi
