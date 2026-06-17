@@ -27,130 +27,40 @@ export interface GroupPrediction {
 
 export const PREDICTIONS: MatchPrediction[] = [
   {
-    "match_id": "760423",
-    "home": "CIV",
-    "away": "ECU",
-    "home_win": 29.6,
-    "draw": 32.0,
-    "away_win": 38.4,
-    "details": "ECU +150"
-  },
-  {
-    "match_id": "760424",
-    "home": "SWE",
-    "away": "TUN",
-    "home_win": 50.4,
-    "draw": 28.3,
-    "away_win": 21.3,
-    "details": "SWE -110"
-  },
-  {
-    "match_id": "760428",
-    "home": "ESP",
-    "away": "CPV",
-    "home_win": 87.9,
-    "draw": 8.0,
-    "away_win": 4.1,
-    "details": "ESP -1100"
-  },
-  {
-    "match_id": "760426",
-    "home": "BEL",
-    "away": "EGY",
-    "home_win": 58.7,
-    "draw": 24.1,
-    "away_win": 17.2,
-    "details": "BEL -165"
-  },
-  {
-    "match_id": "760429",
-    "home": "KSA",
-    "away": "URU",
-    "home_win": 12.8,
-    "draw": 21.8,
-    "away_win": 65.4,
-    "details": "URU -215"
-  },
-  {
-    "match_id": "760427",
-    "home": "IRN",
-    "away": "NZL",
-    "home_win": 49.3,
-    "draw": 28.3,
-    "away_win": 22.4,
-    "details": "IRN -105"
-  },
-  {
-    "match_id": "760432",
-    "home": "FRA",
-    "away": "SEN",
-    "home_win": 64.7,
-    "draw": 21.7,
-    "away_win": 13.6,
-    "details": "FRA -210"
-  },
-  {
-    "match_id": "760430",
-    "home": "IRQ",
-    "away": "NOR",
-    "home_win": 6.4,
-    "draw": 13.6,
-    "away_win": 80.0,
-    "details": "NOR -525"
-  },
-  {
-    "match_id": "760433",
-    "home": "ARG",
-    "away": "ALG",
-    "home_win": 69.0,
-    "draw": 20.9,
-    "away_win": 10.1,
-    "details": "ARG -255"
-  },
-  {
-    "match_id": "760431",
-    "home": "AUT",
-    "away": "JOR",
-    "home_win": 71.2,
-    "draw": 18.2,
-    "away_win": 10.6,
-    "details": "AUT -290"
-  },
-  {
     "match_id": "760435",
     "home": "POR",
     "away": "COD",
-    "home_win": 74.6,
-    "draw": 16.7,
-    "away_win": 8.7,
-    "details": "POR -350"
+    "home_win": 74.7,
+    "draw": 17.4,
+    "away_win": 7.9,
+    "details": "POR -360"
   },
   {
     "match_id": "760437",
     "home": "ENG",
     "away": "CRO",
-    "home_win": 55.5,
-    "draw": 25.0,
-    "away_win": 19.5,
-    "details": "ENG -140"
+    "home_win": 56.4,
+    "draw": 25.5,
+    "away_win": 18.1,
+    "details": "ENG -145"
   },
   {
     "match_id": "760434",
     "home": "GHA",
     "away": "PAN",
-    "home_win": 43.8,
-    "draw": 27.9,
-    "away_win": 28.3,
-    "details": "GHA +120"
+    "home_win": 40.7,
+    "draw": 29.8,
+    "away_win": 29.5,
+    "details": "GHA +135"
   },
   {
     "match_id": "760436",
     "home": "UZB",
     "away": "COL",
-    "home_win": 10.7,
-    "draw": 20.4,
-    "away_win": 68.9,
-    "details": "COL -255"
+    "home_win": 10.1,
+    "draw": 19.6,
+    "away_win": 70.3,
+    "details": "COL -270"
   },
   {
     "match_id": "760438",
@@ -165,54 +75,54 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760439",
     "home": "SUI",
     "away": "BIH",
-    "home_win": 59.8,
-    "draw": 23.4,
-    "away_win": 16.8,
-    "details": "SUI -165"
+    "home_win": 62.3,
+    "draw": 22.9,
+    "away_win": 14.8,
+    "details": "SUI -185"
   },
   {
     "match_id": "760440",
     "home": "CAN",
     "away": "QAT",
-    "home_win": 74.5,
-    "draw": 16.8,
+    "home_win": 74.6,
+    "draw": 16.7,
     "away_win": 8.7,
-    "details": "CAN -340"
+    "details": "CAN -350"
   },
   {
     "match_id": "760441",
     "home": "MEX",
     "away": "KOR",
-    "home_win": 48.2,
-    "draw": 28.8,
-    "away_win": 23.0,
-    "details": "MEX +100"
+    "home_win": 46.9,
+    "draw": 29.1,
+    "away_win": 24.0,
+    "details": "MEX +105"
   },
   {
     "match_id": "760442",
     "home": "USA",
     "away": "AUS",
-    "home_win": 59.7,
-    "draw": 22.8,
-    "away_win": 17.5,
+    "home_win": 59.6,
+    "draw": 22.3,
+    "away_win": 18.1,
     "details": "USA -165"
   },
   {
     "match_id": "760445",
     "home": "SCO",
     "away": "MAR",
-    "home_win": 19.2,
-    "draw": 26.4,
-    "away_win": 54.4,
-    "details": "MAR -130"
+    "home_win": 19.1,
+    "draw": 26.1,
+    "away_win": 54.8,
+    "details": "MAR -135"
   },
   {
     "match_id": "760444",
     "home": "BRA",
     "away": "HAI",
-    "home_win": 86.7,
+    "home_win": 87.2,
     "draw": 8.7,
-    "away_win": 4.6,
+    "away_win": 4.1,
     "details": "BRA -1000"
   },
   {
@@ -228,118 +138,118 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760447",
     "home": "NED",
     "away": "SWE",
-    "home_win": 58.3,
-    "draw": 23.4,
-    "away_win": 18.3,
-    "details": "NED -155"
+    "home_win": 56.3,
+    "draw": 24.4,
+    "away_win": 19.3,
+    "details": "NED -140"
   },
   {
     "match_id": "760448",
     "home": "GER",
     "away": "CIV",
-    "home_win": 64.0,
-    "draw": 20.0,
-    "away_win": 16.0,
-    "details": "GER -200"
+    "home_win": 61.4,
+    "draw": 21.2,
+    "away_win": 17.4,
+    "details": "GER -180"
   },
   {
     "match_id": "760446",
     "home": "ECU",
     "away": "CUW",
-    "home_win": 85.7,
-    "draw": 9.6,
-    "away_win": 4.7,
-    "details": "ECU -800"
+    "home_win": 87.7,
+    "draw": 8.7,
+    "away_win": 3.6,
+    "details": "ECU -1100"
   },
   {
     "match_id": "760449",
     "home": "TUN",
     "away": "JPN",
-    "home_win": 16.7,
-    "draw": 25.0,
-    "away_win": 58.3,
-    "details": "JPN -155"
+    "home_win": 13.7,
+    "draw": 23.4,
+    "away_win": 62.9,
+    "details": "JPN -190"
   },
   {
     "match_id": "760453",
     "home": "ESP",
     "away": "KSA",
     "home_win": 87.2,
-    "draw": 8.7,
-    "away_win": 4.1,
+    "draw": 9.1,
+    "away_win": 3.7,
     "details": "ESP -1000"
   },
   {
     "match_id": "760451",
     "home": "BEL",
     "away": "IRN",
-    "home_win": 69.0,
-    "draw": 19.6,
-    "away_win": 11.4,
-    "details": "BEL -255"
+    "home_win": 67.5,
+    "draw": 20.5,
+    "away_win": 12.0,
+    "details": "BEL -235"
   },
   {
     "match_id": "760450",
     "home": "URU",
     "away": "CPV",
-    "home_win": 66.4,
-    "draw": 20.8,
-    "away_win": 12.8,
-    "details": "URU -225"
+    "home_win": 65.1,
+    "draw": 22.9,
+    "away_win": 12.0,
+    "details": "URU -210"
   },
   {
     "match_id": "760452",
     "home": "NZL",
     "away": "EGY",
-    "home_win": 20.9,
-    "draw": 24.7,
-    "away_win": 54.4,
-    "details": "EGY -130"
+    "home_win": 17.5,
+    "draw": 23.4,
+    "away_win": 59.1,
+    "details": "EGY -160"
   },
   {
     "match_id": "760456",
     "home": "ARG",
     "away": "AUT",
-    "home_win": 58.9,
-    "draw": 24.5,
-    "away_win": 16.6,
-    "details": "ARG -160"
+    "home_win": 60.4,
+    "draw": 23.7,
+    "away_win": 15.9,
+    "details": "ARG -175"
   },
   {
     "match_id": "760457",
     "home": "FRA",
     "away": "IRQ",
-    "home_win": 86.3,
-    "draw": 10.1,
-    "away_win": 3.6,
-    "details": "FRA -900"
+    "home_win": 88.3,
+    "draw": 8.0,
+    "away_win": 3.7,
+    "details": "FRA -1100"
   },
   {
     "match_id": "760454",
     "home": "NOR",
     "away": "SEN",
-    "home_win": 44.8,
-    "draw": 26.8,
-    "away_win": 28.4,
-    "details": "NOR +115"
+    "home_win": 40.5,
+    "draw": 27.2,
+    "away_win": 32.3,
+    "details": "NOR +135"
   },
   {
     "match_id": "760455",
     "home": "JOR",
     "away": "ALG",
-    "home_win": 13.8,
-    "draw": 21.9,
-    "away_win": 64.3,
-    "details": "ALG -200"
+    "home_win": 16.0,
+    "draw": 22.9,
+    "away_win": 61.1,
+    "details": "ALG -175"
   },
   {
     "match_id": "760461",
     "home": "POR",
     "away": "UZB",
-    "home_win": 77.4,
+    "home_win": 78.0,
     "draw": 14.7,
-    "away_win": 7.9,
-    "details": "POR -425"
+    "away_win": 7.3,
+    "details": "POR -450"
   },
   {
     "match_id": "760458",
@@ -354,19 +264,19 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760460",
     "home": "PAN",
     "away": "CRO",
-    "home_win": 13.7,
-    "draw": 24.0,
-    "away_win": 62.3,
-    "details": "CRO -185"
+    "home_win": 14.8,
+    "draw": 24.3,
+    "away_win": 60.9,
+    "details": "CRO -175"
   },
   {
     "match_id": "760459",
     "home": "COL",
     "away": "COD",
-    "home_win": 66.2,
-    "draw": 21.8,
-    "away_win": 12.0,
-    "details": "COL -220"
+    "home_win": 64.9,
+    "draw": 22.3,
+    "away_win": 12.8,
+    "details": "COL -210"
   },
   {
     "match_id": "760462",
@@ -390,10 +300,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760464",
     "home": "MAR",
     "away": "HAI",
-    "home_win": 73.5,
-    "draw": 17.4,
+    "home_win": 74.2,
+    "draw": 16.7,
     "away_win": 9.1,
-    "details": "MAR -330"
+    "details": "MAR -340"
   },
   {
     "match_id": "760465",
@@ -426,19 +336,19 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760473",
     "home": "CUW",
     "away": "CIV",
-    "home_win": 5.3,
-    "draw": 11.2,
-    "away_win": 83.5,
+    "home_win": 5.1,
+    "draw": 10.7,
+    "away_win": 84.2,
     "details": "CIV -700"
   },
   {
     "match_id": "760468",
     "home": "ECU",
     "away": "GER",
-    "home_win": 19.2,
-    "draw": 24.0,
-    "away_win": 56.8,
-    "details": "GER -145"
+    "home_win": 19.6,
+    "draw": 24.5,
+    "away_win": 55.9,
+    "details": "GER -140"
   },
   {
     "match_id": "760471",
@@ -453,10 +363,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760472",
     "home": "TUN",
     "away": "NED",
-    "home_win": 13.7,
-    "draw": 20.8,
-    "away_win": 65.5,
-    "details": "NED -215"
+    "home_win": 10.1,
+    "draw": 17.4,
+    "away_win": 72.5,
+    "details": "NED -310"
   },
   {
     "match_id": "760469",
@@ -480,55 +390,55 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760475",
     "home": "NOR",
     "away": "FRA",
-    "home_win": 22.9,
-    "draw": 25.7,
-    "away_win": 51.4,
-    "details": "FRA -115"
+    "home_win": 22.4,
+    "draw": 25.3,
+    "away_win": 52.3,
+    "details": "FRA -120"
   },
   {
     "match_id": "760474",
     "home": "SEN",
     "away": "IRQ",
-    "home_win": 69.0,
-    "draw": 19.6,
-    "away_win": 11.4,
-    "details": "SEN -255"
+    "home_win": 72.8,
+    "draw": 18.1,
+    "away_win": 9.1,
+    "details": "SEN -320"
   },
   {
     "match_id": "760478",
     "home": "CPV",
     "away": "KSA",
-    "home_win": 38.3,
-    "draw": 25.6,
-    "away_win": 36.1,
-    "details": "CPV +150"
+    "home_win": 34.4,
+    "draw": 25.4,
+    "away_win": 40.2,
+    "details": "KSA +140"
   },
   {
     "match_id": "760479",
     "home": "URU",
     "away": "ESP",
-    "home_win": 17.5,
-    "draw": 24.0,
-    "away_win": 58.5,
-    "details": "ESP -155"
+    "home_win": 15.9,
+    "draw": 22.2,
+    "away_win": 61.9,
+    "details": "ESP -185"
   },
   {
     "match_id": "760476",
     "home": "EGY",
     "away": "IRN",
-    "home_win": 42.7,
-    "draw": 31.0,
-    "away_win": 26.3,
-    "details": "EGY +125"
+    "home_win": 45.6,
+    "draw": 30.4,
+    "away_win": 24.0,
+    "details": "EGY +110"
   },
   {
     "match_id": "760477",
     "home": "NZL",
     "away": "BEL",
-    "home_win": 9.7,
-    "draw": 16.8,
-    "away_win": 73.5,
-    "details": "BEL -320"
+    "home_win": 7.3,
+    "draw": 14.7,
+    "away_win": 78.0,
+    "details": "BEL -450"
   },
   {
     "match_id": "760480",
@@ -543,10 +453,10 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760485",
     "home": "PAN",
     "away": "ENG",
-    "home_win": 10.6,
-    "draw": 14.7,
-    "away_win": 74.7,
-    "details": "ENG -360"
+    "home_win": 10.7,
+    "draw": 13.7,
+    "away_win": 75.6,
+    "details": "ENG -370"
   },
   {
     "match_id": "760481",
@@ -570,19 +480,19 @@ export const PREDICTIONS: MatchPrediction[] = [
     "match_id": "760484",
     "home": "ALG",
     "away": "AUT",
-    "home_win": 25.3,
+    "home_win": 31.4,
     "draw": 31.0,
-    "away_win": 43.7,
-    "details": "AUT +120"
+    "away_win": 37.6,
+    "details": "AUT +155"
   },
   {
     "match_id": "760483",
     "home": "JOR",
     "away": "ARG",
-    "home_win": 6.4,
-    "draw": 12.7,
-    "away_win": 80.9,
-    "details": "ARG -550"
+    "home_win": 7.4,
+    "draw": 13.7,
+    "away_win": 78.9,
+    "details": "ARG -475"
   },
 ];
 

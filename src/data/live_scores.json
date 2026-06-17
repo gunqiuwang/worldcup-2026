@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T00:04:54.991816+00:00",
+  "updated_at": "2026-06-17T12:41:14.933990+00:00",
   "count": 72,
   "matches": [
     {
@@ -195,13 +195,13 @@
     {
       "espn_id": "760423",
       "date": "2026-06-14T23:00Z",
-      "status": "live",
-      "status_detail": "HT",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "CIV",
         "name": "科特迪瓦",
-        "score": 0
+        "score": 1
       },
       "away": {
         "abbr": "ECU",
@@ -209,228 +209,178 @@
         "score": 0
       },
       "venue": "Lincoln Financial Field",
-      "odds": {
-        "home_prob": 29.6,
-        "draw_prob": 32.0,
-        "away_prob": 38.4,
-        "details": "ECU +150"
-      }
+      "odds": null
     },
     {
       "espn_id": "760424",
       "date": "2026-06-15T02:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "SWE",
         "name": "瑞典",
-        "score": null
+        "score": 5
       },
       "away": {
         "abbr": "TUN",
         "name": "突尼斯",
-        "score": null
+        "score": 1
       },
       "venue": "Estadio BBVA",
-      "odds": {
-        "home_prob": 50.4,
-        "draw_prob": 28.3,
-        "away_prob": 21.3,
-        "details": "SWE -110"
-      }
+      "odds": null
     },
     {
       "espn_id": "760428",
       "date": "2026-06-15T16:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "ESP",
         "name": "西班牙",
-        "score": null
+        "score": 0
       },
       "away": {
         "abbr": "CPV",
         "name": "Cape Verde",
-        "score": null
+        "score": 0
       },
       "venue": "Mercedes-Benz Stadium",
-      "odds": {
-        "home_prob": 87.9,
-        "draw_prob": 8.0,
-        "away_prob": 4.1,
-        "details": "ESP -1100"
-      }
+      "odds": null
     },
     {
       "espn_id": "760426",
       "date": "2026-06-15T19:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "BEL",
         "name": "比利时",
-        "score": null
+        "score": 1
       },
       "away": {
         "abbr": "EGY",
         "name": "埃及",
-        "score": null
+        "score": 1
       },
       "venue": "Lumen Field",
-      "odds": {
-        "home_prob": 58.7,
-        "draw_prob": 24.1,
-        "away_prob": 17.2,
-        "details": "BEL -165"
-      }
+      "odds": null
     },
     {
       "espn_id": "760429",
       "date": "2026-06-15T22:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "KSA",
         "name": "沙特",
-        "score": null
+        "score": 1
       },
       "away": {
         "abbr": "URU",
         "name": "乌拉圭",
-        "score": null
+        "score": 1
       },
       "venue": "Hard Rock Stadium",
-      "odds": {
-        "home_prob": 12.8,
-        "draw_prob": 21.8,
-        "away_prob": 65.4,
-        "details": "URU -215"
-      }
+      "odds": null
     },
     {
       "espn_id": "760427",
       "date": "2026-06-16T01:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "IRN",
         "name": "伊朗",
-        "score": null
+        "score": 2
       },
       "away": {
         "abbr": "NZL",
         "name": "新西兰",
-        "score": null
+        "score": 2
       },
       "venue": "SoFi Stadium",
-      "odds": {
-        "home_prob": 49.3,
-        "draw_prob": 28.3,
-        "away_prob": 22.4,
-        "details": "IRN -105"
-      }
+      "odds": null
     },
     {
       "espn_id": "760432",
       "date": "2026-06-16T19:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "FRA",
         "name": "法国",
-        "score": null
+        "score": 3
       },
       "away": {
         "abbr": "SEN",
         "name": "塞内加尔",
-        "score": null
+        "score": 1
       },
       "venue": "MetLife Stadium",
-      "odds": {
-        "home_prob": 64.7,
-        "draw_prob": 21.7,
-        "away_prob": 13.6,
-        "details": "FRA -210"
-      }
+      "odds": null
     },
     {
       "espn_id": "760430",
       "date": "2026-06-16T22:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "IRQ",
         "name": "伊拉克",
-        "score": null
+        "score": 1
       },
       "away": {
         "abbr": "NOR",
         "name": "挪威",
-        "score": null
+        "score": 4
       },
       "venue": "Gillette Stadium",
-      "odds": {
-        "home_prob": 6.4,
-        "draw_prob": 13.6,
-        "away_prob": 80.0,
-        "details": "NOR -525"
-      }
+      "odds": null
     },
     {
       "espn_id": "760433",
       "date": "2026-06-17T01:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "ARG",
         "name": "阿根廷",
-        "score": null
+        "score": 3
       },
       "away": {
         "abbr": "ALG",
         "name": "阿尔及利亚",
-        "score": null
+        "score": 0
       },
       "venue": "GEHA Field at Arrowhead Stadium",
-      "odds": {
-        "home_prob": 69.0,
-        "draw_prob": 20.9,
-        "away_prob": 10.1,
-        "details": "ARG -255"
-      }
+      "odds": null
     },
     {
       "espn_id": "760431",
       "date": "2026-06-17T04:00Z",
-      "status": "scheduled",
-      "status_detail": "Scheduled",
+      "status": "finished",
+      "status_detail": "FT",
       "elapsed": null,
       "home": {
         "abbr": "AUT",
         "name": "奥地利",
-        "score": null
+        "score": 3
       },
       "away": {
         "abbr": "JOR",
         "name": "约旦",
-        "score": null
+        "score": 1
       },
       "venue": "Levi's Stadium",
-      "odds": {
-        "home_prob": 71.2,
-        "draw_prob": 18.2,
-        "away_prob": 10.6,
-        "details": "AUT -290"
-      }
+      "odds": null
     },
     {
       "espn_id": "760435",
@@ -450,10 +400,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 74.6,
-        "draw_prob": 16.7,
-        "away_prob": 8.7,
-        "details": "POR -350"
+        "home_prob": 74.7,
+        "draw_prob": 17.4,
+        "away_prob": 7.9,
+        "details": "POR -360"
       }
     },
     {
@@ -474,10 +424,10 @@
       },
       "venue": "AT&T Stadium",
       "odds": {
-        "home_prob": 55.5,
-        "draw_prob": 25.0,
-        "away_prob": 19.5,
-        "details": "ENG -140"
+        "home_prob": 56.4,
+        "draw_prob": 25.5,
+        "away_prob": 18.1,
+        "details": "ENG -145"
       }
     },
     {
@@ -498,10 +448,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 43.8,
-        "draw_prob": 27.9,
-        "away_prob": 28.3,
-        "details": "GHA +120"
+        "home_prob": 40.7,
+        "draw_prob": 29.8,
+        "away_prob": 29.5,
+        "details": "GHA +135"
       }
     },
     {
@@ -522,10 +472,10 @@
       },
       "venue": "Estadio Banorte",
       "odds": {
-        "home_prob": 10.7,
-        "draw_prob": 20.4,
-        "away_prob": 68.9,
-        "details": "COL -255"
+        "home_prob": 10.1,
+        "draw_prob": 19.6,
+        "away_prob": 70.3,
+        "details": "COL -270"
       }
     },
     {
@@ -570,10 +520,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 59.8,
-        "draw_prob": 23.4,
-        "away_prob": 16.8,
-        "details": "SUI -165"
+        "home_prob": 62.3,
+        "draw_prob": 22.9,
+        "away_prob": 14.8,
+        "details": "SUI -185"
       }
     },
     {
@@ -594,10 +544,10 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 74.5,
-        "draw_prob": 16.8,
+        "home_prob": 74.6,
+        "draw_prob": 16.7,
         "away_prob": 8.7,
-        "details": "CAN -340"
+        "details": "CAN -350"
       }
     },
     {
@@ -618,10 +568,10 @@
       },
       "venue": "Estadio Akron",
       "odds": {
-        "home_prob": 48.2,
-        "draw_prob": 28.8,
-        "away_prob": 23.0,
-        "details": "MEX +100"
+        "home_prob": 46.9,
+        "draw_prob": 29.1,
+        "away_prob": 24.0,
+        "details": "MEX +105"
       }
     },
     {
@@ -642,9 +592,9 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 59.7,
-        "draw_prob": 22.8,
-        "away_prob": 17.5,
+        "home_prob": 59.6,
+        "draw_prob": 22.3,
+        "away_prob": 18.1,
         "details": "USA -165"
       }
     },
@@ -666,10 +616,10 @@
       },
       "venue": "Gillette Stadium",
       "odds": {
-        "home_prob": 19.2,
-        "draw_prob": 26.4,
-        "away_prob": 54.4,
-        "details": "MAR -130"
+        "home_prob": 19.1,
+        "draw_prob": 26.1,
+        "away_prob": 54.8,
+        "details": "MAR -135"
       }
     },
     {
@@ -690,9 +640,9 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 86.7,
+        "home_prob": 87.2,
         "draw_prob": 8.7,
-        "away_prob": 4.6,
+        "away_prob": 4.1,
         "details": "BRA -1000"
       }
     },
@@ -738,10 +688,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 58.3,
-        "draw_prob": 23.4,
-        "away_prob": 18.3,
-        "details": "NED -155"
+        "home_prob": 56.3,
+        "draw_prob": 24.4,
+        "away_prob": 19.3,
+        "details": "NED -140"
       }
     },
     {
@@ -762,10 +712,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 64.0,
-        "draw_prob": 20.0,
-        "away_prob": 16.0,
-        "details": "GER -200"
+        "home_prob": 61.4,
+        "draw_prob": 21.2,
+        "away_prob": 17.4,
+        "details": "GER -180"
       }
     },
     {
@@ -786,10 +736,10 @@
       },
       "venue": "GEHA Field at Arrowhead Stadium",
       "odds": {
-        "home_prob": 85.7,
-        "draw_prob": 9.6,
-        "away_prob": 4.7,
-        "details": "ECU -800"
+        "home_prob": 87.7,
+        "draw_prob": 8.7,
+        "away_prob": 3.6,
+        "details": "ECU -1100"
       }
     },
     {
@@ -810,10 +760,10 @@
       },
       "venue": "Estadio BBVA",
       "odds": {
-        "home_prob": 16.7,
-        "draw_prob": 25.0,
-        "away_prob": 58.3,
-        "details": "JPN -155"
+        "home_prob": 13.7,
+        "draw_prob": 23.4,
+        "away_prob": 62.9,
+        "details": "JPN -190"
       }
     },
     {
@@ -835,8 +785,8 @@
       "venue": "Mercedes-Benz Stadium",
       "odds": {
         "home_prob": 87.2,
-        "draw_prob": 8.7,
-        "away_prob": 4.1,
+        "draw_prob": 9.1,
+        "away_prob": 3.7,
         "details": "ESP -1000"
       }
     },
@@ -858,10 +808,10 @@
       },
       "venue": "SoFi Stadium",
       "odds": {
-        "home_prob": 69.0,
-        "draw_prob": 19.6,
-        "away_prob": 11.4,
-        "details": "BEL -255"
+        "home_prob": 67.5,
+        "draw_prob": 20.5,
+        "away_prob": 12.0,
+        "details": "BEL -235"
       }
     },
     {
@@ -882,10 +832,10 @@
       },
       "venue": "Hard Rock Stadium",
       "odds": {
-        "home_prob": 66.4,
-        "draw_prob": 20.8,
-        "away_prob": 12.8,
-        "details": "URU -225"
+        "home_prob": 65.1,
+        "draw_prob": 22.9,
+        "away_prob": 12.0,
+        "details": "URU -210"
       }
     },
     {
@@ -906,10 +856,10 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 20.9,
-        "draw_prob": 24.7,
-        "away_prob": 54.4,
-        "details": "EGY -130"
+        "home_prob": 17.5,
+        "draw_prob": 23.4,
+        "away_prob": 59.1,
+        "details": "EGY -160"
       }
     },
     {
@@ -930,10 +880,10 @@
       },
       "venue": "AT&T Stadium",
       "odds": {
-        "home_prob": 58.9,
-        "draw_prob": 24.5,
-        "away_prob": 16.6,
-        "details": "ARG -160"
+        "home_prob": 60.4,
+        "draw_prob": 23.7,
+        "away_prob": 15.9,
+        "details": "ARG -175"
       }
     },
     {
@@ -954,10 +904,10 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 86.3,
-        "draw_prob": 10.1,
-        "away_prob": 3.6,
-        "details": "FRA -900"
+        "home_prob": 88.3,
+        "draw_prob": 8.0,
+        "away_prob": 3.7,
+        "details": "FRA -1100"
       }
     },
     {
@@ -978,10 +928,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 44.8,
-        "draw_prob": 26.8,
-        "away_prob": 28.4,
-        "details": "NOR +115"
+        "home_prob": 40.5,
+        "draw_prob": 27.2,
+        "away_prob": 32.3,
+        "details": "NOR +135"
       }
     },
     {
@@ -1002,10 +952,10 @@
       },
       "venue": "Levi's Stadium",
       "odds": {
-        "home_prob": 13.8,
-        "draw_prob": 21.9,
-        "away_prob": 64.3,
-        "details": "ALG -200"
+        "home_prob": 16.0,
+        "draw_prob": 22.9,
+        "away_prob": 61.1,
+        "details": "ALG -175"
       }
     },
     {
@@ -1026,10 +976,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 77.4,
+        "home_prob": 78.0,
         "draw_prob": 14.7,
-        "away_prob": 7.9,
-        "details": "POR -425"
+        "away_prob": 7.3,
+        "details": "POR -450"
       }
     },
     {
@@ -1074,10 +1024,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 13.7,
-        "draw_prob": 24.0,
-        "away_prob": 62.3,
-        "details": "CRO -185"
+        "home_prob": 14.8,
+        "draw_prob": 24.3,
+        "away_prob": 60.9,
+        "details": "CRO -175"
       }
     },
     {
@@ -1098,10 +1048,10 @@
       },
       "venue": "Estadio Akron",
       "odds": {
-        "home_prob": 66.2,
-        "draw_prob": 21.8,
-        "away_prob": 12.0,
-        "details": "COL -220"
+        "home_prob": 64.9,
+        "draw_prob": 22.3,
+        "away_prob": 12.8,
+        "details": "COL -210"
       }
     },
     {
@@ -1170,10 +1120,10 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "odds": {
-        "home_prob": 73.5,
-        "draw_prob": 17.4,
+        "home_prob": 74.2,
+        "draw_prob": 16.7,
         "away_prob": 9.1,
-        "details": "MAR -330"
+        "details": "MAR -340"
       }
     },
     {
@@ -1266,9 +1216,9 @@
       },
       "venue": "Lincoln Financial Field",
       "odds": {
-        "home_prob": 5.3,
-        "draw_prob": 11.2,
-        "away_prob": 83.5,
+        "home_prob": 5.1,
+        "draw_prob": 10.7,
+        "away_prob": 84.2,
         "details": "CIV -700"
       }
     },
@@ -1290,10 +1240,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 19.2,
-        "draw_prob": 24.0,
-        "away_prob": 56.8,
-        "details": "GER -145"
+        "home_prob": 19.6,
+        "draw_prob": 24.5,
+        "away_prob": 55.9,
+        "details": "GER -140"
       }
     },
     {
@@ -1338,10 +1288,10 @@
       },
       "venue": "GEHA Field at Arrowhead Stadium",
       "odds": {
-        "home_prob": 13.7,
-        "draw_prob": 20.8,
-        "away_prob": 65.5,
-        "details": "NED -215"
+        "home_prob": 10.1,
+        "draw_prob": 17.4,
+        "away_prob": 72.5,
+        "details": "NED -310"
       }
     },
     {
@@ -1410,10 +1360,10 @@
       },
       "venue": "Gillette Stadium",
       "odds": {
-        "home_prob": 22.9,
-        "draw_prob": 25.7,
-        "away_prob": 51.4,
-        "details": "FRA -115"
+        "home_prob": 22.4,
+        "draw_prob": 25.3,
+        "away_prob": 52.3,
+        "details": "FRA -120"
       }
     },
     {
@@ -1434,10 +1384,10 @@
       },
       "venue": "BMO Field",
       "odds": {
-        "home_prob": 69.0,
-        "draw_prob": 19.6,
-        "away_prob": 11.4,
-        "details": "SEN -255"
+        "home_prob": 72.8,
+        "draw_prob": 18.1,
+        "away_prob": 9.1,
+        "details": "SEN -320"
       }
     },
     {
@@ -1458,10 +1408,10 @@
       },
       "venue": "NRG Stadium",
       "odds": {
-        "home_prob": 38.3,
-        "draw_prob": 25.6,
-        "away_prob": 36.1,
-        "details": "CPV +150"
+        "home_prob": 34.4,
+        "draw_prob": 25.4,
+        "away_prob": 40.2,
+        "details": "KSA +140"
       }
     },
     {
@@ -1482,10 +1432,10 @@
       },
       "venue": "Estadio Akron",
       "odds": {
-        "home_prob": 17.5,
-        "draw_prob": 24.0,
-        "away_prob": 58.5,
-        "details": "ESP -155"
+        "home_prob": 15.9,
+        "draw_prob": 22.2,
+        "away_prob": 61.9,
+        "details": "ESP -185"
       }
     },
     {
@@ -1506,10 +1456,10 @@
       },
       "venue": "Lumen Field",
       "odds": {
-        "home_prob": 42.7,
-        "draw_prob": 31.0,
-        "away_prob": 26.3,
-        "details": "EGY +125"
+        "home_prob": 45.6,
+        "draw_prob": 30.4,
+        "away_prob": 24.0,
+        "details": "EGY +110"
       }
     },
     {
@@ -1530,10 +1480,10 @@
       },
       "venue": "BC Place",
       "odds": {
-        "home_prob": 9.7,
-        "draw_prob": 16.8,
-        "away_prob": 73.5,
-        "details": "BEL -320"
+        "home_prob": 7.3,
+        "draw_prob": 14.7,
+        "away_prob": 78.0,
+        "details": "BEL -450"
       }
     },
     {
@@ -1578,10 +1528,10 @@
       },
       "venue": "MetLife Stadium",
       "odds": {
-        "home_prob": 10.6,
-        "draw_prob": 14.7,
-        "away_prob": 74.7,
-        "details": "ENG -360"
+        "home_prob": 10.7,
+        "draw_prob": 13.7,
+        "away_prob": 75.6,
+        "details": "ENG -370"
       }
     },
     {
@@ -1650,10 +1600,10 @@
       },
       "venue": "GEHA Field at Arrowhead Stadium",
       "odds": {
-        "home_prob": 25.3,
+        "home_prob": 31.4,
         "draw_prob": 31.0,
-        "away_prob": 43.7,
-        "details": "AUT +120"
+        "away_prob": 37.6,
+        "details": "AUT +155"
       }
     },
     {
@@ -1674,10 +1624,10 @@
       },
       "venue": "AT&T Stadium",
       "odds": {
-        "home_prob": 6.4,
-        "draw_prob": 12.7,
-        "away_prob": 80.9,
-        "details": "ARG -550"
+        "home_prob": 7.4,
+        "draw_prob": 13.7,
+        "away_prob": 78.9,
+        "details": "ARG -475"
       }
     }
   ]
