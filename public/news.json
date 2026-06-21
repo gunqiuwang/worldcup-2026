@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T19:55:44.257242+00:00",
+  "updated_at": "2026-06-21T21:23:12.603547+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a38267782ac1native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.235144+00:00",
+      "time_iso": "2026-06-21T21:23:10.676890+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,31 +22,7 @@
       "url": "https://bbs.hupu.com/640165045.html",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:44.256554+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "45f1d22af8",
-      "category": "hot",
-      "title": "亚马尔世界杯+洲际大赛均破门，历史第二年轻仅次巴西传奇贝利",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a3813de042ebnative.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.237318+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "148ac43d04",
-      "category": "hot",
-      "title": "国家报：世界杯6大巨星6种进球套路，梅西C罗跑动数据都下降",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640161402.html",
-      "team": "ARG",
-      "time": "9小时前",
-      "time_iso": "2026-06-21T10:01:20.475659+00:00",
+      "time_iso": "2026-06-21T21:23:12.602889+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a36fbb088d7fnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.237465+00:00",
+      "time_iso": "2026-06-21T21:23:10.679122+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "7f1566c5ab",
+      "id": "148ac43d04",
       "category": "hot",
-      "title": "【世界杯红黑榜】维尼修斯传射带队登顶；居莱尔带队出局",
+      "title": "国家报：世界杯6大巨星6种进球套路，梅西C罗跑动数据都下降",
       "summary": "",
-      "url": "https://bbs.hupu.com/640170467.html",
-      "team": "BRA",
-      "time": "14小时前",
-      "time_iso": "2026-06-21T05:07:58.965182+00:00",
+      "url": "https://bbs.hupu.com/640161402.html",
+      "team": "ARG",
+      "time": "11小时前",
+      "time_iso": "2026-06-21T10:01:20.475659+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -82,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a37aac547375native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.237563+00:00",
+      "time_iso": "2026-06-21T21:23:10.679221+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "3bf0c82242",
+      "id": "7f1566c5ab",
       "category": "hot",
-      "title": "赵心童希望英格兰能世界杯夺冠，吴宜泽因C罗支持葡萄牙",
+      "title": "【世界杯红黑榜】维尼修斯传射带队登顶；居莱尔带队出局",
       "summary": "",
-      "url": "https://bbs.hupu.com/640158358.html",
-      "team": "ENG",
-      "time": "14小时前",
-      "time_iso": "2026-06-21T05:07:58.965413+00:00",
+      "url": "https://bbs.hupu.com/640170467.html",
+      "team": "BRA",
+      "time": "16小时前",
+      "time_iso": "2026-06-21T05:07:58.965182+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -106,7 +82,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a37c8896de91native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.237960+00:00",
+      "time_iso": "2026-06-21T21:23:10.679530+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "3bf0c82242",
+      "category": "hot",
+      "title": "赵心童希望英格兰能世界杯夺冠，吴宜泽因C罗支持葡萄牙",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640158358.html",
+      "team": "ENG",
+      "time": "16小时前",
+      "time_iso": "2026-06-21T05:07:58.965413+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "45f1d22af8",
+      "category": "hot",
+      "title": "亚马尔世界杯+洲际大赛均破门，历史第二年轻仅次巴西传奇贝利",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a3813de042ebnative.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-06-21T21:23:10.679906+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640140209.html",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-06-20T23:18:01.575741+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a36ed8a4dd74native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238392+00:00",
+      "time_iso": "2026-06-21T21:23:10.680069+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640137691.html",
       "team": "BRA",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-06-20T23:18:01.576142+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a378bafbeee6native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238466+00:00",
+      "time_iso": "2026-06-21T21:23:10.680144+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640137550.html",
       "team": "",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-06-20T23:18:01.576184+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a37575132181native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238493+00:00",
+      "time_iso": "2026-06-21T21:23:10.680172+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a36c9470382cnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238533+00:00",
+      "time_iso": "2026-06-21T21:23:10.680211+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-20/6a35ee04943a9native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238572+00:00",
+      "time_iso": "2026-06-21T21:23:10.680251+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-20/6a35e96de3b9enative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238598+00:00",
+      "time_iso": "2026-06-21T21:23:10.680277+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-19/6a342de19f0f9native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238654+00:00",
+      "time_iso": "2026-06-21T21:23:10.680334+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a373e1b38798native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238693+00:00",
+      "time_iso": "2026-06-21T21:23:10.680373+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -315,14 +315,14 @@
       "is_hot": true
     },
     {
-      "id": "a21fe999dd",
+      "id": "27bf03d023",
       "category": "hot",
-      "title": "队报：梅西姆巴佩巴黎共事时相处和谐，如今都在追逐世界杯射手王",
+      "title": "秀恩爱！女友现场见证亚马尔世界杯首球，亚马尔评论：我的女孩",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-18/6a33e9f4ded92native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a3835c4b7529native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238802+00:00",
+      "time_iso": "2026-06-21T21:23:10.680465+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -339,14 +339,14 @@
       "is_hot": true
     },
     {
-      "id": "27bf03d023",
+      "id": "fd90236ed3",
       "category": "hot",
-      "title": "秀恩爱！女友现场见证亚马尔世界杯首球，亚马尔评论：我的女孩",
+      "title": "仅仅只有18岁343天！亚马尔成为世界杯历史第8年轻的进球者",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a3835c4b7529native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a380f1f44092native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.238843+00:00",
+      "time_iso": "2026-06-21T21:23:10.680782+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -357,20 +357,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640111659.html",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-06-19T21:15:01.920626+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "fd90236ed3",
+      "id": "fb8a3e2ef5",
       "category": "hot",
-      "title": "仅仅只有18岁343天！亚马尔成为世界杯历史第8年轻的进球者",
+      "title": "亚马尔破门，终结西班牙世界杯上连续299分钟未进球尴尬纪录",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a380f1f44092native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a380f2ebe5a5native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.239190+00:00",
+      "time_iso": "2026-06-21T21:23:10.680822+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,14 +387,14 @@
       "is_hot": true
     },
     {
-      "id": "fb8a3e2ef5",
+      "id": "4e2d41da35",
       "category": "hot",
-      "title": "亚马尔破门，终结西班牙世界杯上连续299分钟未进球尴尬纪录",
+      "title": "亚马尔成为西班牙队史第二年轻世界杯进球球员，仅次于加维",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a380f2ebe5a5native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a380e8627018native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.239217+00:00",
+      "time_iso": "2026-06-21T21:23:10.680851+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -411,14 +411,14 @@
       "is_hot": true
     },
     {
-      "id": "4e2d41da35",
+      "id": "a5453d0471",
       "category": "hot",
-      "title": "亚马尔成为西班牙队史第二年轻世界杯进球球员，仅次于加维",
+      "title": "本届世界杯参与进球榜：翁达夫5球、伊萨克4球，梅西等多人3球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a380e8627018native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a371342b560enative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.239243+00:00",
+      "time_iso": "2026-06-21T21:23:10.681236+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -435,14 +435,14 @@
       "is_hot": true
     },
     {
-      "id": "a5453d0471",
+      "id": "454d814395",
       "category": "hot",
-      "title": "本届世界杯参与进球榜：翁达夫5球、伊萨克4球，梅西等多人3球",
+      "title": "镜报：梅西有望在迈阿密踢世界杯淘汰赛，安保高度戒备迎大批球迷",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a371342b560enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a384b5fc0a00native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.239581+00:00",
+      "time_iso": "2026-06-21T21:23:10.681796+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -466,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a381ed3d006anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.240156+00:00",
+      "time_iso": "2026-06-21T21:23:10.681867+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-22/6a380fe45764bnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.240200+00:00",
+      "time_iso": "2026-06-21T21:23:10.681912+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a37ab69d86banative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.240260+00:00",
+      "time_iso": "2026-06-21T21:23:10.681972+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -538,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a37a41eb1a17native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.240286+00:00",
+      "time_iso": "2026-06-21T21:23:10.681999+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -562,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a37a107e3032native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.240313+00:00",
+      "time_iso": "2026-06-21T21:23:10.682026+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -579,14 +579,14 @@
       "is_hot": true
     },
     {
-      "id": "d1f3330e1c",
+      "id": "1eaa9b768c",
       "category": "hot",
-      "title": "阿根廷名宿：我早就说梅西能继续踢下去，甚至能踢到下届世界杯",
+      "title": "传记作者：梅西梦想已在上届世界杯实现 C罗梅西差距太大无法比较",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-21/6a3754c85bb6cnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-18/6a33a72c699c6native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-21T19:55:42.240375+00:00",
+      "time_iso": "2026-06-21T21:23:10.682183+00:00",
       "source": "直播吧",
       "is_hot": true
     },
