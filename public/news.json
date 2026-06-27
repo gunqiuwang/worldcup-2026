@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T04:09:18.907321+00:00",
+  "updated_at": "2026-06-27T08:47:02.496726+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-24/6a3bf5d5147d7native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.511788+00:00",
+      "time_iso": "2026-06-27T08:46:59.742790+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640331442.html",
       "team": "FRA",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-06-26T23:15:36.413034+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3eebce7f68dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.512867+00:00",
+      "time_iso": "2026-06-27T08:46:59.743856+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640307391.html",
       "team": "",
-      "time": "8小时前",
+      "time": "12小时前",
       "time_iso": "2026-06-26T20:01:18.077555+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ef681117ecnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513146+00:00",
+      "time_iso": "2026-06-27T08:46:59.744139+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640309255.html",
       "team": "BRA",
-      "time": "11小时前",
+      "time": "16小时前",
       "time_iso": "2026-06-26T16:23:23.882737+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f11bd22e6dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513260+00:00",
+      "time_iso": "2026-06-27T08:46:59.744264+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640308913.html",
       "team": "GER",
-      "time": "11小时前",
+      "time": "16小时前",
       "time_iso": "2026-06-26T16:23:23.882764+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3eed42cc059native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513312+00:00",
+      "time_iso": "2026-06-27T08:46:59.744319+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,56 +117,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640312377.html",
       "team": "BRA",
-      "time": "11小时前",
+      "time": "16小时前",
       "time_iso": "2026-06-26T16:23:23.882819+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "37abe47b60",
-      "category": "hot",
-      "title": "世界杯正面交锋！天空体育：姆巴佩vs哈兰德，新时代梅罗对决",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3e9d1be70ddnative.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513357+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "5207d8c808",
-      "category": "hot",
-      "title": "世界杯：苏格兰0-3巴西，维尼修斯双响，内马尔替补登场",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640286223.html",
-      "team": "BRA",
-      "time": "18小时前",
-      "time_iso": "2026-06-26T09:44:14.851280+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "2222d382c5",
-      "category": "hot",
-      "title": "世界杯早报：厄瓜多尔逆转德国成功出线 科特迪瓦队史首次出线",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d7ba8001ffnative.htm",
-      "team": "GER",
-      "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513540+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "1f65678fcd",
-      "category": "hot",
-      "title": "7场5球3助，维尼修斯职业生涯世界杯场均参与超过1球",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640285511.html",
-      "team": "BRA",
-      "time": "18小时前",
-      "time_iso": "2026-06-26T09:44:14.851387+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -178,7 +130,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f09fa86edfnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513580+00:00",
+      "time_iso": "2026-06-27T08:46:59.744537+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "5207d8c808",
+      "category": "hot",
+      "title": "世界杯：苏格兰0-3巴西，维尼修斯双响，内马尔替补登场",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640286223.html",
+      "team": "BRA",
+      "time": "23小时前",
+      "time_iso": "2026-06-26T09:44:14.851280+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "38e11f7663",
+      "category": "hot",
+      "title": "近60年仅3人世界杯参与进球20+，梅西居首、姆巴佩克洛泽并列次席",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f0b4ae5df2native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-06-27T08:46:59.744868+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "1f65678fcd",
+      "category": "hot",
+      "title": "7场5球3助，维尼修斯职业生涯世界杯场均参与超过1球",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640285511.html",
+      "team": "BRA",
+      "time": "23小时前",
+      "time_iso": "2026-06-26T09:44:14.851387+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "2222d382c5",
+      "category": "hot",
+      "title": "世界杯早报：厄瓜多尔逆转德国成功出线 科特迪瓦队史首次出线",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d7ba8001ffnative.htm",
+      "team": "GER",
+      "time": "1分钟前",
+      "time_iso": "2026-06-27T08:46:59.744937+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +195,14 @@
       "is_hot": true
     },
     {
-      "id": "ce8bc15c5a",
+      "id": "abc9270fa8",
       "category": "hot",
-      "title": "莱默尔：梅罗姆巴佩能闪耀世界杯我不惊讶，来这就为胜最优秀球员",
+      "title": "罗马诺：内马尔与辛辛那提已中断谈判，世界杯后将考虑其他选择",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f3f69a3d8dnative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d936468530native.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513688+00:00",
+      "time_iso": "2026-06-27T08:46:59.744964+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +219,14 @@
       "is_hot": true
     },
     {
-      "id": "38e11f7663",
+      "id": "7e4d04d051",
       "category": "hot",
-      "title": "近60年仅3人世界杯参与进球20+，梅西居首、姆巴佩克洛泽并列次席",
+      "title": "内马尔世界杯首秀至今被犯规61次造对手13张牌，两项数据同期最多",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f0b4ae5df2native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-25/6a3cec6badff3native.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513795+00:00",
+      "time_iso": "2026-06-27T08:46:59.745001+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +243,14 @@
       "is_hot": true
     },
     {
-      "id": "abc9270fa8",
+      "id": "ce8bc15c5a",
       "category": "hot",
-      "title": "罗马诺：内马尔与辛辛那提已中断谈判，世界杯后将考虑其他选择",
+      "title": "莱默尔：梅罗姆巴佩能闪耀世界杯我不惊讶，来这就为胜最优秀球员",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d936468530native.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f3f69a3d8dnative.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513882+00:00",
+      "time_iso": "2026-06-27T08:46:59.745092+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -267,14 +267,14 @@
       "is_hot": true
     },
     {
-      "id": "7e4d04d051",
+      "id": "e178340e8b",
       "category": "hot",
-      "title": "内马尔世界杯首秀至今被犯规61次造对手13张牌，两项数据同期最多",
+      "title": "姆巴佩社媒晒照：三战三捷，小组赛任务完成，是时候准备新的挑战",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-25/6a3cec6badff3native.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f18e2e23f7native.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.513919+00:00",
+      "time_iso": "2026-06-27T08:46:59.745140+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -291,14 +291,14 @@
       "is_hot": true
     },
     {
-      "id": "e178340e8b",
+      "id": "213aee9934",
       "category": "hot",
-      "title": "姆巴佩社媒晒照：三战三捷，小组赛任务完成，是时候准备新的挑战",
+      "title": "布兰科：法国是世界杯4-5大热门之一，梅西的表现不可思议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f18e2e23f7native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ef59a73414native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.514036+00:00",
+      "time_iso": "2026-06-27T08:46:59.745168+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -315,14 +315,14 @@
       "is_hot": true
     },
     {
-      "id": "213aee9934",
+      "id": "2e45eeea57",
       "category": "hot",
-      "title": "布兰科：法国是世界杯4-5大热门之一，梅西的表现不可思议",
+      "title": "姆巴佩世界杯出场17次已直接参与法国队20球，1966年来仅梅西更多",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ef59a73414native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3edf2d71c1cnative.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.514070+00:00",
+      "time_iso": "2026-06-27T08:46:59.745222+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -339,14 +339,14 @@
       "is_hot": true
     },
     {
-      "id": "2e45eeea57",
+      "id": "0d7e4093ad",
       "category": "hot",
-      "title": "姆巴佩世界杯出场17次已直接参与法国队20球，1966年来仅梅西更多",
+      "title": "世界杯射手榜：梅西5球领跑 登贝莱4球追平姆巴佩哈兰德维尼修斯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3edf2d71c1cnative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ed7277897enative.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.514130+00:00",
+      "time_iso": "2026-06-27T08:46:59.745295+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -357,20 +357,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640257772.html",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-06-25T04:16:38.139326+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "0d7e4093ad",
+      "id": "b7e12176b9",
       "category": "hot",
-      "title": "世界杯射手榜：梅西5球领跑 登贝莱4球追平姆巴佩哈兰德维尼修斯",
+      "title": "真来了！佛得角门将曾称想对决梅西 佛得角3连平H2出线战阿根廷！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ed7277897enative.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f2e4a370aenative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.514203+00:00",
+      "time_iso": "2026-06-27T08:46:59.746560+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,14 +387,14 @@
       "is_hot": true
     },
     {
-      "id": "c14dc5bca7",
+      "id": "c550fdf2eb",
       "category": "hot",
-      "title": "场均参与超1球！姆巴佩参加第17场世界杯比赛16球3助",
+      "title": "彭伟国：以梅西目前在阿根廷队的地位，很有可能再踢一届世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ecf93b89a4native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f1f9fcc8fanative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.514240+00:00",
+      "time_iso": "2026-06-27T08:46:59.746586+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -411,14 +411,14 @@
       "is_hot": true
     },
     {
-      "id": "b7e12176b9",
+      "id": "60b084c0a6",
       "category": "hot",
-      "title": "真来了！佛得角门将曾称想对决梅西 佛得角3连平H2出线战阿根廷！",
+      "title": "梅西将迎世界杯第3次替补出战！20年前梅西首秀替补16分钟1射1传",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f2e4a370aenative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f0a725f311native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515286+00:00",
+      "time_iso": "2026-06-27T08:46:59.746630+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -435,14 +435,14 @@
       "is_hot": true
     },
     {
-      "id": "c550fdf2eb",
-      "category": "hot",
-      "title": "彭伟国：以梅西目前在阿根廷队的地位，很有可能再踢一届世界杯",
+      "id": "15823e4822",
+      "category": "tactical",
+      "title": "阿根廷已提前出线！斯卡洛尼确认：梅西不会首发出战约旦",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f1f9fcc8fanative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f020631feanative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515312+00:00",
+      "time_iso": "2026-06-27T08:46:59.746677+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -459,14 +459,14 @@
       "is_hot": true
     },
     {
-      "id": "60b084c0a6",
+      "id": "99b45babee",
       "category": "hot",
-      "title": "梅西将迎世界杯第3次替补出战！20年前梅西首秀替补16分钟1射1传",
+      "title": "长友佑都谈出场纪录：不会为此感到满足，梅西C罗都踢了6届世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f0a725f311native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3e13ac4953enative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515356+00:00",
+      "time_iso": "2026-06-27T08:46:59.746753+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -483,14 +483,14 @@
       "is_hot": true
     },
     {
-      "id": "15823e4822",
-      "category": "tactical",
-      "title": "阿根廷已提前出线！斯卡洛尼确认：梅西不会首发出战约旦",
+      "id": "e14f9b1e2c",
+      "category": "hot",
+      "title": "整新活😅加纳巫师：这届世界杯属于C罗葡萄牙 意外诅咒了土耳其",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f020631feanative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d776dbf032native.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515401+00:00",
+      "time_iso": "2026-06-27T08:46:59.746823+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -507,14 +507,14 @@
       "is_hot": true
     },
     {
-      "id": "99b45babee",
+      "id": "99f086231e",
       "category": "hot",
-      "title": "长友佑都谈出场纪录：不会为此感到满足，梅西C罗都踢了6届世界杯",
+      "title": "巴拉格：希望梅西参加下届世界杯，他状态很好且阿根廷会举办比赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3e13ac4953enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-25/6a3c7dc1387c1native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515480+00:00",
+      "time_iso": "2026-06-27T08:46:59.746937+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -531,14 +531,14 @@
       "is_hot": true
     },
     {
-      "id": "e14f9b1e2c",
+      "id": "d45b87b119",
       "category": "hot",
-      "title": "整新活😅加纳巫师：这届世界杯属于C罗葡萄牙 意外诅咒了土耳其",
+      "title": "巨星对飚！世界杯射手榜：梅西2场5球第1 姆巴佩哈兰德4球 C罗2球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d776dbf032native.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-24/6a3b435fc95fenative.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515551+00:00",
+      "time_iso": "2026-06-27T08:46:59.746996+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -555,14 +555,14 @@
       "is_hot": true
     },
     {
-      "id": "99f086231e",
+      "id": "87b386bbb6",
       "category": "hot",
-      "title": "巴拉格：希望梅西参加下届世界杯，他状态很好且阿根廷会举办比赛",
+      "title": "利雅得胜利祝贺C罗：只属于一个人的纪录，连续6届世界杯取得进球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-25/6a3c7dc1387c1native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-24/6a3ac03785318native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515662+00:00",
+      "time_iso": "2026-06-27T08:46:59.747102+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -579,14 +579,14 @@
       "is_hot": true
     },
     {
-      "id": "d45b87b119",
+      "id": "7c541903a8",
       "category": "hot",
-      "title": "巨星对飚！世界杯射手榜：梅西2场5球第1 姆巴佩哈兰德4球 C罗2球",
+      "title": "六届9球！41岁C罗追平尤西比奥，并列葡萄牙队史世界杯射手王",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-24/6a3b435fc95fenative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-24/6a3ab9861dc42native.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-06-27T04:09:16.515720+00:00",
+      "time_iso": "2026-06-27T08:46:59.747146+00:00",
       "source": "直播吧",
       "is_hot": true
     },
