@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T19:41:17.446058+00:00",
+  "updated_at": "2026-06-28T21:11:40.257779+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40f87e49b3cnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.929151+00:00",
+      "time_iso": "2026-06-28T21:11:38.457723+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/640380650.html",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.444790+00:00",
+      "time_iso": "2026-06-28T21:11:40.256600+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a3ff36ec4707native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.929254+00:00",
+      "time_iso": "2026-06-28T21:11:38.457827+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -46,7 +46,7 @@
       "url": "https://bbs.hupu.com/640376062.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.445056+00:00",
+      "time_iso": "2026-06-28T21:11:40.256888+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3fe9584f265native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.929959+00:00",
+      "time_iso": "2026-06-28T21:11:38.463363+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -70,79 +70,7 @@
       "url": "https://bbs.hupu.com/640354325.html",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.445333+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "542d5d7447",
-      "category": "hot",
-      "title": "直播吧世界杯小组最佳阵：梅西领衔，姆巴佩 登贝莱 沃齐尼亚入选",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40a4f7ac0d2native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930128+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "b8fa6f7d9f",
-      "category": "tactical",
-      "title": "内马尔在世界杯集训期间，购入了一枚价值100万美元的腕表",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640352441.html",
-      "team": "BRA",
-      "time": "5小时前",
-      "time_iso": "2026-06-28T14:06:35.057908+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "6bbd920a07",
-      "category": "hot",
-      "title": "本届世界杯场均评分榜：梅西9.07分居首，登贝莱、维尼修斯前三",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40eb0c1aa3bnative.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930157+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "1b7870f583",
-      "category": "hot",
-      "title": "10张！乌拉圭世界杯红牌数追平阿根廷，并列历史第二",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640335515.html",
-      "team": "ARG",
-      "time": "5小时前",
-      "time_iso": "2026-06-28T14:06:35.058339+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "9a9fa8bd42",
-      "category": "hot",
-      "title": "王带四个二！FIFA晒金靴争夺：梅西6球居中，姆登维哈4球分列两侧",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40dddf6192bnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930246+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "5823e6145a",
-      "category": "hot",
-      "title": "梅西在世界杯上120次射门打进19球，预期进球值17.0",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640363788.html",
-      "team": "ARG",
-      "time": "10小时前",
-      "time_iso": "2026-06-28T09:24:47.011199+00:00",
+      "time_iso": "2026-06-28T21:11:40.257106+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -154,19 +82,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a4027c294790native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930402+00:00",
+      "time_iso": "2026-06-28T21:11:38.463692+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "30cc360d82",
-      "category": "hot",
-      "title": "ESPN：梅西无意仅为增加世界杯进球出战约旦，他想保持状态",
+      "id": "b8fa6f7d9f",
+      "category": "tactical",
+      "title": "内马尔在世界杯集训期间，购入了一枚价值100万美元的腕表",
       "summary": "",
-      "url": "https://bbs.hupu.com/640327135.html",
-      "team": "ARG",
-      "time": "20小时前",
-      "time_iso": "2026-06-27T23:11:00.716598+00:00",
+      "url": "https://bbs.hupu.com/640352441.html",
+      "team": "BRA",
+      "time": "7小时前",
+      "time_iso": "2026-06-28T14:06:35.057908+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -178,19 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d7ba8001ffnative.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930466+00:00",
+      "time_iso": "2026-06-28T21:11:38.463751+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "d6dd3850cf",
+      "id": "1b7870f583",
       "category": "hot",
-      "title": "ESPN：内马尔入选世界杯后，巴西已有5名新生儿被取同名",
+      "title": "10张！乌拉圭世界杯红牌数追平阿根廷，并列历史第二",
       "summary": "",
-      "url": "https://bbs.hupu.com/640352498.html",
-      "team": "BRA",
-      "time": "22小时前",
-      "time_iso": "2026-06-27T21:13:08.912331+00:00",
+      "url": "https://bbs.hupu.com/640335515.html",
+      "team": "ARG",
+      "time": "7小时前",
+      "time_iso": "2026-06-28T14:06:35.058339+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -202,7 +130,79 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-26/6a3d936468530native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930496+00:00",
+      "time_iso": "2026-06-28T21:11:38.463779+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "5823e6145a",
+      "category": "hot",
+      "title": "梅西在世界杯上120次射门打进19球，预期进球值17.0",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640363788.html",
+      "team": "ARG",
+      "time": "11小时前",
+      "time_iso": "2026-06-28T09:24:47.011199+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "7e4d04d051",
+      "category": "hot",
+      "title": "内马尔世界杯首秀至今被犯规61次造对手13张牌，两项数据同期最多",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-25/6a3cec6badff3native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-06-28T21:11:38.463818+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "30cc360d82",
+      "category": "hot",
+      "title": "ESPN：梅西无意仅为增加世界杯进球出战约旦，他想保持状态",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640327135.html",
+      "team": "ARG",
+      "time": "22小时前",
+      "time_iso": "2026-06-27T23:11:00.716598+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "542d5d7447",
+      "category": "hot",
+      "title": "直播吧世界杯小组最佳阵：梅西领衔，姆巴佩 登贝莱 沃齐尼亚入选",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40a4f7ac0d2native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-06-28T21:11:38.463864+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "d6dd3850cf",
+      "category": "hot",
+      "title": "ESPN：内马尔入选世界杯后，巴西已有5名新生儿被取同名",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640352498.html",
+      "team": "BRA",
+      "time": "23小时前",
+      "time_iso": "2026-06-27T21:13:08.912331+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "6bbd920a07",
+      "category": "hot",
+      "title": "本届世界杯场均评分榜：梅西9.07分居首，登贝莱、维尼修斯前三",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40eb0c1aa3bnative.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-06-28T21:11:38.463896+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +219,14 @@
       "is_hot": true
     },
     {
-      "id": "7e4d04d051",
+      "id": "9a9fa8bd42",
       "category": "hot",
-      "title": "内马尔世界杯首秀至今被犯规61次造对手13张牌，两项数据同期最多",
+      "title": "王带四个二！FIFA晒金靴争夺：梅西6球居中，姆登维哈4球分列两侧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-25/6a3cec6badff3native.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40dddf6192bnative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930537+00:00",
+      "time_iso": "2026-06-28T21:11:38.463926+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640307391.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-06-26T20:01:18.077555+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40c4070cfb4native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930611+00:00",
+      "time_iso": "2026-06-28T21:11:38.463956+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40aa6d9b989native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930641+00:00",
+      "time_iso": "2026-06-28T21:11:38.463984+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a4097427cb88native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930676+00:00",
+      "time_iso": "2026-06-28T21:11:38.464019+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40991f287acnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930704+00:00",
+      "time_iso": "2026-06-28T21:11:38.464047+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f3f69a3d8dnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930742+00:00",
+      "time_iso": "2026-06-28T21:11:38.464086+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f18e2e23f7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930775+00:00",
+      "time_iso": "2026-06-28T21:11:38.464121+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f0b4ae5df2native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930804+00:00",
+      "time_iso": "2026-06-28T21:11:38.464148+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f09fa86edfnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930832+00:00",
+      "time_iso": "2026-06-28T21:11:38.464175+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -442,21 +442,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ef59a73414native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.930858+00:00",
+      "time_iso": "2026-06-28T21:11:38.464201+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "3311d9ac74",
+      "id": "9ad1793a0e",
       "category": "hot",
-      "title": "利雅得胜利官推祝贺C罗：新纪录！葡萄牙历史世界杯最佳射手",
+      "title": "大罗：98年世界杯决赛是我坚持要踢的，最怕被看成退缩的人",
       "summary": "",
-      "url": "https://bbs.hupu.com/640279320.html",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-06-25T20:14:57.901793+00:00",
+      "url": "https://bbs.hupu.com/640387913.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-06-28T21:11:40.256341+00:00",
       "source": "虎扑",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "489fa697b4",
@@ -466,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a4118015a16dnative.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.931114+00:00",
+      "time_iso": "2026-06-28T21:11:38.464464+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -478,7 +478,7 @@
       "url": "https://bbs.hupu.com/640381611.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.444711+00:00",
+      "time_iso": "2026-06-28T21:11:40.256507+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3ef681117ecnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.931775+00:00",
+      "time_iso": "2026-06-28T21:11:38.465119+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -502,7 +502,7 @@
       "url": "https://bbs.hupu.com/640380234.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.444827+00:00",
+      "time_iso": "2026-06-28T21:11:40.256648+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-29/6a4146645cacbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.931934+00:00",
+      "time_iso": "2026-06-28T21:11:38.465275+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -526,7 +526,7 @@
       "url": "https://bbs.hupu.com/640379686.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.444859+00:00",
+      "time_iso": "2026-06-28T21:11:40.256681+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -538,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40767a83046native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.931999+00:00",
+      "time_iso": "2026-06-28T21:11:38.465354+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -550,7 +550,7 @@
       "url": "https://bbs.hupu.com/640379244.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.444888+00:00",
+      "time_iso": "2026-06-28T21:11:40.256711+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -562,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a40cf7ec01bbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.932317+00:00",
+      "time_iso": "2026-06-28T21:11:38.465679+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -574,7 +574,7 @@
       "url": "https://bbs.hupu.com/640378378.html",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.444938+00:00",
+      "time_iso": "2026-06-28T21:11:40.256762+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -586,7 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-28/6a41030a93bd4native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:14.932350+00:00",
+      "time_iso": "2026-06-28T21:11:38.465712+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -598,7 +598,7 @@
       "url": "https://bbs.hupu.com/640378202.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-06-28T19:41:17.444977+00:00",
+      "time_iso": "2026-06-28T21:11:40.256798+00:00",
       "source": "虎扑",
       "is_hot": false
     }
