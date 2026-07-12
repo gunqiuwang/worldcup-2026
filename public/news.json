@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T19:16:36.667585+00:00",
+  "updated_at": "2026-07-12T21:02:26.252253+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,31 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a53cc114da2fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.783450+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "d870f57737",
-      "category": "hot",
-      "title": "哈兰德、凯恩本届世界杯数据对比：进球7—6，射门18—19",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640753178.html",
-      "team": "ENG",
-      "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:36.666570+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "b74bc99997",
-      "category": "hot",
-      "title": "世界杯出场3+次球员评分：梅西9.15分断层领先 姆巴佩哈兰德二三",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53b1e0af0banative.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.783558+00:00",
+      "time_iso": "2026-07-12T21:02:24.735237+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -46,7 +22,31 @@
       "url": "https://bbs.hupu.com/640750950.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:36.666669+00:00",
+      "time_iso": "2026-07-12T21:02:26.251521+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "b74bc99997",
+      "category": "hot",
+      "title": "世界杯出场3+次球员评分：梅西9.15分断层领先 姆巴佩哈兰德二三",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53b1e0af0banative.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-07-12T21:02:24.735553+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "de7aa7a11f",
+      "category": "hot",
+      "title": "本届世界杯进球超过xG最多的球员：登贝莱、梅西、姆巴佩",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640750454.html",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-07-12T21:02:26.251555+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a539c373ec4dnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.783977+00:00",
+      "time_iso": "2026-07-12T21:02:24.735589+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -70,7 +70,7 @@
       "url": "https://bbs.hupu.com/640746028.html",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:36.666853+00:00",
+      "time_iso": "2026-07-12T21:02:26.251697+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5371acee6b0native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784009+00:00",
+      "time_iso": "2026-07-12T21:02:24.735610+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -94,7 +94,7 @@
       "url": "https://bbs.hupu.com/640742857.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:36.666939+00:00",
+      "time_iso": "2026-07-12T21:02:26.251771+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5303e69b95bnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784060+00:00",
+      "time_iso": "2026-07-12T21:02:24.735653+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,7 +118,7 @@
       "url": "https://bbs.hupu.com/640741105.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:36.666998+00:00",
+      "time_iso": "2026-07-12T21:02:26.251806+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-10/6a510e2065e6bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784353+00:00",
+      "time_iso": "2026-07-12T21:02:24.735873+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "e5ae5c6b1e",
+      "id": "d870f57737",
       "category": "hot",
-      "title": "亚马尔本届世界杯23射1球转化率4.4%，104次丢失球权最多",
+      "title": "哈兰德、凯恩本届世界杯数据对比：进球7—6，射门18—19",
       "summary": "",
-      "url": "https://bbs.hupu.com/640754895.html",
-      "team": "ESP",
-      "time": "2小时前",
-      "time_iso": "2026-07-12T17:09:05.466097+00:00",
+      "url": "https://bbs.hupu.com/640753178.html",
+      "team": "ENG",
+      "time": "1小时前",
+      "time_iso": "2026-07-12T19:16:36.666570+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -154,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53a8a820e05native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784490+00:00",
+      "time_iso": "2026-07-12T21:02:24.736014+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "a7b1ac8c23",
+      "id": "e5ae5c6b1e",
       "category": "hot",
-      "title": "【世界杯红黑榜】梅里诺连场替补绝杀；拉门斯替补送礼",
+      "title": "亚马尔本届世界杯23射1球转化率4.4%，104次丢失球权最多",
       "summary": "",
-      "url": "https://bbs.hupu.com/640753897.html",
-      "team": "",
-      "time": "2小时前",
-      "time_iso": "2026-07-12T17:09:05.466145+00:00",
+      "url": "https://bbs.hupu.com/640754895.html",
+      "team": "ESP",
+      "time": "3小时前",
+      "time_iso": "2026-07-12T17:09:05.466097+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -178,19 +178,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52eea6cacd2native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784672+00:00",
+      "time_iso": "2026-07-12T21:02:24.736138+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "de7aa7a11f",
+      "id": "a7b1ac8c23",
       "category": "hot",
-      "title": "本届世界杯进球超过xG最多的球员：登贝莱、梅西、姆巴佩",
+      "title": "【世界杯红黑榜】梅里诺连场替补绝杀；拉门斯替补送礼",
       "summary": "",
-      "url": "https://bbs.hupu.com/640750454.html",
-      "team": "FRA",
-      "time": "2小时前",
-      "time_iso": "2026-07-12T17:09:05.466297+00:00",
+      "url": "https://bbs.hupu.com/640753897.html",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-07-12T17:09:05.466145+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-10/6a4ff0a9e4c29native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784732+00:00",
+      "time_iso": "2026-07-12T21:02:24.736184+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640741595.html",
       "team": "",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-12T13:45:08.793690+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4f63a9e2440native.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784775+00:00",
+      "time_iso": "2026-07-12T21:02:24.736209+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640777417.html",
       "team": "ENG",
-      "time": "9小时前",
+      "time": "11小时前",
       "time_iso": "2026-07-12T09:58:50.994491+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4f529fb881anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784800+00:00",
+      "time_iso": "2026-07-12T21:02:24.736229+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640752406.html",
       "team": "FRA",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-07-12T06:41:52.155477+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4e8e440624anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784849+00:00",
+      "time_iso": "2026-07-12T21:02:24.736267+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640764733.html",
       "team": "ENG",
-      "time": "15小时前",
+      "time": "17小时前",
       "time_iso": "2026-07-12T03:41:28.002617+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-08/6a4d5171ba067native.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784881+00:00",
+      "time_iso": "2026-07-12T21:02:24.736293+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -309,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640741045.html",
       "team": "ESP",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-07-11T22:56:56.815468+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a534ab77167enative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784925+00:00",
+      "time_iso": "2026-07-12T21:02:24.736328+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -333,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640740524.html",
       "team": "ESP",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-07-11T22:56:56.815536+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a533bf9378b0native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784952+00:00",
+      "time_iso": "2026-07-12T21:02:24.736349+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -357,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640722278.html",
       "team": "BRA",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-07-11T22:56:56.815578+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a531ce3d750cnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.784984+00:00",
+      "time_iso": "2026-07-12T21:02:24.736400+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -381,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640719212.html",
       "team": "CAN",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-07-11T22:56:56.815748+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5310703e572native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785012+00:00",
+      "time_iso": "2026-07-12T21:02:24.736425+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -405,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640718878.html",
       "team": "USA",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-07-11T22:56:56.815793+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52f20cdc596native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785041+00:00",
+      "time_iso": "2026-07-12T21:02:24.736448+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -429,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640720936.html",
       "team": "ESP",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-07-11T22:56:56.816006+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -442,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52e154e19e1native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785073+00:00",
+      "time_iso": "2026-07-12T21:02:24.736474+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -453,7 +453,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640732103.html",
       "team": "ARG",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-07-11T20:59:36.359120+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -466,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d8b052f66native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785099+00:00",
+      "time_iso": "2026-07-12T21:02:24.736494+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -477,7 +477,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640726087.html",
       "team": "FRA",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-07-11T20:59:36.359194+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d4ba88436native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785124+00:00",
+      "time_iso": "2026-07-12T21:02:24.736514+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -501,7 +501,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640718819.html",
       "team": "FRA",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-07-11T20:59:36.359279+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d3ff17cbbnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785150+00:00",
+      "time_iso": "2026-07-12T21:02:24.736534+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -525,20 +525,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640718698.html",
       "team": "ARG",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-07-11T20:59:36.359312+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "0ce33ba3d1",
+      "id": "bdc7072609",
       "category": "hot",
-      "title": "队报：姆巴佩5次单场淘汰赛对亚马尔全输，只在欧冠两回合赢过1次",
+      "title": "德拉富恩特：亚马尔在本届世界杯的高光表现还没到来，他很有动力",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-11/6a51f45b0eb0anative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a53fd310fa08native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785203+00:00",
+      "time_iso": "2026-07-12T21:02:24.736578+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -549,7 +549,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640718557.html",
       "team": "FRA",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-07-11T20:59:36.359369+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -562,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5350b781aa8native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785376+00:00",
+      "time_iso": "2026-07-12T21:02:24.736736+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -573,20 +573,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640718514.html",
       "team": "FRA",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-07-11T20:59:36.359442+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "791b8fccc6",
+      "id": "88e2fca09c",
       "category": "hot",
-      "title": "贝林厄姆社媒：活下来再战一天🦁接下来是半决赛，相信！",
+      "title": "过于梦幻！英格兰+挪威世界杯混合最佳阵：凯恩“搭档”哈兰德",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a534de25a027native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-11/6a524cc98759fnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T19:16:34.785401+00:00",
+      "time_iso": "2026-07-12T21:02:24.737293+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -597,7 +597,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640718103.html",
       "team": "FRA",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-07-11T20:59:36.359522+00:00",
       "source": "虎扑",
       "is_hot": true
