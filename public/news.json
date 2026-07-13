@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-12T22:57:02.312391+00:00",
+  "updated_at": "2026-07-13T03:43:54.116204+00:00",
   "count": 50,
   "articles": [
+    {
+      "id": "901c6861b3",
+      "category": "hot",
+      "title": "记者：在这届满是装腔作势者的世界杯 C罗梅西哈兰德能包揽领奖台",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a540e254d381native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-07-13T03:43:52.099005+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "d870f57737",
+      "category": "hot",
+      "title": "哈兰德、凯恩本届世界杯数据对比：进球7—6，射门18—19",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640753178.html",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-07-13T03:43:54.115259+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
     {
       "id": "147685ae49",
       "category": "hot",
@@ -10,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a53cc114da2fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.916337+00:00",
+      "time_iso": "2026-07-13T03:43:52.099052+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +46,7 @@
       "url": "https://bbs.hupu.com/640750950.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:57:02.311414+00:00",
+      "time_iso": "2026-07-13T03:43:54.115360+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53b1e0af0banative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.916406+00:00",
+      "time_iso": "2026-07-13T03:43:52.099084+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -46,7 +70,7 @@
       "url": "https://bbs.hupu.com/640746028.html",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:57:02.311661+00:00",
+      "time_iso": "2026-07-13T03:43:54.115547+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a539c373ec4dnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.916460+00:00",
+      "time_iso": "2026-07-13T03:43:52.099131+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640741105.html",
       "team": "ARG",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-07-12T22:57:02.311816+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5371acee6b0native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.916492+00:00",
+      "time_iso": "2026-07-13T03:43:52.099158+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,32 +117,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640750454.html",
       "team": "FRA",
-      "time": "1小时前",
+      "time": "6小时前",
       "time_iso": "2026-07-12T21:02:26.251555+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "e7c24da092",
-      "category": "hot",
-      "title": "哈兰德：贝林厄姆被低估、他已是顶级 希望英格兰能夺得世界杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5303e69b95bnative.htm",
-      "team": "ENG",
-      "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.916549+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "bbbf960e89",
-      "category": "hot",
-      "title": "梅里诺：我3粒大赛淘汰赛的进球全是绝杀，我相信这不是巧合",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640742857.html",
-      "team": "",
-      "time": "1小时前",
-      "time_iso": "2026-07-12T21:02:26.251771+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -130,31 +130,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-10/6a510e2065e6bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.916841+00:00",
+      "time_iso": "2026-07-13T03:43:52.099447+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "d870f57737",
+      "id": "bbbf960e89",
       "category": "hot",
-      "title": "哈兰德、凯恩本届世界杯数据对比：进球7—6，射门18—19",
+      "title": "梅里诺：我3粒大赛淘汰赛的进球全是绝杀，我相信这不是巧合",
       "summary": "",
-      "url": "https://bbs.hupu.com/640753178.html",
-      "team": "ENG",
-      "time": "3小时前",
-      "time_iso": "2026-07-12T19:16:36.666570+00:00",
+      "url": "https://bbs.hupu.com/640742857.html",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-07-12T21:02:26.251771+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "2cdaa79bbd",
+      "id": "0a5fa59c8f",
       "category": "hot",
-      "title": "本届世界杯场均评分榜：梅西居首，姆巴佩次席，哈兰德第三",
+      "title": "世界杯史上仅3人单届进球上双！姆巴佩 梅西 贝林 凯恩能否突破？",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53a8a820e05native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a543b7ee245anative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917247+00:00",
+      "time_iso": "2026-07-13T03:43:52.099519+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640754895.html",
       "team": "ESP",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-12T17:09:05.466097+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52eea6cacd2native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917575+00:00",
+      "time_iso": "2026-07-13T03:43:52.099719+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640753897.html",
       "team": "",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-12T17:09:05.466145+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-10/6a4ff0a9e4c29native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917692+00:00",
+      "time_iso": "2026-07-13T03:43:52.099777+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640741595.html",
       "team": "",
-      "time": "9小时前",
+      "time": "13小时前",
       "time_iso": "2026-07-12T13:45:08.793690+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4f63a9e2440native.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917762+00:00",
+      "time_iso": "2026-07-13T03:43:52.099808+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640777417.html",
       "team": "ENG",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-07-12T09:58:50.994491+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4f529fb881anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917815+00:00",
+      "time_iso": "2026-07-13T03:43:52.099833+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640752406.html",
       "team": "FRA",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-07-12T06:41:52.155477+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4e8e440624anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917901+00:00",
+      "time_iso": "2026-07-13T03:43:52.099898+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640764733.html",
       "team": "ENG",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-07-12T03:41:28.002617+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-08/6a4d5171ba067native.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917941+00:00",
+      "time_iso": "2026-07-13T03:43:52.099931+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -315,14 +315,14 @@
       "is_hot": true
     },
     {
-      "id": "e6747fd277",
+      "id": "2cdaa79bbd",
       "category": "hot",
-      "title": "FIFA实力榜：进攻维度贝林升至第2姆巴佩保持第1 创造力奥利塞第1",
+      "title": "本届世界杯场均评分榜：梅西居首，姆巴佩次席，哈兰德第三",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a534ab77167enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53a8a820e05native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.917988+00:00",
+      "time_iso": "2026-07-13T03:43:52.099965+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -339,14 +339,14 @@
       "is_hot": true
     },
     {
-      "id": "819fba727e",
+      "id": "e6747fd277",
       "category": "hot",
-      "title": "亿元先生11人进世界杯4强！法国5人 姆巴佩争金靴 贝林淘汰赛超神",
+      "title": "FIFA实力榜：进攻维度贝林升至第2姆巴佩保持第1 创造力奥利塞第1",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a533bf9378b0native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a534ab77167enative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918016+00:00",
+      "time_iso": "2026-07-13T03:43:52.099998+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -363,14 +363,14 @@
       "is_hot": true
     },
     {
-      "id": "2408e91df8",
+      "id": "819fba727e",
       "category": "hot",
-      "title": "本届世界杯参与进球榜：姆巴佩11球居首，梅西10球次席，凯恩7球",
+      "title": "亿元先生11人进世界杯4强！法国5人 姆巴佩争金靴 贝林淘汰赛超神",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a531ce3d750cnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a533bf9378b0native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918050+00:00",
+      "time_iso": "2026-07-13T03:43:52.100028+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,14 +387,14 @@
       "is_hot": true
     },
     {
-      "id": "7f265a6725",
+      "id": "2408e91df8",
       "category": "hot",
-      "title": "姆梅争锋！世界杯最新射手榜：姆巴佩8球3助第一，梅西8球2助第二",
+      "title": "本届世界杯参与进球榜：姆巴佩11球居首，梅西10球次席，凯恩7球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5310703e572native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a531ce3d750cnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918077+00:00",
+      "time_iso": "2026-07-13T03:43:52.100063+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -411,14 +411,14 @@
       "is_hot": true
     },
     {
-      "id": "595c1b6c59",
+      "id": "7f265a6725",
       "category": "hot",
-      "title": "在两届世界杯都至少参与10球，仅梅西和姆巴佩在近两届做到",
+      "title": "姆梅争锋！世界杯最新射手榜：姆巴佩8球3助第一，梅西8球2助第二",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52f20cdc596native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a5310703e572native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918109+00:00",
+      "time_iso": "2026-07-13T03:43:52.100091+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -435,14 +435,14 @@
       "is_hot": true
     },
     {
-      "id": "d94e09fdeb",
+      "id": "595c1b6c59",
       "category": "hot",
-      "title": "本世纪单届世界杯淘汰赛打进4球：大罗、梅西、姆巴佩、贝林在列",
+      "title": "在两届世界杯都至少参与10球，仅梅西和姆巴佩在近两届做到",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52e154e19e1native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52f20cdc596native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918146+00:00",
+      "time_iso": "2026-07-13T03:43:52.100119+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -459,14 +459,14 @@
       "is_hot": true
     },
     {
-      "id": "2ec3296d81",
+      "id": "d94e09fdeb",
       "category": "hot",
-      "title": "世界杯历史U23进球榜：姆巴佩12球居首，贝林厄姆、贝利7球次席",
+      "title": "本世纪单届世界杯淘汰赛打进4球：大罗、梅西、姆巴佩、贝林在列",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d8b052f66native.htm",
-      "team": "ENG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52e154e19e1native.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918174+00:00",
+      "time_iso": "2026-07-13T03:43:52.100152+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -483,14 +483,14 @@
       "is_hot": true
     },
     {
-      "id": "d05edb3f3e",
+      "id": "2ec3296d81",
       "category": "hot",
-      "title": "单届世界杯进球最多的皇马球员：姆巴佩居首，贝林厄姆并列次席",
+      "title": "世界杯历史U23进球榜：姆巴佩12球居首，贝林厄姆、贝利7球次席",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d4ba88436native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d8b052f66native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918201+00:00",
+      "time_iso": "2026-07-13T03:43:52.100178+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -507,14 +507,14 @@
       "is_hot": true
     },
     {
-      "id": "4fd6f096d0",
+      "id": "d05edb3f3e",
       "category": "hot",
-      "title": "贝林厄姆+姆巴佩，同一俱乐部两人世界杯打进6球，历史第二对组合",
+      "title": "单届世界杯进球最多的皇马球员：姆巴佩居首，贝林厄姆并列次席",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d3ff17cbbnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d4ba88436native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918227+00:00",
+      "time_iso": "2026-07-13T03:43:52.100204+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -531,14 +531,14 @@
       "is_hot": true
     },
     {
-      "id": "bdc7072609",
+      "id": "4fd6f096d0",
       "category": "hot",
-      "title": "德拉富恩特：亚马尔在本届世界杯的高光表现还没到来，他很有动力",
+      "title": "贝林厄姆+姆巴佩，同一俱乐部两人世界杯打进6球，历史第二对组合",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a53fd310fa08native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52d3ff17cbbnative.htm",
+      "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.918380+00:00",
+      "time_iso": "2026-07-13T03:43:52.100229+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -555,14 +555,14 @@
       "is_hot": true
     },
     {
-      "id": "88e2fca09c",
+      "id": "bdc7072609",
       "category": "hot",
-      "title": "过于梦幻！英格兰+挪威世界杯混合最佳阵：凯恩“搭档”哈兰德",
+      "title": "德拉富恩特：亚马尔在本届世界杯的高光表现还没到来，他很有动力",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-11/6a524cc98759fnative.htm",
-      "team": "ENG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a53fd310fa08native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.919230+00:00",
+      "time_iso": "2026-07-13T03:43:52.100451+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -579,14 +579,14 @@
       "is_hot": true
     },
     {
-      "id": "1c1a1716a6",
+      "id": "0f29383b25",
       "category": "hot",
-      "title": "凝聚力！阿尔瓦雷斯：为了让梅西赢得第二座世界杯，我们拼上一切",
+      "title": "保下限也提上限！梅西在阿根廷14次大赛10进半决赛，从未小组出局",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53914726289native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a5433de36e9anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-12T22:56:59.919398+00:00",
+      "time_iso": "2026-07-13T03:43:52.101367+00:00",
       "source": "直播吧",
       "is_hot": true
     },
