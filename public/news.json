@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T19:23:47.722829+00:00",
+  "updated_at": "2026-07-15T21:09:09.728713+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a56859dc36adnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.798931+00:00",
+      "time_iso": "2026-07-15T21:09:08.156110+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "df84b7194f",
+      "id": "d68e7759b7",
       "category": "hot",
-      "title": "梅西本届世界杯射门占阿根廷全队的34%，占比为所有球员最高",
+      "title": "三轮三次绝杀！阿根廷3场世界杯淘汰赛均靠补时或加时制胜",
       "summary": "",
-      "url": "https://bbs.hupu.com/640854943.html",
+      "url": "https://bbs.hupu.com/640857911.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:47.722221+00:00",
+      "time_iso": "2026-07-15T21:09:09.728006+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-14/6a5626a0530efnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799151+00:00",
+      "time_iso": "2026-07-15T21:09:08.156380+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "df84b7194f",
+      "category": "hot",
+      "title": "梅西本届世界杯射门占阿根廷全队的34%，占比为所有球员最高",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640854943.html",
+      "team": "ARG",
+      "time": "1小时前",
+      "time_iso": "2026-07-15T19:23:47.722221+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "8c7145edc4",
+      "category": "hot",
+      "title": "刷新纪录！世界杯历史助攻榜：梅西本场2送助攻，12助历史最多",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57cd1168738native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-07-15T21:09:08.156567+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640835280.html",
       "team": "ESP",
-      "time": "1分钟前",
+      "time": "1小时前",
       "time_iso": "2026-07-15T19:23:47.722376+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a5507566463cnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799458+00:00",
+      "time_iso": "2026-07-15T21:09:08.156792+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640835045.html",
       "team": "FRA",
-      "time": "1分钟前",
+      "time": "1小时前",
       "time_iso": "2026-07-15T19:23:47.722402+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a54739d7a6e8native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799475+00:00",
+      "time_iso": "2026-07-15T21:09:08.156812+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640833949.html",
       "team": "ESP",
-      "time": "1分钟前",
+      "time": "1小时前",
       "time_iso": "2026-07-15T19:23:47.722441+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a52eea6cacd2native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799502+00:00",
+      "time_iso": "2026-07-15T21:09:08.156845+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640838162.html",
       "team": "FRA",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-15T14:00:38.698487+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -130,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-10/6a4ff0a9e4c29native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799539+00:00",
+      "time_iso": "2026-07-15T21:09:08.156892+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640829549.html",
       "team": "FRA",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-15T14:00:38.698521+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -154,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4f63a9e2440native.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799559+00:00",
+      "time_iso": "2026-07-15T21:09:08.156917+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640829054.html",
       "team": "ARG",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-15T14:00:38.698550+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -178,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4f529fb881anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799576+00:00",
+      "time_iso": "2026-07-15T21:09:08.156937+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640824010.html",
       "team": "",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-15T14:00:38.698758+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -202,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a57208d00280native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799640+00:00",
+      "time_iso": "2026-07-15T21:09:08.157005+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640819859.html",
       "team": "ARG",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-15T14:00:38.698903+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -226,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a56de6d54a4fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799663+00:00",
+      "time_iso": "2026-07-15T21:09:08.157031+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640817715.html",
       "team": "FRA",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-15T14:00:38.698942+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -250,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a56d922236f7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799693+00:00",
+      "time_iso": "2026-07-15T21:09:08.157066+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640814118.html",
       "team": "ESP",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-07-15T14:00:38.698972+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -274,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a56b422be731native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799723+00:00",
+      "time_iso": "2026-07-15T21:09:08.157111+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -285,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640867401.html",
       "team": "",
-      "time": "9小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-15T10:10:01.643526+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -298,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a56b3426f986native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799740+00:00",
+      "time_iso": "2026-07-15T21:09:08.157133+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -309,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640860216.html",
       "team": "FRA",
-      "time": "9小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-15T10:10:01.643944+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -322,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a56a379b2261native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799760+00:00",
+      "time_iso": "2026-07-15T21:09:08.157158+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -333,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640833615.html",
       "team": "",
-      "time": "9小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-15T10:10:01.644105+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -346,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a4fee26469efnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799777+00:00",
+      "time_iso": "2026-07-15T21:09:08.157179+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -357,8 +381,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640857858.html",
       "team": "FRA",
-      "time": "13小时前",
+      "time": "14小时前",
       "time_iso": "2026-07-15T06:22:48.868644+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "905c960641",
+      "category": "hot",
+      "title": "从澡盆到世界杯决赛！19岁亚马尔PK39岁梅西，两代巴萨10号对决",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57d7eec7e42native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-07-15T21:09:08.157199+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "8b73790488",
+      "category": "hot",
+      "title": "本届世界杯射正榜：姆巴佩19次居首，梅西、哈兰德前三",
+      "summary": "",
+      "url": "https://bbs.hupu.com/640830122.html",
+      "team": "FRA",
+      "time": "17小时前",
+      "time_iso": "2026-07-15T03:18:15.660086+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -370,19 +418,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a574814c3209native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.799899+00:00",
+      "time_iso": "2026-07-15T21:09:08.157347+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "8b73790488",
+      "id": "fd6401cfbb",
       "category": "hot",
-      "title": "本届世界杯射正榜：姆巴佩19次居首，梅西、哈兰德前三",
+      "title": "本届世界杯创造机会榜：梅西21次居首，特罗萨德、哈基米前3",
       "summary": "",
-      "url": "https://bbs.hupu.com/640830122.html",
-      "team": "FRA",
-      "time": "16小时前",
-      "time_iso": "2026-07-15T03:18:15.660086+00:00",
+      "url": "https://bbs.hupu.com/640830090.html",
+      "team": "ARG",
+      "time": "17小时前",
+      "time_iso": "2026-07-15T03:18:15.660120+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -394,31 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a53cc114da2fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800495+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "fd6401cfbb",
-      "category": "hot",
-      "title": "本届世界杯创造机会榜：梅西21次居首，特罗萨德、哈基米前3",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640830090.html",
-      "team": "ARG",
-      "time": "16小时前",
-      "time_iso": "2026-07-15T03:18:15.660120+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "ca857d4e9b",
-      "category": "hot",
-      "title": "39岁零21天！梅西成出战世界杯半决赛最年长非门将球员",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57d5f3bec7dnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800517+00:00",
+      "time_iso": "2026-07-15T21:09:08.158130+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -429,20 +453,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/640813656.html",
       "team": "FRA",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-07-14T19:37:48.475419+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "a3f2b0c27c",
+      "id": "f91fde3a61",
       "category": "hot",
-      "title": "前队友谈梅西：他一进入淘汰赛模式，会看到性格不想输球的另一面",
+      "title": "怎么吹？39岁梅西半决赛两助攻带队连进世界杯决赛，本届8球4助！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57bffee519dnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57f36a397fdnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800541+00:00",
+      "time_iso": "2026-07-15T21:09:08.158159+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -459,14 +483,14 @@
       "is_hot": true
     },
     {
-      "id": "6acd44d465",
+      "id": "d68fea13ce",
       "category": "hot",
-      "title": "BBC：梅西最高冲刺速度比卡塔尔世界杯高5%，有47%的时间在步行",
+      "title": "个个关键！梅西世界杯12次助攻中，有10次出现在淘汰赛阶段",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a570c00537afnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57f5327fd9cnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800641+00:00",
+      "time_iso": "2026-07-15T21:09:08.158183+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -483,14 +507,14 @@
       "is_hot": true
     },
     {
-      "id": "ea94509185",
+      "id": "304b1ef475",
       "category": "hot",
-      "title": "梅西射门占阿根廷全队34%本届世界杯占比最高，哈兰德第三C罗第四",
+      "title": "欧洲冠军vs美洲冠军！世界杯决赛：西班牙vs阿根廷！亚马尔PK梅西",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-14/6a5647c5698cfnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57babf7a4d9native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800669+00:00",
+      "time_iso": "2026-07-15T21:09:08.158212+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -507,14 +531,14 @@
       "is_hot": true
     },
     {
-      "id": "8cf12e79a3",
+      "id": "ca857d4e9b",
       "category": "hot",
-      "title": "本届世界杯射正榜：姆巴佩19次位列第1，梅西18次第2，C罗9次第9",
+      "title": "39岁零21天！梅西成出战世界杯半决赛最年长非门将球员",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-14/6a55124e91081native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57d5f3bec7dnative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800690+00:00",
+      "time_iso": "2026-07-15T21:09:08.158251+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -531,14 +555,14 @@
       "is_hot": true
     },
     {
-      "id": "fad7bead06",
+      "id": "a3f2b0c27c",
       "category": "hot",
-      "title": "TA评本届世界杯十大争议：C罗&巴洛贡逃禁赛、阿根廷赢埃及在列…",
+      "title": "前队友谈梅西：他一进入淘汰赛模式，会看到性格不想输球的另一面",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a5494a106e17native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-16/6a57bffee519dnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800707+00:00",
+      "time_iso": "2026-07-15T21:09:08.158282+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -555,14 +579,14 @@
       "is_hot": true
     },
     {
-      "id": "901c6861b3",
+      "id": "ea94509185",
       "category": "hot",
-      "title": "记者：在这届满是装腔作势者的世界杯 C罗梅西哈兰德能包揽领奖台",
+      "title": "梅西射门占阿根廷全队34%本届世界杯占比最高，哈兰德第三C罗第四",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-13/6a540e254d381native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-14/6a5647c5698cfnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800728+00:00",
+      "time_iso": "2026-07-15T21:09:08.158382+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -575,30 +599,6 @@
       "team": "ARG",
       "time": "1天前",
       "time_iso": "2026-07-14T10:05:50.697799+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "b72711be72",
-      "category": "hot",
-      "title": "41岁C罗能否出战下一届世界杯？TA：在热苏斯麾下，一切皆有可能",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a53118e862f8native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-07-15T19:23:45.800749+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "4860ef7cbb",
-      "category": "hot",
-      "title": "哈兰德vs英格兰全场21次触球，为本届世界杯个人单场第二少",
-      "summary": "",
-      "url": "https://bbs.hupu.com/640765917.html",
-      "team": "ENG",
-      "time": "1天前",
-      "time_iso": "2026-07-14T10:05:50.698012+00:00",
       "source": "虎扑",
       "is_hot": true
     }
