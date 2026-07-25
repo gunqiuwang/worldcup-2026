@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T06:25:02.607902+00:00",
+  "updated_at": "2026-07-25T09:56:28.245337+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a6377e0380e3native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.837557+00:00",
+      "time_iso": "2026-07-25T09:56:25.555783+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "e348cc5e9e",
+      "category": "hot",
+      "title": "法体育部长：姆巴佩世界杯表现出色；他拿金球？为什么不呢",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641222147.html",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-07-25T09:56:28.244447+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "ca28656604",
+      "category": "tactical",
+      "title": "阿吉雷评美加墨世界杯最佳阵容：姆巴佩哈兰德C罗在列，无梅西",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64667924f8anative.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-07-25T09:56:25.555938+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641199348.html",
       "team": "FRA",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-07-25T06:25:02.607056+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5f2f951887cnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838335+00:00",
+      "time_iso": "2026-07-25T09:56:25.556550+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641197364.html",
       "team": "ARG",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-07-25T06:25:02.607198+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5e4a35a634enative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838388+00:00",
+      "time_iso": "2026-07-25T09:56:25.556609+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641196173.html",
       "team": "ARG",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-07-25T06:25:02.607276+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-17/6a59680248c64native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838448+00:00",
+      "time_iso": "2026-07-25T09:56:25.556666+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641197244.html",
       "team": "ARG",
-      "time": "7小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-24T23:09:15.407410+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63507ea28b8native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838487+00:00",
+      "time_iso": "2026-07-25T09:56:25.556706+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641197150.html",
       "team": "ESP",
-      "time": "7小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-24T23:09:15.407446+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -130,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61df57a89danative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838529+00:00",
+      "time_iso": "2026-07-25T09:56:25.556753+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641196922.html",
       "team": "FRA",
-      "time": "7小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-24T23:09:15.407478+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -154,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61c8f90589bnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838561+00:00",
+      "time_iso": "2026-07-25T09:56:25.556785+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641196784.html",
       "team": "ARG",
-      "time": "7小时前",
+      "time": "10小时前",
       "time_iso": "2026-07-24T23:09:15.407503+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -178,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6149b949ac6native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838594+00:00",
+      "time_iso": "2026-07-25T09:56:25.556818+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641168900.html",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-07-24T14:02:07.912613+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -202,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-22/6a60a9829a5f0native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838682+00:00",
+      "time_iso": "2026-07-25T09:56:25.556897+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641168067.html",
       "team": "FRA",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-07-24T14:02:07.912770+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -226,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-22/6a602b1ad9974native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838710+00:00",
+      "time_iso": "2026-07-25T09:56:25.556923+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,8 +261,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641159094.html",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-07-24T14:02:07.912959+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "b9dd4ae7d0",
+      "category": "hot",
+      "title": "世体：展望2026年金球奖，亚马尔有望成为史上最年轻的金球先生",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a6456f947547native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-07-25T09:56:25.557055+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "c195a891fd",
+      "category": "hot",
+      "title": "世界杯射正次数最多的球员：姆巴佩领衔，梅西、哈兰德在列",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641197002.html",
+      "team": "FRA",
+      "time": "1天前",
+      "time_iso": "2026-07-24T06:34:03.470505+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -250,19 +298,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a640c787420dnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.838816+00:00",
+      "time_iso": "2026-07-25T09:56:25.557112+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "c195a891fd",
+      "id": "e7fb4d2092",
       "category": "hot",
-      "title": "世界杯射正次数最多的球员：姆巴佩领衔，梅西、哈兰德在列",
+      "title": "苏亚雷斯：梅西世界杯表现很棒，没什么可指责的，他是榜样",
       "summary": "",
-      "url": "https://bbs.hupu.com/641197002.html",
-      "team": "FRA",
-      "time": "23小时前",
-      "time_iso": "2026-07-24T06:34:03.470505+00:00",
+      "url": "https://bbs.hupu.com/641196936.html",
+      "team": "ARG",
+      "time": "1天前",
+      "time_iso": "2026-07-24T06:34:03.470541+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -274,19 +322,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a634cfce1b12native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.839699+00:00",
+      "time_iso": "2026-07-25T09:56:25.557841+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "e7fb4d2092",
+      "id": "fb1d233494",
       "category": "hot",
-      "title": "苏亚雷斯：梅西世界杯表现很棒，没什么可指责的，他是榜样",
+      "title": "世界杯成功对抗次数最多的球员：梅西60次居首，安德森次席",
       "summary": "",
-      "url": "https://bbs.hupu.com/641196936.html",
+      "url": "https://bbs.hupu.com/641196304.html",
       "team": "ARG",
-      "time": "23小时前",
-      "time_iso": "2026-07-24T06:34:03.470541+00:00",
+      "time": "1天前",
+      "time_iso": "2026-07-24T06:34:03.470601+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -298,19 +346,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.839741+00:00",
+      "time_iso": "2026-07-25T09:56:25.557884+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "fb1d233494",
+      "id": "05d63616da",
       "category": "hot",
-      "title": "世界杯成功对抗次数最多的球员：梅西60次居首，安德森次席",
+      "title": "世界杯单场成功过人次数最多的球员：梅西居首，恩西索次席",
       "summary": "",
-      "url": "https://bbs.hupu.com/641196304.html",
+      "url": "https://bbs.hupu.com/641195994.html",
       "team": "ARG",
-      "time": "23小时前",
-      "time_iso": "2026-07-24T06:34:03.470601+00:00",
+      "time": "1天前",
+      "time_iso": "2026-07-24T06:34:03.470652+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -322,19 +370,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a62a41612dbfnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.839800+00:00",
+      "time_iso": "2026-07-25T09:56:25.557943+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "05d63616da",
+      "id": "1647700beb",
       "category": "hot",
-      "title": "世界杯单场成功过人次数最多的球员：梅西居首，恩西索次席",
+      "title": "4月鲁尼专访B费：红魔队长的心路历程&想帮C罗赢世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/641195994.html",
-      "team": "ARG",
-      "time": "23小时前",
-      "time_iso": "2026-07-24T06:34:03.470652+00:00",
+      "url": "https://bbs.hupu.com/641165394.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-07-24T06:34:03.470990+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -346,31 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a621fa52e489native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.839837+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "1647700beb",
-      "category": "hot",
-      "title": "4月鲁尼专访B费：红魔队长的心路历程&想帮C罗赢世界杯",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641165394.html",
-      "team": "",
-      "time": "23小时前",
-      "time_iso": "2026-07-24T06:34:03.470990+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "391aadebb4",
-      "category": "hot",
-      "title": "世界杯5场3球！41岁C罗身价不变仍1000万欧，同年龄段位居第一",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6181fb6ef01native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.839901+00:00",
+      "time_iso": "2026-07-25T09:56:25.557984+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,14 +411,14 @@
       "is_hot": true
     },
     {
-      "id": "03c3dc91cd",
+      "id": "391aadebb4",
       "category": "hot",
-      "title": "福克斯评世界杯TOP50球星：梅西第1、姆巴佩第2罗德里第7，无C罗",
+      "title": "世界杯5场3球！41岁C罗身价不变仍1000万欧，同年龄段位居第一",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a617d20c9a86native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6181fb6ef01native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.839938+00:00",
+      "time_iso": "2026-07-25T09:56:25.558036+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -411,14 +435,14 @@
       "is_hot": true
     },
     {
-      "id": "a65f023508",
+      "id": "03c3dc91cd",
       "category": "hot",
-      "title": "德转调侃亚马尔弟弟摸世界杯奖杯比C罗多，被批评太不尊重球员",
+      "title": "福克斯评世界杯TOP50球星：梅西第1、姆巴佩第2罗德里第7，无C罗",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-22/6a60a9685395bnative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a617d20c9a86native.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.839971+00:00",
+      "time_iso": "2026-07-25T09:56:25.558065+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -435,14 +459,14 @@
       "is_hot": true
     },
     {
-      "id": "cb112569f4",
+      "id": "a65f023508",
       "category": "hot",
-      "title": "力挺！苏牙：梅西世界杯表现很棒没什么可责备的！他是大家的榜样",
+      "title": "德转调侃亚马尔弟弟摸世界杯奖杯比C罗多，被批评太不尊重球员",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61b0b39beeenative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-22/6a60a9685395bnative.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.840061+00:00",
+      "time_iso": "2026-07-25T09:56:25.558098+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -459,14 +483,14 @@
       "is_hot": true
     },
     {
-      "id": "807b012819",
+      "id": "cb112569f4",
       "category": "hot",
-      "title": "何意味？世界杯决赛结束后 沙特联官推第一时间晒C罗配表情：🐐",
+      "title": "力挺！苏牙：梅西世界杯表现很棒没什么可责备的！他是大家的榜样",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-20/6a5d56e017085native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61b0b39beeenative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.840150+00:00",
+      "time_iso": "2026-07-25T09:56:25.558166+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -483,14 +507,14 @@
       "is_hot": true
     },
     {
-      "id": "22af2ef908",
+      "id": "807b012819",
       "category": "hot",
-      "title": "世界杯第28、29比赛日前瞻：两大夺冠热门出战，姆巴佩渴望晋级",
+      "title": "何意味？世界杯决赛结束后 沙特联官推第一时间晒C罗配表情：🐐",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4c99b8a583fnative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-20/6a5d56e017085native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.840340+00:00",
+      "time_iso": "2026-07-25T09:56:25.558240+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -507,14 +531,14 @@
       "is_hot": true
     },
     {
-      "id": "83fdae6d22",
+      "id": "22af2ef908",
       "category": "hot",
-      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
+      "title": "世界杯第28、29比赛日前瞻：两大夺冠热门出战，姆巴佩渴望晋级",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4c99b8a583fnative.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-25T06:24:59.840966+00:00",
+      "time_iso": "2026-07-25T09:56:25.558444+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -531,14 +555,14 @@
       "is_hot": true
     },
     {
-      "id": "787e709efd",
+      "id": "83fdae6d22",
       "category": "hot",
-      "title": "天空评世界杯球员实力排名：梅西第1，姆巴佩贝林2-3，罗德里第18",
+      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a62d4bd18317native.htm",
-      "team": "FRA",
-      "time": "7小时前",
-      "time_iso": "2026-07-24T23:09:13.316732+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-07-25T09:56:25.559010+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -555,14 +579,14 @@
       "is_hot": true
     },
     {
-      "id": "020fafaa10",
+      "id": "787e709efd",
       "category": "hot",
-      "title": "撤回！C罗点赞西媒称\"FIFA想把世界杯送给梅西\"的切片，现已取消",
+      "title": "天空评世界杯球员实力排名：梅西第1，姆巴佩贝林2-3，罗德里第18",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-22/6a60131ccf8a0native.htm",
-      "team": "ARG",
-      "time": "7小时前",
-      "time_iso": "2026-07-24T23:09:13.319188+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a62d4bd18317native.htm",
+      "team": "FRA",
+      "time": "10小时前",
+      "time_iso": "2026-07-24T23:09:13.316732+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -575,30 +599,6 @@
       "team": "",
       "time": "1天前",
       "time_iso": "2026-07-23T10:31:24.688586+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "39d6efa888",
-      "category": "hot",
-      "title": "平60年纪录！姆巴佩包揽世界杯+欧冠+联赛金靴，成尤西比奥后首位",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61d100905afnative.htm",
-      "team": "FRA",
-      "time": "16小时前",
-      "time_iso": "2026-07-24T14:02:05.883646+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "dff7cf1339",
-      "category": "hot",
-      "title": "加维在梅西的世界杯总结社媒下评论：永远的第一❤️",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641107998.html",
-      "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-07-23T10:31:24.688722+00:00",
       "source": "虎扑",
       "is_hot": true
     }
