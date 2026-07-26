@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T06:43:20.618890+00:00",
+  "updated_at": "2026-07-26T10:08:15.417631+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6592465e169native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.559152+00:00",
+      "time_iso": "2026-07-26T10:08:13.288432+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,31 +22,7 @@
       "url": "https://bbs.hupu.com/641299974.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:20.617679+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "ca28656604",
-      "category": "tactical",
-      "title": "阿吉雷评美加墨世界杯最佳阵容：姆巴佩哈兰德C罗在列，无梅西",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64667924f8anative.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.566891+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "623af34172",
-      "category": "hot",
-      "title": "梅西世界杯后首度公开露面，现场观看自家球队比赛",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641299519.html",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:20.617760+00:00",
+      "time_iso": "2026-07-26T10:08:15.416574+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a659f4846e4fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.566939+00:00",
+      "time_iso": "2026-07-26T10:08:13.294922+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "2dc8e67622",
+      "id": "623af34172",
       "category": "hot",
-      "title": "天空体育2026世界杯表现排名：梅西第一，罗德里未进前十",
+      "title": "梅西世界杯后首度公开露面，现场观看自家球队比赛",
       "summary": "",
-      "url": "https://bbs.hupu.com/641210466.html",
+      "url": "https://bbs.hupu.com/641299519.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:20.618126+00:00",
+      "time_iso": "2026-07-26T10:08:15.416644+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -82,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6534a3888ddnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567108+00:00",
+      "time_iso": "2026-07-26T10:08:13.295092+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "bb09c5fe94",
+      "id": "2dc8e67622",
       "category": "hot",
-      "title": "姆巴佩单赛季包揽欧冠+联赛+世界杯金靴，尤西比奥后首人",
+      "title": "天空体育2026世界杯表现排名：梅西第一，罗德里未进前十",
       "summary": "",
-      "url": "https://bbs.hupu.com/641208602.html",
-      "team": "FRA",
+      "url": "https://bbs.hupu.com/641210466.html",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:20.618183+00:00",
+      "time_iso": "2026-07-26T10:08:15.416947+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -106,19 +82,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5f2f951887cnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567225+00:00",
+      "time_iso": "2026-07-26T10:08:13.295214+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "8dff49e37a",
+      "id": "bb09c5fe94",
       "category": "hot",
-      "title": "世界杯官方发布夺冠队长：罗德里、梅西、洛里在列",
+      "title": "姆巴佩单赛季包揽欧冠+联赛+世界杯金靴，尤西比奥后首人",
       "summary": "",
-      "url": "https://bbs.hupu.com/641204406.html",
-      "team": "ARG",
+      "url": "https://bbs.hupu.com/641208602.html",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:20.618287+00:00",
+      "time_iso": "2026-07-26T10:08:15.416992+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -130,19 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5e4a35a634enative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567282+00:00",
+      "time_iso": "2026-07-26T10:08:13.295269+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "a53ed156c3",
+      "id": "8dff49e37a",
       "category": "hot",
-      "title": "切尔西准新援拉克鲁瓦，世界杯季军赛时曾被贝林厄姆戏耍",
+      "title": "世界杯官方发布夺冠队长：罗德里、梅西、洛里在列",
       "summary": "",
-      "url": "https://bbs.hupu.com/641261912.html",
-      "team": "ENG",
-      "time": "7小时前",
-      "time_iso": "2026-07-25T23:01:40.928453+00:00",
+      "url": "https://bbs.hupu.com/641204406.html",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-07-26T10:08:15.417141+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -154,7 +130,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a6488695cf17native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567328+00:00",
+      "time_iso": "2026-07-26T10:08:13.295326+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "a53ed156c3",
+      "category": "hot",
+      "title": "切尔西准新援拉克鲁瓦，世界杯季军赛时曾被贝林厄姆戏耍",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641261912.html",
+      "team": "ENG",
+      "time": "11小时前",
+      "time_iso": "2026-07-25T23:01:40.928453+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "ca28656604",
+      "category": "tactical",
+      "title": "阿吉雷评美加墨世界杯最佳阵容：姆巴佩哈兰德C罗在列，无梅西",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64667924f8anative.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-07-26T10:08:13.295354+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641199714.html",
       "team": "ARG",
-      "time": "15小时前",
+      "time": "18小时前",
       "time_iso": "2026-07-25T15:11:27.754627+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63507ea28b8native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567362+00:00",
+      "time_iso": "2026-07-26T10:08:13.295389+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641198965.html",
       "team": "",
-      "time": "15小时前",
+      "time": "18小时前",
       "time_iso": "2026-07-25T15:11:27.754804+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61df57a89danative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567418+00:00",
+      "time_iso": "2026-07-26T10:08:13.295443+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641197878.html",
       "team": "ARG",
-      "time": "15小时前",
+      "time": "18小时前",
       "time_iso": "2026-07-25T15:11:27.754874+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61c8f90589bnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567451+00:00",
+      "time_iso": "2026-07-26T10:08:13.295476+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641196304.html",
       "team": "ARG",
-      "time": "15小时前",
+      "time": "18小时前",
       "time_iso": "2026-07-25T15:11:27.754924+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6149b949ac6native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.567484+00:00",
+      "time_iso": "2026-07-26T10:08:13.295510+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641195994.html",
       "team": "ARG",
-      "time": "15小时前",
+      "time": "18小时前",
       "time_iso": "2026-07-25T15:11:27.754971+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a657416a0cd7native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568503+00:00",
+      "time_iso": "2026-07-26T10:08:13.296551+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641197641.html",
       "team": "FRA",
-      "time": "16小时前",
+      "time": "20小时前",
       "time_iso": "2026-07-25T13:52:58.350682+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a65749f530ddnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568569+00:00",
+      "time_iso": "2026-07-26T10:08:13.296589+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -309,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641185004.html",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "20小时前",
       "time_iso": "2026-07-25T13:52:58.350807+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a65543c25501native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568663+00:00",
+      "time_iso": "2026-07-26T10:08:13.296659+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -333,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641222147.html",
       "team": "FRA",
-      "time": "19小时前",
+      "time": "22小时前",
       "time_iso": "2026-07-25T11:19:50.455910+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64919503c66native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568723+00:00",
+      "time_iso": "2026-07-26T10:08:13.296700+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a634cfce1b12native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568807+00:00",
+      "time_iso": "2026-07-26T10:08:13.296770+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568841+00:00",
+      "time_iso": "2026-07-26T10:08:13.296804+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6181fb6ef01native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568889+00:00",
+      "time_iso": "2026-07-26T10:08:13.296852+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -442,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a617d20c9a86native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568917+00:00",
+      "time_iso": "2026-07-26T10:08:13.296880+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -466,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-20/6a5d56e017085native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.568997+00:00",
+      "time_iso": "2026-07-26T10:08:13.296971+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4c99b8a583fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.569170+00:00",
+      "time_iso": "2026-07-26T10:08:13.297163+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-26T06:43:18.569768+00:00",
+      "time_iso": "2026-07-26T10:08:13.297735+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -537,7 +537,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a6377e0380e3native.htm",
       "team": "ENG",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-07-25T23:01:39.228757+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -561,7 +561,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-17/6a59680248c64native.htm",
       "team": "BRA",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-07-25T23:01:39.229126+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -585,7 +585,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a62a41612dbfnative.htm",
       "team": "ENG",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-07-25T23:01:39.230346+00:00",
       "source": "直播吧",
       "is_hot": true
