@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T17:49:08.586247+00:00",
+  "updated_at": "2026-07-27T19:46:30.102963+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a670c1377425native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116049+00:00",
+      "time_iso": "2026-07-27T19:46:28.022401+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/641301973.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:08.585638+00:00",
+      "time_iso": "2026-07-27T19:46:30.102393+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a6742b24db80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116364+00:00",
+      "time_iso": "2026-07-27T19:46:28.022727+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641199714.html",
       "team": "ARG",
-      "time": "13小时前",
+      "time": "15小时前",
       "time_iso": "2026-07-27T03:52:22.035310+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6534a3888ddnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116495+00:00",
+      "time_iso": "2026-07-27T19:46:28.022842+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641198965.html",
       "team": "",
-      "time": "13小时前",
+      "time": "15小时前",
       "time_iso": "2026-07-27T03:52:22.035440+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5f2f951887cnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116633+00:00",
+      "time_iso": "2026-07-27T19:46:28.022953+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,20 +93,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641197878.html",
       "team": "ARG",
-      "time": "13小时前",
+      "time": "15小时前",
       "time_iso": "2026-07-27T03:52:22.035503+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "6a74b817ef",
+      "id": "0d6d205425",
       "category": "hot",
-      "title": "世界杯ins涨粉榜：哈兰德第1沃齐尼亚第2 C罗第4内马尔第6梅西第7",
+      "title": "德转世界杯球星评级：梅西姆巴佩罗德里夯，C罗低于预期/佩德里拉",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5e4a35a634enative.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a659f4846e4fnative.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116685+00:00",
+      "time_iso": "2026-07-27T19:46:28.023012+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +123,14 @@
       "is_hot": true
     },
     {
-      "id": "0d6d205425",
+      "id": "07f3cce00b",
       "category": "hot",
-      "title": "德转世界杯球星评级：梅西姆巴佩罗德里夯，C罗低于预期/佩德里拉",
+      "title": "引阿迷不满！FIFA官方晒世界杯加时冠军，2022用的却是姆巴佩图像",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a659f4846e4fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a6488695cf17native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116719+00:00",
+      "time_iso": "2026-07-27T19:46:28.023062+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +147,14 @@
       "is_hot": true
     },
     {
-      "id": "07f3cce00b",
-      "category": "hot",
-      "title": "引阿迷不满！FIFA官方晒世界杯加时冠军，2022用的却是姆巴佩图像",
+      "id": "ca28656604",
+      "category": "tactical",
+      "title": "阿吉雷评美加墨世界杯最佳阵容：姆巴佩哈兰德C罗在列，无梅西",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a6488695cf17native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64667924f8anative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116772+00:00",
+      "time_iso": "2026-07-27T19:46:28.023089+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +171,14 @@
       "is_hot": true
     },
     {
-      "id": "ca28656604",
-      "category": "tactical",
-      "title": "阿吉雷评美加墨世界杯最佳阵容：姆巴佩哈兰德C罗在列，无梅西",
+      "id": "03fc40574d",
+      "category": "hot",
+      "title": "2026世界杯速度榜：姆巴佩37.61km/h最快！哈兰德36.52km/h第5",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64667924f8anative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63507ea28b8native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116798+00:00",
+      "time_iso": "2026-07-27T19:46:28.023122+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +195,14 @@
       "is_hot": true
     },
     {
-      "id": "03fc40574d",
+      "id": "88be235222",
       "category": "hot",
-      "title": "2026世界杯速度榜：姆巴佩37.61km/h最快！哈兰德36.52km/h第5",
+      "title": "神仙打架！本届世界杯射手王之争：梅西短暂登顶，姆巴佩笑到最后",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63507ea28b8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61df57a89danative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116831+00:00",
+      "time_iso": "2026-07-27T19:46:28.023180+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +219,14 @@
       "is_hot": true
     },
     {
-      "id": "88be235222",
+      "id": "e73ec5cf47",
       "category": "hot",
-      "title": "神仙打架！本届世界杯射手王之争：梅西短暂登顶，姆巴佩笑到最后",
+      "title": "FIFA官方世界杯海报：罗德里C位，梅西、C罗、哈兰德、姆巴佩入镜",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61df57a89danative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61c8f90589bnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116885+00:00",
+      "time_iso": "2026-07-27T19:46:28.023231+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +243,14 @@
       "is_hot": true
     },
     {
-      "id": "e73ec5cf47",
+      "id": "4a754548d1",
       "category": "hot",
-      "title": "FIFA官方世界杯海报：罗德里C位，梅西、C罗、哈兰德、姆巴佩入镜",
+      "title": "德转世界杯后身价涨幅榜：安德森、贝林厄姆领衔，沃齐尼亚翻十倍",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61c8f90589bnative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66ba479fc67native.htm",
+      "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.116917+00:00",
+      "time_iso": "2026-07-27T19:46:28.023448+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -267,14 +267,14 @@
       "is_hot": true
     },
     {
-      "id": "4a754548d1",
+      "id": "df9277975f",
       "category": "hot",
-      "title": "德转世界杯后身价涨幅榜：安德森、贝林厄姆领衔，沃齐尼亚翻十倍",
+      "title": "厄瓜多尔国门：希望世界杯决赛有其他结局，有时生活对梅西不公平",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66ba479fc67native.htm",
-      "team": "ENG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66c416582dcnative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.117140+00:00",
+      "time_iso": "2026-07-27T19:46:28.024131+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -291,14 +291,14 @@
       "is_hot": true
     },
     {
-      "id": "df9277975f",
-      "category": "hot",
-      "title": "厄瓜多尔国门：希望世界杯决赛有其他结局，有时生活对梅西不公平",
+      "id": "9ee8e60e6b",
+      "category": "tactical",
+      "title": "前本菲卡主席：C罗必须接受自己在葡萄牙国家队不再是稳定的首发",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66c416582dcnative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66a7cf16caanative.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.117902+00:00",
+      "time_iso": "2026-07-27T19:46:28.024169+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -315,14 +315,14 @@
       "is_hot": true
     },
     {
-      "id": "9ee8e60e6b",
-      "category": "tactical",
-      "title": "前本菲卡主席：C罗必须接受自己在葡萄牙国家队不再是稳定的首发",
+      "id": "d6517152a2",
+      "category": "hot",
+      "title": "多邻国世界杯决赛后嘲讽梅西失利，引发阿根廷用户的强烈抗议😡",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66a7cf16caanative.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6592465e169native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.117941+00:00",
+      "time_iso": "2026-07-27T19:46:28.024310+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -339,14 +339,14 @@
       "is_hot": true
     },
     {
-      "id": "d6517152a2",
+      "id": "9399ff99f1",
       "category": "hot",
-      "title": "多邻国世界杯决赛后嘲讽梅西失利，引发阿根廷用户的强烈抗议😡",
+      "title": "TA：梅西将不参加2026年MLS全明星赛，这次他不会再遭禁赛处罚",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6592465e169native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a657416a0cd7native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118063+00:00",
+      "time_iso": "2026-07-27T19:46:28.024340+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -363,14 +363,14 @@
       "is_hot": true
     },
     {
-      "id": "9399ff99f1",
+      "id": "b5bb53f55a",
       "category": "hot",
-      "title": "TA：梅西将不参加2026年MLS全明星赛，这次他不会再遭禁赛处罚",
+      "title": "ESPN：阿根廷球队身穿特别版球衣，致敬阿根廷国家队和梅西",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a657416a0cd7native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a65749f530ddnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118098+00:00",
+      "time_iso": "2026-07-27T19:46:28.024381+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,14 +387,14 @@
       "is_hot": true
     },
     {
-      "id": "b5bb53f55a",
+      "id": "5a3def35ea",
       "category": "hot",
-      "title": "ESPN：阿根廷球队身穿特别版球衣，致敬阿根廷国家队和梅西",
+      "title": "金球奖官方专栏：持续70年的“世界杯诅咒”，只有梅西才能打破",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a65749f530ddnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a634cfce1b12native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118137+00:00",
+      "time_iso": "2026-07-27T19:46:28.024446+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -411,14 +411,14 @@
       "is_hot": true
     },
     {
-      "id": "5a3def35ea",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "金球奖官方专栏：持续70年的“世界杯诅咒”，只有梅西才能打破",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a634cfce1b12native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118202+00:00",
+      "time_iso": "2026-07-27T19:46:28.024481+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -435,14 +435,14 @@
       "is_hot": true
     },
     {
-      "id": "cfb98e86ee",
+      "id": "9385903dbd",
       "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "title": "世界杯后首度公开露面！梅西观战家族创立的俱乐部比赛，球迷欢呼",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a65543c25501native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118235+00:00",
+      "time_iso": "2026-07-27T19:46:28.024570+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -459,14 +459,14 @@
       "is_hot": true
     },
     {
-      "id": "9385903dbd",
+      "id": "391aadebb4",
       "category": "hot",
-      "title": "世界杯后首度公开露面！梅西观战家族创立的俱乐部比赛，球迷欢呼",
+      "title": "世界杯5场3球！41岁C罗身价不变仍1000万欧，同年龄段位居第一",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a65543c25501native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6181fb6ef01native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118327+00:00",
+      "time_iso": "2026-07-27T19:46:28.024640+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -483,14 +483,14 @@
       "is_hot": true
     },
     {
-      "id": "391aadebb4",
+      "id": "6a74b817ef",
       "category": "hot",
-      "title": "世界杯5场3球！41岁C罗身价不变仍1000万欧，同年龄段位居第一",
+      "title": "世界杯ins涨粉榜：哈兰德第1沃齐尼亚第2 C罗第4内马尔第6梅西第7",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6181fb6ef01native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5e4a35a634enative.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118400+00:00",
+      "time_iso": "2026-07-27T19:46:28.024699+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-20/6a5d56e017085native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118467+00:00",
+      "time_iso": "2026-07-27T19:46:28.024733+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -538,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4c99b8a583fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.118631+00:00",
+      "time_iso": "2026-07-27T19:46:28.024877+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -550,7 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.119173+00:00",
+      "time_iso": "2026-07-27T19:46:28.025446+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -561,7 +561,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6149b949ac6native.htm",
       "team": "FRA",
-      "time": "18小时前",
+      "time": "20小时前",
       "time_iso": "2026-07-26T23:04:23.322231+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -573,7 +573,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64919503c66native.htm",
       "team": "ARG",
-      "time": "18小时前",
+      "time": "20小时前",
       "time_iso": "2026-07-26T23:04:23.323520+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -586,7 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a675b0f82e1bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.114185+00:00",
+      "time_iso": "2026-07-27T19:46:28.020511+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -598,7 +598,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a674407cbc46native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-27T17:49:06.114307+00:00",
+      "time_iso": "2026-07-27T19:46:28.020618+00:00",
       "source": "直播吧",
       "is_hot": false
     }
