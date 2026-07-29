@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-29T21:04:56.341446+00:00",
+  "updated_at": "2026-07-29T23:04:28.820199+00:00",
   "count": 50,
   "articles": [
     {
-      "id": "9a98754a67",
+      "id": "bfe30251be",
       "category": "hot",
-      "title": "阿斯：本届世界杯维尼修斯手握16个赞助商品牌，仅次于内马尔20个",
+      "title": "巴媒：巴西足协考虑为内马尔办国家队告别赛，向他致敬",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a6742b24db80native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a7b74d557anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.700743+00:00",
+      "time_iso": "2026-07-29T23:04:26.919002+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,31 @@
       "url": "https://bbs.hupu.com/641378283.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:56.340810+00:00",
+      "time_iso": "2026-07-29T23:04:28.819857+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "9a98754a67",
+      "category": "hot",
+      "title": "阿斯：本届世界杯维尼修斯手握16个赞助商品牌，仅次于内马尔20个",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a6742b24db80native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-07-29T23:04:26.919127+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "bd84e62abe",
+      "category": "hot",
+      "title": "天空体育：国际足联新项目引争议，欧洲国家可能抵制世界杯",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641376823.html",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-07-29T19:35:19.282567+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,31 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6534a3888ddnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.700802+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "bd84e62abe",
-      "category": "hot",
-      "title": "天空体育：国际足联新项目引争议，欧洲国家可能抵制世界杯",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641376823.html",
-      "team": "",
-      "time": "1小时前",
-      "time_iso": "2026-07-29T19:35:19.282567+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "ac04964b6b",
-      "category": "hot",
-      "title": "耐克为庆祝姆巴佩获得世界杯金靴，将推出特别版球鞋",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a68598601e0anative.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.700887+00:00",
+      "time_iso": "2026-07-29T23:04:26.919158+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "0d6d205425",
+      "id": "ac04964b6b",
       "category": "hot",
-      "title": "德转世界杯球星评级：梅西姆巴佩罗德里夯，C罗低于预期/佩德里拉",
+      "title": "耐克为庆祝姆巴佩获得世界杯金靴，将推出特别版球鞋",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a659f4846e4fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a68598601e0anative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.700952+00:00",
+      "time_iso": "2026-07-29T23:04:26.919202+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "07f3cce00b",
+      "id": "0d6d205425",
       "category": "hot",
-      "title": "引阿迷不满！FIFA官方晒世界杯加时冠军，2022用的却是姆巴佩图像",
+      "title": "德转世界杯球星评级：梅西姆巴佩罗德里夯，C罗低于预期/佩德里拉",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a6488695cf17native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a659f4846e4fnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.701002+00:00",
+      "time_iso": "2026-07-29T23:04:26.919240+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +123,14 @@
       "is_hot": true
     },
     {
-      "id": "ca28656604",
-      "category": "tactical",
-      "title": "阿吉雷评美加墨世界杯最佳阵容：姆巴佩哈兰德C罗在列，无梅西",
+      "id": "07f3cce00b",
+      "category": "hot",
+      "title": "引阿迷不满！FIFA官方晒世界杯加时冠军，2022用的却是姆巴佩图像",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64667924f8anative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a6488695cf17native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.701030+00:00",
+      "time_iso": "2026-07-29T23:04:26.919267+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-29/6a69307d6b508native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702079+00:00",
+      "time_iso": "2026-07-29T23:04:26.919855+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66c416582dcnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702212+00:00",
+      "time_iso": "2026-07-29T23:04:26.919924+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a67c00045e25native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702250+00:00",
+      "time_iso": "2026-07-29T23:04:26.919941+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66a7cf16caanative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702309+00:00",
+      "time_iso": "2026-07-29T23:04:26.919978+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +243,14 @@
       "is_hot": true
     },
     {
-      "id": "9399ff99f1",
-      "category": "hot",
-      "title": "TA：梅西将不参加2026年MLS全明星赛，这次他不会再遭禁赛处罚",
+      "id": "ca28656604",
+      "category": "tactical",
+      "title": "阿吉雷评美加墨世界杯最佳阵容：姆巴佩哈兰德C罗在列，无梅西",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a657416a0cd7native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-25/6a64667924f8anative.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702461+00:00",
+      "time_iso": "2026-07-29T23:04:26.920013+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -262,19 +262,19 @@
       "url": "https://bbs.hupu.com/641389020.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:56.340464+00:00",
+      "time_iso": "2026-07-29T23:04:28.819684+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "cfb98e86ee",
+      "id": "9399ff99f1",
       "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "title": "TA：梅西将不参加2026年MLS全明星赛，这次他不会再遭禁赛处罚",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a657416a0cd7native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702557+00:00",
+      "time_iso": "2026-07-29T23:04:26.920061+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -286,19 +286,19 @@
       "url": "https://bbs.hupu.com/641388385.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:56.340540+00:00",
+      "time_iso": "2026-07-29T23:04:28.819721+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "391aadebb4",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "世界杯5场3球！41岁C罗身价不变仍1000万欧，同年龄段位居第一",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6181fb6ef01native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702598+00:00",
+      "time_iso": "2026-07-29T23:04:26.920109+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -310,19 +310,19 @@
       "url": "https://bbs.hupu.com/641385812.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:56.340614+00:00",
+      "time_iso": "2026-07-29T23:04:28.819760+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "22af2ef908",
+      "id": "391aadebb4",
       "category": "hot",
-      "title": "世界杯第28、29比赛日前瞻：两大夺冠热门出战，姆巴佩渴望晋级",
+      "title": "世界杯5场3球！41岁C罗身价不变仍1000万欧，同年龄段位居第一",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4c99b8a583fnative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6181fb6ef01native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.702771+00:00",
+      "time_iso": "2026-07-29T23:04:26.920132+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -334,7 +334,31 @@
       "url": "https://bbs.hupu.com/641386249.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:56.340678+00:00",
+      "time_iso": "2026-07-29T23:04:28.819790+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "22af2ef908",
+      "category": "hot",
+      "title": "世界杯第28、29比赛日前瞻：两大夺冠热门出战，姆巴佩渴望晋级",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4c99b8a583fnative.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-07-29T23:04:26.920223+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "1ef099670f",
+      "category": "hot",
+      "title": "当选世界杯最佳进球！卡布拉尔：希望佛得角年轻人勇敢追梦",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641347217.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-07-29T23:04:28.819882+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -346,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-07-29T21:04:54.703357+00:00",
+      "time_iso": "2026-07-29T23:04:26.920509+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -357,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641339729.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "1小时前",
       "time_iso": "2026-07-29T21:04:56.340980+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -369,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a65543c25501native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-07-29T17:22:38.265807+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -381,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641356960.html",
       "team": "USA",
-      "time": "6小时前",
+      "time": "8小时前",
       "time_iso": "2026-07-29T14:25:55.153917+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -393,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6592465e169native.htm",
       "team": "ARG",
-      "time": "21小时前",
+      "time": "23小时前",
       "time_iso": "2026-07-28T23:08:25.697766+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -405,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641370508.html",
       "team": "",
-      "time": "10小时前",
+      "time": "12小时前",
       "time_iso": "2026-07-29T10:46:13.690306+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -429,7 +453,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641361774.html",
       "team": "ESP",
-      "time": "10小时前",
+      "time": "12小时前",
       "time_iso": "2026-07-29T10:46:13.690547+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -453,7 +477,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641361240.html",
       "team": "GER",
-      "time": "10小时前",
+      "time": "12小时前",
       "time_iso": "2026-07-29T10:46:13.690580+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -477,7 +501,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641363642.html",
       "team": "JPN",
-      "time": "10小时前",
+      "time": "12小时前",
       "time_iso": "2026-07-29T10:46:13.690613+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -501,7 +525,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641296580.html",
       "team": "",
-      "time": "10小时前",
+      "time": "12小时前",
       "time_iso": "2026-07-29T10:46:13.690690+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -525,7 +549,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641352126.html",
       "team": "",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-07-29T06:39:34.222984+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -549,7 +573,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641350181.html",
       "team": "",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-07-28T21:15:22.368891+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -575,30 +599,6 @@
       "team": "ESP",
       "time": "1天前",
       "time_iso": "2026-07-28T19:43:57.414767+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "88be235222",
-      "category": "hot",
-      "title": "神仙打架！本届世界杯射手王之争：梅西短暂登顶，姆巴佩笑到最后",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a61df57a89danative.htm",
-      "team": "FRA",
-      "time": "1天前",
-      "time_iso": "2026-07-28T03:23:18.468697+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "bc593c8f22",
-      "category": "hot",
-      "title": "西尔维斯特：梅罗都不会很快退役，但踢下届世界杯不合情理",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641301353.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-07-28T17:41:43.023616+00:00",
       "source": "虎扑",
       "is_hot": false
     }
