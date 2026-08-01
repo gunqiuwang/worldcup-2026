@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:20:28.111175+00:00",
+  "updated_at": "2026-08-01T21:02:06.689752+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a913a3ba4bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.354276+00:00",
+      "time_iso": "2026-08-01T21:02:04.693272+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/641403171.html",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:28.110577+00:00",
+      "time_iso": "2026-08-01T21:02:06.689128+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a7b74d557anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.354314+00:00",
+      "time_iso": "2026-08-01T21:02:04.693311+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a6742b24db80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.354383+00:00",
+      "time_iso": "2026-08-01T21:02:04.693430+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6534a3888ddnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.354440+00:00",
+      "time_iso": "2026-08-01T21:02:04.693511+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a68598601e0anative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.354553+00:00",
+      "time_iso": "2026-08-01T21:02:04.693635+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6e0abc898acnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.355508+00:00",
+      "time_iso": "2026-08-01T21:02:04.694637+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c096e14c1bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.355599+00:00",
+      "time_iso": "2026-08-01T21:02:04.694736+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -178,21 +178,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac962b28c8native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.355663+00:00",
+      "time_iso": "2026-08-01T21:02:04.694798+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "bd84e62abe",
+      "id": "58729d7b8b",
       "category": "hot",
-      "title": "天空体育：国际足联新项目引争议，欧洲国家可能抵制世界杯",
+      "title": "欧盟委员：别让私人资本染指世界杯，欧盟将调查是否违规",
       "summary": "",
-      "url": "https://bbs.hupu.com/641376823.html",
+      "url": "https://bbs.hupu.com/641408304.html",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-07-29T19:35:19.282567+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-01T21:02:06.688952+00:00",
       "source": "虎扑",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "8baf5f60bd",
@@ -202,31 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac88a69716native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.355695+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "d3e32cac23",
-      "category": "hot",
-      "title": "成人女星：世界杯期间，某尤文球员和国家队教练都曾私信我",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641480184.html",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:28.110280+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "6ad8bc1d2e",
-      "category": "hot",
-      "title": "又杠上了！瑞安航空调侃C罗：30岁世界杯0冠，40岁世界杯还是0冠",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a67c00045e25native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.355821+00:00",
+      "time_iso": "2026-08-01T21:02:04.694832+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -238,7 +214,31 @@
       "url": "https://bbs.hupu.com/641402580.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:28.110683+00:00",
+      "time_iso": "2026-08-01T21:02:06.689238+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "6ad8bc1d2e",
+      "category": "hot",
+      "title": "又杠上了！瑞安航空调侃C罗：30岁世界杯0冠，40岁世界杯还是0冠",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a67c00045e25native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-01T21:02:04.694958+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "d3e32cac23",
+      "category": "hot",
+      "title": "成人女星：世界杯期间，某尤文球员和国家队教练都曾私信我",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641480184.html",
+      "team": "",
+      "time": "1小时前",
+      "time_iso": "2026-08-01T19:20:28.110280+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.356644+00:00",
+      "time_iso": "2026-08-01T21:02:04.695811+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641432043.html",
       "team": "",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-01T13:44:53.256839+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.356698+00:00",
+      "time_iso": "2026-08-01T21:02:04.695866+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641394144.html",
       "team": "ENG",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-01T13:44:53.257242+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -297,7 +297,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a659f4846e4fnative.htm",
       "team": "FRA",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T06:36:20.505807+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -309,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641461396.html",
       "team": "",
-      "time": "9小时前",
+      "time": "10小时前",
       "time_iso": "2026-08-01T10:06:32.036257+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -321,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66a7cf16caanative.htm",
       "team": "POR",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T06:36:20.507235+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -333,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641458565.html",
       "team": "MEX",
-      "time": "9小时前",
+      "time": "10小时前",
       "time_iso": "2026-08-01T10:06:32.036372+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -357,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641456464.html",
       "team": "",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T06:36:22.027943+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -381,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641456154.html",
       "team": "",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T06:36:22.028028+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -405,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641456128.html",
       "team": "",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T06:36:22.028068+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -429,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641454551.html",
       "team": "",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T06:36:22.028160+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -453,7 +453,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641443450.html",
       "team": "",
-      "time": "15小时前",
+      "time": "17小时前",
       "time_iso": "2026-08-01T03:39:30.970314+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -477,7 +477,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641440689.html",
       "team": "",
-      "time": "15小时前",
+      "time": "17小时前",
       "time_iso": "2026-08-01T03:39:30.970366+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -501,7 +501,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641403591.html",
       "team": "ESP",
-      "time": "15小时前",
+      "time": "17小时前",
       "time_iso": "2026-08-01T03:39:30.970486+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -525,7 +525,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641432005.html",
       "team": "",
-      "time": "20小时前",
+      "time": "21小时前",
       "time_iso": "2026-07-31T23:09:51.676961+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -549,7 +549,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641431933.html",
       "team": "",
-      "time": "20小时前",
+      "time": "21小时前",
       "time_iso": "2026-07-31T23:09:51.676983+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -562,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c079296c34native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.352604+00:00",
+      "time_iso": "2026-08-01T21:02:04.691084+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -573,7 +573,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641403089.html",
       "team": "",
-      "time": "20小时前",
+      "time": "21小时前",
       "time_iso": "2026-07-31T23:09:51.677036+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -586,7 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6dcaf1eaddcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T19:20:26.352931+00:00",
+      "time_iso": "2026-08-01T21:02:04.691547+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -597,7 +597,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641402688.html",
       "team": "",
-      "time": "20小时前",
+      "time": "21小时前",
       "time_iso": "2026-07-31T23:09:51.677097+00:00",
       "source": "虎扑",
       "is_hot": false
