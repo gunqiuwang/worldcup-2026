@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:44:53.257707+00:00",
+  "updated_at": "2026-08-01T15:07:50.313456+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a913a3ba4bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.957671+00:00",
+      "time_iso": "2026-08-01T15:07:48.203284+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/641403171.html",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:53.257009+00:00",
+      "time_iso": "2026-08-01T15:07:50.312790+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a7b74d557anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.957703+00:00",
+      "time_iso": "2026-08-01T15:07:48.203336+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641429962.html",
       "team": "",
-      "time": "19小时前",
+      "time": "21小时前",
       "time_iso": "2026-07-31T17:46:52.621947+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a6742b24db80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.957774+00:00",
+      "time_iso": "2026-08-01T15:07:48.203423+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6534a3888ddnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.957835+00:00",
+      "time_iso": "2026-08-01T15:07:48.203484+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a68598601e0anative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.957950+00:00",
+      "time_iso": "2026-08-01T15:07:48.203603+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c096e14c1bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.959085+00:00",
+      "time_iso": "2026-08-01T15:07:48.204791+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac962b28c8native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.959166+00:00",
+      "time_iso": "2026-08-01T15:07:48.204881+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac88a69716native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.959195+00:00",
+      "time_iso": "2026-08-01T15:07:48.204918+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -202,31 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a67c00045e25native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.959351+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "2194bdd45f",
-      "category": "hot",
-      "title": "截至目前，全球各大洲仅剩南美足联暂未对FIFA事件发表声明",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641432043.html",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:53.256839+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "cfb98e86ee",
-      "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.960149+00:00",
+      "time_iso": "2026-08-01T15:07:48.205073+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -238,7 +214,31 @@
       "url": "https://bbs.hupu.com/641402580.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:53.257108+00:00",
+      "time_iso": "2026-08-01T15:07:50.312922+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "cfb98e86ee",
+      "category": "hot",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-01T15:07:48.205911+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "2194bdd45f",
+      "category": "hot",
+      "title": "截至目前，全球各大洲仅剩南美足联暂未对FIFA事件发表声明",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641432043.html",
+      "team": "",
+      "time": "1小时前",
+      "time_iso": "2026-08-01T13:44:53.256839+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.960203+00:00",
+      "time_iso": "2026-08-01T15:07:48.205966+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641394144.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "1小时前",
       "time_iso": "2026-08-01T13:44:53.257242+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -273,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a659f4846e4fnative.htm",
       "team": "FRA",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-01T06:36:20.505807+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641461396.html",
       "team": "",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-01T10:06:32.036257+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -297,7 +297,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66a7cf16caanative.htm",
       "team": "POR",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-01T06:36:20.507235+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -309,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641458565.html",
       "team": "MEX",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-01T10:06:32.036372+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -333,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641456464.html",
       "team": "",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-01T06:36:22.027943+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -357,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641456154.html",
       "team": "",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-01T06:36:22.028028+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -381,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641456128.html",
       "team": "",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-01T06:36:22.028068+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -405,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641454551.html",
       "team": "",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-01T06:36:22.028160+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -429,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641443450.html",
       "team": "",
-      "time": "10小时前",
+      "time": "11小时前",
       "time_iso": "2026-08-01T03:39:30.970314+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -453,7 +453,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641440689.html",
       "team": "",
-      "time": "10小时前",
+      "time": "11小时前",
       "time_iso": "2026-08-01T03:39:30.970366+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -477,7 +477,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641403591.html",
       "team": "ESP",
-      "time": "10小时前",
+      "time": "11小时前",
       "time_iso": "2026-08-01T03:39:30.970486+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -501,7 +501,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641432005.html",
       "team": "",
-      "time": "14小时前",
+      "time": "15小时前",
       "time_iso": "2026-07-31T23:09:51.676961+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -525,7 +525,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641431933.html",
       "team": "",
-      "time": "14小时前",
+      "time": "15小时前",
       "time_iso": "2026-07-31T23:09:51.676983+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -549,7 +549,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641403089.html",
       "team": "",
-      "time": "14小时前",
+      "time": "15小时前",
       "time_iso": "2026-07-31T23:09:51.677036+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -562,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c079296c34native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.955860+00:00",
+      "time_iso": "2026-08-01T15:07:48.201606+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -573,20 +573,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641402688.html",
       "team": "",
-      "time": "14小时前",
+      "time": "15小时前",
       "time_iso": "2026-07-31T23:09:51.677097+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "89ce52c992",
-      "category": "hot",
-      "title": "2026.8.1中超联赛第二十一轮 北京国安VS浙江俱乐部绿城",
+      "id": "cbaf0bb968",
+      "category": "tactical",
+      "title": "2026中超联赛第二十一轮上海海港vs山东泰山 ，今日首发名单。",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c8a141b897native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6dcaf1eaddcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-01T13:44:50.956198+00:00",
+      "time_iso": "2026-08-01T15:07:48.201923+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -597,7 +597,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641434621.html",
       "team": "",
-      "time": "16小时前",
+      "time": "17小时前",
       "time_iso": "2026-07-31T21:14:23.760886+00:00",
       "source": "虎扑",
       "is_hot": false
