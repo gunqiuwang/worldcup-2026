@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T10:04:36.763413+00:00",
+  "updated_at": "2026-08-02T13:44:29.694820+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6ecd4401a56native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.559896+00:00",
+      "time_iso": "2026-08-02T13:44:26.430541+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641448021.html",
       "team": "ESP",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-08-02T10:04:36.762638+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a913a3ba4bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.560512+00:00",
+      "time_iso": "2026-08-02T13:44:26.431240+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641403171.html",
       "team": "ESP",
-      "time": "13小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T21:02:06.689128+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a7b74d557anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.560544+00:00",
+      "time_iso": "2026-08-02T13:44:26.431275+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a6742b24db80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.560612+00:00",
+      "time_iso": "2026-08-02T13:44:26.431343+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641415398.html",
       "team": "BRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-07-31T10:47:21.200984+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6534a3888ddnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.560668+00:00",
+      "time_iso": "2026-08-02T13:44:26.431399+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641411902.html",
       "team": "BRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-07-31T10:47:21.201075+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a68598601e0anative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.560776+00:00",
+      "time_iso": "2026-08-02T13:44:26.431530+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641409722.html",
       "team": "BRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-07-31T10:47:21.201129+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9d4a76322native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.561745+00:00",
+      "time_iso": "2026-08-02T13:44:26.432571+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,10 +165,82 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641402981.html",
       "team": "BRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-07-31T10:47:21.201273+00:00",
       "source": "虎扑",
       "is_hot": true
+    },
+    {
+      "id": "df9277975f",
+      "category": "hot",
+      "title": "厄瓜多尔国门：希望世界杯决赛有其他结局，有时生活对梅西不公平",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66c416582dcnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T13:44:26.432664+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "1a1a98ebdc",
+      "category": "hot",
+      "title": "欧足联官方：对FIFA领导层失去信心，因凡蒂诺的计划下作",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641468551.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T13:44:29.694029+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "5a3def35ea",
+      "category": "hot",
+      "title": "金球奖官方专栏：持续70年的“世界杯诅咒”，只有梅西才能打破",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a634cfce1b12native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T13:44:26.432692+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "9fd31f79f5",
+      "category": "hot",
+      "title": "南美足联推迟表态因内部分歧，巴足协外至少2家反对FIFA提案",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641458998.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T13:44:29.694188+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "d14bd481c2",
+      "category": "hot",
+      "title": "迈阿密国际社媒祝贺梅西和德保罗随阿根廷打进半决赛！",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a532ac7adaccnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T13:44:26.432775+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "085dfc2a1f",
+      "category": "hot",
+      "title": "各洲足联陆续发声回应FIFA商业计划：欧亚等三大洲明确反对",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641456770.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T13:44:29.694306+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "8e6a83083b",
@@ -178,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6e0abc898acnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.561839+00:00",
+      "time_iso": "2026-08-02T13:44:26.432993+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,32 +261,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641454345.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-08-02T10:04:36.762431+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "4ae7c6c3dc",
-      "category": "hot",
-      "title": "梅西社媒更新：世界杯期间收获中国球迷满满的爱，这对我意义非凡",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c096e14c1bnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.561900+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "e16915f9ef",
-      "category": "hot",
-      "title": "FIFA首席运营官：因凡蒂诺甚至在骗我们，辞职更对得起良心",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641453882.html",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:36.762542+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -226,19 +274,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.562737+00:00",
+      "time_iso": "2026-08-02T13:44:26.433789+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "086d127602",
+      "id": "e16915f9ef",
       "category": "hot",
-      "title": "BBC：亚足联反对后，国际足联出售世界杯股份计划濒临破产",
+      "title": "FIFA首席运营官：因凡蒂诺甚至在骗我们，辞职更对得起良心",
       "summary": "",
-      "url": "https://bbs.hupu.com/641443894.html",
+      "url": "https://bbs.hupu.com/641453882.html",
       "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:36.762712+00:00",
+      "time": "3小时前",
+      "time_iso": "2026-08-02T10:04:36.762542+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -250,7 +298,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.562789+00:00",
+      "time_iso": "2026-08-02T13:44:26.433843+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "086d127602",
+      "category": "hot",
+      "title": "BBC：亚足联反对后，国际足联出售世界杯股份计划濒临破产",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641443894.html",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-08-02T10:04:36.762712+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "4ae7c6c3dc",
+      "category": "hot",
+      "title": "梅西社媒更新：世界杯期间收获中国球迷满满的爱，这对我意义非凡",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c096e14c1bnative.htm",
+      "team": "ARG",
+      "time": "3小时前",
+      "time_iso": "2026-08-02T10:04:34.561900+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641440993.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-08-02T10:04:36.762787+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -273,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac962b28c8native.htm",
       "team": "ARG",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T23:01:55.835168+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -285,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641439134.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-08-02T10:04:36.762865+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -297,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac88a69716native.htm",
       "team": "ARG",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T23:01:55.835199+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -309,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641459131.html",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-02T06:40:02.191855+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -321,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a67c00045e25native.htm",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T23:01:55.835320+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -333,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641457959.html",
       "team": "",
-      "time": "3小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-02T06:40:02.191967+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -357,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641431111.html",
       "team": "",
-      "time": "3小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-02T06:40:02.192233+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -381,7 +453,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641430734.html",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-02T06:40:02.192285+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -405,7 +477,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641455079.html",
       "team": "ENG",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T23:01:57.766559+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -429,7 +501,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641417465.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T23:01:57.766831+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -453,7 +525,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641411994.html",
       "team": "BRA",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T23:01:57.766924+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -477,32 +549,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641408304.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-01T23:01:57.767023+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "581cd5871a",
-      "category": "hot",
-      "title": "高配置！蓉城vs三镇主裁执法过欧冠决赛+世界杯，马宁四官傅明VAR",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c079296c34native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.558929+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "605e278f6b",
-      "category": "hot",
-      "title": "欧洲职业足球联盟：世界杯非FIFA主席个人资产，不应被出售",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641402580.html",
-      "team": "",
-      "time": "13小时前",
-      "time_iso": "2026-08-01T21:02:06.689238+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -514,19 +562,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d9f6528016native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.559275+00:00",
+      "time_iso": "2026-08-02T13:44:26.429302+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "d3e32cac23",
+      "id": "605e278f6b",
       "category": "hot",
-      "title": "成人女星：世界杯期间，某尤文球员和国家队教练都曾私信我",
+      "title": "欧洲职业足球联盟：世界杯非FIFA主席个人资产，不应被出售",
       "summary": "",
-      "url": "https://bbs.hupu.com/641480184.html",
+      "url": "https://bbs.hupu.com/641402580.html",
       "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-08-01T19:20:28.110280+00:00",
+      "time": "16小时前",
+      "time_iso": "2026-08-01T21:02:06.689238+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -538,67 +586,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c1c122aeacnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.559317+00:00",
+      "time_iso": "2026-08-02T13:44:26.429395+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "2194bdd45f",
+      "id": "d3e32cac23",
       "category": "hot",
-      "title": "截至目前，全球各大洲仅剩南美足联暂未对FIFA事件发表声明",
+      "title": "成人女星：世界杯期间，某尤文球员和国家队教练都曾私信我",
       "summary": "",
-      "url": "https://bbs.hupu.com/641432043.html",
+      "url": "https://bbs.hupu.com/641480184.html",
       "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-08-01T13:44:53.256839+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "695a988ff8",
-      "category": "hot",
-      "title": "马德兴：2030年世亚预明年3月展开，赛制与2026年预选赛相同",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ab3cf17dc9native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.559346+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8063346673",
-      "category": "hot",
-      "title": "结束世界杯征程后，英格兰队各国脚开启休假调整",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641394144.html",
-      "team": "ENG",
-      "time": "20小时前",
-      "time_iso": "2026-08-01T13:44:53.257242+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "fbdc27c7ac",
-      "category": "hot",
-      "title": "世界杯给中国足球哪些启发？人民日报：现代足球比拼完整的生态",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a680861a21cenative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-02T10:04:34.559380+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4af046eab4",
-      "category": "hot",
-      "title": "亚足联声明：欢迎FIFA撤回FFE，希望任何提案都经过充分讨论",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641461396.html",
-      "team": "",
-      "time": "23小时前",
-      "time_iso": "2026-08-01T10:06:32.036257+00:00",
+      "time": "18小时前",
+      "time_iso": "2026-08-01T19:20:28.110280+00:00",
       "source": "虎扑",
       "is_hot": false
     }
