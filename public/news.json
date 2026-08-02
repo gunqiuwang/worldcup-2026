@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:44:29.694820+00:00",
+  "updated_at": "2026-08-02T15:08:26.234966+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6ecd4401a56native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.430541+00:00",
+      "time_iso": "2026-08-02T15:08:23.709187+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "ce385eb3d9",
+      "id": "beac885c6e",
       "category": "hot",
-      "title": "卫报金球奖候选：凯恩创历史第二进球数，亚马尔手握世界杯",
+      "title": "加拉：FIFA引入资本会带来问题，特朗普介入红牌就是苗头",
       "summary": "",
-      "url": "https://bbs.hupu.com/641448021.html",
-      "team": "ESP",
-      "time": "3小时前",
-      "time_iso": "2026-08-02T10:04:36.762638+00:00",
+      "url": "https://bbs.hupu.com/641429962.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T15:08:26.234462+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a913a3ba4bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.431240+00:00",
+      "time_iso": "2026-08-02T15:08:23.709905+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "b0ed4cd357",
+      "id": "ce385eb3d9",
       "category": "hot",
-      "title": "阿德耶米：不惧与亚马尔竞争；相信自己能重返德国国家队",
+      "title": "卫报金球奖候选：凯恩创历史第二进球数，亚马尔手握世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/641403171.html",
+      "url": "https://bbs.hupu.com/641448021.html",
       "team": "ESP",
-      "time": "16小时前",
-      "time_iso": "2026-08-01T21:02:06.689128+00:00",
+      "time": "5小时前",
+      "time_iso": "2026-08-02T10:04:36.762638+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a7b74d557anative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.431275+00:00",
+      "time_iso": "2026-08-02T15:08:23.709947+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "beac885c6e",
+      "id": "b0ed4cd357",
       "category": "hot",
-      "title": "加拉：FIFA引入资本会带来问题，特朗普介入红牌就是苗头",
+      "title": "阿德耶米：不惧与亚马尔竞争；相信自己能重返德国国家队",
       "summary": "",
-      "url": "https://bbs.hupu.com/641429962.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-07-31T17:46:52.621947+00:00",
+      "url": "https://bbs.hupu.com/641403171.html",
+      "team": "ESP",
+      "time": "18小时前",
+      "time_iso": "2026-08-01T21:02:06.689128+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a6742b24db80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.431343+00:00",
+      "time_iso": "2026-08-02T15:08:23.710018+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-26/6a6534a3888ddnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.431399+00:00",
+      "time_iso": "2026-08-02T15:08:23.710077+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a68598601e0anative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.431530+00:00",
+      "time_iso": "2026-08-02T15:08:23.710199+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9d4a76322native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.432571+00:00",
+      "time_iso": "2026-08-02T15:08:23.711314+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-27/6a66c416582dcnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.432664+00:00",
+      "time_iso": "2026-08-02T15:08:23.711410+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -190,7 +190,7 @@
       "url": "https://bbs.hupu.com/641468551.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:29.694029+00:00",
+      "time_iso": "2026-08-02T15:08:26.234127+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a634cfce1b12native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.432692+00:00",
+      "time_iso": "2026-08-02T15:08:23.711436+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -214,7 +214,7 @@
       "url": "https://bbs.hupu.com/641458998.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:29.694188+00:00",
+      "time_iso": "2026-08-02T15:08:26.234279+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-12/6a532ac7adaccnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.432775+00:00",
+      "time_iso": "2026-08-02T15:08:23.711519+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641456770.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "1小时前",
       "time_iso": "2026-08-02T13:44:29.694306+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6e0abc898acnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.432993+00:00",
+      "time_iso": "2026-08-02T15:08:23.711748+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641454345.html",
       "team": "",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-02T10:04:36.762431+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.433789+00:00",
+      "time_iso": "2026-08-02T15:08:23.712554+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641453882.html",
       "team": "",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-02T10:04:36.762542+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.433843+00:00",
+      "time_iso": "2026-08-02T15:08:23.712611+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -309,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641443894.html",
       "team": "",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-02T10:04:36.762712+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -321,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c096e14c1bnative.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-02T10:04:34.561900+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -333,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641440993.html",
       "team": "",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-02T10:04:36.762787+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -345,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac962b28c8native.htm",
       "team": "ARG",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T23:01:55.835168+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -357,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641439134.html",
       "team": "ENG",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-02T10:04:36.762865+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -369,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ac88a69716native.htm",
       "team": "ARG",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T23:01:55.835199+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -381,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641459131.html",
       "team": "ARG",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-02T06:40:02.191855+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -393,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a67c00045e25native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T23:01:55.835320+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -405,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641457959.html",
       "team": "",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-02T06:40:02.191967+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -429,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641431111.html",
       "team": "",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-02T06:40:02.192233+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -453,7 +453,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641430734.html",
       "team": "ARG",
-      "time": "7小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-02T06:40:02.192285+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -477,7 +477,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641455079.html",
       "team": "ENG",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T23:01:57.766559+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -501,7 +501,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641417465.html",
       "team": "",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T23:01:57.766831+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -525,7 +525,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641411994.html",
       "team": "BRA",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T23:01:57.766924+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -549,8 +549,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641408304.html",
       "team": "",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-01T23:01:57.767023+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "581cd5871a",
+      "category": "hot",
+      "title": "高配置！蓉城vs三镇主裁执法过欧冠决赛+世界杯，马宁四官傅明VAR",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c079296c34native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-02T15:08:23.708135+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "605e278f6b",
+      "category": "hot",
+      "title": "欧洲职业足球联盟：世界杯非FIFA主席个人资产，不应被出售",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641402580.html",
+      "team": "",
+      "time": "18小时前",
+      "time_iso": "2026-08-01T21:02:06.689238+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -562,31 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d9f6528016native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.429302+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "605e278f6b",
-      "category": "hot",
-      "title": "欧洲职业足球联盟：世界杯非FIFA主席个人资产，不应被出售",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641402580.html",
-      "team": "",
-      "time": "16小时前",
-      "time_iso": "2026-08-01T21:02:06.689238+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "faec04d627",
-      "category": "hot",
-      "title": "无欧足联球队FIFA前64名单：阿根廷居首，中国第52，印度未进前64",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c1c122aeacnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-08-02T13:44:26.429395+00:00",
+      "time_iso": "2026-08-02T15:08:23.708516+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -597,7 +597,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641480184.html",
       "team": "",
-      "time": "18小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-01T19:20:28.110280+00:00",
       "source": "虎扑",
       "is_hot": false
