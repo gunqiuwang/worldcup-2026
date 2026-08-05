@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:26:46.056889+00:00",
+  "updated_at": "2026-08-05T17:48:54.970218+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.224228+00:00",
+      "time_iso": "2026-08-05T17:48:52.873396+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641448021.html",
       "team": "ESP",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-03T15:07:52.497629+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.224361+00:00",
+      "time_iso": "2026-08-05T17:48:52.873529+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,31 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.226249+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "beac885c6e",
-      "category": "hot",
-      "title": "加拉：FIFA引入资本会带来问题，特朗普介入红牌就是苗头",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641429962.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-02T15:08:26.234462+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "83fdae6d22",
-      "category": "hot",
-      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.226305+00:00",
+      "time_iso": "2026-08-05T17:48:52.875606+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -94,19 +70,19 @@
       "url": "https://bbs.hupu.com/641521169.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:46.056274+00:00",
+      "time_iso": "2026-08-05T17:48:54.969495+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "e7ee0ad884",
+      "id": "83fdae6d22",
       "category": "hot",
-      "title": "内马尔退出国家队！安帅：一代人终将落幕，召他进世界杯名单正确",
+      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a913a3ba4bnative.htm",
-      "team": "BRA",
-      "time": "11小时前",
-      "time_iso": "2026-08-05T03:21:28.278679+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-05T17:48:52.875660+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,19 +94,19 @@
       "url": "https://bbs.hupu.com/641518673.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:46.056394+00:00",
+      "time_iso": "2026-08-05T17:48:54.969646+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "0c570bbd03",
+      "id": "e7ee0ad884",
       "category": "hot",
-      "title": "回归！梅西第53分钟替补登场，迎世界杯决赛后首次亮相",
+      "title": "内马尔退出国家队！安帅：一代人终将落幕，召他进世界杯名单正确",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9d4a76322native.htm",
-      "team": "ARG",
-      "time": "11小时前",
-      "time_iso": "2026-08-05T03:21:28.279818+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a913a3ba4bnative.htm",
+      "team": "BRA",
+      "time": "14小时前",
+      "time_iso": "2026-08-05T03:21:28.278679+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,20 +117,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641515413.html",
       "team": "NED",
-      "time": "3小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-05T10:43:52.267469+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "bfe30251be",
+      "id": "0c570bbd03",
       "category": "hot",
-      "title": "巴媒：巴西足协考虑为内马尔办国家队告别赛，向他致敬",
+      "title": "回归！梅西第53分钟替补登场，迎世界杯决赛后首次亮相",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a7b74d557anative.htm",
-      "team": "BRA",
-      "time": "15小时前",
-      "time_iso": "2026-08-04T23:10:20.893701+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9d4a76322native.htm",
+      "team": "ARG",
+      "time": "14小时前",
+      "time_iso": "2026-08-05T03:21:28.279818+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,20 +141,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641505805.html",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-05T10:43:52.267583+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "8e6a83083b",
+      "id": "bfe30251be",
       "category": "hot",
-      "title": "归来！梅西社媒预热对决哥伦布机员，世界杯结束后有望迎来首战",
+      "title": "巴媒：巴西足协考虑为内马尔办国家队告别赛，向他致敬",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6e0abc898acnative.htm",
-      "team": "ARG",
-      "time": "15小时前",
-      "time_iso": "2026-08-04T23:10:20.894897+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6a7b74d557anative.htm",
+      "team": "BRA",
+      "time": "18小时前",
+      "time_iso": "2026-08-04T23:10:20.893701+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,8 +165,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641507451.html",
       "team": "FRA",
-      "time": "3小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-05T10:43:52.267673+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "8e6a83083b",
+      "category": "hot",
+      "title": "归来！梅西社媒预热对决哥伦布机员，世界杯结束后有望迎来首战",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6e0abc898acnative.htm",
+      "team": "ARG",
+      "time": "18小时前",
+      "time_iso": "2026-08-04T23:10:20.894897+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "7e575514f5",
+      "category": "hot",
+      "title": "队报：马克龙反对FIFA股份计划，他致电因凡蒂诺呼吁团结",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641507421.html",
+      "team": "",
+      "time": "7小时前",
+      "time_iso": "2026-08-05T10:43:52.267709+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "7e575514f5",
+      "id": "45ed5170bd",
       "category": "hot",
-      "title": "队报：马克龙反对FIFA股份计划，他致电因凡蒂诺呼吁团结",
+      "title": "队报：温格此前支持世界杯两年一届，被看作为因凡蒂诺背书",
       "summary": "",
-      "url": "https://bbs.hupu.com/641507421.html",
+      "url": "https://bbs.hupu.com/641568871.html",
       "team": "",
-      "time": "3小时前",
-      "time_iso": "2026-08-05T10:43:52.267709+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-08-05T06:35:43.474739+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,14 @@
       "is_hot": true
     },
     {
-      "id": "45ed5170bd",
+      "id": "e4a3aa4bba",
       "category": "hot",
-      "title": "队报：温格此前支持世界杯两年一届，被看作为因凡蒂诺背书",
+      "title": "沃齐尼亚：为世界杯准备了一生；始终相信自己能效力豪门",
       "summary": "",
-      "url": "https://bbs.hupu.com/641568871.html",
+      "url": "https://bbs.hupu.com/641567625.html",
       "team": "",
-      "time": "7小时前",
-      "time_iso": "2026-08-05T06:35:43.474739+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-08-05T06:35:43.474970+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -255,14 +255,14 @@
       "is_hot": true
     },
     {
-      "id": "e4a3aa4bba",
+      "id": "6af2118bf5",
       "category": "hot",
-      "title": "沃齐尼亚：为世界杯准备了一生；始终相信自己能效力豪门",
+      "title": "天空：因凡蒂诺紧急会谈明天开始，FIFA内部尚无公开支持者",
       "summary": "",
-      "url": "https://bbs.hupu.com/641567625.html",
+      "url": "https://bbs.hupu.com/641567113.html",
       "team": "",
-      "time": "7小时前",
-      "time_iso": "2026-08-05T06:35:43.474970+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-08-05T06:35:43.475061+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -279,14 +279,14 @@
       "is_hot": true
     },
     {
-      "id": "6af2118bf5",
+      "id": "db697af87a",
       "category": "hot",
-      "title": "天空：因凡蒂诺紧急会谈明天开始，FIFA内部尚无公开支持者",
+      "title": "约旦足协世界杯期间寻FIFA帮助，被告知先支持因凡蒂诺再说",
       "summary": "",
-      "url": "https://bbs.hupu.com/641567113.html",
+      "url": "https://bbs.hupu.com/641566552.html",
       "team": "",
-      "time": "7小时前",
-      "time_iso": "2026-08-05T06:35:43.475061+00:00",
+      "time": "14小时前",
+      "time_iso": "2026-08-05T03:21:30.087805+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -303,14 +303,14 @@
       "is_hot": true
     },
     {
-      "id": "db697af87a",
+      "id": "a61477e8a5",
       "category": "hot",
-      "title": "约旦足协世界杯期间寻FIFA帮助，被告知先支持因凡蒂诺再说",
+      "title": "巴萨欲签乌纳希顶替德容，球员身价世界杯后上涨到2500万欧",
       "summary": "",
-      "url": "https://bbs.hupu.com/641566552.html",
+      "url": "https://bbs.hupu.com/641543833.html",
       "team": "",
-      "time": "11小时前",
-      "time_iso": "2026-08-05T03:21:30.087805+00:00",
+      "time": "20小时前",
+      "time_iso": "2026-08-04T21:20:07.200656+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -327,14 +327,14 @@
       "is_hot": true
     },
     {
-      "id": "a61477e8a5",
+      "id": "a469f5e878",
       "category": "hot",
-      "title": "巴萨欲签乌纳希顶替德容，球员身价世界杯后上涨到2500万欧",
+      "title": "英格兰球迷去看世界杯，警察看到他携带书的书名后将其拘留",
       "summary": "",
-      "url": "https://bbs.hupu.com/641543833.html",
-      "team": "",
-      "time": "17小时前",
-      "time_iso": "2026-08-04T21:20:07.200656+00:00",
+      "url": "https://bbs.hupu.com/641553607.html",
+      "team": "ENG",
+      "time": "1天前",
+      "time_iso": "2026-08-04T14:33:36.848413+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -351,14 +351,14 @@
       "is_hot": true
     },
     {
-      "id": "a469f5e878",
+      "id": "a97e8e3c12",
       "category": "hot",
-      "title": "英格兰球迷去看世界杯，警察看到他携带书的书名后将其拘留",
+      "title": "鲍曼：世界杯前沦为替补难以接受，我独自处理并消化了此事",
       "summary": "",
-      "url": "https://bbs.hupu.com/641553607.html",
-      "team": "ENG",
-      "time": "23小时前",
-      "time_iso": "2026-08-04T14:33:36.848413+00:00",
+      "url": "https://bbs.hupu.com/641532389.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-08-04T10:46:51.491774+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -375,30 +375,6 @@
       "is_hot": true
     },
     {
-      "id": "a97e8e3c12",
-      "category": "hot",
-      "title": "鲍曼：世界杯前沦为替补难以接受，我独自处理并消化了此事",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641532389.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-08-04T10:46:51.491774+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "991fe870b6",
-      "category": "hot",
-      "title": "海港国安申花参赛！官方：亚冠精英和亚冠二抽签仪式8月18日进行",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72dd3312214native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.221988+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "bfc77fc273",
       "category": "hot",
       "title": "FIFA人士：因凡蒂诺没有向特朗普或鲁比奥打电话求救",
@@ -411,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "df0caa4f43",
+      "id": "991fe870b6",
       "category": "hot",
-      "title": "2026赛季比赛日Vlog21——成都蓉城1-1武汉三镇",
+      "title": "海港国安申花参赛！官方：亚冠精英和亚冠二抽签仪式8月18日进行",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a718d102e54fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72dd3312214native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.222112+00:00",
+      "time_iso": "2026-08-05T17:48:52.865680+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a713fdc39ab3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.222806+00:00",
+      "time_iso": "2026-08-05T17:48:52.866129+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.222959+00:00",
+      "time_iso": "2026-08-05T17:48:52.872039+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.222999+00:00",
+      "time_iso": "2026-08-05T17:48:52.872107+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d9f6528016native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.223042+00:00",
+      "time_iso": "2026-08-05T17:48:52.872155+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c1c122aeacnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.223078+00:00",
+      "time_iso": "2026-08-05T17:48:52.872191+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ab3cf17dc9native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.223106+00:00",
+      "time_iso": "2026-08-05T17:48:52.872219+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a680861a21cenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-05T14:26:43.223140+00:00",
+      "time_iso": "2026-08-05T17:48:52.872253+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -600,6 +576,30 @@
       "time": "1天前",
       "time_iso": "2026-08-03T17:58:47.992577+00:00",
       "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "2db4bd4a6f",
+      "category": "tactical",
+      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-05T17:48:52.872300+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a15e11b75d",
+      "category": "hot",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-05T17:48:52.872337+00:00",
+      "source": "直播吧",
       "is_hot": false
     }
   ]
