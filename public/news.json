@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T03:24:51.005539+00:00",
+  "updated_at": "2026-08-06T06:39:14.983273+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.846840+00:00",
+      "time_iso": "2026-08-06T06:39:13.212661+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,31 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.846966+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "cfc491d678",
-      "category": "hot",
-      "title": "球迷上线！陈小春谈世界杯：巴西那场内马尔怎么不早上？",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641485561.html",
-      "team": "BRA",
-      "time": "2天前",
-      "time_iso": "2026-08-03T03:41:43.166516+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "990528a8c6",
-      "category": "hot",
-      "title": "又是满分表现！梅西延续世界杯状态，联盟杯首战2球1助评分10分！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-06/6a73ed7c29098native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.848339+00:00",
+      "time_iso": "2026-08-06T06:39:13.212767+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -70,7 +46,31 @@
       "url": "https://bbs.hupu.com/641537916.html",
       "team": "USA",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:51.004874+00:00",
+      "time_iso": "2026-08-06T06:39:14.982716+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "990528a8c6",
+      "category": "hot",
+      "title": "又是满分表现！梅西延续世界杯状态，联盟杯首战2球1助评分10分！",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-06/6a73ed7c29098native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-06T06:39:13.213572+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "7e30d51e3d",
+      "category": "hot",
+      "title": "马德兴：国足退出东盟杯主要是因为FIFA未兑现承诺",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641537541.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-06T06:39:14.982811+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.849420+00:00",
+      "time_iso": "2026-08-06T06:39:13.214380+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641521169.html",
       "team": "",
-      "time": "4小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-05T23:09:20.928670+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.849477+00:00",
+      "time_iso": "2026-08-06T06:39:13.214425+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641518673.html",
       "team": "",
-      "time": "6小时前",
+      "time": "9小时前",
       "time_iso": "2026-08-05T21:19:42.747250+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641515413.html",
       "team": "NED",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-05T10:43:52.267469+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641505805.html",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-05T10:43:52.267583+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641507451.html",
       "team": "FRA",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-05T10:43:52.267673+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641507421.html",
       "team": "",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-05T10:43:52.267709+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -225,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a68598601e0anative.htm",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-04T06:34:59.406630+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641568871.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-08-05T06:35:43.474739+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -249,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6ecd4401a56native.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-04T06:34:59.407681+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641567625.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-08-05T06:35:43.474970+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641567113.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-08-05T06:35:43.475061+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -315,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "991fe870b6",
+      "id": "df0caa4f43",
       "category": "hot",
-      "title": "海港国安申花参赛！官方：亚冠精英和亚冠二抽签仪式8月18日进行",
+      "title": "2026赛季比赛日Vlog21——成都蓉城1-1武汉三镇",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72dd3312214native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a718d102e54fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.844989+00:00",
+      "time_iso": "2026-08-06T06:39:13.211107+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -339,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "3f094d3f63",
+      "id": "991fe870b6",
       "category": "hot",
-      "title": "【MATCHDAY】2026中超联赛第21轮，上海海港0比1山东泰山",
+      "title": "海港国安申花参赛！官方：亚冠精英和亚冠二抽签仪式8月18日进行",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a713fdc39ab3native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72dd3312214native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845200+00:00",
+      "time_iso": "2026-08-06T06:39:13.211365+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "e105ceb6f7",
+      "id": "3f094d3f63",
       "category": "hot",
-      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
+      "title": "【MATCHDAY】2026中超联赛第21轮，上海海港0比1山东泰山",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a713fdc39ab3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845349+00:00",
+      "time_iso": "2026-08-06T06:39:13.211487+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "142510f8a1",
+      "id": "e105ceb6f7",
       "category": "hot",
-      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
+      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845389+00:00",
+      "time_iso": "2026-08-06T06:39:13.211577+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -411,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "7ca4c3d590",
+      "id": "142510f8a1",
       "category": "hot",
-      "title": "世界杯扩军64队？球迷热议：中国和印度还是进不去，意大利也是",
+      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d9f6528016native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845452+00:00",
+      "time_iso": "2026-08-06T06:39:13.211608+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "faec04d627",
+      "id": "7ca4c3d590",
       "category": "hot",
-      "title": "无欧足联球队FIFA前64名单：阿根廷居首，中国第52，印度未进前64",
+      "title": "世界杯扩军64队？球迷热议：中国和印度还是进不去，意大利也是",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c1c122aeacnative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d9f6528016native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845490+00:00",
+      "time_iso": "2026-08-06T06:39:13.211644+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -453,8 +453,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641507953.html",
       "team": "JPN",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-04T06:35:01.018482+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "faec04d627",
+      "category": "hot",
+      "title": "无欧足联球队FIFA前64名单：阿根廷居首，中国第52，印度未进前64",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-31/6a6c1c122aeacnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-06T06:39:13.211672+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0ee5964219",
+      "category": "hot",
+      "title": "特瓦斯怒斥皇马公告：FIFA的部分无可挑剔，谈CVC则自相矛盾",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641503909.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-08-04T03:26:38.946674+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -466,19 +490,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-30/6a6ab3cf17dc9native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845519+00:00",
+      "time_iso": "2026-08-06T06:39:13.211696+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "0ee5964219",
+      "id": "f038e07b57",
       "category": "hot",
-      "title": "特瓦斯怒斥皇马公告：FIFA的部分无可挑剔，谈CVC则自相矛盾",
+      "title": "阿根廷后卫梅迪纳：我对我妈说，你怎么也信世界杯的阴谋论",
       "summary": "",
-      "url": "https://bbs.hupu.com/641503909.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-08-04T03:26:38.946674+00:00",
+      "url": "https://bbs.hupu.com/641499618.html",
+      "team": "ARG",
+      "time": "2天前",
+      "time_iso": "2026-08-04T03:26:38.946755+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -490,19 +514,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-28/6a680861a21cenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845555+00:00",
+      "time_iso": "2026-08-06T06:39:13.211723+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "f038e07b57",
+      "id": "040857be29",
       "category": "hot",
-      "title": "阿根廷后卫梅迪纳：我对我妈说，你怎么也信世界杯的阴谋论",
+      "title": "皇马官方：高度评价FIFA放弃部分售权，感谢各方坚决反对",
       "summary": "",
-      "url": "https://bbs.hupu.com/641499618.html",
-      "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-08-04T03:26:38.946755+00:00",
+      "url": "https://bbs.hupu.com/641499190.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-08-04T03:26:38.946790+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -514,31 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845602+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "040857be29",
-      "category": "hot",
-      "title": "皇马官方：高度评价FIFA放弃部分售权，感谢各方坚决反对",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641499190.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-08-04T03:26:38.946790+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "a15e11b75d",
-      "category": "hot",
-      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845640+00:00",
+      "time_iso": "2026-08-06T06:39:13.211760+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "2043dfbb2b",
+      "id": "a15e11b75d",
       "category": "hot",
-      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845688+00:00",
+      "time_iso": "2026-08-06T06:39:13.211789+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -579,14 +579,14 @@
       "is_hot": false
     },
     {
-      "id": "fdb4bbd660",
+      "id": "2043dfbb2b",
       "category": "hot",
-      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
+      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-06T03:24:48.845770+00:00",
+      "time_iso": "2026-08-06T06:39:13.211824+00:00",
       "source": "直播吧",
       "is_hot": false
     },
