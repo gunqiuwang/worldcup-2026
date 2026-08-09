@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T02:19:33.296914+00:00",
+  "updated_at": "2026-08-09T05:11:48.481530+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.161827+00:00",
+      "time_iso": "2026-08-09T05:11:45.565535+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/641707990.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:33.296321+00:00",
+      "time_iso": "2026-08-09T05:11:48.481052+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.161990+00:00",
+      "time_iso": "2026-08-09T05:11:45.565714+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641699362.html",
       "team": "ESP",
-      "time": "5小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-08T20:38:59.718073+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.162922+00:00",
+      "time_iso": "2026-08-09T05:11:45.566649+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,20 +69,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641700371.html",
       "team": "ESP",
-      "time": "17小时前",
+      "time": "20小时前",
       "time_iso": "2026-08-08T08:51:54.884730+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "41a0b3449c",
-      "category": "hot",
-      "title": "阿媒：世界杯期间队友曾劝梅西先回家陪伴父亲，但他最终选择留下",
+      "id": "b4919a475c",
+      "category": "tactical",
+      "title": "阿媒：世界杯集训期间队友曾劝梅西先回家陪伴父亲，但他选择留下",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.162963+00:00",
+      "time_iso": "2026-08-09T05:11:45.566704+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.163131+00:00",
+      "time_iso": "2026-08-09T05:11:45.566848+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.163973+00:00",
+      "time_iso": "2026-08-09T05:11:45.567735+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "543443f5b0",
+      "id": "312d1fe068",
       "category": "hot",
-      "title": "被当面分享世界杯阴谋论，梅迪纳：我们没放弃，我们想赢的",
+      "title": "队报：被因凡蒂诺解雇的员工准备重返FIFA，各方想拔枪还击",
       "summary": "",
-      "url": "https://bbs.hupu.com/641694139.html",
+      "url": "https://bbs.hupu.com/641729624.html",
       "team": "",
-      "time": "5小时前",
-      "time_iso": "2026-08-08T20:38:59.718141+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-09T05:11:48.480736+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.164026+00:00",
+      "time_iso": "2026-08-09T05:11:45.567793+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "2743f70922",
+      "id": "543443f5b0",
       "category": "hot",
-      "title": "FIFA内部称因凡蒂诺正不惜代价保住位置，西班牙恐被牺牲",
+      "title": "被当面分享世界杯阴谋论，梅迪纳：我们没放弃，我们想赢的",
       "summary": "",
-      "url": "https://bbs.hupu.com/641616496.html",
-      "team": "ESP",
-      "time": "7小时前",
-      "time_iso": "2026-08-08T18:50:05.125157+00:00",
+      "url": "https://bbs.hupu.com/641694139.html",
+      "team": "",
+      "time": "8小时前",
+      "time_iso": "2026-08-08T20:38:59.718141+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,7 +178,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.164449+00:00",
+      "time_iso": "2026-08-09T05:11:45.568215+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "2743f70922",
+      "category": "hot",
+      "title": "FIFA内部称因凡蒂诺正不惜代价保住位置，西班牙恐被牺牲",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641616496.html",
+      "team": "ESP",
+      "time": "10小时前",
+      "time_iso": "2026-08-08T18:50:05.125157+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "41a0b3449c",
+      "category": "hot",
+      "title": "阿媒：世界杯期间队友曾劝梅西先回家陪伴父亲，但他最终选择留下",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
+      "team": "ARG",
+      "time": "2小时前",
+      "time_iso": "2026-08-09T02:19:31.162963+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641684391.html",
       "team": "",
-      "time": "9小时前",
+      "time": "12小时前",
       "time_iso": "2026-08-08T16:43:25.782305+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -201,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a7746279d0e5native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "6小时前",
       "time_iso": "2026-08-08T22:37:02.374328+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641691483.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:50.786149+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -225,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a77268264b01native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "6小时前",
       "time_iso": "2026-08-08T22:37:02.374516+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641691393.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:50.786238+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -249,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a76773d92df2native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "6小时前",
       "time_iso": "2026-08-08T22:37:02.374566+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641683284.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:50.786302+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -273,7 +297,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a7524a426696native.htm",
       "team": "ARG",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:48.219886+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -285,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641662065.html",
       "team": "ESP",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:50.786492+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -309,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641659557.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:50.786556+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -333,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641655695.html",
       "team": "MAR",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:50.786631+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -345,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a75580904ebfnative.htm",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-07T04:30:32.564975+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -357,8 +381,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641653330.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-08T14:38:50.786686+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "df0caa4f43",
+      "category": "hot",
+      "title": "2026赛季比赛日Vlog21——成都蓉城1-1武汉三镇",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a718d102e54fnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-09T05:11:45.563292+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "94d4a824d9",
+      "category": "hot",
+      "title": "官方：迭戈-弗兰出任乌拉圭U20主帅，并兼任国家队临时主帅",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641641751.html",
+      "team": "URU",
+      "time": "16小时前",
+      "time_iso": "2026-08-08T13:04:07.421914+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -370,19 +418,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.160414+00:00",
+      "time_iso": "2026-08-09T05:11:45.564225+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "94d4a824d9",
+      "id": "eda014f9b8",
       "category": "hot",
-      "title": "官方：迭戈-弗兰出任乌拉圭U20主帅，并兼任国家队临时主帅",
+      "title": "记者：世界杯结束后，皇马/巴萨/巴黎几乎同时联系罗德里",
       "summary": "",
-      "url": "https://bbs.hupu.com/641641751.html",
-      "team": "URU",
-      "time": "13小时前",
-      "time_iso": "2026-08-08T13:04:07.421914+00:00",
+      "url": "https://bbs.hupu.com/641658000.html",
+      "team": "",
+      "time": "18小时前",
+      "time_iso": "2026-08-08T10:41:11.019910+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -394,19 +442,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.160585+00:00",
+      "time_iso": "2026-08-09T05:11:45.564353+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "eda014f9b8",
+      "id": "9f48d58309",
       "category": "hot",
-      "title": "记者：世界杯结束后，皇马/巴萨/巴黎几乎同时联系罗德里",
+      "title": "塔利亚菲科：连续两届世界杯进决赛不易，两枚奖牌同样珍贵",
       "summary": "",
-      "url": "https://bbs.hupu.com/641658000.html",
+      "url": "https://bbs.hupu.com/641699483.html",
       "team": "",
-      "time": "15小时前",
-      "time_iso": "2026-08-08T10:41:11.019910+00:00",
+      "time": "1天前",
+      "time_iso": "2026-08-08T05:05:12.519089+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -418,31 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.160631+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "9f48d58309",
-      "category": "hot",
-      "title": "塔利亚菲科：连续两届世界杯进决赛不易，两枚奖牌同样珍贵",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641699483.html",
-      "team": "",
-      "time": "21小时前",
-      "time_iso": "2026-08-08T05:05:12.519089+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "2db4bd4a6f",
-      "category": "tactical",
-      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.160692+00:00",
+      "time_iso": "2026-08-09T05:11:45.564396+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -459,14 +483,14 @@
       "is_hot": false
     },
     {
-      "id": "a15e11b75d",
-      "category": "hot",
-      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
+      "id": "2db4bd4a6f",
+      "category": "tactical",
+      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.160730+00:00",
+      "time_iso": "2026-08-09T05:11:45.564453+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -483,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "2043dfbb2b",
+      "id": "a15e11b75d",
       "category": "hot",
-      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.160777+00:00",
+      "time_iso": "2026-08-09T05:11:45.564493+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "fdb4bbd660",
+      "id": "2043dfbb2b",
       "category": "hot",
-      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
+      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.160855+00:00",
+      "time_iso": "2026-08-09T05:11:45.564544+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "2660bd55bb",
+      "id": "fdb4bbd660",
       "category": "hot",
-      "title": "帕莱斯特拉：很喜欢阿隆索的理念 意大利有能力赢世界杯和欧洲杯",
+      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a76bad3cb307native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.161174+00:00",
+      "time_iso": "2026-08-09T05:11:45.564624+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77b6467b7b8native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.161323+00:00",
+      "time_iso": "2026-08-09T05:11:45.565068+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -575,30 +599,6 @@
       "team": "",
       "time": "1天前",
       "time_iso": "2026-08-07T19:06:56.973678+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "f9a684447b",
-      "category": "hot",
-      "title": "记者社媒晒破败训练场，抨击吉布提足协：FIFA的拨款去哪里了？",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77aad9d84f3native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-09T02:19:31.161670+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8c454fb4d3",
-      "category": "hot",
-      "title": "TA：FIFA秘书长称近期风波为一串令人悲伤且应受谴责的事件",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641579721.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-08-07T16:59:47.346760+00:00",
       "source": "虎扑",
       "is_hot": false
     }
