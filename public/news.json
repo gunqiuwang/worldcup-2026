@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T20:52:45.892134+00:00",
+  "updated_at": "2026-08-10T22:47:36.820225+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.534716+00:00",
+      "time_iso": "2026-08-10T22:47:34.654032+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/641727729.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:45.891561+00:00",
+      "time_iso": "2026-08-10T22:47:36.819713+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a79f5ef21588native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.535856+00:00",
+      "time_iso": "2026-08-10T22:47:34.655238+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641700371.html",
       "team": "ESP",
-      "time": "18小时前",
+      "time": "20小时前",
       "time_iso": "2026-08-10T02:24:27.665869+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a797d7ed35b2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.535909+00:00",
+      "time_iso": "2026-08-10T22:47:34.655293+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.535999+00:00",
+      "time_iso": "2026-08-10T22:47:34.655388+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.536142+00:00",
+      "time_iso": "2026-08-10T22:47:34.655531+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.536961+00:00",
+      "time_iso": "2026-08-10T22:47:34.656332+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "5a773c7bd3",
+      "id": "d667bbabba",
       "category": "hot",
-      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
+      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
       "summary": "",
-      "url": "https://bbs.hupu.com/641727078.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/641769363.html",
+      "team": "CAN",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:45.891655+00:00",
+      "time_iso": "2026-08-10T22:47:36.819418+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.537015+00:00",
+      "time_iso": "2026-08-10T22:47:34.656386+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "d667bbabba",
+      "id": "5a773c7bd3",
       "category": "hot",
-      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
+      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
       "summary": "",
-      "url": "https://bbs.hupu.com/641769363.html",
-      "team": "CAN",
-      "time": "1小时前",
-      "time_iso": "2026-08-10T19:06:30.974109+00:00",
+      "url": "https://bbs.hupu.com/641727078.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T22:47:36.819772+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.537424+00:00",
+      "time_iso": "2026-08-10T22:47:34.656814+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
       "team": "ARG",
-      "time": "1小时前",
+      "time": "3小时前",
       "time_iso": "2026-08-10T19:06:29.019152+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -225,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
       "team": "ARG",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-10T15:06:33.468942+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a79bc17f2ca1native.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "9小时前",
       "time_iso": "2026-08-10T13:25:59.045684+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -273,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
       "team": "FRA",
-      "time": "18小时前",
+      "time": "20小时前",
       "time_iso": "2026-08-10T02:24:25.634855+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -345,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a7746279d0e5native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-08T22:37:02.374328+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -369,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a77268264b01native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-08T22:37:02.374516+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -393,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a76773d92df2native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-08T22:37:02.374566+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -459,16 +459,16 @@
       "is_hot": false
     },
     {
-      "id": "734657e3a0",
+      "id": "08fab0526d",
       "category": "hot",
-      "title": "进军四强！U17国足3-1逆转沙特 何思凡传射+一条龙万项赵松源破门",
+      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-05-16/match1982704date2026vnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-07T22:45:47.312118+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T22:47:34.652453+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "76cca78e1b",
@@ -483,14 +483,14 @@
       "is_hot": false
     },
     {
-      "id": "08fab0526d",
+      "id": "e105ceb6f7",
       "category": "hot",
-      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533262+00:00",
+      "time_iso": "2026-08-10T22:47:34.652643+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "e105ceb6f7",
+      "id": "142510f8a1",
       "category": "hot",
-      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
+      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533441+00:00",
+      "time_iso": "2026-08-10T22:47:34.652690+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,18 +531,6 @@
       "is_hot": false
     },
     {
-      "id": "142510f8a1",
-      "category": "hot",
-      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533493+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "2db4bd4a6f",
       "category": "tactical",
       "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
@@ -550,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533545+00:00",
+      "time_iso": "2026-08-10T22:47:34.652742+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533583+00:00",
+      "time_iso": "2026-08-10T22:47:34.652781+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -574,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533630+00:00",
+      "time_iso": "2026-08-10T22:47:34.652833+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,19 +574,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533708+00:00",
+      "time_iso": "2026-08-10T22:47:34.652916+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "43a01e77c9",
+      "id": "a9efa93e51",
       "category": "hot",
-      "title": "联赛杯第2轮抽签：切尔西VS卢顿、热刺VS查尔顿、森林VS利兹联",
+      "title": "记者：因凡蒂诺承诺若继续当选FIFA主席将助墨西哥脱离中北美足联",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7a1f04ca09enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7a4f6ae2b4dnative.htm",
+      "team": "MEX",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T22:47:34.652963+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "691f0f4958",
+      "category": "hot",
+      "title": "曼晚：利马将于曼联爱尔兰行结束后归队，并为英超揭幕战做准备",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a792bbcb8ea1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T20:52:43.533770+00:00",
+      "time_iso": "2026-08-10T22:47:34.653222+00:00",
       "source": "直播吧",
       "is_hot": false
     }
