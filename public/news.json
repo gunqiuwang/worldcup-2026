@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T17:00:51.547697+00:00",
+  "updated_at": "2026-08-10T19:06:30.974840+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.281469+00:00",
+      "time_iso": "2026-08-10T19:06:29.017791+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641700371.html",
       "team": "ESP",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-10T02:24:27.665869+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a79f5ef21588native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.282587+00:00",
+      "time_iso": "2026-08-10T19:06:29.018926+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a797d7ed35b2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.282634+00:00",
+      "time_iso": "2026-08-10T19:06:29.018980+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.282736+00:00",
+      "time_iso": "2026-08-10T19:06:29.019083+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.282806+00:00",
+      "time_iso": "2026-08-10T19:06:29.019152+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.282893+00:00",
+      "time_iso": "2026-08-10T19:06:29.019240+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "5a773c7bd3",
+      "id": "d667bbabba",
       "category": "hot",
-      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
+      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
       "summary": "",
-      "url": "https://bbs.hupu.com/641727078.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/641769363.html",
+      "team": "CAN",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:51.547051+00:00",
+      "time_iso": "2026-08-10T19:06:30.974109+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.283705+00:00",
+      "time_iso": "2026-08-10T19:06:29.020068+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "312d1fe068",
+      "id": "5a773c7bd3",
       "category": "hot",
-      "title": "队报：被因凡蒂诺解雇的员工准备重返FIFA，各方想拔枪还击",
+      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
       "summary": "",
-      "url": "https://bbs.hupu.com/641729624.html",
+      "url": "https://bbs.hupu.com/641727078.html",
       "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-08-09T20:41:54.907717+00:00",
+      "time": "2小时前",
+      "time_iso": "2026-08-10T17:00:51.547051+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,7 +178,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.283759+00:00",
+      "time_iso": "2026-08-10T19:06:29.020121+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "312d1fe068",
+      "category": "hot",
+      "title": "队报：被因凡蒂诺解雇的员工准备重返FIFA，各方想拔枪还击",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641729624.html",
+      "team": "",
+      "time": "22小时前",
+      "time_iso": "2026-08-09T20:41:54.907717+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "92f6feb747",
+      "category": "hot",
+      "title": "J联赛：揭幕战这样踢？！鹿岛鹿角补时绝地逆转战胜横滨！",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T19:06:29.020508+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "92f6feb747",
-      "category": "hot",
-      "title": "J联赛：揭幕战这样踢？！鹿岛鹿角补时绝地逆转战胜横滨！",
+      "id": "b4919a475c",
+      "category": "tactical",
+      "title": "阿媒：世界杯集训期间队友曾劝梅西先回家陪伴父亲，但他选择留下",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.284144+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
+      "team": "ARG",
+      "time": "3小时前",
+      "time_iso": "2026-08-10T15:06:33.468942+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "b4919a475c",
-      "category": "tactical",
-      "title": "阿媒：世界杯集训期间队友曾劝梅西先回家陪伴父亲，但他选择留下",
+      "id": "d70ef3ea2b",
+      "category": "hot",
+      "title": "VAR机构：FIFA正研究友谊赛暴力行为红牌，球员将在正式赛事停赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
-      "team": "ARG",
-      "time": "1小时前",
-      "time_iso": "2026-08-10T15:06:33.468942+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a79bc17f2ca1native.htm",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-08-10T13:25:59.045684+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "d70ef3ea2b",
+      "id": "351285bbc1",
       "category": "hot",
-      "title": "VAR机构：FIFA正研究友谊赛暴力行为红牌，球员将在正式赛事停赛",
+      "title": "因凡蒂诺发文赞姆巴佩世界杯表现，法媒将其称为足坛最招反感的人",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a79bc17f2ca1native.htm",
-      "team": "",
-      "time": "3小时前",
-      "time_iso": "2026-08-10T13:25:59.045684+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
+      "team": "FRA",
+      "time": "16小时前",
+      "time_iso": "2026-08-10T02:24:25.634855+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -261,32 +285,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641616496.html",
       "team": "ESP",
-      "time": "1天前",
-      "time_iso": "2026-08-08T18:50:05.125157+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "351285bbc1",
-      "category": "hot",
-      "title": "因凡蒂诺发文赞姆巴佩世界杯表现，法媒将其称为足坛最招反感的人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
-      "team": "FRA",
-      "time": "14小时前",
-      "time_iso": "2026-08-10T02:24:25.634855+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "a7a0e07faa",
-      "category": "hot",
-      "title": "特瓦斯：FIFA的问题不仅仅是沟通，而是治理和权力过度集中",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641684391.html",
-      "team": "",
       "time": "2天前",
-      "time_iso": "2026-08-08T16:43:25.782305+00:00",
+      "time_iso": "2026-08-08T18:50:05.125157+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -303,14 +303,14 @@
       "is_hot": true
     },
     {
-      "id": "a247991740",
+      "id": "a7a0e07faa",
       "category": "hot",
-      "title": "文春：守田英正曾强烈反对佐野海舟入选，或因此无缘世界杯",
+      "title": "特瓦斯：FIFA的问题不仅仅是沟通，而是治理和权力过度集中",
       "summary": "",
-      "url": "https://bbs.hupu.com/641691483.html",
+      "url": "https://bbs.hupu.com/641684391.html",
       "team": "",
       "time": "2天前",
-      "time_iso": "2026-08-08T14:38:50.786149+00:00",
+      "time_iso": "2026-08-08T16:43:25.782305+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -327,14 +327,14 @@
       "is_hot": true
     },
     {
-      "id": "18d303efd1",
+      "id": "a247991740",
       "category": "hot",
-      "title": "孔帕尼：拜仁正为博埃寻找方案；基米希仍受世界杯伤势影响",
+      "title": "文春：守田英正曾强烈反对佐野海舟入选，或因此无缘世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/641691393.html",
+      "url": "https://bbs.hupu.com/641691483.html",
       "team": "",
       "time": "2天前",
-      "time_iso": "2026-08-08T14:38:50.786238+00:00",
+      "time_iso": "2026-08-08T14:38:50.786149+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -351,14 +351,14 @@
       "is_hot": true
     },
     {
-      "id": "779108accd",
+      "id": "18d303efd1",
       "category": "hot",
-      "title": "BBC：因世界杯影响，斯凯利新赛季开始将暂时锁定阿森纳主力",
+      "title": "孔帕尼：拜仁正为博埃寻找方案；基米希仍受世界杯伤势影响",
       "summary": "",
-      "url": "https://bbs.hupu.com/641683284.html",
+      "url": "https://bbs.hupu.com/641691393.html",
       "team": "",
       "time": "2天前",
-      "time_iso": "2026-08-08T14:38:50.786302+00:00",
+      "time_iso": "2026-08-08T14:38:50.786238+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -375,14 +375,14 @@
       "is_hot": true
     },
     {
-      "id": "1b1886eac7",
+      "id": "779108accd",
       "category": "hot",
-      "title": "西反对派：若世界杯决赛不放在西班牙，就该放弃合办世界杯",
+      "title": "BBC：因世界杯影响，斯凯利新赛季开始将暂时锁定阿森纳主力",
       "summary": "",
-      "url": "https://bbs.hupu.com/641662065.html",
-      "team": "ESP",
+      "url": "https://bbs.hupu.com/641683284.html",
+      "team": "",
       "time": "2天前",
-      "time_iso": "2026-08-08T14:38:50.786492+00:00",
+      "time_iso": "2026-08-08T14:38:50.786302+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -399,14 +399,14 @@
       "is_hot": true
     },
     {
-      "id": "a0e0b008ea",
+      "id": "1b1886eac7",
       "category": "hot",
-      "title": "外网热议赵松源：换户口能去皇马，希望下届世界杯看到中国",
+      "title": "西反对派：若世界杯决赛不放在西班牙，就该放弃合办世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/641659557.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/641662065.html",
+      "team": "ESP",
       "time": "2天前",
-      "time_iso": "2026-08-08T14:38:50.786556+00:00",
+      "time_iso": "2026-08-08T14:38:50.786492+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -423,14 +423,14 @@
       "is_hot": true
     },
     {
-      "id": "388db6c658",
+      "id": "a0e0b008ea",
       "category": "hot",
-      "title": "巴萨官方：取消一线队在摩洛哥友谊赛，当前情况下不宜参赛",
+      "title": "外网热议赵松源：换户口能去皇马，希望下届世界杯看到中国",
       "summary": "",
-      "url": "https://bbs.hupu.com/641655695.html",
-      "team": "MAR",
+      "url": "https://bbs.hupu.com/641659557.html",
+      "team": "",
       "time": "2天前",
-      "time_iso": "2026-08-08T14:38:50.786631+00:00",
+      "time_iso": "2026-08-08T14:38:50.786556+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -447,14 +447,14 @@
       "is_hot": true
     },
     {
-      "id": "76cca78e1b",
+      "id": "388db6c658",
       "category": "hot",
-      "title": "FIFPRO：FIFA撤回提案是必然，但现在迫切需要治理改革",
+      "title": "巴萨官方：取消一线队在摩洛哥友谊赛，当前情况下不宜参赛",
       "summary": "",
-      "url": "https://bbs.hupu.com/641653330.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/641655695.html",
+      "team": "MAR",
       "time": "2天前",
-      "time_iso": "2026-08-08T14:38:50.786686+00:00",
+      "time_iso": "2026-08-08T14:38:50.786631+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -471,6 +471,30 @@
       "is_hot": true
     },
     {
+      "id": "76cca78e1b",
+      "category": "hot",
+      "title": "FIFPRO：FIFA撤回提案是必然，但现在迫切需要治理改革",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641653330.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-08-08T14:38:50.786686+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "08fab0526d",
+      "category": "hot",
+      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T19:06:29.016368+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "94d4a824d9",
       "category": "hot",
       "title": "官方：迭戈-弗兰出任乌拉圭U20主帅，并兼任国家队临时主帅",
@@ -483,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "08fab0526d",
+      "id": "e105ceb6f7",
       "category": "hot",
-      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.279966+00:00",
+      "time_iso": "2026-08-10T19:06:29.016534+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "e105ceb6f7",
+      "id": "142510f8a1",
       "category": "hot",
-      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
+      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.280126+00:00",
+      "time_iso": "2026-08-10T19:06:29.016584+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "142510f8a1",
-      "category": "hot",
-      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
+      "id": "2db4bd4a6f",
+      "category": "tactical",
+      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.280211+00:00",
+      "time_iso": "2026-08-10T19:06:29.016634+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +579,14 @@
       "is_hot": false
     },
     {
-      "id": "2db4bd4a6f",
-      "category": "tactical",
-      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
+      "id": "a15e11b75d",
+      "category": "hot",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.280301+00:00",
+      "time_iso": "2026-08-10T19:06:29.016675+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -575,30 +599,6 @@
       "team": "",
       "time": "2天前",
       "time_iso": "2026-08-07T20:50:27.259774+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "a15e11b75d",
-      "category": "hot",
-      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T17:00:49.280343+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c5933415f6",
-      "category": "hot",
-      "title": "塔皮亚：有人引导舆论反阿根廷；胜英格兰堪比赢世界杯决赛",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641658628.html",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-07T19:06:56.973538+00:00",
       "source": "虎扑",
       "is_hot": false
     }
