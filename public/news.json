@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T02:24:27.666242+00:00",
+  "updated_at": "2026-08-10T05:39:31.661441+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.634706+00:00",
+      "time_iso": "2026-08-10T05:39:29.077036+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,32 +21,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641700371.html",
       "team": "ESP",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-08-10T02:24:27.665869+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "351285bbc1",
-      "category": "hot",
-      "title": "因凡蒂诺发文赞姆巴佩世界杯表现，法媒将其称为足坛最招反感的人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.634855+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "318b0414f4",
-      "category": "hot",
-      "title": "委内瑞拉足协：认可FIFA撤回争议项目，继续信任因凡蒂诺",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641695464.html",
-      "team": "",
-      "time": "9小时前",
-      "time_iso": "2026-08-09T16:45:24.895146+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.635529+00:00",
+      "time_iso": "2026-08-10T05:39:29.078103+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "cf5aaee8eb",
+      "id": "318b0414f4",
       "category": "hot",
-      "title": "塔皮亚：有人看不得阿根廷赢球，梅西无疑是这届世界杯最佳",
+      "title": "委内瑞拉足协：认可FIFA撤回争议项目，继续信任因凡蒂诺",
       "summary": "",
-      "url": "https://bbs.hupu.com/641707990.html",
-      "team": "ARG",
-      "time": "19小时前",
-      "time_iso": "2026-08-09T07:07:31.304786+00:00",
+      "url": "https://bbs.hupu.com/641695464.html",
+      "team": "",
+      "time": "12小时前",
+      "time_iso": "2026-08-09T16:45:24.895146+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -82,7 +58,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.635611+00:00",
+      "time_iso": "2026-08-10T05:39:29.078190+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "cf5aaee8eb",
+      "category": "hot",
+      "title": "塔皮亚：有人看不得阿根廷赢球，梅西无疑是这届世界杯最佳",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641707990.html",
+      "team": "ARG",
+      "time": "22小时前",
+      "time_iso": "2026-08-09T07:07:31.304786+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "b4919a475c",
+      "category": "tactical",
+      "title": "阿媒：世界杯集训期间队友曾劝梅西先回家陪伴父亲，但他选择留下",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T05:39:29.078219+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "b4919a475c",
-      "category": "tactical",
-      "title": "阿媒：世界杯集训期间队友曾劝梅西先回家陪伴父亲，但他选择留下",
+      "id": "7c94dd8a06",
+      "category": "hot",
+      "title": "西媒：世界杯期间针对梅西的恐袭威胁最多，多人扬言要炸弹袭击",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.635632+00:00",
+      "time_iso": "2026-08-10T05:39:29.078325+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +123,14 @@
       "is_hot": true
     },
     {
-      "id": "7c94dd8a06",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "西媒：世界杯期间针对梅西的恐袭威胁最多，多人扬言要炸弹袭击",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.635719+00:00",
+      "time_iso": "2026-08-10T05:39:29.079164+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,32 +141,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641729624.html",
       "team": "",
-      "time": "5小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-09T20:41:54.907717+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "cfb98e86ee",
-      "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.636334+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "9f48d58309",
-      "category": "hot",
-      "title": "塔利亚菲科：连续两届世界杯进决赛不易，两枚奖牌同样珍贵",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641699483.html",
-      "team": "",
-      "time": "9小时前",
-      "time_iso": "2026-08-09T16:45:24.895043+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.636377+00:00",
+      "time_iso": "2026-08-10T05:39:29.079218+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "a78bc09932",
+      "id": "9f48d58309",
       "category": "hot",
-      "title": "索斯盖特晒世界杯期间生活：拒绝担任解说，享受家庭时光",
+      "title": "塔利亚菲科：连续两届世界杯进决赛不易，两枚奖牌同样珍贵",
       "summary": "",
-      "url": "https://bbs.hupu.com/641693640.html",
+      "url": "https://bbs.hupu.com/641699483.html",
       "team": "",
-      "time": "11小时前",
-      "time_iso": "2026-08-09T14:41:53.130665+00:00",
+      "time": "12小时前",
+      "time_iso": "2026-08-09T16:45:24.895043+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -202,7 +178,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.636696+00:00",
+      "time_iso": "2026-08-10T05:39:29.079600+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "a78bc09932",
+      "category": "hot",
+      "title": "索斯盖特晒世界杯期间生活：拒绝担任解说，享受家庭时光",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641693640.html",
+      "team": "",
+      "time": "14小时前",
+      "time_iso": "2026-08-09T14:41:53.130665+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "351285bbc1",
+      "category": "hot",
+      "title": "因凡蒂诺发文赞姆巴佩世界杯表现，法媒将其称为足坛最招反感的人",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
+      "team": "FRA",
+      "time": "3小时前",
+      "time_iso": "2026-08-10T02:24:25.634855+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -225,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a782a609f674native.htm",
       "team": "BRA",
-      "time": "13小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-09T13:06:20.831438+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -411,16 +411,16 @@
       "is_hot": false
     },
     {
-      "id": "7d9e9ff7d0",
+      "id": "08fab0526d",
       "category": "hot",
-      "title": "皇社后卫：目前最好球员是姆巴佩 世界杯上最喜欢的中卫是库巴西",
+      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a75580904ebfnative.htm",
-      "team": "FRA",
-      "time": "2天前",
-      "time_iso": "2026-08-07T04:30:32.564975+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T05:39:29.075091+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "76cca78e1b",
@@ -435,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "08fab0526d",
+      "id": "e105ceb6f7",
       "category": "hot",
-      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.633539+00:00",
+      "time_iso": "2026-08-10T05:39:29.075257+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -459,14 +459,14 @@
       "is_hot": false
     },
     {
-      "id": "e105ceb6f7",
+      "id": "142510f8a1",
       "category": "hot",
-      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
+      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.633691+00:00",
+      "time_iso": "2026-08-10T05:39:29.075303+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -483,14 +483,14 @@
       "is_hot": false
     },
     {
-      "id": "142510f8a1",
-      "category": "hot",
-      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
+      "id": "2db4bd4a6f",
+      "category": "tactical",
+      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.633726+00:00",
+      "time_iso": "2026-08-10T05:39:29.075353+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "2db4bd4a6f",
-      "category": "tactical",
-      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
+      "id": "a15e11b75d",
+      "category": "hot",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.633778+00:00",
+      "time_iso": "2026-08-10T05:39:29.075391+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "a15e11b75d",
+      "id": "2043dfbb2b",
       "category": "hot",
-      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
+      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.633809+00:00",
+      "time_iso": "2026-08-10T05:39:29.075438+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "2043dfbb2b",
+      "id": "fdb4bbd660",
       "category": "hot",
-      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
+      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.633847+00:00",
+      "time_iso": "2026-08-10T05:39:29.075516+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -579,14 +579,14 @@
       "is_hot": false
     },
     {
-      "id": "fdb4bbd660",
+      "id": "691f0f4958",
       "category": "hot",
-      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
+      "title": "曼晚：利马将于曼联爱尔兰行结束后归队，并为英超揭幕战做准备",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a792bbcb8ea1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T02:24:25.633909+00:00",
+      "time_iso": "2026-08-10T05:39:29.076158+00:00",
       "source": "直播吧",
       "is_hot": false
     },
