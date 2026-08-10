@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:06:30.974840+00:00",
+  "updated_at": "2026-08-10T20:52:45.892134+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.017791+00:00",
+      "time_iso": "2026-08-10T20:52:43.534716+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "e30c80149e",
+      "id": "809b5f0d54",
       "category": "hot",
-      "title": "亚马尔：我从不考虑失败，我脑海中只有举起世界杯奖杯",
+      "title": "民族报：梅西父亲长期患癌，世界杯期间病情已经非常严重",
       "summary": "",
-      "url": "https://bbs.hupu.com/641700371.html",
-      "team": "ESP",
-      "time": "16小时前",
-      "time_iso": "2026-08-10T02:24:27.665869+00:00",
+      "url": "https://bbs.hupu.com/641727729.html",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T20:52:45.891561+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a79f5ef21588native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.018926+00:00",
+      "time_iso": "2026-08-10T20:52:43.535856+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "e30c80149e",
+      "category": "hot",
+      "title": "亚马尔：我从不考虑失败，我脑海中只有举起世界杯奖杯",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641700371.html",
+      "team": "ESP",
+      "time": "18小时前",
+      "time_iso": "2026-08-10T02:24:27.665869+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "43069b70b0",
+      "category": "hot",
+      "title": "世界杯后首访！斯卡洛尼：梅西是场上最棒的，这个亚军值得被铭记",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a797d7ed35b2native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T20:52:43.535909+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "43069b70b0",
+      "id": "25e3f90a11",
       "category": "hot",
-      "title": "世界杯后首访！斯卡洛尼：梅西是场上最棒的，这个亚军值得被铭记",
+      "title": "记者：豪尔赫一直让医生别透露病情给儿子，梅西为父亲参加世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a797d7ed35b2native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.018980+00:00",
+      "time_iso": "2026-08-10T20:52:43.535999+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "25e3f90a11",
+      "id": "7c94dd8a06",
       "category": "hot",
-      "title": "记者：豪尔赫一直让医生别透露病情给儿子，梅西为父亲参加世界杯",
+      "title": "西媒：世界杯期间针对梅西的恐袭威胁最多，多人扬言要炸弹袭击",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.019083+00:00",
+      "time_iso": "2026-08-10T20:52:43.536142+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,58 +117,10 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641699362.html",
       "team": "ESP",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-08T20:38:59.718073+00:00",
       "source": "虎扑",
       "is_hot": true
-    },
-    {
-      "id": "1120644417",
-      "category": "hot",
-      "title": "王涛：世界杯决赛前，梅西已经知道父亲只有不到1个月的生命了",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.019152+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "ccfe2ba91a",
-      "category": "hot",
-      "title": "阿足协官方：将7月15日设为国家队日，纪念半决赛逆转英格兰",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641610557.html",
-      "team": "ENG",
-      "time": "2天前",
-      "time_iso": "2026-08-07T20:50:27.259719+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "7c94dd8a06",
-      "category": "hot",
-      "title": "西媒：世界杯期间针对梅西的恐袭威胁最多，多人扬言要炸弹袭击",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.019240+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "d667bbabba",
-      "category": "hot",
-      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641769363.html",
-      "team": "CAN",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:30.974109+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "cfb98e86ee",
@@ -154,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.020068+00:00",
+      "time_iso": "2026-08-10T20:52:43.536961+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,8 +141,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641727078.html",
       "team": "",
-      "time": "2小时前",
-      "time_iso": "2026-08-10T17:00:51.547051+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T20:52:45.891655+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.020121+00:00",
+      "time_iso": "2026-08-10T20:52:43.537015+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "312d1fe068",
+      "id": "d667bbabba",
       "category": "hot",
-      "title": "队报：被因凡蒂诺解雇的员工准备重返FIFA，各方想拔枪还击",
+      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
       "summary": "",
-      "url": "https://bbs.hupu.com/641729624.html",
-      "team": "",
-      "time": "22小时前",
-      "time_iso": "2026-08-09T20:41:54.907717+00:00",
+      "url": "https://bbs.hupu.com/641769363.html",
+      "team": "CAN",
+      "time": "1小时前",
+      "time_iso": "2026-08-10T19:06:30.974109+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -202,7 +178,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.020508+00:00",
+      "time_iso": "2026-08-10T20:52:43.537424+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "312d1fe068",
+      "category": "hot",
+      "title": "队报：被因凡蒂诺解雇的员工准备重返FIFA，各方想拔枪还击",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641729624.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-08-09T20:41:54.907717+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "1120644417",
+      "category": "hot",
+      "title": "王涛：世界杯决赛前，梅西已经知道父亲只有不到1个月的生命了",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
+      "team": "ARG",
+      "time": "1小时前",
+      "time_iso": "2026-08-10T19:06:29.019152+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -225,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-10T15:06:33.468942+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a79bc17f2ca1native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "7小时前",
       "time_iso": "2026-08-10T13:25:59.045684+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641694139.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-08T20:38:59.718141+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -273,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
       "team": "FRA",
-      "time": "16小时前",
+      "time": "18小时前",
       "time_iso": "2026-08-10T02:24:25.634855+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.016368+00:00",
+      "time_iso": "2026-08-10T20:52:43.533262+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.016534+00:00",
+      "time_iso": "2026-08-10T20:52:43.533441+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,20 +538,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.016584+00:00",
+      "time_iso": "2026-08-10T20:52:43.533493+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ac8993a0c6",
-      "category": "hot",
-      "title": "FIFA官方：承认FFE事件失误，但不会再容忍对声誉的诋毁",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641611021.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-07T20:50:27.259567+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -562,20 +550,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.016634+00:00",
+      "time_iso": "2026-08-10T20:52:43.533545+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a4f1e5db05",
-      "category": "hot",
-      "title": "索内斯：苏格兰在世界杯缺乏信念，没有球员站出来主宰舞台",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641610662.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-07T20:50:27.259676+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -586,20 +562,44 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T19:06:29.016675+00:00",
+      "time_iso": "2026-08-10T20:52:43.533583+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "b2d6da95c5",
+      "id": "2043dfbb2b",
       "category": "hot",
-      "title": "天空：FIFA曾向成员发送预制信，直接寄回即可支持因凡蒂诺",
+      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
       "summary": "",
-      "url": "https://bbs.hupu.com/641609300.html",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-07T20:50:27.259774+00:00",
-      "source": "虎扑",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T20:52:43.533630+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "fdb4bbd660",
+      "category": "hot",
+      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T20:52:43.533708+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "43a01e77c9",
+      "category": "hot",
+      "title": "联赛杯第2轮抽签：切尔西VS卢顿、热刺VS查尔顿、森林VS利兹联",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7a1f04ca09enative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-10T20:52:43.533770+00:00",
+      "source": "直播吧",
       "is_hot": false
     }
   ]
