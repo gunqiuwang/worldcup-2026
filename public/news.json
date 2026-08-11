@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T19:12:19.774552+00:00",
-  "count": 45,
+  "updated_at": "2026-08-11T20:55:31.937096+00:00",
+  "count": 43,
   "articles": [
     {
       "id": "909b9bc72a",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.097774+00:00",
+      "time_iso": "2026-08-11T20:55:30.294718+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641763567.html",
       "team": "",
-      "time": "2小时前",
+      "time": "3小时前",
       "time_iso": "2026-08-11T17:04:54.440727+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7b1d8a33741native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.098882+00:00",
+      "time_iso": "2026-08-11T20:55:30.295862+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641747401.html",
       "team": "",
-      "time": "2小时前",
+      "time": "3小时前",
       "time_iso": "2026-08-11T17:04:54.440895+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a79f5ef21588native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.099006+00:00",
+      "time_iso": "2026-08-11T20:55:30.295990+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641727729.html",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "22小时前",
       "time_iso": "2026-08-10T22:47:36.819713+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a797d7ed35b2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.099056+00:00",
+      "time_iso": "2026-08-11T20:55:30.296035+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "7c94dd8a06",
+      "id": "25e3f90a11",
       "category": "hot",
-      "title": "西媒：世界杯期间针对梅西的恐袭威胁最多，多人扬言要炸弹袭击",
+      "title": "记者：豪尔赫一直让医生别透露病情给儿子，梅西为父亲参加世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.099182+00:00",
+      "time_iso": "2026-08-11T20:55:30.296166+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +123,14 @@
       "is_hot": true
     },
     {
-      "id": "25e3f90a11",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "记者：豪尔赫一直让医生别透露病情给儿子，梅西为父亲参加世界杯",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.099242+00:00",
+      "time_iso": "2026-08-11T20:55:30.296916+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,30 +147,6 @@
       "is_hot": true
     },
     {
-      "id": "cfb98e86ee",
-      "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.099976+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "898c2adefc",
-      "category": "hot",
-      "title": "世界杯决赛前亚马尔采访：从来不会去想输球，我只想着捧杯",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641699362.html",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-08-08T20:38:59.718073+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
       "id": "83fdae6d22",
       "category": "hot",
       "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
@@ -178,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.100034+00:00",
+      "time_iso": "2026-08-11T20:55:30.296969+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -190,7 +166,7 @@
       "url": "https://bbs.hupu.com/641729624.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:19.773980+00:00",
+      "time_iso": "2026-08-11T20:55:31.936663+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -202,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.100499+00:00",
+      "time_iso": "2026-08-11T20:55:30.297429+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,8 +189,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641774207.html",
       "team": "ENG",
-      "time": "13小时前",
+      "time": "15小时前",
       "time_iso": "2026-08-11T05:15:42.934303+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "7c94dd8a06",
+      "category": "hot",
+      "title": "西媒：世界杯期间针对梅西的恐袭威胁最多，多人扬言要炸弹袭击",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
+      "team": "ARG",
+      "time": "1小时前",
+      "time_iso": "2026-08-11T19:12:18.099182+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "c0f31fa418",
+      "category": "hot",
+      "title": "英联杯第二轮抽签结果：切尔西vs卢顿，热刺vs查尔顿",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641772581.html",
+      "team": "",
+      "time": "18小时前",
+      "time_iso": "2026-08-11T02:17:59.791870+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,14 @@
       "is_hot": true
     },
     {
-      "id": "c0f31fa418",
+      "id": "d667bbabba",
       "category": "hot",
-      "title": "英联杯第二轮抽签结果：切尔西vs卢顿，热刺vs查尔顿",
+      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
       "summary": "",
-      "url": "https://bbs.hupu.com/641772581.html",
-      "team": "",
-      "time": "16小时前",
-      "time_iso": "2026-08-11T02:17:59.791870+00:00",
+      "url": "https://bbs.hupu.com/641769363.html",
+      "team": "CAN",
+      "time": "22小时前",
+      "time_iso": "2026-08-10T22:47:36.819418+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -255,14 +255,14 @@
       "is_hot": true
     },
     {
-      "id": "d667bbabba",
+      "id": "5a773c7bd3",
       "category": "hot",
-      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
+      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
       "summary": "",
-      "url": "https://bbs.hupu.com/641769363.html",
-      "team": "CAN",
-      "time": "20小时前",
-      "time_iso": "2026-08-10T22:47:36.819418+00:00",
+      "url": "https://bbs.hupu.com/641727078.html",
+      "team": "",
+      "time": "22小时前",
+      "time_iso": "2026-08-10T22:47:36.819772+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -279,14 +279,14 @@
       "is_hot": true
     },
     {
-      "id": "5a773c7bd3",
+      "id": "9f48d58309",
       "category": "hot",
-      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
+      "title": "塔利亚菲科：连续两届世界杯进决赛不易，两枚奖牌同样珍贵",
       "summary": "",
-      "url": "https://bbs.hupu.com/641727078.html",
+      "url": "https://bbs.hupu.com/641699483.html",
       "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-08-10T22:47:36.819772+00:00",
+      "time": "2天前",
+      "time_iso": "2026-08-09T16:45:24.895043+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -303,14 +303,14 @@
       "is_hot": true
     },
     {
-      "id": "9f48d58309",
+      "id": "a78bc09932",
       "category": "hot",
-      "title": "塔利亚菲科：连续两届世界杯进决赛不易，两枚奖牌同样珍贵",
+      "title": "索斯盖特晒世界杯期间生活：拒绝担任解说，享受家庭时光",
       "summary": "",
-      "url": "https://bbs.hupu.com/641699483.html",
+      "url": "https://bbs.hupu.com/641693640.html",
       "team": "",
       "time": "2天前",
-      "time_iso": "2026-08-09T16:45:24.895043+00:00",
+      "time_iso": "2026-08-09T14:41:53.130665+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -327,18 +327,6 @@
       "is_hot": true
     },
     {
-      "id": "a78bc09932",
-      "category": "hot",
-      "title": "索斯盖特晒世界杯期间生活：拒绝担任解说，享受家庭时光",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641693640.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-09T14:41:53.130665+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "41a0b3449c",
       "category": "hot",
       "title": "阿媒：世界杯期间队友曾劝梅西先回家陪伴父亲，但他最终选择留下",
@@ -349,18 +337,6 @@
       "time_iso": "2026-08-09T02:19:31.162963+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "543443f5b0",
-      "category": "hot",
-      "title": "被当面分享世界杯阴谋论，梅迪纳：我们没放弃，我们想赢的",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641694139.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-08T20:38:59.718141+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "1b325218ad",
@@ -406,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7b23c78c4fcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.095446+00:00",
+      "time_iso": "2026-08-11T20:55:30.292389+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7aa2adbe676native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.095622+00:00",
+      "time_iso": "2026-08-11T20:55:30.292554+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096059+00:00",
+      "time_iso": "2026-08-11T20:55:30.292974+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096171+00:00",
+      "time_iso": "2026-08-11T20:55:30.293084+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096209+00:00",
+      "time_iso": "2026-08-11T20:55:30.293121+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096279+00:00",
+      "time_iso": "2026-08-11T20:55:30.293167+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096318+00:00",
+      "time_iso": "2026-08-11T20:55:30.293204+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096365+00:00",
+      "time_iso": "2026-08-11T20:55:30.293250+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096442+00:00",
+      "time_iso": "2026-08-11T20:55:30.293326+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-12/6a7b4e5e337b3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.096551+00:00",
+      "time_iso": "2026-08-11T20:55:30.293597+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7a970d64cf7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.098326+00:00",
+      "time_iso": "2026-08-11T20:55:30.295268+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7b27ffaa9danative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-11T19:12:18.098625+00:00",
+      "time_iso": "2026-08-11T20:55:30.295602+00:00",
       "source": "直播吧",
       "is_hot": false
     }
