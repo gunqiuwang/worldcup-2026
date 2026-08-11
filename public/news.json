@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:47:36.820225+00:00",
+  "updated_at": "2026-08-11T02:17:59.792440+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.654032+00:00",
+      "time_iso": "2026-08-11T02:17:58.061246+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641727729.html",
       "team": "ARG",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-08-10T22:47:36.819713+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a79f5ef21588native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.655238+00:00",
+      "time_iso": "2026-08-11T02:17:58.062344+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641700371.html",
       "team": "ESP",
-      "time": "20小时前",
+      "time": "23小时前",
       "time_iso": "2026-08-10T02:24:27.665869+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a797d7ed35b2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.655293+00:00",
+      "time_iso": "2026-08-11T02:17:58.062402+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a784d4e8e7bdnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.655388+00:00",
+      "time_iso": "2026-08-11T02:17:58.062467+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a756947957fbnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.655531+00:00",
+      "time_iso": "2026-08-11T02:17:58.062583+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.656332+00:00",
+      "time_iso": "2026-08-11T02:17:58.063372+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "d667bbabba",
+      "id": "a02b9c3561",
       "category": "hot",
-      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
+      "title": "英格兰世界杯赛前大巴曾遭遇炸弹惊魂，事后发现是虚惊一场",
       "summary": "",
-      "url": "https://bbs.hupu.com/641769363.html",
-      "team": "CAN",
+      "url": "https://bbs.hupu.com/641774207.html",
+      "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:36.819418+00:00",
+      "time_iso": "2026-08-11T02:17:59.791682+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.656386+00:00",
+      "time_iso": "2026-08-11T02:17:58.063425+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "5a773c7bd3",
+      "id": "c0f31fa418",
       "category": "hot",
-      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
+      "title": "英联杯第二轮抽签结果：切尔西vs卢顿，热刺vs查尔顿",
       "summary": "",
-      "url": "https://bbs.hupu.com/641727078.html",
+      "url": "https://bbs.hupu.com/641772581.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:36.819772+00:00",
+      "time_iso": "2026-08-11T02:17:59.791870+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,7 +178,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.656814+00:00",
+      "time_iso": "2026-08-11T02:17:58.063869+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "d667bbabba",
+      "category": "hot",
+      "title": "美国足协官方：和加拿大/加勒比/中美洲一起呼吁FIFA做改革",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641769363.html",
+      "team": "CAN",
+      "time": "3小时前",
+      "time_iso": "2026-08-10T22:47:36.819418+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "1120644417",
+      "category": "hot",
+      "title": "王涛：世界杯决赛前，梅西已经知道父亲只有不到1个月的生命了",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
+      "team": "ARG",
+      "time": "7小时前",
+      "time_iso": "2026-08-10T19:06:29.019152+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "5a773c7bd3",
+      "category": "hot",
+      "title": "FIFA官方：有人持续试图削弱主席，将坚决反击不实报道",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641727078.html",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-08-10T22:47:36.819772+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "b4919a475c",
+      "category": "tactical",
+      "title": "阿媒：世界杯集训期间队友曾劝梅西先回家陪伴父亲，但他选择留下",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
+      "team": "ARG",
+      "time": "11小时前",
+      "time_iso": "2026-08-10T15:06:33.468942+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "1120644417",
+      "id": "d70ef3ea2b",
       "category": "hot",
-      "title": "王涛：世界杯决赛前，梅西已经知道父亲只有不到1个月的生命了",
+      "title": "VAR机构：FIFA正研究友谊赛暴力行为红牌，球员将在正式赛事停赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d7611f17fnative.htm",
-      "team": "ARG",
-      "time": "3小时前",
-      "time_iso": "2026-08-10T19:06:29.019152+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a79bc17f2ca1native.htm",
+      "team": "",
+      "time": "12小时前",
+      "time_iso": "2026-08-10T13:25:59.045684+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "b4919a475c",
-      "category": "tactical",
-      "title": "阿媒：世界杯集训期间队友曾劝梅西先回家陪伴父亲，但他选择留下",
+      "id": "351285bbc1",
+      "category": "hot",
+      "title": "因凡蒂诺发文赞姆巴佩世界杯表现，法媒将其称为足坛最招反感的人",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
-      "team": "ARG",
-      "time": "7小时前",
-      "time_iso": "2026-08-10T15:06:33.468942+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
+      "team": "FRA",
+      "time": "23小时前",
+      "time_iso": "2026-08-10T02:24:25.634855+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "d70ef3ea2b",
+      "id": "9aa00c122a",
       "category": "hot",
-      "title": "VAR机构：FIFA正研究友谊赛暴力行为红牌，球员将在正式赛事停赛",
+      "title": "巴西连线！吉马良斯世界杯助攻马丁内利绝杀日本，现成俱乐部队友",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a79bc17f2ca1native.htm",
-      "team": "",
-      "time": "9小时前",
-      "time_iso": "2026-08-10T13:25:59.045684+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a782a609f674native.htm",
+      "team": "BRA",
+      "time": "1天前",
+      "time_iso": "2026-08-09T13:06:20.831438+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -267,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "351285bbc1",
+      "id": "41a0b3449c",
       "category": "hot",
-      "title": "因凡蒂诺发文赞姆巴佩世界杯表现，法媒将其称为足坛最招反感的人",
+      "title": "阿媒：世界杯期间队友曾劝梅西先回家陪伴父亲，但他最终选择留下",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72640401630native.htm",
-      "team": "FRA",
-      "time": "20小时前",
-      "time_iso": "2026-08-10T02:24:25.634855+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
+      "team": "ARG",
+      "time": "1天前",
+      "time_iso": "2026-08-09T02:19:31.162963+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -291,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "9aa00c122a",
+      "id": "1b325218ad",
       "category": "hot",
-      "title": "巴西连线！吉马良斯世界杯助攻马丁内利绝杀日本，现成俱乐部队友",
+      "title": "阿根廷足协&国家队：沉痛哀悼我们的队长梅西的父亲豪尔赫逝世",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a782a609f674native.htm",
-      "team": "BRA",
-      "time": "1天前",
-      "time_iso": "2026-08-09T13:06:20.831438+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a7746279d0e5native.htm",
+      "team": "ARG",
+      "time": "2天前",
+      "time_iso": "2026-08-08T22:37:02.374328+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -315,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "41a0b3449c",
+      "id": "f4c73ff510",
       "category": "hot",
-      "title": "阿媒：世界杯期间队友曾劝梅西先回家陪伴父亲，但他最终选择留下",
+      "title": "奥莱报：世界杯期间梅西甚至考虑去探望父亲 豪尔赫病情始终危重",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-09/6a77d34ef3b05native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a77268264b01native.htm",
       "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-08-09T02:19:31.162963+00:00",
+      "time": "2天前",
+      "time_iso": "2026-08-08T22:37:02.374516+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -339,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "1b325218ad",
+      "id": "a38c5b0b7f",
       "category": "hot",
-      "title": "阿根廷足协&国家队：沉痛哀悼我们的队长梅西的父亲豪尔赫逝世",
+      "title": "常规操作？梅西训练时扣球晃翻迈阿密队友，复刻世界杯助攻瞬间",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a7746279d0e5native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a76773d92df2native.htm",
       "team": "ARG",
       "time": "2天前",
-      "time_iso": "2026-08-08T22:37:02.374328+00:00",
+      "time_iso": "2026-08-08T22:37:02.374566+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -363,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "f4c73ff510",
+      "id": "e747921f42",
       "category": "hot",
-      "title": "奥莱报：世界杯期间梅西甚至考虑去探望父亲 豪尔赫病情始终危重",
+      "title": "塔皮亚：梅西毫无疑问是2026世界杯最佳，国家队大门永远为他敞开",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a77268264b01native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a7524a426696native.htm",
       "team": "ARG",
       "time": "2天前",
-      "time_iso": "2026-08-08T22:37:02.374516+00:00",
+      "time_iso": "2026-08-08T14:38:48.219886+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,16 +435,16 @@
       "is_hot": false
     },
     {
-      "id": "a38c5b0b7f",
+      "id": "08fab0526d",
       "category": "hot",
-      "title": "常规操作？梅西训练时扣球晃翻迈阿密队友，复刻世界杯助攻瞬间",
+      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a76773d92df2native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-08T22:37:02.374566+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-11T02:17:58.059866+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "1b1886eac7",
@@ -411,16 +459,16 @@
       "is_hot": false
     },
     {
-      "id": "e747921f42",
+      "id": "e105ceb6f7",
       "category": "hot",
-      "title": "塔皮亚：梅西毫无疑问是2026世界杯最佳，国家队大门永远为他敞开",
+      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-07/6a7524a426696native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-08T14:38:48.219886+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-11T02:17:58.060031+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "a0e0b008ea",
@@ -435,16 +483,16 @@
       "is_hot": false
     },
     {
-      "id": "990528a8c6",
+      "id": "142510f8a1",
       "category": "hot",
-      "title": "又是满分表现！梅西延续世界杯状态，联盟杯首战2球1助评分10分！",
+      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-06/6a73ed7c29098native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-08T02:07:30.157085+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-11T02:17:58.060077+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "388db6c658",
@@ -459,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "08fab0526d",
-      "category": "hot",
-      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "id": "2db4bd4a6f",
+      "category": "tactical",
+      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652453+00:00",
+      "time_iso": "2026-08-11T02:17:58.060128+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -483,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "e105ceb6f7",
+      "id": "a15e11b75d",
       "category": "hot",
-      "title": "张力：拜仁原本有望2007年对阵国足，但时任FIFA主席布拉特干预",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a716f89b6661native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652643+00:00",
+      "time_iso": "2026-08-11T02:17:58.060168+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "142510f8a1",
+      "id": "2043dfbb2b",
       "category": "hot",
-      "title": "为满足国家队比赛需要，重庆龙兴足球场更换世界杯决赛同款草种",
+      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-04/6a71388e3da0bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652690+00:00",
+      "time_iso": "2026-08-11T02:17:58.060215+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,42 +579,6 @@
       "is_hot": false
     },
     {
-      "id": "2db4bd4a6f",
-      "category": "tactical",
-      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652742+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a15e11b75d",
-      "category": "hot",
-      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652781+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "2043dfbb2b",
-      "category": "hot",
-      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652833+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "fdb4bbd660",
       "category": "hot",
       "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
@@ -574,31 +586,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652916+00:00",
+      "time_iso": "2026-08-11T02:17:58.060291+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "a9efa93e51",
+      "id": "43a01e77c9",
       "category": "hot",
-      "title": "记者：因凡蒂诺承诺若继续当选FIFA主席将助墨西哥脱离中北美足联",
+      "title": "联赛杯第2轮抽签：切尔西VS卢顿、热刺VS查尔顿、森林VS利兹联",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7a4f6ae2b4dnative.htm",
-      "team": "MEX",
-      "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.652963+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "691f0f4958",
-      "category": "hot",
-      "title": "曼晚：利马将于曼联爱尔兰行结束后归队，并为英超揭幕战做准备",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-10/6a792bbcb8ea1native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-11/6a7a1f04ca09enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-10T22:47:34.653222+00:00",
+      "time_iso": "2026-08-11T02:17:58.060561+00:00",
       "source": "直播吧",
       "is_hot": false
     }
