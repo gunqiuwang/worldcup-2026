@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T18:39:40.213805+00:00",
+  "updated_at": "2026-08-15T20:30:20.780875+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.233777+00:00",
+      "time_iso": "2026-08-15T20:30:18.875937+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/641846649.html",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:40.213237+00:00",
+      "time_iso": "2026-08-15T20:30:20.780519+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fc44eaf243native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.234712+00:00",
+      "time_iso": "2026-08-15T20:30:18.876830+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641811016.html",
       "team": "ARG",
-      "time": "4小时前",
+      "time": "6小时前",
       "time_iso": "2026-08-15T14:30:08.367710+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.234761+00:00",
+      "time_iso": "2026-08-15T20:30:18.876876+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641830065.html",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "21小时前",
       "time_iso": "2026-08-14T22:30:44.625986+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7ead4b33013native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.234825+00:00",
+      "time_iso": "2026-08-15T20:30:18.876940+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7e79404689bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.234868+00:00",
+      "time_iso": "2026-08-15T20:30:18.876982+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.235693+00:00",
+      "time_iso": "2026-08-15T20:30:18.877803+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "773a0b1433",
+      "id": "34d9932562",
       "category": "hot",
-      "title": "韩媒：性招待与02世界杯无关，但韩国足球国际形象已受损",
+      "title": "远藤航：无缘世界杯我没有后悔也没有留恋；做好自己就行",
       "summary": "",
-      "url": "https://bbs.hupu.com/641846300.html",
-      "team": "KOR",
+      "url": "https://bbs.hupu.com/641850326.html",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:40.213318+00:00",
+      "time_iso": "2026-08-15T20:30:20.780376+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.235750+00:00",
+      "time_iso": "2026-08-15T20:30:18.877856+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "3a7dbda456",
+      "id": "773a0b1433",
       "category": "hot",
-      "title": "英冠揭幕战狼队2-2布莱克本，希门尼斯压哨点球绝平",
+      "title": "韩媒：性招待与02世界杯无关，但韩国足球国际形象已受损",
       "summary": "",
-      "url": "https://bbs.hupu.com/641866019.html",
-      "team": "",
-      "time": "2小时前",
-      "time_iso": "2026-08-15T16:32:52.799830+00:00",
+      "url": "https://bbs.hupu.com/641846300.html",
+      "team": "KOR",
+      "time": "1小时前",
+      "time_iso": "2026-08-15T18:39:40.213318+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -183,14 +183,14 @@
       "is_hot": true
     },
     {
-      "id": "bc29b80bf5",
+      "id": "3a7dbda456",
       "category": "hot",
-      "title": "FIFA主席？纳赛尔：我非常高兴担任巴黎圣日耳曼的主席",
+      "title": "英冠揭幕战狼队2-2布莱克本，希门尼斯压哨点球绝平",
       "summary": "",
-      "url": "https://bbs.hupu.com/641848624.html",
+      "url": "https://bbs.hupu.com/641866019.html",
       "team": "",
-      "time": "10小时前",
-      "time_iso": "2026-08-15T08:37:41.542547+00:00",
+      "time": "3小时前",
+      "time_iso": "2026-08-15T16:32:52.799830+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "e2b7c8a085",
+      "id": "bc29b80bf5",
       "category": "hot",
-      "title": "努萨：德甲和世界杯是两个世界；在莱比锡学驾照很有挑战性",
+      "title": "FIFA主席？纳赛尔：我非常高兴担任巴黎圣日耳曼的主席",
       "summary": "",
-      "url": "https://bbs.hupu.com/641827603.html",
+      "url": "https://bbs.hupu.com/641848624.html",
       "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-08-14T22:30:44.626119+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-08-15T08:37:41.542547+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,14 @@
       "is_hot": true
     },
     {
-      "id": "0c4026c5a1",
+      "id": "e2b7c8a085",
       "category": "hot",
-      "title": "官方：哈维出任荷兰国家队新任主教练，双方签约至2030年",
+      "title": "努萨：德甲和世界杯是两个世界；在莱比锡学驾照很有挑战性",
       "summary": "",
-      "url": "https://bbs.hupu.com/641817959.html",
-      "team": "NED",
-      "time": "20小时前",
-      "time_iso": "2026-08-14T22:30:44.626395+00:00",
+      "url": "https://bbs.hupu.com/641827603.html",
+      "team": "",
+      "time": "21小时前",
+      "time_iso": "2026-08-14T22:30:44.626119+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -255,14 +255,14 @@
       "is_hot": true
     },
     {
-      "id": "c6a4059415",
+      "id": "0c4026c5a1",
       "category": "hot",
-      "title": "走马上任！哈维成为荷兰国家队近48年来首位外籍主教练",
+      "title": "官方：哈维出任荷兰国家队新任主教练，双方签约至2030年",
       "summary": "",
-      "url": "https://bbs.hupu.com/641819431.html",
+      "url": "https://bbs.hupu.com/641817959.html",
       "team": "NED",
-      "time": "22小时前",
-      "time_iso": "2026-08-14T20:37:08.053214+00:00",
+      "time": "21小时前",
+      "time_iso": "2026-08-14T22:30:44.626395+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -279,14 +279,14 @@
       "is_hot": true
     },
     {
-      "id": "53feb89f82",
+      "id": "c6a4059415",
       "category": "hot",
-      "title": "哈桑：世界杯时全国都在支持埃及；想庆祝苏超冠军",
+      "title": "走马上任！哈维成为荷兰国家队近48年来首位外籍主教练",
       "summary": "",
-      "url": "https://bbs.hupu.com/641818547.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/641819431.html",
+      "team": "NED",
       "time": "23小时前",
-      "time_iso": "2026-08-14T19:03:42.486507+00:00",
+      "time_iso": "2026-08-14T20:37:08.053214+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -298,7 +298,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f2c2e40112native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.232317+00:00",
+      "time_iso": "2026-08-15T20:30:18.874461+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "53feb89f82",
+      "category": "hot",
+      "title": "哈桑：世界杯时全国都在支持埃及；想庆祝苏超冠军",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641818547.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-08-14T19:03:42.486507+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "53d49e4669",
+      "category": "hot",
+      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-08-15T20:30:18.874581+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -315,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "53d49e4669",
+      "id": "08fab0526d",
       "category": "hot",
-      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
+      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.232444+00:00",
+      "time_iso": "2026-08-15T20:30:18.874640+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -339,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "08fab0526d",
-      "category": "hot",
-      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "id": "2db4bd4a6f",
+      "category": "tactical",
+      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.232503+00:00",
+      "time_iso": "2026-08-15T20:30:18.874798+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "2db4bd4a6f",
-      "category": "tactical",
-      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
+      "id": "a15e11b75d",
+      "category": "hot",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.232642+00:00",
+      "time_iso": "2026-08-15T20:30:18.874866+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "a15e11b75d",
+      "id": "2043dfbb2b",
       "category": "hot",
-      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
+      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.232684+00:00",
+      "time_iso": "2026-08-15T20:30:18.874921+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -411,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "2043dfbb2b",
+      "id": "fdb4bbd660",
       "category": "hot",
-      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
+      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.232734+00:00",
+      "time_iso": "2026-08-15T20:30:18.874999+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,14 +459,14 @@
       "is_hot": false
     },
     {
-      "id": "fdb4bbd660",
+      "id": "cd38266156",
       "category": "hot",
-      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
+      "title": "能否完成？费兰已获世界杯、欧洲杯、英超等冠军，只差欧冠冠军",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8056629d6d1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.232817+00:00",
+      "time_iso": "2026-08-15T20:30:18.875790+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -459,14 +483,14 @@
       "is_hot": false
     },
     {
-      "id": "cd38266156",
+      "id": "6dc801bd01",
       "category": "hot",
-      "title": "能否完成？费兰已获世界杯、欧洲杯、英超等冠军，只差欧冠冠军",
+      "title": "TA：巴萨、皇马不会出战首轮西甲，根源来自世界杯的球员休整政策",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8056629d6d1native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7ff5348c422native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.233610+00:00",
+      "time_iso": "2026-08-15T20:30:18.876187+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -483,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "6dc801bd01",
+      "id": "8dfc10d034",
       "category": "hot",
-      "title": "TA：巴萨、皇马不会出战首轮西甲，根源来自世界杯的球员休整政策",
+      "title": "米体：劳塔罗渴望化解世界杯决赛失利遗憾，他已为新赛季做好准备",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7ff5348c422native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8019b5279b2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.234049+00:00",
+      "time_iso": "2026-08-15T20:30:18.876354+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "8dfc10d034",
+      "id": "cfe4eaa64b",
       "category": "hot",
-      "title": "米体：劳塔罗渴望化解世界杯决赛失利遗憾，他已为新赛季做好准备",
+      "title": "塔：世界杯结束后我没看任何社媒评论 每个人都需要强大的心理",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8019b5279b2native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8014e70da4dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.234231+00:00",
+      "time_iso": "2026-08-15T20:30:18.876686+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "cfe4eaa64b",
+      "id": "1d043ab2ba",
       "category": "hot",
-      "title": "塔：世界杯结束后我没看任何社媒评论 每个人都需要强大的心理",
+      "title": "世界杯十大比赛：西班牙一击致命夺冠，“足球小国”爆出大冷门",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8014e70da4dnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5c6bcda87ffnative.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.234577+00:00",
+      "time_iso": "2026-08-15T20:30:18.877186+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +579,14 @@
       "is_hot": false
     },
     {
-      "id": "1d043ab2ba",
+      "id": "f06daa46f1",
       "category": "hot",
-      "title": "世界杯十大比赛：西班牙一击致命夺冠，“足球小国”爆出大冷门",
+      "title": "世界杯彩经：欧美冠军巅峰对垒 势均力敌终极鏖战",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5c6bcda87ffnative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-19/6a59e2b69190anative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.235111+00:00",
+      "time_iso": "2026-08-15T20:30:18.877291+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -575,30 +599,6 @@
       "team": "",
       "time": "2天前",
       "time_iso": "2026-08-13T07:45:06.639795+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "f06daa46f1",
-      "category": "hot",
-      "title": "世界杯彩经：欧美冠军巅峰对垒 势均力敌终极鏖战",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-19/6a59e2b69190anative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-15T18:39:38.235224+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "6282f5bbcc",
-      "category": "hot",
-      "title": "靓！有着“世界杯最性感球迷”之称的巴西网红晒火辣写真",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641796039.html",
-      "team": "BRA",
-      "time": "2天前",
-      "time_iso": "2026-08-13T05:44:53.502465+00:00",
       "source": "虎扑",
       "is_hot": false
     }
