@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T08:37:41.543183+00:00",
+  "updated_at": "2026-08-15T10:29:20.782082+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.516776+00:00",
+      "time_iso": "2026-08-15T10:29:18.351462+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641830065.html",
       "team": "ARG",
-      "time": "10小时前",
+      "time": "11小时前",
       "time_iso": "2026-08-14T22:30:44.625986+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fc44eaf243native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.517875+00:00",
+      "time_iso": "2026-08-15T10:29:18.352533+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.517921+00:00",
+      "time_iso": "2026-08-15T10:29:18.352581+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7ead4b33013native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.517982+00:00",
+      "time_iso": "2026-08-15T10:29:18.352643+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7e79404689bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.518039+00:00",
+      "time_iso": "2026-08-15T10:29:18.352691+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641848624.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "1小时前",
       "time_iso": "2026-08-15T08:37:41.542547+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.518884+00:00",
+      "time_iso": "2026-08-15T10:29:18.353567+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641827603.html",
       "team": "",
-      "time": "10小时前",
+      "time": "11小时前",
       "time_iso": "2026-08-14T22:30:44.626119+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.518939+00:00",
+      "time_iso": "2026-08-15T10:29:18.353622+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641817959.html",
       "team": "NED",
-      "time": "10小时前",
+      "time": "11小时前",
       "time_iso": "2026-08-14T22:30:44.626395+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-07/match2064171date2026vnative.htm",
       "team": "",
-      "time": "21小时前",
+      "time": "23小时前",
       "time_iso": "2026-08-14T11:02:29.476505+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641819431.html",
       "team": "NED",
-      "time": "12小时前",
+      "time": "13小时前",
       "time_iso": "2026-08-14T20:37:08.053214+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641818547.html",
       "team": "",
-      "time": "13小时前",
+      "time": "15小时前",
       "time_iso": "2026-08-14T19:03:42.486507+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641803875.html",
       "team": "",
-      "time": "17小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-14T14:59:19.730438+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641800466.html",
       "team": "",
-      "time": "17小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-14T14:59:19.730566+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641798764.html",
       "team": "",
-      "time": "17小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-14T14:59:19.730706+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -309,32 +309,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641795367.html",
       "team": "",
-      "time": "17小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-14T14:59:19.730797+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "1ce45c29b0",
-      "category": "hot",
-      "title": "明日之星冠军杯小组赛第一轮：中国U17女足vs皇马U17女足 8月16日",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fcf0a9bd8cnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.514959+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "001d882051",
-      "category": "hot",
-      "title": "奥利塞世界杯后参加了个纽约野球局，穿着袜子踢了15分钟",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641794474.html",
-      "team": "",
-      "time": "21小时前",
-      "time_iso": "2026-08-14T11:02:31.229290+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -346,7 +322,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7e7c7fac95anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515317+00:00",
+      "time_iso": "2026-08-15T10:29:18.349976+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "001d882051",
+      "category": "hot",
+      "title": "奥利塞世界杯后参加了个纽约野球局，穿着袜子踢了15分钟",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641794474.html",
+      "team": "",
+      "time": "23小时前",
+      "time_iso": "2026-08-14T11:02:31.229290+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "e6a5ea3918",
+      "category": "hot",
+      "title": "亚冠精英联赛东亚区参赛球队出炉，8月18日抽签",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-12/6a7bb7899c54fnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-15T10:29:18.350118+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "e6a5ea3918",
+      "id": "ebdb7a10e2",
       "category": "hot",
-      "title": "亚冠精英联赛东亚区参赛球队出炉，8月18日抽签",
+      "title": "2026中超联赛第23轮，最终，上海海港3比2战胜武汉三镇",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-12/6a7bb7899c54fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f2c2e40112native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515409+00:00",
+      "time_iso": "2026-08-15T10:29:18.350223+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "ebdb7a10e2",
+      "id": "53d49e4669",
       "category": "hot",
-      "title": "2026中超联赛第23轮，最终，上海海港3比2战胜武汉三镇",
+      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f2c2e40112native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515503+00:00",
+      "time_iso": "2026-08-15T10:29:18.350288+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -411,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "53d49e4669",
+      "id": "08fab0526d",
       "category": "hot",
-      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
+      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515554+00:00",
+      "time_iso": "2026-08-15T10:29:18.350337+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "08fab0526d",
-      "category": "hot",
-      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "id": "2db4bd4a6f",
+      "category": "tactical",
+      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515603+00:00",
+      "time_iso": "2026-08-15T10:29:18.350462+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -459,14 +459,14 @@
       "is_hot": false
     },
     {
-      "id": "2db4bd4a6f",
-      "category": "tactical",
-      "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
+      "id": "a15e11b75d",
+      "category": "hot",
+      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515727+00:00",
+      "time_iso": "2026-08-15T10:29:18.350500+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -483,14 +483,14 @@
       "is_hot": false
     },
     {
-      "id": "a15e11b75d",
+      "id": "2043dfbb2b",
       "category": "hot",
-      "title": "津媒：若米利西奇亚运会无法跨越半决赛，其在足协得分不会太高",
+      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515764+00:00",
+      "time_iso": "2026-08-15T10:29:18.350547+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "2043dfbb2b",
+      "id": "fdb4bbd660",
       "category": "hot",
-      "title": "2026亚运会女足分组：中国与菲律宾、乌兹别克斯坦、中国香港同组",
+      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515813+00:00",
+      "time_iso": "2026-08-15T10:29:18.350625+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "fdb4bbd660",
+      "id": "f10be78d96",
       "category": "hot",
-      "title": "FIFA女足世界排名：中国女足两负俄罗斯，但仍位居第16位",
+      "title": "世体：费兰的家乡小镇为他制作壁画，纪念他在世界杯决赛进球夺冠",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-16/6a312c933737fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fa54ed6fb8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.515894+00:00",
+      "time_iso": "2026-08-15T10:29:18.351303+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,18 +555,6 @@
       "is_hot": false
     },
     {
-      "id": "f10be78d96",
-      "category": "hot",
-      "title": "世体：费兰的家乡小镇为他制作壁画，纪念他在世界杯决赛进球夺冠",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fa54ed6fb8native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.516584+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "6dc801bd01",
       "category": "hot",
       "title": "TA：巴萨、皇马不会出战首轮西甲，根源来自世界杯的球员休整政策",
@@ -574,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7ff5348c422native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.516971+00:00",
+      "time_iso": "2026-08-15T10:29:18.351660+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,19 +574,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f10deed21enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.517078+00:00",
+      "time_iso": "2026-08-15T10:29:18.351750+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "8202e97bdb",
+      "id": "8dfc10d034",
       "category": "hot",
-      "title": "TA：弗里克不满德容带伤踢世界杯，罗德里若加盟将直接占据其位置",
+      "title": "米体：劳塔罗渴望化解世界杯决赛失利遗憾，他已为新赛季做好准备",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fe3360b7b0native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8019b5279b2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-15T08:37:39.517126+00:00",
+      "time_iso": "2026-08-15T10:29:18.351869+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "cfe4eaa64b",
+      "category": "hot",
+      "title": "塔：世界杯结束后我没看任何社媒评论 每个人都需要强大的心理",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a8014e70da4dnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-15T10:29:18.352248+00:00",
       "source": "直播吧",
       "is_hot": false
     }
