@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T10:38:50.494461+00:00",
+  "updated_at": "2026-08-17T12:57:49.169488+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-16/6a80f42d35d32native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.030911+00:00",
+      "time_iso": "2026-08-17T12:57:47.014957+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641883889.html",
       "team": "ARG",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-16T22:29:09.132928+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fc44eaf243native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.031002+00:00",
+      "time_iso": "2026-08-17T12:57:47.015013+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641887213.html",
       "team": "ARG",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-08-16T12:53:34.535711+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7ead4b33013native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.031134+00:00",
+      "time_iso": "2026-08-17T12:57:47.015078+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.031246+00:00",
+      "time_iso": "2026-08-17T12:57:47.015142+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.032395+00:00",
+      "time_iso": "2026-08-17T12:57:47.015824+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.032490+00:00",
+      "time_iso": "2026-08-17T12:57:47.015877+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "366e4d47e6",
+      "id": "54d6ef889f",
       "category": "hot",
-      "title": "阿斯：巴萨友谊赛7名世界杯球员归队，戈登或客串中锋",
+      "title": "专家：罗德里是巴萨本世纪最佳签约之一，欧冠淘汰赛需要他",
       "summary": "",
-      "url": "https://bbs.hupu.com/641887190.html",
+      "url": "https://bbs.hupu.com/641909678.html",
       "team": "",
-      "time": "7小时前",
-      "time_iso": "2026-08-17T03:07:10.018027+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-17T12:57:49.168905+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -153,20 +153,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-05/6a72a2f180e0dnative.htm",
       "team": "BRA",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-16T22:29:07.583833+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "ac3a1a4e13",
+      "id": "366e4d47e6",
       "category": "hot",
-      "title": "TA：巴萨内部感觉德容为世界杯留力，对他带伤硬踢极为不满",
+      "title": "阿斯：巴萨友谊赛7名世界杯球员归队，戈登或客串中锋",
       "summary": "",
-      "url": "https://bbs.hupu.com/641869299.html",
+      "url": "https://bbs.hupu.com/641887190.html",
       "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-08-16T20:30:27.765105+00:00",
+      "time": "9小时前",
+      "time_iso": "2026-08-17T03:07:10.018027+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -177,20 +177,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a8215127fdd0native.htm",
       "team": "ESP",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-16T22:29:07.583997+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "aa472e64da",
+      "id": "ac3a1a4e13",
       "category": "hot",
-      "title": "世界杯0出场！卡里克：我和梅努聊过，这对他来说是很好经历",
+      "title": "TA：巴萨内部感觉德容为世界杯留力，对他带伤硬踢极为不满",
       "summary": "",
-      "url": "https://bbs.hupu.com/641842042.html",
+      "url": "https://bbs.hupu.com/641869299.html",
       "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-08-16T20:30:27.765283+00:00",
+      "time": "16小时前",
+      "time_iso": "2026-08-16T20:30:27.765105+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "3a7dbda456",
+      "id": "aa472e64da",
       "category": "hot",
-      "title": "英冠揭幕战狼队2-2布莱克本，希门尼斯压哨点球绝平",
+      "title": "世界杯0出场！卡里克：我和梅努聊过，这对他来说是很好经历",
       "summary": "",
-      "url": "https://bbs.hupu.com/641866019.html",
+      "url": "https://bbs.hupu.com/641842042.html",
       "team": "",
-      "time": "18小时前",
-      "time_iso": "2026-08-16T16:33:19.743699+00:00",
+      "time": "16小时前",
+      "time_iso": "2026-08-16T20:30:27.765283+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,62 @@
       "is_hot": true
     },
     {
+      "id": "3a7dbda456",
+      "category": "hot",
+      "title": "英冠揭幕战狼队2-2布莱克本，希门尼斯压哨点球绝平",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641866019.html",
+      "team": "",
+      "time": "20小时前",
+      "time_iso": "2026-08-16T16:33:19.743699+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "340e36de5d",
+      "category": "hot",
+      "title": "⚽ 2026怡宝中超联赛第十八轮（补赛） 上海申花vs北京国安",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82ed3ee5c0fnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-17T12:57:47.007969+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "646c49c052",
       "category": "hot",
       "title": "帕尔默：罗杰斯在世界杯时打电话告诉我要来；赢巴黎最自豪",
       "summary": "",
       "url": "https://bbs.hupu.com/641841051.html",
       "team": "",
-      "time": "18小时前",
+      "time": "20小时前",
       "time_iso": "2026-08-16T16:33:19.743974+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "9518aa7db9",
+      "category": "hot",
+      "title": "2026上海明日之星冠军杯小组赛第二轮，中国U-17女足6比0战胜拜仁",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82e96cd4986native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-17T12:57:47.008070+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a98f4e9513",
+      "category": "hot",
+      "title": "排面！热刺全队列队致敬世界杯冠军成员波罗",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641836754.html",
+      "team": "",
+      "time": "22小时前",
+      "time_iso": "2026-08-16T14:30:27.044897+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -250,19 +298,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82c7b17e713native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.025650+00:00",
+      "time_iso": "2026-08-17T12:57:47.008156+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "a98f4e9513",
+      "id": "db535cee37",
       "category": "hot",
-      "title": "排面！热刺全队列队致敬世界杯冠军成员波罗",
+      "title": "国际足联发布世界杯决赛裁判视角，来感受下西阿大战的强度",
       "summary": "",
-      "url": "https://bbs.hupu.com/641836754.html",
+      "url": "https://bbs.hupu.com/641887079.html",
       "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-08-16T14:30:27.044897+00:00",
+      "time": "1天前",
+      "time_iso": "2026-08-16T12:53:34.535535+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -274,31 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82bbadcccednative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.025784+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "db535cee37",
-      "category": "hot",
-      "title": "国际足联发布世界杯决赛裁判视角，来感受下西阿大战的强度",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641887079.html",
-      "team": "",
-      "time": "21小时前",
-      "time_iso": "2026-08-16T12:53:34.535535+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "df5fd96b9b",
-      "category": "hot",
-      "title": "明日抽签！亚冠二级联赛分档：上海申花位列东亚区第二档",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82a2f792e62native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.025913+00:00",
+      "time_iso": "2026-08-17T12:57:47.008207+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -309,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641848624.html",
       "team": "",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-08-16T12:53:34.535811+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -322,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a81df3049d2enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.026007+00:00",
+      "time_iso": "2026-08-17T12:57:47.008255+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82669a687d9native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.026406+00:00",
+      "time_iso": "2026-08-17T12:57:47.008503+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-16/6a81004ef2c46native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.026513+00:00",
+      "time_iso": "2026-08-17T12:57:47.008566+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.026742+00:00",
+      "time_iso": "2026-08-17T12:57:47.008697+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.026808+00:00",
+      "time_iso": "2026-08-17T12:57:47.008748+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.027079+00:00",
+      "time_iso": "2026-08-17T12:57:47.008901+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.027145+00:00",
+      "time_iso": "2026-08-17T12:57:47.008938+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.027226+00:00",
+      "time_iso": "2026-08-17T12:57:47.008984+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "6bfe238325",
+      "id": "0650a964ae",
       "category": "hot",
-      "title": "队报：法国国家队主帅齐达内现场观看法超杯，助教贝托尼陪同",
+      "title": "波罗：追梦路上有牺牲是必然的，但我足够幸运，拿下了世界杯冠军",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82476d846banative.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82f6f4845f1native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.028928+00:00",
+      "time_iso": "2026-08-17T12:57:47.009067+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "18e38819e0",
+      "id": "6bfe238325",
       "category": "hot",
-      "title": "军备竞赛！皇马2.25亿欧造穆氏战舰 巴萨1.6亿欧组世界杯冠军中场",
+      "title": "队报：法国国家队主帅齐达内现场观看法超杯，助教贝托尼陪同",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a8284f2e28eenative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82476d846banative.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.029459+00:00",
+      "time_iso": "2026-08-17T12:57:47.013677+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +579,14 @@
       "is_hot": false
     },
     {
-      "id": "1d043ab2ba",
+      "id": "18e38819e0",
       "category": "hot",
-      "title": "世界杯十大比赛：西班牙一击致命夺冠，“足球小国”爆出大冷门",
+      "title": "军备竞赛！皇马2.25亿欧造穆氏战舰 巴萨1.6亿欧组世界杯冠军中场",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5c6bcda87ffnative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a8284f2e28eenative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.031439+00:00",
+      "time_iso": "2026-08-17T12:57:47.014070+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -576,30 +600,6 @@
       "time": "2天前",
       "time_iso": "2026-08-14T14:59:19.730797+00:00",
       "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "f06daa46f1",
-      "category": "hot",
-      "title": "世界杯彩经：欧美冠军巅峰对垒 势均力敌终极鏖战",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-19/6a59e2b69190anative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.031653+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "e7d40c873f",
-      "category": "hot",
-      "title": "世界杯彩经：三狮难挡雄鸡 法国季军收官",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-18/6a5877fb74545native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-08-17T10:38:49.031701+00:00",
-      "source": "直播吧",
       "is_hot": false
     }
   ]
