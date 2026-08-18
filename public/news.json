@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T18:49:06.105852+00:00",
+  "updated_at": "2026-08-18T20:31:51.408000+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8426b5ca84fnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.247587+00:00",
+      "time_iso": "2026-08-18T20:31:49.340676+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-16/6a80f42d35d32native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.247728+00:00",
+      "time_iso": "2026-08-18T20:31:49.340827+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fc44eaf243native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.247775+00:00",
+      "time_iso": "2026-08-18T20:31:49.340866+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,31 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.248542+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "096641bec3",
-      "category": "hot",
-      "title": "记者：世界杯上梅西在咬牙坚持，赛后父子连线是多年的习惯",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641846649.html",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-15T20:30:20.780519+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "83fdae6d22",
-      "category": "hot",
-      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.248595+00:00",
+      "time_iso": "2026-08-18T20:31:49.341446+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,20 +93,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641887190.html",
       "team": "",
-      "time": "2小时前",
+      "time": "3小时前",
       "time_iso": "2026-08-18T16:39:18.564541+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "0e21fab45e",
+      "id": "83fdae6d22",
       "category": "hot",
-      "title": "C罗是否出战新赛季揭幕战？澳波：他随时准备出战",
+      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
-      "time": "8小时前",
-      "time_iso": "2026-08-18T10:36:17.421733+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-18T20:31:49.341488+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,8 +117,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641884698.html",
       "team": "",
-      "time": "4小时前",
+      "time": "5小时前",
       "time_iso": "2026-08-18T14:40:40.536044+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "0e21fab45e",
+      "category": "hot",
+      "title": "C罗是否出战新赛季揭幕战？澳波：他随时准备出战",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
+      "team": "",
+      "time": "9小时前",
+      "time_iso": "2026-08-18T10:36:17.421733+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "512329c4c8",
+      "category": "hot",
+      "title": "斯彭斯：国米无疑是顶级豪门，球迷能期待我复刻世界杯表现",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641884481.html",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-08-18T14:40:40.536089+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -159,14 +159,14 @@
       "is_hot": true
     },
     {
-      "id": "512329c4c8",
+      "id": "35d1c6e3d7",
       "category": "hot",
-      "title": "斯彭斯：国米无疑是顶级豪门，球迷能期待我复刻世界杯表现",
+      "title": "费尔明：因伤错过世界杯已经翻篇了；弗里克教我别纠结失误",
       "summary": "",
-      "url": "https://bbs.hupu.com/641884481.html",
+      "url": "https://bbs.hupu.com/641932842.html",
       "team": "",
-      "time": "4小时前",
-      "time_iso": "2026-08-18T14:40:40.536089+00:00",
+      "time": "9小时前",
+      "time_iso": "2026-08-18T10:36:19.383148+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -183,14 +183,14 @@
       "is_hot": true
     },
     {
-      "id": "35d1c6e3d7",
+      "id": "ac3a1a4e13",
       "category": "hot",
-      "title": "费尔明：因伤错过世界杯已经翻篇了；弗里克教我别纠结失误",
+      "title": "TA：巴萨内部感觉德容为世界杯留力，对他带伤硬踢极为不满",
       "summary": "",
-      "url": "https://bbs.hupu.com/641932842.html",
+      "url": "https://bbs.hupu.com/641869299.html",
       "team": "",
-      "time": "8小时前",
-      "time_iso": "2026-08-18T10:36:19.383148+00:00",
+      "time": "9小时前",
+      "time_iso": "2026-08-18T10:36:19.383523+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "ac3a1a4e13",
+      "id": "7d139a9a4c",
       "category": "hot",
-      "title": "TA：巴萨内部感觉德容为世界杯留力，对他带伤硬踢极为不满",
+      "title": "中超旧将！艾哈迈多夫担任亚冠精英联赛西亚区抽签嘉宾",
       "summary": "",
-      "url": "https://bbs.hupu.com/641869299.html",
+      "url": "https://bbs.hupu.com/641931179.html",
       "team": "",
-      "time": "8小时前",
-      "time_iso": "2026-08-18T10:36:19.383523+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-08-18T08:47:02.669078+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,14 @@
       "is_hot": true
     },
     {
-      "id": "7d139a9a4c",
+      "id": "d6cbd201e1",
       "category": "hot",
-      "title": "中超旧将！艾哈迈多夫担任亚冠精英联赛西亚区抽签嘉宾",
+      "title": "官方：FIFA首席运营官因反水批评因凡蒂诺，被国际足联解雇",
       "summary": "",
-      "url": "https://bbs.hupu.com/641931179.html",
+      "url": "https://bbs.hupu.com/641926050.html",
       "team": "",
-      "time": "10小时前",
-      "time_iso": "2026-08-18T08:47:02.669078+00:00",
+      "time": "13小时前",
+      "time_iso": "2026-08-18T06:56:06.221295+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -255,14 +255,14 @@
       "is_hot": true
     },
     {
-      "id": "d6cbd201e1",
+      "id": "54d6ef889f",
       "category": "hot",
-      "title": "官方：FIFA首席运营官因反水批评因凡蒂诺，被国际足联解雇",
+      "title": "专家：罗德里是巴萨本世纪最佳签约之一，欧冠淘汰赛需要他",
       "summary": "",
-      "url": "https://bbs.hupu.com/641926050.html",
+      "url": "https://bbs.hupu.com/641909678.html",
       "team": "",
-      "time": "11小时前",
-      "time_iso": "2026-08-18T06:56:06.221295+00:00",
+      "time": "22小时前",
+      "time_iso": "2026-08-17T22:31:35.255098+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -274,19 +274,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a845ffa65520native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244040+00:00",
+      "time_iso": "2026-08-18T20:31:49.338317+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "54d6ef889f",
+      "id": "aa472e64da",
       "category": "hot",
-      "title": "专家：罗德里是巴萨本世纪最佳签约之一，欧冠淘汰赛需要他",
+      "title": "世界杯0出场！卡里克：我和梅努聊过，这对他来说是很好经历",
       "summary": "",
-      "url": "https://bbs.hupu.com/641909678.html",
+      "url": "https://bbs.hupu.com/641842042.html",
       "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-08-17T22:31:35.255098+00:00",
+      "time": "2天前",
+      "time_iso": "2026-08-16T20:30:27.765283+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -298,31 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a81df3049d2enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244144+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "aa472e64da",
-      "category": "hot",
-      "title": "世界杯0出场！卡里克：我和梅努聊过，这对他来说是很好经历",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641842042.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-08-16T20:30:27.765283+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "30c8d5fad6",
-      "category": "hot",
-      "title": "山东泰山足球俱乐部于8月20日开展2026赛季球迷开放日活动",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a841861a1c23native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244291+00:00",
+      "time_iso": "2026-08-18T20:31:49.338424+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -339,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "37ef7c9d0b",
+      "id": "30c8d5fad6",
       "category": "hot",
-      "title": "2026/2027亚冠精英联赛抽签今日进行，海港队第一阶段对手确认",
+      "title": "山东泰山足球俱乐部于8月20日开展2026赛季球迷开放日活动",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a844ac92a510native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a841861a1c23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244453+00:00",
+      "time_iso": "2026-08-18T20:31:49.338539+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "f3862939c0",
+      "id": "37ef7c9d0b",
       "category": "hot",
-      "title": "北青：海港亚冠避开所有日本俱乐部，对出线竞争算是利好条件",
+      "title": "2026/2027亚冠精英联赛抽签今日进行，海港队第一阶段对手确认",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8425b98260dnative.htm",
-      "team": "JPN",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a844ac92a510native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244515+00:00",
+      "time_iso": "2026-08-18T20:31:49.338667+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "16e0eea0c9",
+      "id": "f3862939c0",
       "category": "hot",
-      "title": "亚冠精英联赛16:00抽签，扩军至32队，胜利2档、中超2队参赛",
+      "title": "北青：海港亚冠避开所有日本俱乐部，对出线竞争算是利好条件",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83d038d8d63native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8425b98260dnative.htm",
+      "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244552+00:00",
+      "time_iso": "2026-08-18T20:31:49.338728+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -411,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "e40938d2de",
+      "id": "16e0eea0c9",
       "category": "hot",
-      "title": "博主解读：亚冠精英联赛抽签，中超球队不会与日本球队相遇",
+      "title": "亚冠精英联赛16:00抽签，扩军至32队，胜利2档、中超2队参赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82c7b17e713native.htm",
-      "team": "JPN",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83d038d8d63native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244611+00:00",
+      "time_iso": "2026-08-18T20:31:49.338759+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "c69d0ab2bf",
+      "id": "e40938d2de",
       "category": "hot",
-      "title": "亚冠精英联赛8月18日16:00抽签：海港东亚区第一档、国安第三档",
+      "title": "博主解读：亚冠精英联赛抽签，中超球队不会与日本球队相遇",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82669a687d9native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82c7b17e713native.htm",
+      "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244654+00:00",
+      "time_iso": "2026-08-18T20:31:49.338805+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -459,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "4b438b4ec5",
+      "id": "c69d0ab2bf",
       "category": "hot",
-      "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
+      "title": "亚冠精英联赛8月18日16:00抽签：海港东亚区第一档、国安第三档",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82669a687d9native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244683+00:00",
+      "time_iso": "2026-08-18T20:31:49.338838+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -483,14 +459,14 @@
       "is_hot": false
     },
     {
-      "id": "53d49e4669",
+      "id": "4b438b4ec5",
       "category": "hot",
-      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
+      "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244737+00:00",
+      "time_iso": "2026-08-18T20:31:49.338860+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -507,14 +483,14 @@
       "is_hot": false
     },
     {
-      "id": "08fab0526d",
+      "id": "53d49e4669",
       "category": "hot",
-      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244786+00:00",
+      "time_iso": "2026-08-18T20:31:49.338902+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -531,6 +507,18 @@
       "is_hot": false
     },
     {
+      "id": "08fab0526d",
+      "category": "hot",
+      "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-18T20:31:49.338939+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "2db4bd4a6f",
       "category": "tactical",
       "title": "为备战U-17女足世界杯，U-17女足国家队将组织2026年第七期集训",
@@ -538,7 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244934+00:00",
+      "time_iso": "2026-08-18T20:31:49.339064+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.244970+00:00",
+      "time_iso": "2026-08-18T20:31:49.339092+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.245036+00:00",
+      "time_iso": "2026-08-18T20:31:49.339128+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -574,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a847ce6c5ac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.245671+00:00",
+      "time_iso": "2026-08-18T20:31:49.339273+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,7 +574,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a8481faa9fe0native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.245905+00:00",
+      "time_iso": "2026-08-18T20:31:49.339448+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -598,7 +586,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a845c6a91251native.htm",
       "team": "SEN",
       "time": "1分钟前",
-      "time_iso": "2026-08-18T18:49:04.245945+00:00",
+      "time_iso": "2026-08-18T20:31:49.339476+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "22aa95584a",
+      "category": "hot",
+      "title": "阿森纳晒萨卡、吉马良斯等球员归队照片：英超揭幕战即将来临！",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a844ce048571native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-18T20:31:49.339502+00:00",
       "source": "直播吧",
       "is_hot": false
     }
