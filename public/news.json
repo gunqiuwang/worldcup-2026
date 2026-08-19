@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T04:43:51.279039+00:00",
-  "count": 49,
+  "updated_at": "2026-08-19T06:56:06.827703+00:00",
+  "count": 48,
   "articles": [
     {
       "id": "a6f45b229a",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8426b5ca84fnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.487403+00:00",
+      "time_iso": "2026-08-19T06:56:03.689021+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,19 +22,19 @@
       "url": "https://bbs.hupu.com/641910465.html",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:51.278390+00:00",
+      "time_iso": "2026-08-19T06:56:06.827029+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "894427a13c",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "世界杯决赛裁判视角曝光！主裁：梅西，管好帕雷德斯！",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-16/6a80f42d35d32native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.487493+00:00",
+      "time_iso": "2026-08-19T06:56:03.689800+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +51,14 @@
       "is_hot": true
     },
     {
-      "id": "cfb98e86ee",
+      "id": "83fdae6d22",
       "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.488225+00:00",
+      "time_iso": "2026-08-19T06:56:03.689853+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,38 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "83fdae6d22",
+      "id": "894427a13c",
       "category": "hot",
-      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
+      "title": "世界杯决赛裁判视角曝光！主裁：梅西，管好帕雷德斯！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.488279+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "8b5c367aa4",
-      "category": "hot",
-      "title": "刚果教练性侵球员被FIFA定罪20年，现在仍用梅西的绰号带队",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641830065.html",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-16/6a80f42d35d32native.htm",
       "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-16T06:51:59.178411+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "4d6e6eddeb",
-      "category": "hot",
-      "title": "埃弗拉：C罗在世界杯上缺少队友支持，不像阿根廷那样为梅西而战",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fc44eaf243native.htm",
-      "team": "ARG",
-      "time": "6小时前",
-      "time_iso": "2026-08-18T22:31:26.872856+00:00",
+      "time": "2小时前",
+      "time_iso": "2026-08-19T04:43:47.487493+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,20 +93,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641887190.html",
       "team": "",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-18T16:39:18.564541+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "0e21fab45e",
+      "id": "4d6e6eddeb",
       "category": "hot",
-      "title": "C罗是否出战新赛季揭幕战？澳波：他随时准备出战",
+      "title": "埃弗拉：C罗在世界杯上缺少队友支持，不像阿根廷那样为梅西而战",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
-      "team": "",
-      "time": "18小时前",
-      "time_iso": "2026-08-18T10:36:17.421733+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fc44eaf243native.htm",
+      "team": "ARG",
+      "time": "8小时前",
+      "time_iso": "2026-08-18T22:31:26.872856+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,8 +117,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641884698.html",
       "team": "",
-      "time": "14小时前",
+      "time": "16小时前",
       "time_iso": "2026-08-18T14:40:40.536044+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "0e21fab45e",
+      "category": "hot",
+      "title": "C罗是否出战新赛季揭幕战？澳波：他随时准备出战",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
+      "team": "",
+      "time": "20小时前",
+      "time_iso": "2026-08-18T10:36:17.421733+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "512329c4c8",
+      "category": "hot",
+      "title": "斯彭斯：国米无疑是顶级豪门，球迷能期待我复刻世界杯表现",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641884481.html",
+      "team": "",
+      "time": "16小时前",
+      "time_iso": "2026-08-18T14:40:40.536089+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -159,14 +159,14 @@
       "is_hot": true
     },
     {
-      "id": "512329c4c8",
+      "id": "35d1c6e3d7",
       "category": "hot",
-      "title": "斯彭斯：国米无疑是顶级豪门，球迷能期待我复刻世界杯表现",
+      "title": "费尔明：因伤错过世界杯已经翻篇了；弗里克教我别纠结失误",
       "summary": "",
-      "url": "https://bbs.hupu.com/641884481.html",
+      "url": "https://bbs.hupu.com/641932842.html",
       "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-08-18T14:40:40.536089+00:00",
+      "time": "20小时前",
+      "time_iso": "2026-08-18T10:36:19.383148+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -183,14 +183,14 @@
       "is_hot": true
     },
     {
-      "id": "35d1c6e3d7",
+      "id": "ac3a1a4e13",
       "category": "hot",
-      "title": "费尔明：因伤错过世界杯已经翻篇了；弗里克教我别纠结失误",
+      "title": "TA：巴萨内部感觉德容为世界杯留力，对他带伤硬踢极为不满",
       "summary": "",
-      "url": "https://bbs.hupu.com/641932842.html",
+      "url": "https://bbs.hupu.com/641869299.html",
       "team": "",
-      "time": "18小时前",
-      "time_iso": "2026-08-18T10:36:19.383148+00:00",
+      "time": "20小时前",
+      "time_iso": "2026-08-18T10:36:19.383523+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "ac3a1a4e13",
+      "id": "7d139a9a4c",
       "category": "hot",
-      "title": "TA：巴萨内部感觉德容为世界杯留力，对他带伤硬踢极为不满",
+      "title": "中超旧将！艾哈迈多夫担任亚冠精英联赛西亚区抽签嘉宾",
       "summary": "",
-      "url": "https://bbs.hupu.com/641869299.html",
+      "url": "https://bbs.hupu.com/641931179.html",
       "team": "",
-      "time": "18小时前",
-      "time_iso": "2026-08-18T10:36:19.383523+00:00",
+      "time": "22小时前",
+      "time_iso": "2026-08-18T08:47:02.669078+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,50 +231,26 @@
       "is_hot": true
     },
     {
-      "id": "7d139a9a4c",
-      "category": "hot",
-      "title": "中超旧将！艾哈迈多夫担任亚冠精英联赛西亚区抽签嘉宾",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641931179.html",
-      "team": "",
-      "time": "19小时前",
-      "time_iso": "2026-08-18T08:47:02.669078+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "db2c518313",
-      "category": "hot",
-      "title": "【MATCHDAY】2026怡宝中超联赛第23轮，武汉三镇2比3上海海港",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a81df3049d2enative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.484495+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "d6cbd201e1",
       "category": "hot",
       "title": "官方：FIFA首席运营官因反水批评因凡蒂诺，被国际足联解雇",
       "summary": "",
       "url": "https://bbs.hupu.com/641926050.html",
       "team": "",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-08-18T06:56:06.221295+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "30c8d5fad6",
+      "id": "eececa9678",
       "category": "hot",
-      "title": "山东泰山足球俱乐部于8月20日开展2026赛季球迷开放日活动",
+      "title": "2026/27赛季亚冠二级联赛小组赛阶段上海申花赛程表 ​​​",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a841861a1c23native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a853ac780fa6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.484708+00:00",
+      "time_iso": "2026-08-19T06:56:03.681524+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -291,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "c3015a3323",
+      "id": "db2c518313",
       "category": "hot",
-      "title": "2026怡宝中超联赛第18轮补赛进行 北京国安客场3-0击败上海申花",
+      "title": "【MATCHDAY】2026怡宝中超联赛第23轮，武汉三镇2比3上海海港",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a845ffa65520native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a81df3049d2enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.484930+00:00",
+      "time_iso": "2026-08-19T06:56:03.681723+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -315,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "37ef7c9d0b",
+      "id": "30c8d5fad6",
       "category": "hot",
-      "title": "2026/2027亚冠精英联赛抽签今日进行，海港队第一阶段对手确认",
+      "title": "山东泰山足球俱乐部于8月20日开展2026赛季球迷开放日活动",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a844ac92a510native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a841861a1c23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.484971+00:00",
+      "time_iso": "2026-08-19T06:56:03.681880+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -339,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "f3862939c0",
+      "id": "37ef7c9d0b",
       "category": "hot",
-      "title": "北青：海港亚冠避开所有日本俱乐部，对出线竞争算是利好条件",
+      "title": "2026/2027亚冠精英联赛抽签今日进行，海港队第一阶段对手确认",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8425b98260dnative.htm",
-      "team": "JPN",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a844ac92a510native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485035+00:00",
+      "time_iso": "2026-08-19T06:56:03.682097+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "16e0eea0c9",
+      "id": "f3862939c0",
       "category": "hot",
-      "title": "亚冠精英联赛16:00抽签，扩军至32队，胜利2档、中超2队参赛",
+      "title": "北青：海港亚冠避开所有日本俱乐部，对出线竞争算是利好条件",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83d038d8d63native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8425b98260dnative.htm",
+      "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485071+00:00",
+      "time_iso": "2026-08-19T06:56:03.682159+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "e40938d2de",
+      "id": "16e0eea0c9",
       "category": "hot",
-      "title": "博主解读：亚冠精英联赛抽签，中超球队不会与日本球队相遇",
+      "title": "亚冠精英联赛16:00抽签，扩军至32队，胜利2档、中超2队参赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82c7b17e713native.htm",
-      "team": "JPN",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83d038d8d63native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485128+00:00",
+      "time_iso": "2026-08-19T06:56:03.682196+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485165+00:00",
+      "time_iso": "2026-08-19T06:56:03.682239+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485218+00:00",
+      "time_iso": "2026-08-19T06:56:03.682291+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485267+00:00",
+      "time_iso": "2026-08-19T06:56:03.682339+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485432+00:00",
+      "time_iso": "2026-08-19T06:56:03.682489+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485469+00:00",
+      "time_iso": "2026-08-19T06:56:03.682525+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485517+00:00",
+      "time_iso": "2026-08-19T06:56:03.682569+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a847ce6c5ac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485743+00:00",
+      "time_iso": "2026-08-19T06:56:03.687371+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a84e4c4ae8c4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.485871+00:00",
+      "time_iso": "2026-08-19T06:56:03.687490+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +514,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a84efaa5de4enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.486213+00:00",
+      "time_iso": "2026-08-19T06:56:03.687878+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "8e6a8d1777",
+      "category": "tactical",
+      "title": "能否冲击欧冠？德转列巴萨首发：世界杯冠军中场+后防！戈登突前",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a85417fb1841native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-19T06:56:03.688174+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a850b66ded68native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.486587+00:00",
+      "time_iso": "2026-08-19T06:56:03.688262+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a84db1388171native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.487127+00:00",
+      "time_iso": "2026-08-19T06:56:03.688778+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -574,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83dfbf510aenative.htm",
       "team": "URU",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.487593+00:00",
+      "time_iso": "2026-08-19T06:56:03.689159+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,7 +574,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5c6bcda87ffnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T04:43:47.487730+00:00",
+      "time_iso": "2026-08-19T06:56:03.689290+00:00",
       "source": "直播吧",
       "is_hot": false
     }
