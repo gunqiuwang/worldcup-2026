@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T03:04:47.116190+00:00",
-  "count": 50,
+  "updated_at": "2026-08-19T04:43:51.279039+00:00",
+  "count": 49,
   "articles": [
     {
       "id": "a6f45b229a",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8426b5ca84fnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.435683+00:00",
+      "time_iso": "2026-08-19T04:43:47.487403+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/641910465.html",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:47.115725+00:00",
+      "time_iso": "2026-08-19T04:43:51.278390+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-16/6a80f42d35d32native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.435751+00:00",
+      "time_iso": "2026-08-19T04:43:47.487493+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.436141+00:00",
+      "time_iso": "2026-08-19T04:43:47.488225+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.436183+00:00",
+      "time_iso": "2026-08-19T04:43:47.488279+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-15/6a7fc44eaf243native.htm",
       "team": "ARG",
-      "time": "4小时前",
+      "time": "6小时前",
       "time_iso": "2026-08-18T22:31:26.872856+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641887190.html",
       "team": "",
-      "time": "10小时前",
+      "time": "12小时前",
       "time_iso": "2026-08-18T16:39:18.564541+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7f317734064native.htm",
       "team": "",
-      "time": "16小时前",
+      "time": "18小时前",
       "time_iso": "2026-08-18T10:36:17.421733+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641884698.html",
       "team": "",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-18T14:40:40.536044+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641884481.html",
       "team": "",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-18T14:40:40.536089+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641932842.html",
       "team": "",
-      "time": "16小时前",
+      "time": "18小时前",
       "time_iso": "2026-08-18T10:36:19.383148+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641869299.html",
       "team": "",
-      "time": "16小时前",
+      "time": "18小时前",
       "time_iso": "2026-08-18T10:36:19.383523+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,32 +237,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641931179.html",
       "team": "",
-      "time": "18小时前",
+      "time": "19小时前",
       "time_iso": "2026-08-18T08:47:02.669078+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "0e103c1d1f",
-      "category": "hot",
-      "title": "主持人：理解梅西世界杯期间的悲伤，他在赛后收不到父亲发的信息",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-14/6a7e79404689bnative.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-16T03:07:32.331044+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "d6cbd201e1",
-      "category": "hot",
-      "title": "官方：FIFA首席运营官因反水批评因凡蒂诺，被国际足联解雇",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641926050.html",
-      "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-08-18T06:56:06.221295+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -274,7 +250,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a81df3049d2enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434086+00:00",
+      "time_iso": "2026-08-19T04:43:47.484495+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "d6cbd201e1",
+      "category": "hot",
+      "title": "官方：FIFA首席运营官因反水批评因凡蒂诺，被国际足联解雇",
+      "summary": "",
+      "url": "https://bbs.hupu.com/641926050.html",
+      "team": "",
+      "time": "21小时前",
+      "time_iso": "2026-08-18T06:56:06.221295+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "30c8d5fad6",
+      "category": "hot",
+      "title": "山东泰山足球俱乐部于8月20日开展2026赛季球迷开放日活动",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a841861a1c23native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-19T04:43:47.484708+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -291,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "30c8d5fad6",
+      "id": "c3015a3323",
       "category": "hot",
-      "title": "山东泰山足球俱乐部于8月20日开展2026赛季球迷开放日活动",
+      "title": "2026怡宝中超联赛第18轮补赛进行 北京国安客场3-0击败上海申花",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a841861a1c23native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a845ffa65520native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434235+00:00",
+      "time_iso": "2026-08-19T04:43:47.484930+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -315,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "c3015a3323",
+      "id": "37ef7c9d0b",
       "category": "hot",
-      "title": "2026怡宝中超联赛第18轮补赛进行 北京国安客场3-0击败上海申花",
+      "title": "2026/2027亚冠精英联赛抽签今日进行，海港队第一阶段对手确认",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a845ffa65520native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a844ac92a510native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434344+00:00",
+      "time_iso": "2026-08-19T04:43:47.484971+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -339,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "37ef7c9d0b",
+      "id": "f3862939c0",
       "category": "hot",
-      "title": "2026/2027亚冠精英联赛抽签今日进行，海港队第一阶段对手确认",
+      "title": "北青：海港亚冠避开所有日本俱乐部，对出线竞争算是利好条件",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a844ac92a510native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8425b98260dnative.htm",
+      "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434366+00:00",
+      "time_iso": "2026-08-19T04:43:47.485035+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "f3862939c0",
+      "id": "16e0eea0c9",
       "category": "hot",
-      "title": "北青：海港亚冠避开所有日本俱乐部，对出线竞争算是利好条件",
+      "title": "亚冠精英联赛16:00抽签，扩军至32队，胜利2档、中超2队参赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8425b98260dnative.htm",
-      "team": "JPN",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83d038d8d63native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434399+00:00",
+      "time_iso": "2026-08-19T04:43:47.485071+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "16e0eea0c9",
+      "id": "e40938d2de",
       "category": "hot",
-      "title": "亚冠精英联赛16:00抽签，扩军至32队，胜利2档、中超2队参赛",
+      "title": "博主解读：亚冠精英联赛抽签，中超球队不会与日本球队相遇",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83d038d8d63native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82c7b17e713native.htm",
+      "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434420+00:00",
+      "time_iso": "2026-08-19T04:43:47.485128+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -411,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "e40938d2de",
+      "id": "4b438b4ec5",
       "category": "hot",
-      "title": "博主解读：亚冠精英联赛抽签，中超球队不会与日本球队相遇",
+      "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82c7b17e713native.htm",
-      "team": "JPN",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434450+00:00",
+      "time_iso": "2026-08-19T04:43:47.485165+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "4b438b4ec5",
+      "id": "53d49e4669",
       "category": "hot",
-      "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
+      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434472+00:00",
+      "time_iso": "2026-08-19T04:43:47.485218+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -459,30 +459,6 @@
       "is_hot": false
     },
     {
-      "id": "53d49e4669",
-      "category": "hot",
-      "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434502+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "e2b7c8a085",
-      "category": "hot",
-      "title": "努萨：德甲和世界杯是两个世界；在莱比锡学驾照很有挑战性",
-      "summary": "",
-      "url": "https://bbs.hupu.com/641827603.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-16T04:42:34.482180+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "08fab0526d",
       "category": "hot",
       "title": "官方：世界杯裁判坦塔舍夫执法明日之星决赛国足U17对阵阿森纳U17",
@@ -490,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434528+00:00",
+      "time_iso": "2026-08-19T04:43:47.485267+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434615+00:00",
+      "time_iso": "2026-08-19T04:43:47.485432+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434634+00:00",
+      "time_iso": "2026-08-19T04:43:47.485469+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-23/6a6197cc904e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434660+00:00",
+      "time_iso": "2026-08-19T04:43:47.485517+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a847ce6c5ac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434774+00:00",
+      "time_iso": "2026-08-19T04:43:47.485743+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a84e4c4ae8c4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.434844+00:00",
+      "time_iso": "2026-08-19T04:43:47.485871+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +538,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a84efaa5de4enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.435053+00:00",
+      "time_iso": "2026-08-19T04:43:47.486213+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "f4600ea62e",
+      "category": "hot",
+      "title": "16年轮回！巴萨再组世界杯冠军中场，10年中场坐拥冠军组合哈白布",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a850b66ded68native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-19T04:43:47.486587+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -574,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a84db1388171native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.435538+00:00",
+      "time_iso": "2026-08-19T04:43:47.487127+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,7 +574,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83dfbf510aenative.htm",
       "team": "URU",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.435707+00:00",
+      "time_iso": "2026-08-19T04:43:47.487593+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -598,7 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5c6bcda87ffnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-19T03:04:45.435866+00:00",
+      "time_iso": "2026-08-19T04:43:47.487730+00:00",
       "source": "直播吧",
       "is_hot": false
     }
