@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:35:27.046353+00:00",
+  "updated_at": "2026-08-21T01:48:34.257025+00:00",
   "count": 47,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a8556b00eba9native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867532+00:00",
+      "time_iso": "2026-08-21T01:48:32.737565+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641951844.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-08-20T22:35:27.045988+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.868076+00:00",
+      "time_iso": "2026-08-21T01:48:32.737965+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641952238.html",
       "team": "ARG",
-      "time": "15小时前",
+      "time": "18小时前",
       "time_iso": "2026-08-20T06:57:24.039014+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.868118+00:00",
+      "time_iso": "2026-08-21T01:48:32.737995+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -81,20 +81,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/6a8654cc61f3cnative.htm",
       "team": "",
-      "time": "19小时前",
+      "time": "22小时前",
       "time_iso": "2026-08-20T03:04:07.193087+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "d30cb011ee",
-      "category": "hot",
-      "title": "许策勒：世界杯期间和安切洛蒂取经；拜仁？我们从未有接触",
+      "id": "43fe8e8c06",
+      "category": "injury",
+      "title": "普利西奇参加米兰一线队训练，世界杯受伤后首次回归合练",
       "summary": "",
-      "url": "https://bbs.hupu.com/641945492.html",
+      "url": "https://bbs.hupu.com/641940367.html",
       "team": "",
-      "time": "1小时前",
-      "time_iso": "2026-08-20T20:36:46.545545+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-21T01:48:34.256728+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -105,20 +105,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a8426b5ca84fnative.htm",
       "team": "ARG",
-      "time": "19小时前",
+      "time": "22小时前",
       "time_iso": "2026-08-20T03:04:07.194665+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "5d81658aaa",
-      "category": "tactical",
-      "title": "赫内斯：德国和阿根廷世界杯阵容不算出色，但后者拼尽全力",
+      "id": "d30cb011ee",
+      "category": "hot",
+      "title": "许策勒：世界杯期间和安切洛蒂取经；拜仁？我们从未有接触",
       "summary": "",
-      "url": "https://bbs.hupu.com/641968092.html",
-      "team": "ARG",
-      "time": "9小时前",
-      "time_iso": "2026-08-20T13:03:03.543314+00:00",
+      "url": "https://bbs.hupu.com/641945492.html",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-08-20T20:36:46.545545+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -135,14 +135,14 @@
       "is_hot": true
     },
     {
-      "id": "00aaf16f24",
-      "category": "hot",
-      "title": "达洛特：葡萄牙本应在世界杯走更远；想随曼联赢得重要奖杯",
+      "id": "5d81658aaa",
+      "category": "tactical",
+      "title": "赫内斯：德国和阿根廷世界杯阵容不算出色，但后者拼尽全力",
       "summary": "",
-      "url": "https://bbs.hupu.com/641935327.html",
-      "team": "POR",
-      "time": "9小时前",
-      "time_iso": "2026-08-20T13:03:03.543709+00:00",
+      "url": "https://bbs.hupu.com/641968092.html",
+      "team": "ARG",
+      "time": "12小时前",
+      "time_iso": "2026-08-20T13:03:03.543314+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -159,14 +159,14 @@
       "is_hot": true
     },
     {
-      "id": "43fe8e8c06",
-      "category": "injury",
-      "title": "普利西奇参加米兰一线队训练，世界杯受伤后首次回归合练",
+      "id": "00aaf16f24",
+      "category": "hot",
+      "title": "达洛特：葡萄牙本应在世界杯走更远；想随曼联赢得重要奖杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/641940367.html",
-      "team": "",
-      "time": "15小时前",
-      "time_iso": "2026-08-20T06:57:24.039326+00:00",
+      "url": "https://bbs.hupu.com/641935327.html",
+      "team": "POR",
+      "time": "12小时前",
+      "time_iso": "2026-08-20T13:03:03.543709+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641940052.html",
       "team": "",
-      "time": "17小时前",
+      "time": "21小时前",
       "time_iso": "2026-08-20T04:44:59.393146+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/6a871e85eef32native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.864473+00:00",
+      "time_iso": "2026-08-21T01:48:32.735333+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641931179.html",
       "team": "",
-      "time": "17小时前",
+      "time": "21小时前",
       "time_iso": "2026-08-20T04:44:59.393328+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/6a870fcf3b6c3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.864577+00:00",
+      "time_iso": "2026-08-21T01:48:32.735418+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/match2173340date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.864608+00:00",
+      "time_iso": "2026-08-21T01:48:32.735443+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/6a86c0e043ab7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865090+00:00",
+      "time_iso": "2026-08-21T01:48:32.735864+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a81df3049d2enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865156+00:00",
+      "time_iso": "2026-08-21T01:48:32.735906+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a841861a1c23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865302+00:00",
+      "time_iso": "2026-08-21T01:48:32.736016+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865541+00:00",
+      "time_iso": "2026-08-21T01:48:32.736185+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865585+00:00",
+      "time_iso": "2026-08-21T01:48:32.736216+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865622+00:00",
+      "time_iso": "2026-08-21T01:48:32.736253+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/match2063277date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865693+00:00",
+      "time_iso": "2026-08-21T01:48:32.736305+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865773+00:00",
+      "time_iso": "2026-08-21T01:48:32.736364+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,31 +442,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.865801+00:00",
+      "time_iso": "2026-08-21T01:48:32.736384+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "7822e9baba",
+      "id": "e89000dbf3",
       "category": "hot",
-      "title": "评分89！努诺·门德斯成EA的FC/FIFA游戏中，历史评分最高左后卫",
+      "title": "早报：热刺超7500万镑签萨维尼奥HWG，U17女足抽签无缘决赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-19/6a856155d975dnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-21/6a87535212e63native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.866448+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ac71a3e31a",
-      "category": "hot",
-      "title": "巴埃纳：世界杯让我找回了丢失的自信 李刚仁将成为球队重要一员",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-20/6a8672866a513native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.866930+00:00",
+      "time_iso": "2026-08-21T01:48:32.736486+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5c6bcda87ffnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867724+00:00",
+      "time_iso": "2026-08-21T01:48:32.737701+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-19/6a59e2b69190anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867825+00:00",
+      "time_iso": "2026-08-21T01:48:32.737771+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-18/6a5877fb74545native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867847+00:00",
+      "time_iso": "2026-08-21T01:48:32.737786+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-15/6a55e38a200d5native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867872+00:00",
+      "time_iso": "2026-08-21T01:48:32.737804+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-14/6a5576b68041bnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867897+00:00",
+      "time_iso": "2026-08-21T01:48:32.737824+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-11/6a509c7c75f31native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867916+00:00",
+      "time_iso": "2026-08-21T01:48:32.737838+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-10/6a4ce2ceb9293native.htm",
       "team": "BEL",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867935+00:00",
+      "time_iso": "2026-08-21T01:48:32.737852+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +550,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-09/6a4ce20a53eefnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-08-20T22:35:24.867954+00:00",
+      "time_iso": "2026-08-21T01:48:32.737866+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "328a6b2e63",
+      "category": "hot",
+      "title": "世界杯彩经：瑞士不惧哥伦比亚",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-07/6a4c75b2bd823native.htm",
+      "team": "COL",
+      "time": "1分钟前",
+      "time_iso": "2026-08-21T01:48:32.737879+00:00",
       "source": "直播吧",
       "is_hot": false
     }
