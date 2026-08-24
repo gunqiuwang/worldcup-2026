@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T03:11:10.865516+00:00",
+  "updated_at": "2026-08-24T04:53:49.646705+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8b49594d91dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.803847+00:00",
+      "time_iso": "2026-08-24T04:53:46.149027+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642050963.html",
       "team": "",
-      "time": "1小时前",
+      "time": "3小时前",
       "time_iso": "2026-08-24T01:49:05.795019+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,21 +34,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8b857b3f07bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804095+00:00",
+      "time_iso": "2026-08-24T04:53:46.149225+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "c7de7b1eac",
+      "id": "38d1710a57",
       "category": "hot",
-      "title": "阿斯：梅西带来足球人口+世界杯效应，MLS迎来大爆发",
+      "title": "英超新赛季首球诞生！哈弗茨破门，阿森纳揭幕战迎梦幻开局",
       "summary": "",
-      "url": "https://bbs.hupu.com/641952238.html",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-21T04:47:18.710115+00:00",
+      "url": "https://bbs.hupu.com/641999441.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-24T04:53:49.646371+00:00",
       "source": "虎扑",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "cfb98e86ee",
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804836+00:00",
+      "time_iso": "2026-08-24T04:53:46.149781+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642000422.html",
       "team": "",
-      "time": "6小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-23T20:31:23.859298+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,19 +82,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804889+00:00",
+      "time_iso": "2026-08-24T04:53:46.149823+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "38d1710a57",
+      "id": "04e9b50f10",
       "category": "hot",
-      "title": "英超新赛季首球诞生！哈弗茨破门，阿森纳揭幕战迎梦幻开局",
+      "title": "埃斯皮2026年西甲打进12球排第二，仅次于打进14球的穆里奇",
       "summary": "",
-      "url": "https://bbs.hupu.com/641999441.html",
+      "url": "https://bbs.hupu.com/642027706.html",
       "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-08-23T20:31:23.859437+00:00",
+      "time": "14小时前",
+      "time_iso": "2026-08-23T14:30:02.466541+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -111,50 +111,26 @@
       "is_hot": true
     },
     {
-      "id": "04e9b50f10",
-      "category": "hot",
-      "title": "埃斯皮2026年西甲打进12球排第二，仅次于打进14球的穆里奇",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642027706.html",
-      "team": "",
-      "time": "12小时前",
-      "time_iso": "2026-08-23T14:30:02.466541+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "01bd411ff6",
-      "category": "hot",
-      "title": "2026中甲联赛现场观众人数统计（第20轮）： ​​​场均8944人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8b0f62c1a42native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.800645+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "29c43ec851",
       "category": "hot",
       "title": "重返熟悉舞台！德国国家队主帅克洛普观战德国超级杯决赛",
       "summary": "",
       "url": "https://bbs.hupu.com/642026708.html",
       "team": "GER",
-      "time": "12小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-23T14:30:02.466726+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "1e831bf662",
+      "id": "e129803ee8",
       "category": "hot",
-      "title": "2026中乙联赛现场观众人数统计（第22轮） ​​​：场均896人",
+      "title": "2026中超联赛第24轮成都蓉城4-5上海申花 Match Day比赛日纪实",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8b0f15d70a0native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bc8ddb157bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.800767+00:00",
+      "time_iso": "2026-08-24T04:53:46.142273+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -165,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641995596.html",
       "team": "",
-      "time": "14小时前",
+      "time": "15小时前",
       "time_iso": "2026-08-23T12:54:07.748569+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -178,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801199+00:00",
+      "time_iso": "2026-08-24T04:53:46.142747+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801258+00:00",
+      "time_iso": "2026-08-24T04:53:46.142800+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801312+00:00",
+      "time_iso": "2026-08-24T04:53:46.142845+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-08/6a773653165b7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801361+00:00",
+      "time_iso": "2026-08-24T04:53:46.142885+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/match2173340date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801432+00:00",
+      "time_iso": "2026-08-24T04:53:46.142943+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/match2063277date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801468+00:00",
+      "time_iso": "2026-08-24T04:53:46.142972+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801569+00:00",
+      "time_iso": "2026-08-24T04:53:46.143051+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d5a75ec49fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.801605+00:00",
+      "time_iso": "2026-08-24T04:53:46.143078+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-22/6a88c7bab4b16native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804223+00:00",
+      "time_iso": "2026-08-24T04:53:46.149322+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-21/6a88343d6f738native.htm",
       "team": "URU",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804397+00:00",
+      "time_iso": "2026-08-24T04:53:46.149462+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -405,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/641981673.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-22T04:40:35.787804+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -418,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-21/6a5c6bcda87ffnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804543+00:00",
+      "time_iso": "2026-08-24T04:53:46.149573+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-21/6a87b7d1cb46dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804652+00:00",
+      "time_iso": "2026-08-24T04:53:46.149658+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804766+00:00",
+      "time_iso": "2026-08-24T04:53:46.149729+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.804923+00:00",
+      "time_iso": "2026-08-24T04:53:46.149849+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82c7b17e713native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.805406+00:00",
+      "time_iso": "2026-08-24T04:53:46.150244+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +514,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-17/6a82a2f792e62native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-24T03:11:08.805434+00:00",
+      "time_iso": "2026-08-24T04:53:46.150265+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "01bd411ff6",
+      "category": "hot",
+      "title": "2026中甲联赛现场观众人数统计（第20轮）： ​​​场均8944人",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8b0f62c1a42native.htm",
+      "team": "",
+      "time": "1小时前",
+      "time_iso": "2026-08-24T03:11:08.800645+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "1e831bf662",
+      "category": "hot",
+      "title": "2026中乙联赛现场观众人数统计（第22轮） ​​​：场均896人",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8b0f15d70a0native.htm",
+      "team": "",
+      "time": "1小时前",
+      "time_iso": "2026-08-24T03:11:08.800767+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -549,7 +549,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8b0ecd3d808native.htm",
       "team": "",
-      "time": "1小时前",
+      "time": "3小时前",
       "time_iso": "2026-08-24T01:49:04.320596+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -561,7 +561,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8acc31645ednative.htm",
       "team": "",
-      "time": "1小时前",
+      "time": "3小时前",
       "time_iso": "2026-08-24T01:49:04.321129+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -573,7 +573,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8b483a56684native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-23T20:31:21.575017+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -585,7 +585,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8aceec9c9benative.htm",
       "team": "FRA",
-      "time": "8小时前",
+      "time": "10小时前",
       "time_iso": "2026-08-23T18:39:16.110813+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -597,7 +597,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8b28fb5ae84native.htm",
       "team": "",
-      "time": "8小时前",
+      "time": "10小时前",
       "time_iso": "2026-08-23T18:39:16.111261+00:00",
       "source": "直播吧",
       "is_hot": false
