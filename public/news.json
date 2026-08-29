@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-29T10:59:06.513974+00:00",
-  "count": 46,
+  "updated_at": "2026-08-29T16:38:25.677526+00:00",
+  "count": 43,
   "articles": [
     {
-      "id": "893948aefb",
+      "id": "962c4fa86e",
       "category": "hot",
-      "title": "丧亲之痛&世界杯失利💔TA长文记录：梅西——最残酷的夏天",
+      "title": "乔·哈特：曼城大胜水晶宫展现强势统治力 世界杯让哈兰德成长",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a91503d8503fnative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92d60c4644cnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807186+00:00",
+      "time_iso": "2026-08-29T16:38:24.125694+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,10 +21,34 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642113914.html",
       "team": "ESP",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-08-29T10:59:06.513585+00:00",
       "source": "虎扑",
       "is_hot": true
+    },
+    {
+      "id": "893948aefb",
+      "category": "hot",
+      "title": "丧亲之痛&世界杯失利💔TA长文记录：梅西——最残酷的夏天",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a91503d8503fnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-08-29T16:38:24.127560+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "f9684d254e",
+      "category": "hot",
+      "title": "揭幕战戴帽！埃布努塔利布复刻法兰克福49年前纪录",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642168450.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-29T16:38:25.676886+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "ac9b9407d4",
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bf4c30de77native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807292+00:00",
+      "time_iso": "2026-08-29T16:38:24.127646+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642115841.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-08-29T10:59:06.513458+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807667+00:00",
+      "time_iso": "2026-08-29T16:38:24.128091+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642115120.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-08-29T10:59:06.513529+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807779+00:00",
+      "time_iso": "2026-08-29T16:38:24.128213+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642131538.html",
       "team": "",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-08-29T03:37:48.120362+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807832+00:00",
+      "time_iso": "2026-08-29T16:38:24.128266+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642126988.html",
       "team": "ESP",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-08-29T03:37:48.120483+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642110706.html",
       "team": "",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-08-29T03:37:48.120558+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -165,22 +189,22 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642132938.html",
       "team": "",
-      "time": "14小时前",
+      "time": "20小时前",
       "time_iso": "2026-08-28T20:09:30.751832+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "6cebd7dd43",
-      "category": "hot",
-      "title": "恩博洛：世界杯上的红牌深深刺痛了我和瑞士，我们有机会赢阿根廷",
+      "id": "b626060e6f",
+      "category": "tactical",
+      "title": "2026怡宝中超联赛第25轮深圳新鹏城vs上海海港，今日首发名单",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8e5e3ec47e0native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-26T13:06:27.714052+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a916a99a2607native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-29T16:38:24.124690+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "81be8a6039",
@@ -195,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "b626060e6f",
-      "category": "tactical",
-      "title": "2026怡宝中超联赛第25轮深圳新鹏城vs上海海港，今日首发名单",
+      "id": "0ce1363db1",
+      "category": "hot",
+      "title": "国足重庆邀请赛对手FIFA排名：新西兰86位最高，土库曼斯坦141位",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a916a99a2607native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804510+00:00",
+      "time_iso": "2026-08-29T16:38:24.124820+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -219,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "0ce1363db1",
+      "id": "cd315679f2",
       "category": "hot",
-      "title": "国足重庆邀请赛对手FIFA排名：新西兰86位最高，土库曼斯坦141位",
+      "title": "索尔斯克亚笑言说不定自己会执教国足：有机会进下一届世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804631+00:00",
+      "time_iso": "2026-08-29T16:38:24.124879+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -243,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "cd315679f2",
+      "id": "4774577c75",
       "category": "hot",
-      "title": "索尔斯克亚笑言说不定自己会执教国足：有机会进下一届世界杯",
+      "title": "摩洛哥外交官：希望中国队能和我们一起在摩洛哥参加2030世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
+      "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804690+00:00",
+      "time_iso": "2026-08-29T16:38:24.124909+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -267,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "4774577c75",
+      "id": "4b438b4ec5",
       "category": "hot",
-      "title": "摩洛哥外交官：希望中国队能和我们一起在摩洛哥参加2030世界杯",
+      "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
-      "team": "MAR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804719+00:00",
+      "time_iso": "2026-08-29T16:38:24.124965+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -291,30 +315,6 @@
       "is_hot": false
     },
     {
-      "id": "4b438b4ec5",
-      "category": "hot",
-      "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804774+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "3ad30e6a7d",
-      "category": "hot",
-      "title": "邮报独家：切尔西基地有轶闻；聘请葡萄牙国家队分析师入职",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642088891.html",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-08-26T14:51:37.419730+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "53d49e4669",
       "category": "hot",
       "title": "博主：印度队退出首届FIFA东南亚杯，他们选择与巴西队热身",
@@ -322,20 +322,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804827+00:00",
+      "time_iso": "2026-08-29T16:38:24.125018+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "14243e5924",
-      "category": "hot",
-      "title": "德拉富恩特：世界杯重要性无可比拟，希望西班牙能再添四星",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642088334.html",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-08-26T14:51:37.419835+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -346,20 +334,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-25/6a8d05a013a0dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804881+00:00",
+      "time_iso": "2026-08-29T16:38:24.125071+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "934c3d594c",
-      "category": "hot",
-      "title": "主场对阵巴萨前，埃尔切向巴萨队内世界杯冠军致敬",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642051188.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-26T14:51:37.419877+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -370,20 +346,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/match2173340date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804923+00:00",
+      "time_iso": "2026-08-29T16:38:24.125113+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "29b6fd0f1b",
-      "category": "hot",
-      "title": "8罚全中，黄潜是2026年度五大联赛命中点球最多的球队",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642050659.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-26T14:51:37.419947+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -394,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/match2063277date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.804959+00:00",
+      "time_iso": "2026-08-29T16:38:24.125148+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,19 +370,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.805057+00:00",
+      "time_iso": "2026-08-29T16:38:24.125245+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "c8ce735fba",
+      "id": "4e1c7a38fd",
       "category": "hot",
-      "title": "罗纳德·德波尔：看好阿贾克斯在欧协联的前景，至少应该进半决赛",
+      "title": "队报：与FIFA一样，欧足联主席切费林同样对商业利益充满野心",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a927b5089dcbnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92daf563468native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.805695+00:00",
+      "time_iso": "2026-08-29T16:38:24.125979+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,31 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92b85fcec05native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806012+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "6403d307e9",
-      "category": "hot",
-      "title": "矿工主帅图兰谈欧冠抽签：恰20是我的兄弟，居莱尔是土耳其的希望",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a91a9fc95d25native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806151+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "66f9ecda67",
-      "category": "hot",
-      "title": "霍安·加西亚称赞乌奈·西蒙：世界杯金手套可不是白给的",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a923e3f3bd43native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806279+00:00",
+      "time_iso": "2026-08-29T16:38:24.126480+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,19 +406,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a91c3ddf10c1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806565+00:00",
+      "time_iso": "2026-08-29T16:38:24.126931+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "609e8936a0",
+      "id": "6403d307e9",
       "category": "hot",
-      "title": "菲戈再呛FIFA：要有透明度且有人承担责任，\"重要更迭\"是唯一解法",
+      "title": "矿工主帅图兰谈欧冠抽签：恰20是我的兄弟，居莱尔是土耳其的希望",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a91512fa94abnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a91a9fc95d25native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806618+00:00",
+      "time_iso": "2026-08-29T16:38:24.126976+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +430,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92822c3c343native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806805+00:00",
+      "time_iso": "2026-08-29T16:38:24.127178+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "c8ce735fba",
+      "category": "hot",
+      "title": "罗纳德·德波尔：看好阿贾克斯在欧协联的前景，至少应该进半决赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a927b5089dcbnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-29T16:38:24.127212+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a925bd319357native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806845+00:00",
+      "time_iso": "2026-08-29T16:38:24.127251+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90ae0297895native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.806985+00:00",
+      "time_iso": "2026-08-29T16:38:24.127392+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a907ba8b487enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807031+00:00",
+      "time_iso": "2026-08-29T16:38:24.127440+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807714+00:00",
+      "time_iso": "2026-08-29T16:38:24.128146+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +502,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-29T10:59:04.807865+00:00",
+      "time_iso": "2026-08-29T16:38:24.128300+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "57b4101f62",
+      "category": "hot",
+      "title": "新的传奇，始于今夜🔥欧冠抽签今晚24点，您需要知道的都在这",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-27/6a8f6ea97f9banative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-29T16:38:24.128534+00:00",
       "source": "直播吧",
       "is_hot": false
     }
