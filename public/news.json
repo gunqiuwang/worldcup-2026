@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T19:15:38.725935+00:00",
-  "count": 43,
+  "updated_at": "2026-08-30T22:38:06.663893+00:00",
+  "count": 41,
   "articles": [
     {
       "id": "906a23d7fd",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a93b3ca3b66dnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.397630+00:00",
+      "time_iso": "2026-08-30T22:38:04.310887+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398175+00:00",
+      "time_iso": "2026-08-30T22:38:04.311403+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642132530.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-30T08:13:38.965299+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398295+00:00",
+      "time_iso": "2026-08-30T22:38:04.311522+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642131538.html",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-30T08:13:38.965610+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398349+00:00",
+      "time_iso": "2026-08-30T22:38:04.311576+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642124518.html",
       "team": "",
-      "time": "19小时前",
+      "time": "22小时前",
       "time_iso": "2026-08-30T00:04:28.090039+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92d60c4644cnative.htm",
       "team": "",
-      "time": "19小时前",
+      "time": "22小时前",
       "time_iso": "2026-08-30T00:04:26.654422+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a91503d8503fnative.htm",
       "team": "ARG",
-      "time": "19小时前",
+      "time": "22小时前",
       "time_iso": "2026-08-30T00:04:26.655983+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -153,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bf4c30de77native.htm",
       "team": "ARG",
-      "time": "19小时前",
+      "time": "22小时前",
       "time_iso": "2026-08-30T00:04:26.656097+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -171,16 +171,16 @@
       "is_hot": false
     },
     {
-      "id": "f979979d06",
+      "id": "f4948dbbf2",
       "category": "hot",
-      "title": "查尔顿主帅：英超球队轮换11人替补席上还有世界杯冠军，很难爆冷",
+      "title": "上海海港U15队继小组赛三场全胜后，在排位赛阶段再收获两场胜利",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-27/6a8fa5a82fdacnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a9421566e593native.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-27T20:16:24.108190+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-08-30T22:38:04.307199+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "9b23f29576",
@@ -195,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "f4948dbbf2",
+      "id": "0ce1363db1",
       "category": "hot",
-      "title": "上海海港U15队继小组赛三场全胜后，在排位赛阶段再收获两场胜利",
+      "title": "国足重庆邀请赛对手FIFA排名：新西兰86位最高，土库曼斯坦141位",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a9421566e593native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.389168+00:00",
+      "time_iso": "2026-08-30T22:38:04.308280+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -219,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "0ce1363db1",
+      "id": "cd315679f2",
       "category": "hot",
-      "title": "国足重庆邀请赛对手FIFA排名：新西兰86位最高，土库曼斯坦141位",
+      "title": "索尔斯克亚笑言说不定自己会执教国足：有机会进下一届世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.394880+00:00",
+      "time_iso": "2026-08-30T22:38:04.308347+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -237,20 +237,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642132938.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-28T20:09:30.751832+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "cd315679f2",
+      "id": "4774577c75",
       "category": "hot",
-      "title": "索尔斯克亚笑言说不定自己会执教国足：有机会进下一届世界杯",
+      "title": "摩洛哥外交官：希望中国队能和我们一起在摩洛哥参加2030世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
+      "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.394953+00:00",
+      "time_iso": "2026-08-30T22:38:04.308381+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -267,30 +267,6 @@
       "is_hot": false
     },
     {
-      "id": "4774577c75",
-      "category": "hot",
-      "title": "摩洛哥外交官：希望中国队能和我们一起在摩洛哥参加2030世界杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
-      "team": "MAR",
-      "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.394987+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ffb7ba8d07",
-      "category": "hot",
-      "title": "沙特足协官方：对FIFA道歉态度表达支持，继续支持因凡蒂诺",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642123538.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-27T20:16:25.827015+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "4b438b4ec5",
       "category": "hot",
       "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
@@ -298,20 +274,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395046+00:00",
+      "time_iso": "2026-08-30T22:38:04.308437+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "1e8a47a4ef",
-      "category": "hot",
-      "title": "卡拉格：帕尔默的天赋不输任何英格兰球员，他该踢世界杯的",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642071816.html",
-      "team": "ENG",
-      "time": "2天前",
-      "time_iso": "2026-08-27T20:16:25.827351+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -322,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395101+00:00",
+      "time_iso": "2026-08-30T22:38:04.308490+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-25/6a8d05a013a0dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395157+00:00",
+      "time_iso": "2026-08-30T22:38:04.308543+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/match2173340date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395202+00:00",
+      "time_iso": "2026-08-30T22:38:04.308587+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/match2063277date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395239+00:00",
+      "time_iso": "2026-08-30T22:38:04.308625+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,19 +334,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395343+00:00",
+      "time_iso": "2026-08-30T22:38:04.308724+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "91c86bf0d6",
+      "id": "bd0e15a10f",
       "category": "hot",
-      "title": "15球7助攻，B费成为英超2026年首位参与进球数超过20个的球员",
+      "title": "7球15助攻，B费成为英超2026年首位参与进球数超过20个的球员",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a947901d9b8anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395421+00:00",
+      "time_iso": "2026-08-30T22:38:04.308906+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a946cbcc97c8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395535+00:00",
+      "time_iso": "2026-08-30T22:38:04.308977+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a943826a3599native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.395797+00:00",
+      "time_iso": "2026-08-30T22:38:04.309251+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92daf563468native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.396303+00:00",
+      "time_iso": "2026-08-30T22:38:04.309693+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92822c3c343native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.397473+00:00",
+      "time_iso": "2026-08-30T22:38:04.310745+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398226+00:00",
+      "time_iso": "2026-08-30T22:38:04.311455+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398397+00:00",
+      "time_iso": "2026-08-30T22:38:04.311610+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a927b5089dcbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398663+00:00",
+      "time_iso": "2026-08-30T22:38:04.311867+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-27/6a8f6ea97f9banative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398737+00:00",
+      "time_iso": "2026-08-30T22:38:04.311936+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +454,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-27/6a8f09263e532native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-30T19:15:36.398774+00:00",
+      "time_iso": "2026-08-30T22:38:04.311972+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "91c86bf0d6",
+      "category": "hot",
+      "title": "15球7助攻，B费成为英超2026年首位参与进球数超过20个的球员",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a947901d9b8anative.htm",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-08-30T19:15:36.395421+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -501,7 +477,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a916a99a2607native.htm",
       "team": "",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-30T08:13:35.596607+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -513,7 +489,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92b85fcec05native.htm",
       "team": "ESP",
-      "time": "11小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-30T08:13:35.598364+00:00",
       "source": "直播吧",
       "is_hot": false
