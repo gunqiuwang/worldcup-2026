@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T05:15:51.118410+00:00",
-  "count": 41,
+  "updated_at": "2026-08-31T13:27:54.054498+00:00",
+  "count": 40,
   "articles": [
     {
       "id": "906a23d7fd",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a93b3ca3b66dnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.144859+00:00",
+      "time_iso": "2026-08-31T13:27:50.186499+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642113914.html",
       "team": "ESP",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-29T10:59:06.513585+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145378+00:00",
+      "time_iso": "2026-08-31T13:27:50.186981+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642132530.html",
       "team": "",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-08-30T08:13:38.965299+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145493+00:00",
+      "time_iso": "2026-08-31T13:27:50.187095+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642131538.html",
       "team": "",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-08-30T08:13:38.965610+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145546+00:00",
+      "time_iso": "2026-08-31T13:27:50.187149+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642115841.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-29T10:59:06.513458+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -165,20 +165,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642115120.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-29T10:59:06.513529+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "bbc6a71266",
+      "id": "1ed14232fe",
       "category": "hot",
-      "title": "⏰距离U20女足世界杯中国队首战还有7天！",
+      "title": "2026怡宝中超联赛第26轮重庆铜梁龙VS上海申花 购票公告 ​​​",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94ed9851070native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a956432b8e97native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.141326+00:00",
+      "time_iso": "2026-08-31T13:27:50.178562+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -195,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "1cc6e82b80",
+      "id": "0a3525334b",
       "category": "hot",
-      "title": "马德兴：U15国少将于10月下旬赴阿塞拜疆参加U15世界杯与足球节",
+      "title": "2026怡宝中超联赛第26轮云南玉昆VS辽宁铁人楠波湾散票开售公告",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94ec9026af4native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a955ca50f023native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.141410+00:00",
+      "time_iso": "2026-08-31T13:27:50.178662+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -219,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "f4948dbbf2",
-      "category": "hot",
-      "title": "上海海港U15队继小组赛三场全胜后，在排位赛阶段再收获两场胜利",
+      "id": "1dbc0993a9",
+      "category": "tactical",
+      "title": "中国U20女足征战世界杯大名单：刘晨、卢家玉、欧阳玉环领衔",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a9421566e593native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a9555fe8fcf9native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142309+00:00",
+      "time_iso": "2026-08-31T13:27:50.178738+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -243,6 +243,18 @@
       "is_hot": false
     },
     {
+      "id": "f4948dbbf2",
+      "category": "hot",
+      "title": "上海海港U15队继小组赛三场全胜后，在排位赛阶段再收获两场胜利",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a9421566e593native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-08-31T13:27:50.184033+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "ee138305d9",
       "category": "hot",
       "title": "马德兴：足协对U23国足亚运会底线是进八强，杀入四强是突破",
@@ -250,20 +262,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94dc32b78c7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142420+00:00",
+      "time_iso": "2026-08-31T13:27:50.184115+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "81be8a6039",
-      "category": "hot",
-      "title": "迪马利亚：FIFA对阿根廷的处罚太重，我坚信会减少禁赛场次",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642088530.html",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-08-28T06:03:32.707894+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142465+00:00",
+      "time_iso": "2026-08-31T13:27:50.184164+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142516+00:00",
+      "time_iso": "2026-08-31T13:27:50.184239+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142545+00:00",
+      "time_iso": "2026-08-31T13:27:50.184271+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142599+00:00",
+      "time_iso": "2026-08-31T13:27:50.184325+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-25/6a8d05a013a0dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142665+00:00",
+      "time_iso": "2026-08-31T13:27:50.184385+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/match2173340date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142706+00:00",
+      "time_iso": "2026-08-31T13:27:50.184426+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/match2063277date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142741+00:00",
+      "time_iso": "2026-08-31T13:27:50.184462+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.142838+00:00",
+      "time_iso": "2026-08-31T13:27:50.184561+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92daf563468native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.143639+00:00",
+      "time_iso": "2026-08-31T13:27:50.185411+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145428+00:00",
+      "time_iso": "2026-08-31T13:27:50.187029+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145579+00:00",
+      "time_iso": "2026-08-31T13:27:50.187183+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a927b5089dcbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145833+00:00",
+      "time_iso": "2026-08-31T13:27:50.187430+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-27/6a8f6ea97f9banative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145897+00:00",
+      "time_iso": "2026-08-31T13:27:50.187496+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +430,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-27/6a8f09263e532native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T05:15:49.145933+00:00",
+      "time_iso": "2026-08-31T13:27:50.187536+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "bbc6a71266",
+      "category": "hot",
+      "title": "⏰距离U20女足世界杯中国队首战还有7天！",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94ed9851070native.htm",
+      "team": "",
+      "time": "8小时前",
+      "time_iso": "2026-08-31T05:15:49.141326+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "1cc6e82b80",
+      "category": "hot",
+      "title": "马德兴：U15国少将于10月下旬赴阿塞拜疆参加U15世界杯与足球节",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94ec9026af4native.htm",
+      "team": "",
+      "time": "8小时前",
+      "time_iso": "2026-08-31T05:15:49.141410+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -441,7 +465,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-13/6a7d26c766d9bnative.htm",
       "team": "BRA",
-      "time": "6小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-30T22:38:04.308490+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -453,44 +477,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a947901d9b8anative.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "14小时前",
       "time_iso": "2026-08-30T22:38:04.308906+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4cd789297d",
-      "category": "hot",
-      "title": "老特拉福德堡垒！曼联2026年英超主场10战9胜进26球，仅输利兹联",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a946cbcc97c8native.htm",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-08-30T22:38:04.308977+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "849777ed89",
-      "category": "hot",
-      "title": "ESPN：巴萨看重热苏斯的多面手属性，球员渴望重返巴西国家队",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a943826a3599native.htm",
-      "team": "BRA",
-      "time": "6小时前",
-      "time_iso": "2026-08-30T22:38:04.309251+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "aa75f22809",
-      "category": "hot",
-      "title": "转会传闻无影响！奥利塞2球1助2场最佳，世界杯后身价已升至1.7亿",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92822c3c343native.htm",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-08-30T22:38:04.310745+00:00",
       "source": "直播吧",
       "is_hot": false
     }
