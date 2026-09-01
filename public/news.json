@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T23:43:50.954985+00:00",
-  "count": 39,
+  "updated_at": "2026-09-01T04:51:06.305821+00:00",
+  "count": 38,
   "articles": [
     {
       "id": "cfd8a8ee3b",
@@ -10,7 +10,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95dabddb376native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596775+00:00",
+      "time_iso": "2026-09-01T04:51:03.742322+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "f981b90ccf",
+      "category": "hot",
+      "title": "普拉蒂尼：姆巴佩效率高罗德里世界杯踢得好，但K77会拿金球",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642193327.html",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-09-01T04:51:06.305174+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "42865725ac",
+      "category": "hot",
+      "title": "马卡报记者：有幸跟随梅西参加了六届世界杯 我一直以他为榜样",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a962043a9982native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-01T04:51:03.743257+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -27,14 +51,14 @@
       "is_hot": true
     },
     {
-      "id": "d353482ff5",
+      "id": "0bb059106c",
       "category": "hot",
-      "title": "TyC：梅西本人希望在阿根廷踢国家队告别赛，一切取决于他的意愿",
+      "title": "梅西34岁夺美洲杯 35岁夺世界杯 36岁8金球 39岁结束国家队生涯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a960b767aed1native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a962ca353d25native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.598632+00:00",
+      "time_iso": "2026-09-01T04:51:03.744018+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +75,14 @@
       "is_hot": false
     },
     {
-      "id": "091043cb9d",
+      "id": "9eaeefc01f",
       "category": "hot",
-      "title": "人均文豪！梅西从阿根廷国家队退役，众队友纷纷撰写动情长文致敬",
+      "title": "自1966年以来，梅西世界杯直接参与进球等7项数据为所有球员之最",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96045dd0cdenative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96196a46887native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.598665+00:00",
+      "time_iso": "2026-09-01T04:51:03.744082+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +99,14 @@
       "is_hot": false
     },
     {
-      "id": "c73169e424",
+      "id": "d353482ff5",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "TyC：梅西本人希望在阿根廷踢国家队告别赛，一切取决于他的意愿",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a960b767aed1native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.599181+00:00",
+      "time_iso": "2026-09-01T04:51:03.744251+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,20 +117,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642124518.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-30T00:04:28.090039+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "cfb98e86ee",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.599298+00:00",
+      "time_iso": "2026-09-01T04:51:03.744560+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "83fdae6d22",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.599351+00:00",
+      "time_iso": "2026-09-01T04:51:03.744675+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "d502c148df",
+      "id": "83fdae6d22",
       "category": "hot",
-      "title": "最后一舞依然华丽！39岁梅西在今夏世界杯打破多项纪录",
+      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95acc8c0ab7native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.599573+00:00",
+      "time_iso": "2026-09-01T04:51:03.744729+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,28 +195,40 @@
       "is_hot": false
     },
     {
+      "id": "091043cb9d",
+      "category": "hot",
+      "title": "人均文豪！梅西从阿根廷国家队退役，众队友纷纷撰写动情长文致敬",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96045dd0cdenative.htm",
+      "team": "ARG",
+      "time": "5小时前",
+      "time_iso": "2026-08-31T23:43:49.598665+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "d502c148df",
+      "category": "hot",
+      "title": "最后一舞依然华丽！39岁梅西在今夏世界杯打破多项纪录",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95acc8c0ab7native.htm",
+      "team": "ARG",
+      "time": "5小时前",
+      "time_iso": "2026-08-31T23:43:49.599573+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
       "id": "29cd520fe0",
       "category": "hot",
       "title": "奥莱报揭秘：梅西世界杯决赛后就已告知全队决定 很多人没有公开",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95d125763d2native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-31T19:56:10.292758+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "9b23f29576",
-      "category": "hot",
-      "title": "马卡记者：不向世界杯冠军致敬，西班牙摊上拉波尔塔真倒霉",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642126988.html",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-08-29T03:37:48.120483+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "53dbd07b60",
@@ -201,22 +237,10 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95a6ffd4bd6native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-31T19:56:10.293012+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "456de04e19",
-      "category": "hot",
-      "title": "马卡：欧足联明日在摩纳哥开会，决定是否抵制FIFA旗下赛事",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642110706.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-29T03:37:48.120558+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "4f85a48848",
@@ -225,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95a2353751dnative.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "8小时前",
       "time_iso": "2026-08-31T19:56:10.293047+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a93b3ca3b66dnative.htm",
       "team": "ARG",
-      "time": "10小时前",
+      "time": "15小时前",
       "time_iso": "2026-08-31T13:27:50.186499+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-29/6a92d60c4644cnative.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-30T00:04:26.654422+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a91503d8503fnative.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-30T00:04:26.655983+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -273,44 +297,32 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bf4c30de77native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-08-30T00:04:26.656097+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "1ed14232fe",
+      "id": "6ef9b9367c",
       "category": "hot",
-      "title": "2026怡宝中超联赛第26轮重庆铜梁龙VS上海申花 购票公告 ​​​",
+      "title": "2026赛季比赛日Vlog25——成都蓉城2‑1辽宁铁人楠波湾",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a956432b8e97native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a964baad4921native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.595205+00:00",
+      "time_iso": "2026-09-01T04:51:03.740537+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "0a3525334b",
-      "category": "hot",
-      "title": "2026怡宝中超联赛第26轮云南玉昆VS辽宁铁人楠波湾散票开售公告",
+      "id": "3879b0d3ed",
+      "category": "injury",
+      "title": "鲁媒：泰山队伤病潮基本结束，只要不急躁、不整活有能力进四强",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a955ca50f023native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a962760e330anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.595303+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "1dbc0993a9",
-      "category": "tactical",
-      "title": "中国U20女足征战世界杯大名单：刘晨、卢家玉、欧阳玉环领衔",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a9555fe8fcf9native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.595381+00:00",
+      "time_iso": "2026-09-01T04:51:03.741039+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-30/6a9421566e593native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596165+00:00",
+      "time_iso": "2026-09-01T04:51:03.741503+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94dc32b78c7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596248+00:00",
+      "time_iso": "2026-09-01T04:51:03.741569+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596293+00:00",
+      "time_iso": "2026-09-01T04:51:03.741613+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596347+00:00",
+      "time_iso": "2026-09-01T04:51:03.741663+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596376+00:00",
+      "time_iso": "2026-09-01T04:51:03.741691+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596429+00:00",
+      "time_iso": "2026-09-01T04:51:03.741776+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-25/6a8d05a013a0dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596488+00:00",
+      "time_iso": "2026-09-01T04:51:03.741849+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/match2173340date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596530+00:00",
+      "time_iso": "2026-09-01T04:51:03.741892+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/match2063277date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596565+00:00",
+      "time_iso": "2026-09-01T04:51:03.741928+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,43 +442,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-01/6a6d965fed50enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.596665+00:00",
+      "time_iso": "2026-09-01T04:51:03.742032+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "d126d4505b",
+      "id": "e9eb101a4f",
       "category": "hot",
-      "title": "官方：2026金球奖提名名单将于9月8日公布，10月26日现场颁奖",
+      "title": "库什纳：我们仍认可世界杯股权出售计划初衷，但低估了阻挠者手段",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95a59f285e0native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96474aa7e91native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.597339+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "28066234e4",
-      "category": "hot",
-      "title": "克罗地亚媒体：40岁的莫德里奇将在近日决定是否退出国家队",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a95a291b691cnative.htm",
-      "team": "CRO",
-      "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.598087+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c62cf48fd6",
-      "category": "hot",
-      "title": "成人女星：某尤文图斯球员和世界杯某教练曾私信追求我",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-08-31T23:43:49.599232+00:00",
+      "time_iso": "2026-09-01T04:51:03.742080+00:00",
       "source": "直播吧",
       "is_hot": false
     }
