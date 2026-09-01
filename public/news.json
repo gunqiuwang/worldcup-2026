@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T16:29:07.873030+00:00",
-  "count": 39,
+  "updated_at": "2026-09-01T20:56:17.341700+00:00",
+  "count": 38,
   "articles": [
     {
       "id": "cfd8a8ee3b",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95dabddb376native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.179308+00:00",
+      "time_iso": "2026-09-01T20:56:15.364460+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642211345.html",
       "team": "ARG",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-09-01T16:29:07.872313+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96c53179a0fnative.htm",
       "team": "URU",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.180441+00:00",
+      "time_iso": "2026-09-01T20:56:15.365876+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642208970.html",
       "team": "ARG",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-09-01T11:31:43.909423+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a962043a9982native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.180896+00:00",
+      "time_iso": "2026-09-01T20:56:15.366137+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642193327.html",
       "team": "FRA",
-      "time": "11小时前",
+      "time": "16小时前",
       "time_iso": "2026-09-01T04:51:06.305174+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96196a46887native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.180933+00:00",
+      "time_iso": "2026-09-01T20:56:15.366172+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642212570.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-09-01T16:29:07.872098+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.181222+00:00",
+      "time_iso": "2026-09-01T20:56:15.366477+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642211278.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-09-01T16:29:07.872386+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.181337+00:00",
+      "time_iso": "2026-09-01T20:56:15.366598+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.181391+00:00",
+      "time_iso": "2026-09-01T20:56:15.366652+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a962ca353d25native.htm",
       "team": "ARG",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-09-01T11:31:41.150798+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,22 +201,10 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a960b767aed1native.htm",
       "team": "ARG",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-09-01T11:31:41.151047+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "f9684d254e",
-      "category": "hot",
-      "title": "揭幕战戴帽！埃布努塔利布复刻法兰克福49年前纪录",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642168450.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-08-29T16:38:25.676886+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "091043cb9d",
@@ -225,7 +213,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96045dd0cdenative.htm",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-08-31T23:43:49.598665+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95acc8c0ab7native.htm",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-08-31T23:43:49.599573+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +237,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95d125763d2native.htm",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-08-31T19:56:10.292758+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95a6ffd4bd6native.htm",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-08-31T19:56:10.293012+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -273,7 +261,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a95a2353751dnative.htm",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-08-31T19:56:10.293047+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -334,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96e1f0b67c3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.176427+00:00",
+      "time_iso": "2026-09-01T20:56:15.356282+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96daab965b1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.176571+00:00",
+      "time_iso": "2026-09-01T20:56:15.356415+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96da23cd495native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.176641+00:00",
+      "time_iso": "2026-09-01T20:56:15.356454+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96d5051c157native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.176716+00:00",
+      "time_iso": "2026-09-01T20:56:15.356508+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,19 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96d51b456f2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.176754+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "eb8037547a",
-      "category": "hot",
-      "title": "足协杯1-0击败对手晋级四强，大连英博队史首胜上海申花",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96d46b42334native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.176806+00:00",
+      "time_iso": "2026-09-01T20:56:15.356539+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/match2113333date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.177124+00:00",
+      "time_iso": "2026-09-01T20:56:15.356814+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96acc2acc47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.177730+00:00",
+      "time_iso": "2026-09-01T20:56:15.363102+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96ab6a18426native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.177815+00:00",
+      "time_iso": "2026-09-01T20:56:15.363190+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94dc32b78c7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.177896+00:00",
+      "time_iso": "2026-09-01T20:56:15.363249+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.177949+00:00",
+      "time_iso": "2026-09-01T20:56:15.363292+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-01T16:29:06.178005+00:00",
+      "time_iso": "2026-09-01T20:56:15.363343+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "4774577c75",
+      "category": "hot",
+      "title": "摩洛哥外交官：希望中国队能和我们一起在摩洛哥参加2030世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
+      "team": "MAR",
+      "time": "1分钟前",
+      "time_iso": "2026-09-01T20:56:15.363371+00:00",
       "source": "直播吧",
       "is_hot": false
     }
