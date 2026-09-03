@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-03T07:05:55.950813+00:00",
-  "count": 36,
+  "updated_at": "2026-09-03T12:45:59.650503+00:00",
+  "count": 37,
   "articles": [
+    {
+      "id": "3e1b501d70",
+      "category": "hot",
+      "title": "雷格拉吉：塞内加尔世界杯被判点更具争议，但他们却没有罢赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a992fda6dbd4native.htm",
+      "team": "SEN",
+      "time": "1分钟前",
+      "time_iso": "2026-09-03T12:45:56.465756+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "6d17daed3a",
+      "category": "hot",
+      "title": "巴黎祝福梅西：传奇国家队生涯，祝贺你为阿根廷取得的一切",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642224388.html",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-03T12:45:59.650154+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
     {
       "id": "9101e6799b",
       "category": "injury",
@@ -10,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.099896+00:00",
+      "time_iso": "2026-09-03T12:45:56.465830+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642208970.html",
       "team": "ARG",
-      "time": "10小时前",
+      "time": "15小时前",
       "time_iso": "2026-09-02T20:55:31.380484+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98642e4f4c8native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.107338+00:00",
+      "time_iso": "2026-09-03T12:45:56.466701+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a98144cb7916native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.107377+00:00",
+      "time_iso": "2026-09-03T12:45:56.466726+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +106,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97abac7b0denative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.107415+00:00",
+      "time_iso": "2026-09-03T12:45:56.466771+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "1aa679f7cb",
+      "category": "tactical",
+      "title": "在巴黎丢首发让巴尔科拉想离队，世界杯前他和伊劳拉谈过话",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642212570.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-03T12:45:59.650285+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "e5f0732d30",
+      "category": "hot",
+      "title": "阿根廷国家队官推致敬梅西：再次感谢你，你的传奇将永世流传",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a6d83679dnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-03T12:45:56.466794+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,30 +147,6 @@
       "is_hot": false
     },
     {
-      "id": "e5f0732d30",
-      "category": "hot",
-      "title": "阿根廷国家队官推致敬梅西：再次感谢你，你的传奇将永世流传",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a6d83679dnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.107449+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "1aa679f7cb",
-      "category": "tactical",
-      "title": "在巴黎丢首发让巴尔科拉想离队，世界杯前他和伊劳拉谈过话",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642212570.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-09-01T16:29:07.872098+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "70ea51090a",
       "category": "hot",
       "title": "马斯坦托诺社媒致敬梅西：以后每当国家队比赛，阿根廷人都会想您",
@@ -130,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a974c88a2d11native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.107602+00:00",
+      "time_iso": "2026-09-03T12:45:56.466898+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.107949+00:00",
+      "time_iso": "2026-09-03T12:45:56.467128+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -166,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.108060+00:00",
+      "time_iso": "2026-09-03T12:45:56.467205+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -178,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.108112+00:00",
+      "time_iso": "2026-09-03T12:45:56.467241+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a962ca353d25native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-01T11:31:41.150798+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a960b767aed1native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-01T11:31:41.151047+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -327,50 +351,14 @@
       "is_hot": true
     },
     {
-      "id": "4f3b8ae180",
+      "id": "179d578d71",
       "category": "hot",
-      "title": "津媒：U20女足世界杯首战志在必得，教练组分别和队员小组谈话",
+      "title": "2026波兰U20女足世界杯，中国U20女足蓄势待发！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98c174e8e4cnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a99233a570efnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098078+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "44517a726c",
-      "category": "hot",
-      "title": "2026足协杯现场观众人数统计（第6轮）：场均33781人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a98330b90befnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098193+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "411391b06a",
-      "category": "hot",
-      "title": "足协杯四强出炉！国安vs海港！英博与玉昆争夺决赛门票！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97d05e492ccnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098234+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c63b237496",
-      "category": "hot",
-      "title": "进四强！玉昆1-0铜梁龙将战英博 约尼查制胜向余望替补25分钟被换",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/match2111562date2026vnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098289+00:00",
+      "time_iso": "2026-09-03T12:45:56.464552+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +370,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96e1f0b67c3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098484+00:00",
+      "time_iso": "2026-09-03T12:45:56.464838+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "411391b06a",
+      "category": "hot",
+      "title": "足协杯四强出炉！国安vs海港！英博与玉昆争夺决赛门票！",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97d05e492ccnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-03T12:45:56.464901+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a507c56a7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098599+00:00",
+      "time_iso": "2026-09-03T12:45:56.464939+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96da23cd495native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098652+00:00",
+      "time_iso": "2026-09-03T12:45:56.464975+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96d5051c157native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098695+00:00",
+      "time_iso": "2026-09-03T12:45:56.465003+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +430,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96d51b456f2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T07:05:54.098725+00:00",
+      "time_iso": "2026-09-03T12:45:56.465022+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "3e15e5408b",
+      "category": "hot",
+      "title": "上海海港客场3-0战胜山东泰山，晋级足协杯四强",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96daab965b1native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-03T12:45:56.465075+00:00",
       "source": "直播吧",
       "is_hot": false
     }
