@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T23:55:40.836375+00:00",
-  "count": 39,
+  "updated_at": "2026-09-04T04:17:14.684860+00:00",
+  "count": 42,
   "articles": [
     {
       "id": "9101e6799b",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.837996+00:00",
+      "time_iso": "2026-09-04T04:17:12.690504+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,8 +21,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642244023.html",
       "team": "CRO",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-09-03T23:55:40.835722+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "38f2fc1ecb",
+      "category": "hot",
+      "title": "六台嘉宾：梅西理应获得金球奖，39岁世界杯8球4助+杀入决赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a15ae36095native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-04T04:17:12.691476+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "6d17daed3a",
+      "category": "hot",
+      "title": "巴黎祝福梅西：传奇国家队生涯，祝贺你为阿根廷取得的一切",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642224388.html",
+      "team": "ARG",
+      "time": "15小时前",
+      "time_iso": "2026-09-03T12:45:59.650154+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,31 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98642e4f4c8native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.839259+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "6d17daed3a",
-      "category": "hot",
-      "title": "巴黎祝福梅西：传奇国家队生涯，祝贺你为阿根廷取得的一切",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642224388.html",
-      "team": "ARG",
-      "time": "11小时前",
-      "time_iso": "2026-09-03T12:45:59.650154+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "6b3a881325",
-      "category": "hot",
-      "title": "阿根廷国家队官方晒视频致敬梅西：Leo，有一些话想要告诉你",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a98144cb7916native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.839300+00:00",
+      "time_iso": "2026-09-04T04:17:12.691579+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "49b3960157",
+      "id": "6b3a881325",
       "category": "hot",
-      "title": "前智利主帅谈梅西：阿根廷逆转英格兰那一天，世界杯就已经落幕",
+      "title": "阿根廷国家队官方晒视频致敬梅西：Leo，有一些话想要告诉你",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97abac7b0denative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a98144cb7916native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.839339+00:00",
+      "time_iso": "2026-09-04T04:17:12.691608+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "e5f0732d30",
+      "id": "49b3960157",
       "category": "hot",
-      "title": "阿根廷国家队官推致敬梅西：再次感谢你，你的传奇将永世流传",
+      "title": "前智利主帅谈梅西：阿根廷逆转英格兰那一天，世界杯就已经落幕",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a6d83679dnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97abac7b0denative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.839375+00:00",
+      "time_iso": "2026-09-04T04:17:12.691728+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,6 +123,30 @@
       "is_hot": true
     },
     {
+      "id": "e5f0732d30",
+      "category": "hot",
+      "title": "阿根廷国家队官推致敬梅西：再次感谢你，你的传奇将永世流传",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a6d83679dnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-04T04:17:12.691752+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "fc4649c523",
+      "category": "hot",
+      "title": "女足亚冠抽签：北京女足、墨尔本城、卡雅、纳萨夫同组",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642251570.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-04T04:17:14.684279+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
       "id": "c73169e424",
       "category": "hot",
       "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
@@ -130,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.839848+00:00",
+      "time_iso": "2026-09-04T04:17:12.692062+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "29943e2e29",
+      "id": "4e1f1a3311",
       "category": "hot",
-      "title": "征战U20世界杯；津媒：中国U20女足前两战目标“争胜保平”",
+      "title": "欧足联逼宫因凡蒂诺首战失利，欧洲球队正常踢女足U20世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/642245768.html",
+      "url": "https://bbs.hupu.com/642250392.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:40.835544+00:00",
+      "time_iso": "2026-09-04T04:17:14.684355+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,19 +178,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.839960+00:00",
+      "time_iso": "2026-09-04T04:17:12.692167+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "1aa679f7cb",
-      "category": "tactical",
-      "title": "在巴黎丢首发让巴尔科拉想离队，世界杯前他和伊劳拉谈过话",
+      "id": "235f66781e",
+      "category": "hot",
+      "title": "罗马诺总结世界杯+转会窗战绩：仅INS三个月浏览量就破600亿",
       "summary": "",
-      "url": "https://bbs.hupu.com/642212570.html",
+      "url": "https://bbs.hupu.com/642247263.html",
       "team": "",
-      "time": "11小时前",
-      "time_iso": "2026-09-03T12:45:59.650285+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-09-04T04:17:14.684441+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,19 +202,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.840013+00:00",
+      "time_iso": "2026-09-04T04:17:12.692210+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "f56b55678c",
+      "id": "29943e2e29",
       "category": "hot",
-      "title": "马卡：穆帅用三连胜克服世界杯后难题，接下去要破前任纪录",
+      "title": "征战U20世界杯；津媒：中国U20女足前两战目标“争胜保平”",
       "summary": "",
-      "url": "https://bbs.hupu.com/642192111.html",
+      "url": "https://bbs.hupu.com/642245768.html",
       "team": "",
-      "time": "1天前",
-      "time_iso": "2026-09-01T23:57:32.330678+00:00",
+      "time": "4小时前",
+      "time_iso": "2026-09-03T23:55:40.835544+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -201,8 +225,56 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a992fda6dbd4native.htm",
       "team": "SEN",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-09-03T17:46:15.392329+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "1aa679f7cb",
+      "category": "tactical",
+      "title": "在巴黎丢首发让巴尔科拉想离队，世界杯前他和伊劳拉谈过话",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642212570.html",
+      "team": "",
+      "time": "15小时前",
+      "time_iso": "2026-09-03T12:45:59.650285+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "70ea51090a",
+      "category": "hot",
+      "title": "马斯坦托诺社媒致敬梅西：以后每当国家队比赛，阿根廷人都会想您",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a974c88a2d11native.htm",
+      "team": "ARG",
+      "time": "10小时前",
+      "time_iso": "2026-09-03T17:46:15.394122+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "f56b55678c",
+      "category": "hot",
+      "title": "马卡：穆帅用三连胜克服世界杯后难题，接下去要破前任纪录",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642192111.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-09-01T23:57:32.330678+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "bc3c037cfd",
+      "category": "hot",
+      "title": "梅西国家队进球最多对手:12战玻利维亚进11球 乌拉圭智利巴西在列",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96c53179a0fnative.htm",
+      "team": "URU",
+      "time": "1天前",
+      "time_iso": "2026-09-02T04:17:47.250759+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -217,30 +289,6 @@
       "time_iso": "2026-09-01T16:29:07.872386+00:00",
       "source": "虎扑",
       "is_hot": false
-    },
-    {
-      "id": "70ea51090a",
-      "category": "hot",
-      "title": "马斯坦托诺社媒致敬梅西：以后每当国家队比赛，阿根廷人都会想您",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a974c88a2d11native.htm",
-      "team": "ARG",
-      "time": "6小时前",
-      "time_iso": "2026-09-03T17:46:15.394122+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "bc3c037cfd",
-      "category": "hot",
-      "title": "梅西国家队进球最多对手:12战玻利维亚进11球 乌拉圭智利巴西在列",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96c53179a0fnative.htm",
-      "team": "URU",
-      "time": "1天前",
-      "time_iso": "2026-09-02T04:17:47.250759+00:00",
-      "source": "直播吧",
-      "is_hot": true
     },
     {
       "id": "42865725ac",
@@ -261,7 +309,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96196a46887native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-01T23:57:30.581305+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -303,6 +351,18 @@
       "is_hot": true
     },
     {
+      "id": "f0e5d66fe6",
+      "category": "hot",
+      "title": "赛场见！中国U20女足抵达U20世界杯赛地波兰，球员们面带笑容",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a274896382native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-04T04:17:12.688808+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "cb9eeb8593",
       "category": "hot",
       "title": "【MATCHDAY】2026中国足协杯第6轮，山东泰山0比3上海海港",
@@ -310,19 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a997953db54anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.835914+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "179d578d71",
-      "category": "hot",
-      "title": "2026波兰U20女足世界杯，中国U20女足蓄势待发！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a99233a570efnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836057+00:00",
+      "time_iso": "2026-09-04T04:17:12.689028+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96e1f0b67c3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836356+00:00",
+      "time_iso": "2026-09-04T04:17:12.689127+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97d05e492ccnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836437+00:00",
+      "time_iso": "2026-09-04T04:17:12.689199+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a507c56a7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836493+00:00",
+      "time_iso": "2026-09-04T04:17:12.689243+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96da23cd495native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836547+00:00",
+      "time_iso": "2026-09-04T04:17:12.689284+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96d5051c157native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836588+00:00",
+      "time_iso": "2026-09-04T04:17:12.689316+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96d51b456f2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836617+00:00",
+      "time_iso": "2026-09-04T04:17:12.689340+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96daab965b1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836691+00:00",
+      "time_iso": "2026-09-04T04:17:12.689394+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94dc32b78c7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836750+00:00",
+      "time_iso": "2026-09-04T04:17:12.689436+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836793+00:00",
+      "time_iso": "2026-09-04T04:17:12.689468+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836840+00:00",
+      "time_iso": "2026-09-04T04:17:12.689505+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,19 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836867+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4b438b4ec5",
-      "category": "hot",
-      "title": "范大将军来了！范志毅现身亚冠二抽签现场，担任抽签嘉宾",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-03T23:55:38.836919+00:00",
+      "time_iso": "2026-09-04T04:17:12.689526+00:00",
       "source": "直播吧",
       "is_hot": false
     }
