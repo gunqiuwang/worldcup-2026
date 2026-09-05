@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T10:26:30.381874+00:00",
-  "count": 43,
+  "updated_at": "2026-09-05T15:01:04.085609+00:00",
+  "count": 44,
   "articles": [
     {
       "id": "9101e6799b",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.563124+00:00",
+      "time_iso": "2026-09-05T15:00:58.953290+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642273792.html",
       "team": "ARG",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-09-05T04:10:49.705562+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a15ae36095native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.564177+00:00",
+      "time_iso": "2026-09-05T15:00:58.954461+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642224388.html",
       "team": "ARG",
-      "time": "18小时前",
+      "time": "22小时前",
       "time_iso": "2026-09-04T16:13:11.094494+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.564594+00:00",
+      "time_iso": "2026-09-05T15:00:58.954975+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642224501.html",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-04T11:04:50.837338+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.564691+00:00",
+      "time_iso": "2026-09-05T15:00:58.955083+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.564734+00:00",
+      "time_iso": "2026-09-05T15:00:58.955135+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -129,20 +129,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98642e4f4c8native.htm",
       "team": "ESP",
-      "time": "18小时前",
+      "time": "22小时前",
       "time_iso": "2026-09-04T16:13:07.858038+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "235f66781e",
+      "id": "6cc88b8c3c",
       "category": "hot",
-      "title": "罗马诺总结世界杯+转会窗战绩：仅INS三个月浏览量就破600亿",
+      "title": "世界杯后曾宣布离任，官方：73岁奎罗斯重新出任加纳主帅",
       "summary": "",
-      "url": "https://bbs.hupu.com/642247263.html",
+      "url": "https://bbs.hupu.com/642276975.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:30.381544+00:00",
+      "time_iso": "2026-09-05T15:01:04.084984+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -153,20 +153,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97abac7b0denative.htm",
       "team": "ARG",
-      "time": "18小时前",
+      "time": "22小时前",
       "time_iso": "2026-09-04T16:13:07.858218+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "62c44c0237",
+      "id": "235f66781e",
       "category": "hot",
-      "title": "官方：国安旧将巴坎布加盟圣地亚哥，合同至2026赛季结束",
+      "title": "罗马诺总结世界杯+转会窗战绩：仅INS三个月浏览量就破600亿",
       "summary": "",
-      "url": "https://bbs.hupu.com/642259584.html",
+      "url": "https://bbs.hupu.com/642247263.html",
       "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-09-05T04:10:49.705973+00:00",
+      "time": "4小时前",
+      "time_iso": "2026-09-05T10:26:30.381544+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -177,20 +177,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a6d83679dnative.htm",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-04T11:04:47.416172+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "3d79ec5ebd",
+      "id": "62c44c0237",
       "category": "hot",
-      "title": "记者：帕雷德斯表示，他很难继续为阿根廷国家队效力了",
+      "title": "官方：国安旧将巴坎布加盟圣地亚哥，合同至2026赛季结束",
       "summary": "",
-      "url": "https://bbs.hupu.com/642224328.html",
-      "team": "ARG",
-      "time": "18小时前",
-      "time_iso": "2026-09-04T16:13:11.094574+00:00",
+      "url": "https://bbs.hupu.com/642259584.html",
+      "team": "",
+      "time": "10小时前",
+      "time_iso": "2026-09-05T04:10:49.705973+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "9afe46c7b3",
+      "id": "3d79ec5ebd",
       "category": "hot",
-      "title": "马卡独家：吕迪格将退出德国国家队，专注于皇家马德里",
+      "title": "记者：帕雷德斯表示，他很难继续为阿根廷国家队效力了",
       "summary": "",
-      "url": "https://bbs.hupu.com/642223254.html",
-      "team": "GER",
-      "time": "23小时前",
-      "time_iso": "2026-09-04T11:04:50.837491+00:00",
+      "url": "https://bbs.hupu.com/642224328.html",
+      "team": "ARG",
+      "time": "22小时前",
+      "time_iso": "2026-09-04T16:13:11.094574+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,14 @@
       "is_hot": true
     },
     {
-      "id": "fc4649c523",
+      "id": "9afe46c7b3",
       "category": "hot",
-      "title": "女足亚冠抽签：北京女足、墨尔本城、卡雅、纳萨夫同组",
+      "title": "马卡独家：吕迪格将退出德国国家队，专注于皇家马德里",
       "summary": "",
-      "url": "https://bbs.hupu.com/642251570.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/642223254.html",
+      "team": "GER",
       "time": "1天前",
-      "time_iso": "2026-09-04T04:17:14.684279+00:00",
+      "time_iso": "2026-09-04T11:04:50.837491+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -255,6 +255,30 @@
       "is_hot": true
     },
     {
+      "id": "fc4649c523",
+      "category": "hot",
+      "title": "女足亚冠抽签：北京女足、墨尔本城、卡雅、纳萨夫同组",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642251570.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-09-04T04:17:14.684279+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "5e8cab7299",
+      "category": "hot",
+      "title": "东北超半决赛-延边队主场2-1大连队先拔头筹 次回合将移师梭鱼湾",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-05/match2171614date2026vnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-05T15:00:58.950621+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "4e1f1a3311",
       "category": "hot",
       "title": "欧足联逼宫因凡蒂诺首战失利，欧洲球队正常踢女足U20世界杯",
@@ -267,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "3894ac6262",
-      "category": "tactical",
-      "title": "2026赛季中甲联赛第22轮，大连鲲城客场对阵佛山南狮首发！",
+      "id": "cb9eeb8593",
+      "category": "hot",
+      "title": "【MATCHDAY】2026中国足协杯第6轮，山东泰山0比3上海海港",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-05/6a9bed8541a3bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a997953db54anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.557466+00:00",
+      "time_iso": "2026-09-05T15:00:58.951935+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -291,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "e3448b7037",
+      "id": "ee138305d9",
       "category": "hot",
-      "title": "赛前海报 | 蓄力谋新 2026中超联赛第26轮 山东泰山VS深圳新鹏城",
+      "title": "马德兴：足协对U23国足亚运会底线是进八强，杀入四强是突破",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a8e053a726native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94dc32b78c7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.561864+00:00",
+      "time_iso": "2026-09-05T15:00:58.952038+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -309,69 +333,9 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642212570.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-03T12:45:59.650285+00:00",
       "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "cb9eeb8593",
-      "category": "hot",
-      "title": "【MATCHDAY】2026中国足协杯第6轮，山东泰山0比3上海海港",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a997953db54anative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.561917+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "731620e175",
-      "category": "hot",
-      "title": "山东泰山主场负于上海海港，止步本赛季足协杯八强",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-01/6a96e1f0b67c3native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562001+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "411391b06a",
-      "category": "hot",
-      "title": "足协杯四强出炉！国安vs海港！英博与玉昆争夺决赛门票！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97d05e492ccnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562064+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "0be3f65fc6",
-      "category": "hot",
-      "title": "晋级足协杯四强！张稀哲发文：每个人都很努力，兰州队值得尊敬",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-02/6a97a507c56a7native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562109+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ee138305d9",
-      "category": "hot",
-      "title": "马德兴：足协对U23国足亚运会底线是进八强，杀入四强是突破",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-31/6a94dc32b78c7native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562217+00:00",
-      "source": "直播吧",
       "is_hot": false
     },
     {
@@ -382,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-28/6a90fc8dbcddenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562251+00:00",
+      "time_iso": "2026-09-05T15:00:58.952105+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-24/6a8bd1207c639native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562289+00:00",
+      "time_iso": "2026-09-05T15:00:58.952174+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-23/6a8a8de13093fnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562310+00:00",
+      "time_iso": "2026-09-05T15:00:58.952209+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-18/6a83f6ef1cda4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562356+00:00",
+      "time_iso": "2026-09-05T15:00:58.952274+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-25/6a8d05a013a0dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562410+00:00",
+      "time_iso": "2026-09-05T15:00:58.952331+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-20/match2173340date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562445+00:00",
+      "time_iso": "2026-09-05T15:00:58.952371+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +418,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-19/match2063277date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562473+00:00",
+      "time_iso": "2026-09-05T15:00:58.952406+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "77d6891d51",
+      "category": "hot",
+      "title": "队报：谢尔基已消化掉世界杯的失意情绪，他立志成为曼城重要一员",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-05/6a9c15c1083banative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-05T15:00:58.952891+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-05/6a9be112bed6fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.562576+00:00",
+      "time_iso": "2026-09-05T15:00:58.953126+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-05/6a9bcaf489c61native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.563335+00:00",
+      "time_iso": "2026-09-05T15:00:58.953558+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9aafb7039b3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.563763+00:00",
+      "time_iso": "2026-09-05T15:00:58.953980+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a996ac727a07native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.564021+00:00",
+      "time_iso": "2026-09-05T15:00:58.954329+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +490,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98a1113b0banative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-09-05T10:26:28.564313+00:00",
+      "time_iso": "2026-09-05T15:00:58.954622+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "c62cf48fd6",
+      "category": "hot",
+      "title": "成人女星：某尤文图斯球员和世界杯某教练曾私信追求我",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-05T15:00:58.955020+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ee26f6be90",
+      "category": "hot",
+      "title": "太阳报：范德芬携模特佳人惬意度假，热恋相伴奔赴世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-05T15:00:58.955169+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "7371685f2c",
+      "category": "hot",
+      "title": "西足协主席：下届世界杯决赛，应该在西班牙举办",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-05/6a9b7d2a93c75native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-05T15:00:58.955364+00:00",
       "source": "直播吧",
       "is_hot": false
     }
