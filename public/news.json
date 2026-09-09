@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T07:18:17.792769+00:00",
+  "updated_at": "2026-09-09T12:54:01.536584+00:00",
   "count": 40,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.206361+00:00",
+      "time_iso": "2026-09-09T12:53:59.587556+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642326124.html",
       "team": "",
-      "time": "14小时前",
+      "time": "20小时前",
       "time_iso": "2026-09-08T16:30:52.687633+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.206429+00:00",
+      "time_iso": "2026-09-09T12:53:59.587617+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0ae61cd4aanative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.207401+00:00",
+      "time_iso": "2026-09-09T12:53:59.588679+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,38 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "3672cd8538",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "劳塔罗谈梅西从国家队退役：梅西对足球界、对阿根廷都意义非凡",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fa2cb75500native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.207560+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "8c3acee9eb",
-      "category": "hot",
-      "title": "马宁：不会主动竞争第三届世界杯，若国家需要会再坚持几年",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642332976.html",
-      "team": "",
-      "time": "10小时前",
-      "time_iso": "2026-09-08T21:02:00.483311+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "9e1efb8189",
-      "category": "hot",
-      "title": "比朔夫：梦想赢得欧冠和世界杯 想和梅西交手但这很困难",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9f675b827a1native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.207594+00:00",
+      "time_iso": "2026-09-09T12:53:59.589187+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,32 +93,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642316842.html",
       "team": "BRA",
-      "time": "10小时前",
-      "time_iso": "2026-09-08T21:02:00.483596+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "c73169e424",
-      "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.207962+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "18f0a42207",
-      "category": "hot",
-      "title": "比利时足协：要求FIFA将巴洛贡事件列入下一次会议的议程",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642320888.html",
-      "team": "BEL",
-      "time": "20小时前",
-      "time_iso": "2026-09-08T11:05:22.253995+00:00",
+      "time_iso": "2026-09-09T12:54:01.536175+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,7 +106,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.208074+00:00",
+      "time_iso": "2026-09-09T12:53:59.589318+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "8c3acee9eb",
+      "category": "hot",
+      "title": "马宁：不会主动竞争第三届世界杯，若国家需要会再坚持几年",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642332976.html",
+      "team": "",
+      "time": "15小时前",
+      "time_iso": "2026-09-08T21:02:00.483311+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "83fdae6d22",
+      "category": "hot",
+      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-09T12:53:59.589373+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "18f0a42207",
+      "category": "hot",
+      "title": "比利时足协：要求FIFA将巴洛贡事件列入下一次会议的议程",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642320888.html",
+      "team": "BEL",
+      "time": "1天前",
+      "time_iso": "2026-09-08T11:05:22.253995+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "3672cd8538",
+      "category": "hot",
+      "title": "劳塔罗谈梅西从国家队退役：梅西对足球界、对阿根廷都意义非凡",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fa2cb75500native.htm",
+      "team": "ARG",
+      "time": "5小时前",
+      "time_iso": "2026-09-09T07:18:16.207560+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "83fdae6d22",
+      "id": "9e1efb8189",
       "category": "hot",
-      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
+      "title": "比朔夫：梦想赢得欧冠和世界杯 想和梅西交手但这很困难",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.208128+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9f675b827a1native.htm",
+      "team": "ARG",
+      "time": "5小时前",
+      "time_iso": "2026-09-09T07:18:16.207594+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642276634.html",
       "team": "ESP",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-07T12:15:52.878965+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa082792ce65native.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-09T00:00:12.875190+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -225,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa08a19a90efnative.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-09T00:00:12.876331+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cdc676be7enative.htm",
       "team": "ARG",
-      "time": "7小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-09T00:00:12.876999+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -291,6 +291,18 @@
       "is_hot": true
     },
     {
+      "id": "b890377401",
+      "category": "hot",
+      "title": "2026/2027亚冠精英联赛 北京国安主场赛事票务公告",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-09T12:53:59.585717+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "1bdd1b1ae7",
       "category": "hot",
       "title": "浙江U17队2-0击败重庆凤鸣山中学U17队，挺进中青赛全国八强",
@@ -298,43 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0ff98a61f7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.204596+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "d76d9dca5b",
-      "category": "hot",
-      "title": "2026萨马兰奇国际青少年邀请赛10月进行，世界青训强队齐聚宁波",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0f986886b3native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.204687+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "5e8f867fb9",
-      "category": "hot",
-      "title": "2026赛季比赛日Vlog26——河南俱乐部彩陶坊0‑0成都蓉城",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d1e50779cnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.204777+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c8cde489e6",
-      "category": "tactical",
-      "title": "国足2026年第四期集训名单公布，深圳新鹏城球员戴伟浚入选！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.204816+00:00",
+      "time_iso": "2026-09-09T12:53:59.585926+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.205085+00:00",
+      "time_iso": "2026-09-09T12:53:59.586208+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e0fc053bdfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.205118+00:00",
+      "time_iso": "2026-09-09T12:53:59.586256+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +346,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9ccbaa5ecebnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.205271+00:00",
+      "time_iso": "2026-09-09T12:53:59.586388+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "c8cde489e6",
+      "category": "tactical",
+      "title": "国足2026年第四期集训名单公布，深圳新鹏城球员戴伟浚入选！",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-09T12:53:59.586454+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e40d7eb862native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.205502+00:00",
+      "time_iso": "2026-09-09T12:53:59.586667+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,19 +382,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0c67519300native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.206160+00:00",
+      "time_iso": "2026-09-09T12:53:59.587466+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "0f7920fd8d",
+      "id": "a3354b7e44",
       "category": "hot",
-      "title": "ESPN：沃尔帕托二次检测阳性，可能影响在澳大利亚国家队的未来",
+      "title": "奥尔莫：世界杯夺冠给了我们额外自信，巴萨将向欧冠冠军发起冲击",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d74ed54e9native.htm",
-      "team": "AUS",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa127f4b9a9dnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.206856+00:00",
+      "time_iso": "2026-09-09T12:53:59.587775+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ba4ca388b9",
+      "category": "hot",
+      "title": "2026金球奖候选名单揭晓：西甲联赛7人入围",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa110ed22613native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-09T12:53:59.587805+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "368a39d685",
+      "category": "hot",
+      "title": "莫德里奇迎来41岁生日，世界杯官方晒海报致敬：再没有第二个魔笛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa123503cb1fnative.htm",
+      "team": "CRO",
+      "time": "1分钟前",
+      "time_iso": "2026-09-09T12:53:59.588001+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "75cd0315ef",
+      "category": "hot",
+      "title": "英媒：未能帮助英格兰赢得世界杯不该影响凯恩拿金球奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa12457ca61fnative.htm",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-09T12:53:59.588472+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.208009+00:00",
+      "time_iso": "2026-09-09T12:53:59.589249+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.208164+00:00",
+      "time_iso": "2026-09-09T12:53:59.589408+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a083947a0cnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.208513+00:00",
+      "time_iso": "2026-09-09T12:53:59.589756+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,31 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fb5d3a4580native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-09T07:18:16.208728+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "bf411cfd1a",
-      "category": "tactical",
-      "title": "中国国家男子足球队2026年第四期集训名单公布！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fe3a3568d0native.htm",
-      "team": "",
-      "time": "7小时前",
-      "time_iso": "2026-09-09T00:00:12.874155+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "763059499a",
-      "category": "hot",
-      "title": "太富裕了！西班牙国家队三位门将全部入围金球奖年度最佳门将候选",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9ff53b5ccb1native.htm",
-      "team": "ESP",
-      "time": "10小时前",
-      "time_iso": "2026-09-08T21:01:58.501921+00:00",
+      "time_iso": "2026-09-09T12:53:59.589875+00:00",
       "source": "直播吧",
       "is_hot": false
     }
