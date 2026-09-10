@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T20:45:30.057814+00:00",
+  "updated_at": "2026-09-10T23:57:44.004885+00:00",
   "count": 41,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.638973+00:00",
+      "time_iso": "2026-09-10T23:57:42.240056+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.639037+00:00",
+      "time_iso": "2026-09-10T23:57:42.240105+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,31 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.640608+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "b7cc13efe3",
-      "category": "hot",
-      "title": "首盘0-5逆转！郑钦文2-0斯瓦泰克，第3次打进美网八强",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642321524.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-07T22:44:40.952001+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "cfb98e86ee",
-      "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.640721+00:00",
+      "time_iso": "2026-09-10T23:57:42.241456+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -94,7 +70,31 @@
       "url": "https://bbs.hupu.com/642336493.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:30.057078+00:00",
+      "time_iso": "2026-09-10T23:57:44.004438+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "cfb98e86ee",
+      "category": "hot",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T23:57:42.241547+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "134e53f789",
+      "category": "hot",
+      "title": "波波维奇：重来仍会换上瑞安，世界杯的痛苦推动我们前进",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642336031.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T23:57:44.004532+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.640774+00:00",
+      "time_iso": "2026-09-10T23:57:42.241589+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,7 +118,7 @@
       "url": "https://bbs.hupu.com/642335173.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:30.057282+00:00",
+      "time_iso": "2026-09-10T23:57:44.004596+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa19cbb6c479native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.641271+00:00",
+      "time_iso": "2026-09-10T23:57:42.242054+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642334567.html",
       "team": "",
-      "time": "3小时前",
+      "time": "6小时前",
       "time_iso": "2026-09-10T17:37:57.417899+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -153,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0ae61cd4aanative.htm",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "23小时前",
       "time_iso": "2026-09-10T00:02:21.113373+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642349449.html",
       "team": "",
-      "time": "20小时前",
+      "time": "23小时前",
       "time_iso": "2026-09-10T00:02:22.978807+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642344245.html",
       "team": "",
-      "time": "20小时前",
+      "time": "23小时前",
       "time_iso": "2026-09-10T00:02:22.979053+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642332976.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-08T21:02:00.483311+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -291,18 +291,6 @@
       "is_hot": true
     },
     {
-      "id": "3c131b22c5",
-      "category": "hot",
-      "title": "莫利纳：阿根廷球员帮助我融入罗马，梅西退出国家队让人难以接受",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cb805693bcnative.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-09-07T22:44:39.252979+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "a0be38550b",
       "category": "hot",
       "title": "U20女足世界杯积分榜：中国1胜1平手握4分形势主动，末轮战西班牙",
@@ -310,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa2eea6d6b05native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.636468+00:00",
+      "time_iso": "2026-09-10T23:57:42.238250+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/match1984060date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.636556+00:00",
+      "time_iso": "2026-09-10T23:57:42.238327+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa2660687236native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.636700+00:00",
+      "time_iso": "2026-09-10T23:57:42.238444+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.637478+00:00",
+      "time_iso": "2026-09-10T23:57:42.238670+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.637532+00:00",
+      "time_iso": "2026-09-10T23:57:42.238704+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e0fc053bdfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.637567+00:00",
+      "time_iso": "2026-09-10T23:57:42.238731+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9ccbaa5ecebnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.637694+00:00",
+      "time_iso": "2026-09-10T23:57:42.238832+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,19 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.637810+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "45689b0c27",
-      "category": "hot",
-      "title": "B费打进个人欧冠赛场第8球，但均产生在小组赛/联赛阶段",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa30aab052fcnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.638038+00:00",
+      "time_iso": "2026-09-10T23:57:42.238921+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,19 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa2c0328a97cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.638694+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4bc24966ff",
-      "category": "hot",
-      "title": "登贝莱：参加世界杯后我们必须恢复身体状态，我感觉状态越来越好",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa1d8bf580d2native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.638856+00:00",
+      "time_iso": "2026-09-10T23:57:42.239903+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +406,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa123503cb1fnative.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.639547+00:00",
+      "time_iso": "2026-09-10T23:57:42.240502+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "83a12c78c5",
+      "category": "hot",
+      "title": "双子星，2026年五大联赛球员参与进球榜：凯恩、奥利塞前二",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa329fba9fc9native.htm",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T23:57:42.240802+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "b9b099636a",
+      "category": "hot",
+      "title": "13年39场！欧冠小组赛/联赛阶段，拜仁主场37胜两平保持不败",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3230864ae7native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T23:57:42.240855+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa275389cfabnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.640204+00:00",
+      "time_iso": "2026-09-10T23:57:42.241121+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.640656+00:00",
+      "time_iso": "2026-09-10T23:57:42.241493+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa26d0e8f580native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.641078+00:00",
+      "time_iso": "2026-09-10T23:57:42.241892+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +478,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a083947a0cnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T20:45:27.641164+00:00",
+      "time_iso": "2026-09-10T23:57:42.241963+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "bfbfbbb39d",
+      "category": "hot",
+      "title": "胡尔克：我本可以为巴西国家队做得更多，1-7德国是永远的伤疤",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fb5d3a4580native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T23:57:42.242106+00:00",
       "source": "直播吧",
       "is_hot": false
     }
