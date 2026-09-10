@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T12:51:50.067427+00:00",
-  "count": 39,
+  "updated_at": "2026-09-10T17:37:57.418296+00:00",
+  "count": 40,
   "articles": [
     {
       "id": "1edfc712c7",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.249845+00:00",
+      "time_iso": "2026-09-10T17:37:55.301991+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642326124.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-08T16:30:52.687633+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.249905+00:00",
+      "time_iso": "2026-09-10T17:37:55.302050+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.251541+00:00",
+      "time_iso": "2026-09-10T17:37:55.303694+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,19 +82,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.251655+00:00",
+      "time_iso": "2026-09-10T17:37:55.303819+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "9e0b4c3a6e",
+      "id": "9092f15171",
       "category": "hot",
-      "title": "皇马、贝蒂斯卷入休达移民危机表态，可能波及西葡摩世界杯",
+      "title": "斯科尔斯谈赖斯罗杰斯冲突：他俩世界杯时会不会发生过什么",
       "summary": "",
-      "url": "https://bbs.hupu.com/642349449.html",
+      "url": "https://bbs.hupu.com/642334567.html",
       "team": "",
-      "time": "12小时前",
-      "time_iso": "2026-09-10T00:02:22.978807+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T17:37:57.417899+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -106,19 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.251708+00:00",
+      "time_iso": "2026-09-10T17:37:55.303873+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "8d3c15322c",
+      "id": "9e0b4c3a6e",
       "category": "hot",
-      "title": "卫报奥尔莫专访：赢得世界杯会改变你，接下来是和巴萨夺冠",
+      "title": "皇马、贝蒂斯卷入休达移民危机表态，可能波及西葡摩世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/642344245.html",
+      "url": "https://bbs.hupu.com/642349449.html",
       "team": "",
-      "time": "12小时前",
-      "time_iso": "2026-09-10T00:02:22.979053+00:00",
+      "time": "17小时前",
+      "time_iso": "2026-09-10T00:02:22.978807+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa19cbb6c479native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.252223+00:00",
+      "time_iso": "2026-09-10T17:37:55.304401+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "3932286b37",
+      "id": "8d3c15322c",
       "category": "hot",
-      "title": "巴西议员提案：禁止国家队征召海外球员，只用本土联赛人员",
+      "title": "卫报奥尔莫专访：赢得世界杯会改变你，接下来是和巴萨夺冠",
       "summary": "",
-      "url": "https://bbs.hupu.com/642316842.html",
-      "team": "BRA",
-      "time": "23小时前",
-      "time_iso": "2026-09-09T12:54:01.536175+00:00",
+      "url": "https://bbs.hupu.com/642344245.html",
+      "team": "",
+      "time": "17小时前",
+      "time_iso": "2026-09-10T00:02:22.979053+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -153,20 +153,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0ae61cd4aanative.htm",
       "team": "ARG",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-09-10T00:02:21.113373+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "8c3acee9eb",
+      "id": "3932286b37",
       "category": "hot",
-      "title": "马宁：不会主动竞争第三届世界杯，若国家需要会再坚持几年",
+      "title": "巴西议员提案：禁止国家队征召海外球员，只用本土联赛人员",
       "summary": "",
-      "url": "https://bbs.hupu.com/642332976.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/642316842.html",
+      "team": "BRA",
       "time": "1天前",
-      "time_iso": "2026-09-08T21:02:00.483311+00:00",
+      "time_iso": "2026-09-09T12:54:01.536175+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -183,14 +183,14 @@
       "is_hot": true
     },
     {
-      "id": "18f0a42207",
+      "id": "8c3acee9eb",
       "category": "hot",
-      "title": "比利时足协：要求FIFA将巴洛贡事件列入下一次会议的议程",
+      "title": "马宁：不会主动竞争第三届世界杯，若国家需要会再坚持几年",
       "summary": "",
-      "url": "https://bbs.hupu.com/642320888.html",
-      "team": "BEL",
-      "time": "2天前",
-      "time_iso": "2026-09-08T11:05:22.253995+00:00",
+      "url": "https://bbs.hupu.com/642332976.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-09-08T21:02:00.483311+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "777cb968eb",
+      "id": "18f0a42207",
       "category": "hot",
-      "title": "U20女足世界杯：中国5-0新喀里多尼亚，黄嘉欣帽子戏法",
+      "title": "比利时足协：要求FIFA将巴洛贡事件列入下一次会议的议程",
       "summary": "",
-      "url": "https://bbs.hupu.com/642319953.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/642320888.html",
+      "team": "BEL",
       "time": "2天前",
-      "time_iso": "2026-09-07T18:41:02.722278+00:00",
+      "time_iso": "2026-09-08T11:05:22.253995+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -229,6 +229,18 @@
       "time_iso": "2026-09-09T00:00:12.875190+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "777cb968eb",
+      "category": "hot",
+      "title": "U20女足世界杯：中国5-0新喀里多尼亚，黄嘉欣帽子戏法",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642319953.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-09-07T18:41:02.722278+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "adc0f531e6",
@@ -298,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa2660687236native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.247616+00:00",
+      "time_iso": "2026-09-10T17:37:55.299821+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.248448+00:00",
+      "time_iso": "2026-09-10T17:37:55.300505+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.248502+00:00",
+      "time_iso": "2026-09-10T17:37:55.300563+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e0fc053bdfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.248541+00:00",
+      "time_iso": "2026-09-10T17:37:55.300598+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9ccbaa5ecebnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.248651+00:00",
+      "time_iso": "2026-09-10T17:37:55.300713+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +370,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.248760+00:00",
+      "time_iso": "2026-09-10T17:37:55.300855+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "fa9a863098",
+      "category": "hot",
+      "title": "埃菲社：FIFA发言人确认，2030年世界杯决赛地还未确认",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa2c0328a97cnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T17:37:55.301150+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "3ee08965c8",
+      "category": "hot",
+      "title": "曼晚：库尼亚落选巴西国家队名单，但曼联球迷会为此高兴",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa2bb180fd12native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T17:37:55.301194+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa226f7e1d35native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.249325+00:00",
+      "time_iso": "2026-09-10T17:37:55.301462+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,19 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa1d8bf580d2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.249750+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8426cc4505",
-      "category": "hot",
-      "title": "TA：休达移民危机正在影响皇马比赛和2030年世界杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa21f9a329b2native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.250142+00:00",
+      "time_iso": "2026-09-10T17:37:55.301901+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa123503cb1fnative.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.250441+00:00",
+      "time_iso": "2026-09-10T17:37:55.302564+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa275389cfabnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.250942+00:00",
+      "time_iso": "2026-09-10T17:37:55.303086+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,19 +454,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.251590+00:00",
+      "time_iso": "2026-09-10T17:37:55.303742+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "ee26f6be90",
+      "id": "cd8682f8a3",
       "category": "hot",
-      "title": "太阳报：范德芬携模特佳人惬意度假，热恋相伴奔赴世界杯",
+      "title": "西葡无缘？摩洛哥足协主席：2030年世界杯决赛将在卡萨布兰卡进行",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa2b0dd184c5native.htm",
+      "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.251743+00:00",
+      "time_iso": "2026-09-10T17:37:55.304051+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,19 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa26d0e8f580native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.251889+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ab86e13892",
-      "category": "hot",
-      "title": "西班牙最高体育理事会主席：我们必须力争下届世界杯决赛的举办权",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa24cf98ace2native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T12:51:48.251930+00:00",
+      "time_iso": "2026-09-10T17:37:55.304212+00:00",
       "source": "直播吧",
       "is_hot": false
     }
