@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T00:02:22.979430+00:00",
+  "updated_at": "2026-09-10T07:14:34.275605+00:00",
   "count": 40,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.112168+00:00",
+      "time_iso": "2026-09-10T07:14:27.061380+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.112228+00:00",
+      "time_iso": "2026-09-10T07:14:27.061452+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642311237.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-08T04:18:45.822637+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa19cbb6c479native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113026+00:00",
+      "time_iso": "2026-09-10T07:14:27.062397+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "e70f36e89b",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "小贝：世界杯看不到梅西令人悲伤，他梦想赢世界杯也完全做到了",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0ae61cd4aanative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113373+00:00",
+      "time_iso": "2026-09-10T07:14:27.063177+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,32 +93,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642349449.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "7小时前",
       "time_iso": "2026-09-10T00:02:22.978807+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "c73169e424",
-      "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113758+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "8d3c15322c",
-      "category": "hot",
-      "title": "卫报奥尔莫专访：赢得世界杯会改变你，接下来是和巴萨夺冠",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642344245.html",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:22.979053+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -130,19 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113865+00:00",
+      "time_iso": "2026-09-10T07:14:27.063290+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "3932286b37",
+      "id": "8d3c15322c",
       "category": "hot",
-      "title": "巴西议员提案：禁止国家队征召海外球员，只用本土联赛人员",
+      "title": "卫报奥尔莫专访：赢得世界杯会改变你，接下来是和巴萨夺冠",
       "summary": "",
-      "url": "https://bbs.hupu.com/642316842.html",
-      "team": "BRA",
-      "time": "11小时前",
-      "time_iso": "2026-09-09T12:54:01.536175+00:00",
+      "url": "https://bbs.hupu.com/642344245.html",
+      "team": "",
+      "time": "7小时前",
+      "time_iso": "2026-09-10T00:02:22.979053+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,7 +130,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113926+00:00",
+      "time_iso": "2026-09-10T07:14:27.063343+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "3932286b37",
+      "category": "hot",
+      "title": "巴西议员提案：禁止国家队征召海外球员，只用本土联赛人员",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642316842.html",
+      "team": "BRA",
+      "time": "18小时前",
+      "time_iso": "2026-09-09T12:54:01.536175+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "e70f36e89b",
+      "category": "hot",
+      "title": "小贝：世界杯看不到梅西令人悲伤，他梦想赢世界杯也完全做到了",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0ae61cd4aanative.htm",
+      "team": "ARG",
+      "time": "7小时前",
+      "time_iso": "2026-09-10T00:02:21.113373+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fa2cb75500native.htm",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "23小时前",
       "time_iso": "2026-09-09T07:18:16.207560+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9f675b827a1native.htm",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "23小时前",
       "time_iso": "2026-09-09T07:18:16.207594+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -273,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e4fdcee8a7native.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-08T04:18:43.663851+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -310,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.110555+00:00",
+      "time_iso": "2026-09-10T07:14:27.059312+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.110958+00:00",
+      "time_iso": "2026-09-10T07:14:27.059431+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e0fc053bdfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.110998+00:00",
+      "time_iso": "2026-09-10T07:14:27.059471+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9ccbaa5ecebnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.111111+00:00",
+      "time_iso": "2026-09-10T07:14:27.059583+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.111177+00:00",
+      "time_iso": "2026-09-10T07:14:27.059686+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e40d7eb862native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.111358+00:00",
+      "time_iso": "2026-09-10T07:14:27.059886+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "2b3340e594",
+      "category": "hot",
+      "title": "21岁巴西后卫雅伊尔·库尼亚入选国家队，父亲：全家都感到很骄傲",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa22ca805953native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T07:14:27.059992+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "5b6c8ed4bb",
+      "category": "hot",
+      "title": "阿森纳在欧冠联赛阶段/小组赛豪取13连胜，距拜仁纪录还差4场",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa226f7e1d35native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T07:14:27.060045+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +406,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa1d8bf580d2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.112026+00:00",
+      "time_iso": "2026-09-10T07:14:27.061232+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ab86e13892",
+      "category": "hot",
+      "title": "西班牙最高体育理事会主席：我们必须力争下届世界杯决赛的举办权",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa24cf98ace2native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T07:14:27.061609+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "8426cc4505",
+      "category": "hot",
+      "title": "TA：休达移民危机正在影响皇马比赛和2030年世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa21f9a329b2native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T07:14:27.061673+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "9288b30746",
+      "category": "hot",
+      "title": "拉菲尼亚：球迷对我期望高才批评我，我会拿出比世界杯更好的表现",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa209385aaa4native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-10T07:14:27.061793+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa123503cb1fnative.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.112691+00:00",
+      "time_iso": "2026-09-10T07:14:27.062021+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa12457ca61fnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113121+00:00",
+      "time_iso": "2026-09-10T07:14:27.062492+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,67 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113803+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ee26f6be90",
-      "category": "hot",
-      "title": "太阳报：范德芬携模特佳人惬意度假，热恋相伴奔赴世界杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-02/6a1e7cd3405fdnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.113961+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "0e3c5e9261",
-      "category": "hot",
-      "title": "世界杯后7名日本国脚加盟或留在五大联赛，铃木彩艳富安健洋在列",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a083947a0cnative.htm",
-      "team": "JPN",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.114282+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "bfbfbbb39d",
-      "category": "hot",
-      "title": "胡尔克：我本可以为巴西国家队做得更多，1-7德国是永远的伤疤",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fb5d3a4580native.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-09-10T00:02:21.114394+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ba4ca388b9",
-      "category": "hot",
-      "title": "2026金球奖候选名单揭晓：西甲联赛7人入围",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa110ed22613native.htm",
-      "team": "",
-      "time": "3小时前",
-      "time_iso": "2026-09-09T20:50:38.333008+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "df8452db8e",
-      "category": "hot",
-      "title": "世界杯PK欧冠！金球30人候选中6个世界冠军&9个欧冠冠军，1人双料",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0c67519300native.htm",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-09-09T17:45:11.093113+00:00",
+      "time_iso": "2026-09-10T07:14:27.063224+00:00",
       "source": "直播吧",
       "is_hot": false
     }
