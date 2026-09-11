@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:27:04.049246+00:00",
+  "updated_at": "2026-09-11T11:05:12.268094+00:00",
   "count": 42,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.301902+00:00",
+      "time_iso": "2026-09-11T11:05:10.770218+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.303705+00:00",
+      "time_iso": "2026-09-11T11:05:10.772288+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642350000.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-09-11T04:27:04.048771+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.303819+00:00",
+      "time_iso": "2026-09-11T11:05:10.772418+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642348544.html",
       "team": "KOR",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-09-11T04:27:04.048891+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.303873+00:00",
+      "time_iso": "2026-09-11T11:05:10.772473+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642336493.html",
       "team": "",
-      "time": "4小时前",
+      "time": "11小时前",
       "time_iso": "2026-09-10T23:57:44.004438+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa19cbb6c479native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.304455+00:00",
+      "time_iso": "2026-09-11T11:05:10.772997+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642336031.html",
       "team": "",
-      "time": "4小时前",
+      "time": "11小时前",
       "time_iso": "2026-09-10T23:57:44.004532+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
-      "time": "4小时前",
+      "time": "11小时前",
       "time_iso": "2026-09-10T23:57:42.240105+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642335173.html",
       "team": "",
-      "time": "4小时前",
+      "time": "11小时前",
       "time_iso": "2026-09-10T23:57:44.004596+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642334567.html",
       "team": "",
-      "time": "10小时前",
+      "time": "17小时前",
       "time_iso": "2026-09-10T17:37:57.417899+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9fa2cb75500native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-09T07:18:16.207560+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-08/6a9f675b827a1native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-09T07:18:16.207594+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -291,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "155a94ae93",
+      "id": "fd983e93f6",
       "category": "hot",
-      "title": "中国女足今日正式出征2026名古屋亚运会，足协出席宋凯随队出征",
+      "title": "中国女足今日正式出征2026名古屋亚运会，足协主席宋凯随队出征",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa380a92fce6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.299656+00:00",
+      "time_iso": "2026-09-11T11:05:10.768513+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,43 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa362790837bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.299799+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "0706b2f0d9",
-      "category": "hot",
-      "title": "津媒：若亚运队小组赛无法出线，部分队员可参加国足后3场比赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa34a58151adnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.299874+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a0be38550b",
-      "category": "hot",
-      "title": "U20女足世界杯积分榜：中国1胜1平手握4分形势主动，末轮战西班牙",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa2eea6d6b05native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.299931+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "1065ab1ba6",
-      "category": "hot",
-      "title": "U20女足世界杯-中国0-0尼日利亚 李晨语远射中柱余佳琪头球造险",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/match1984060date2026vnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.299962+00:00",
+      "time_iso": "2026-09-11T11:05:10.768639+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.300248+00:00",
+      "time_iso": "2026-09-11T11:05:10.768912+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.300288+00:00",
+      "time_iso": "2026-09-11T11:05:10.768952+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e0fc053bdfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.300319+00:00",
+      "time_iso": "2026-09-11T11:05:10.768983+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +358,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9ccbaa5ecebnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.300446+00:00",
+      "time_iso": "2026-09-11T11:05:10.769091+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0706b2f0d9",
+      "category": "hot",
+      "title": "津媒：若亚运队小组赛无法出线，部分队员可参加国足后3场比赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa34a58151adnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-11T11:05:10.769134+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +382,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.300562+00:00",
+      "time_iso": "2026-09-11T11:05:10.769232+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a0be38550b",
+      "category": "hot",
+      "title": "U20女足世界杯积分榜：中国1胜1平手握4分形势主动，末轮战西班牙",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa2eea6d6b05native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-11T11:05:10.769291+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,43 +406,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3773ab22d2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.300745+00:00",
+      "time_iso": "2026-09-11T11:05:10.769591+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "fe70cf3583",
+      "id": "455e14a7a7",
       "category": "hot",
-      "title": "FIFA否认世界杯决赛落户摩洛哥，特巴斯：我们还能相信FIFA吗？",
+      "title": "法比安谈世界杯决赛冲突：丑陋的时刻，你需要知道如何面对输球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3683dc66ecnative.htm",
-      "team": "MAR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3af253d0d0native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.302110+00:00",
+      "time_iso": "2026-09-11T11:05:10.770002+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "368a39d685",
+      "id": "4206b5f1e7",
       "category": "hot",
-      "title": "莫德里奇迎来41岁生日，世界杯官方晒海报致敬：再没有第二个魔笛",
+      "title": "盐贝健人谈再战巴西：要在赛场上回击他们，一雪世界杯不敌的耻辱",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa123503cb1fnative.htm",
-      "team": "CRO",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3cf9a85be1native.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.302521+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "83a12c78c5",
-      "category": "hot",
-      "title": "双子星，2026年五大联赛球员参与进球榜：凯恩、奥利塞前二",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa329fba9fc9native.htm",
-      "team": "ENG",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.302967+00:00",
+      "time_iso": "2026-09-11T11:05:10.771462+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa275389cfabnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.303307+00:00",
+      "time_iso": "2026-09-11T11:05:10.771900+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.303752+00:00",
+      "time_iso": "2026-09-11T11:05:10.772335+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa343cfd4851native.htm",
       "team": "MEX",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.304049+00:00",
+      "time_iso": "2026-09-11T11:05:10.772649+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +478,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa26d0e8f580native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T04:27:01.304238+00:00",
+      "time_iso": "2026-09-11T11:05:10.772806+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0e3c5e9261",
+      "category": "hot",
+      "title": "世界杯后7名日本国脚加盟或留在五大联赛，铃木彩艳富安健洋在列",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a083947a0cnative.htm",
+      "team": "JPN",
+      "time": "1分钟前",
+      "time_iso": "2026-09-11T11:05:10.772887+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "155a94ae93",
+      "category": "hot",
+      "title": "中国女足今日正式出征2026名古屋亚运会，足协出席宋凯随队出征",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa380a92fce6native.htm",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-09-11T04:27:01.299656+00:00",
       "source": "直播吧",
       "is_hot": false
     }
