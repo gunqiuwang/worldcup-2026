@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-11T20:51:44.434972+00:00",
-  "count": 42,
+  "updated_at": "2026-09-12T00:04:44.940796+00:00",
+  "count": 43,
   "articles": [
+    {
+      "id": "3ab9e5114d",
+      "category": "hot",
+      "title": "姆巴佩：世界杯不算失败，刚输球后也许我会那么想，但现在是遗憾",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa46db0dbbd2native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.550687+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "502d34eb07",
+      "category": "hot",
+      "title": "外星人罗纳尔多现身观众席，观看美网女单半决赛的比赛",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642366430.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:44.940169+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
     {
       "id": "1edfc712c7",
       "category": "hot",
@@ -10,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.186259+00:00",
+      "time_iso": "2026-09-12T00:04:41.550990+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "0cc8e68aac",
+      "category": "hot",
+      "title": "拜仁2026年迄今攻入113球，为今年五大联赛火力最强球队",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642365481.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:44.940397+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "01d5e13990",
+      "category": "hot",
+      "title": "英媒：斯内德拍卖职业生涯收藏品，包括世界杯银球奖、C罗球衣",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa483919145cnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.551351+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642365935.html",
       "team": "MAR",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-09-11T20:51:44.434314+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -34,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.188295+00:00",
+      "time_iso": "2026-09-12T00:04:41.552966+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642359605.html",
       "team": "",
-      "time": "4小时前",
+      "time": "7小时前",
       "time_iso": "2026-09-11T16:21:22.016100+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.188417+00:00",
+      "time_iso": "2026-09-12T00:04:41.553076+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642350000.html",
       "team": "",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-09-11T04:27:04.048771+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.188474+00:00",
+      "time_iso": "2026-09-12T00:04:41.553124+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642348544.html",
       "team": "KOR",
-      "time": "16小时前",
+      "time": "19小时前",
       "time_iso": "2026-09-11T04:27:04.048891+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa19cbb6c479native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.189025+00:00",
+      "time_iso": "2026-09-12T00:04:41.553643+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642336493.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-10T23:57:44.004438+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-10T23:57:42.240105+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642336031.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-10T23:57:44.004532+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -153,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0ae61cd4aanative.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-10T00:02:21.113373+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -165,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642335173.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-10T23:57:44.004596+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -213,22 +261,22 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642349449.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-10T00:02:22.978807+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "261ec4af37",
+      "id": "d47d193a0b",
       "category": "hot",
-      "title": "哈兰德在欧冠小组赛/联赛阶段39场42球，同期领跑所有球员",
+      "title": "亚冠启幕 工体战斗！ 9月15日亚冠精英联赛揭幕战散票已正式开售",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa082792ce65native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa362790837bnative.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-09T00:00:12.875190+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.549460+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "8d3c15322c",
@@ -237,22 +285,22 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642344245.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-10T00:02:22.979053+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "adc0f531e6",
+      "id": "b890377401",
       "category": "hot",
-      "title": "希丁克谈02世界杯争议：输了就得像个男人、绅士，意大利做到没？",
+      "title": "2026/2027亚冠精英联赛 北京国安主场赛事票务公告",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa08a19a90efnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-09T00:00:12.876331+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.549554+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "3932286b37",
@@ -267,54 +315,6 @@
       "is_hot": false
     },
     {
-      "id": "6e5e8b5fd3",
-      "category": "hot",
-      "title": "老冤家！恩博洛世界杯对阿根廷假摔被罚下，联赛对迈阿密争议造点",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cdc676be7enative.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-09-09T00:00:12.876999+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "8c3acee9eb",
-      "category": "hot",
-      "title": "马宁：不会主动竞争第三届世界杯，若国家需要会再坚持几年",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642332976.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-08T21:02:00.483311+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "d47d193a0b",
-      "category": "hot",
-      "title": "亚冠启幕 工体战斗！ 9月15日亚冠精英联赛揭幕战散票已正式开售",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa362790837bnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.184663+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "b890377401",
-      "category": "hot",
-      "title": "2026/2027亚冠精英联赛 北京国安主场赛事票务公告",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.184775+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "e7e5b436fd",
       "category": "hot",
       "title": "【MATCHDAY】2026怡宝中超联赛第26轮，上海海港0比0北京国安",
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.184822+00:00",
+      "time_iso": "2026-09-12T00:04:41.549615+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9e0fc053bdfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.184858+00:00",
+      "time_iso": "2026-09-12T00:04:41.549652+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9ccbaa5ecebnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.184986+00:00",
+      "time_iso": "2026-09-12T00:04:41.549766+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa34a58151adnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.185036+00:00",
+      "time_iso": "2026-09-12T00:04:41.549812+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.185151+00:00",
+      "time_iso": "2026-09-12T00:04:41.549898+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa380a92fce6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.185202+00:00",
+      "time_iso": "2026-09-12T00:04:41.549940+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,31 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa2eea6d6b05native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.185243+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "15d8a5ae9b",
-      "category": "hot",
-      "title": "FIFA官方发布球员代表资格与转换足协规则的最新释义与指南",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa4407e6c0d8native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.185404+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "7ca20a496f",
-      "category": "hot",
-      "title": "记者：因凡蒂诺公布竞选FIFA主席口号“足球属于世界各地每个人”",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa42285269benative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.185486+00:00",
+      "time_iso": "2026-09-12T00:04:41.549978+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +406,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa4138017405native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.185709+00:00",
+      "time_iso": "2026-09-12T00:04:41.550381+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "cff56558be",
+      "category": "hot",
+      "title": "马赛在2026年输球率达到43%，创自2000年后自然年最高纪录",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa46faba302bnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.550720+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "15d8a5ae9b",
+      "category": "hot",
+      "title": "FIFA官方发布球员代表资格与转换足协规则的最新释义与指南",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa4407e6c0d8native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.550800+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +442,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3af253d0d0native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.186078+00:00",
+      "time_iso": "2026-09-12T00:04:41.550855+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "c7a0656e2a",
+      "category": "hot",
+      "title": "队报：2030年世界杯决赛承办权激烈竞争，摩洛哥首相呼吁相互尊重",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa48624515ebnative.htm",
+      "team": "MAR",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.551108+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "7ca20a496f",
+      "category": "hot",
+      "title": "记者：因凡蒂诺公布竞选FIFA主席口号“足球属于世界各地每个人”",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa42285269benative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-12T00:04:41.551723+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa275389cfabnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.187854+00:00",
+      "time_iso": "2026-09-12T00:04:41.552524+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.188349+00:00",
+      "time_iso": "2026-09-12T00:04:41.553015+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3cf9a85be1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.188656+00:00",
+      "time_iso": "2026-09-12T00:04:41.553300+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,19 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa26d0e8f580native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.188816+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "0e3c5e9261",
-      "category": "hot",
-      "title": "世界杯后7名日本国脚加盟或留在五大联赛，铃木彩艳富安健洋在列",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9a083947a0cnative.htm",
-      "team": "JPN",
-      "time": "1分钟前",
-      "time_iso": "2026-09-11T20:51:42.188897+00:00",
+      "time_iso": "2026-09-12T00:04:41.553437+00:00",
       "source": "直播吧",
       "is_hot": false
     }
