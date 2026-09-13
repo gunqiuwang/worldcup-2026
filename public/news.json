@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:05:46.925233+00:00",
+  "updated_at": "2026-09-13T20:39:17.124673+00:00",
   "count": 49,
   "articles": [
     {
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.370194+00:00",
+      "time_iso": "2026-09-13T20:39:15.444430+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "b86b0aff6d",
+      "id": "a4af0f165a",
       "category": "hot",
-      "title": "唯一拿欧冠+世界杯球员，法比安-鲁伊斯：希望金球排名更高",
+      "title": "FIFA更新国家队参赛资格：仅有国籍不够，需证明有真实联系",
       "summary": "",
-      "url": "https://bbs.hupu.com/642382340.html",
+      "url": "https://bbs.hupu.com/642373676.html",
       "team": "",
-      "time": "4小时前",
-      "time_iso": "2026-09-13T11:37:27.355248+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-09-13T20:39:17.124218+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -34,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa5038490a87native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.370261+00:00",
+      "time_iso": "2026-09-13T20:39:15.444515+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "bbbcb8be77",
+      "id": "b86b0aff6d",
       "category": "hot",
-      "title": "西足协主席：世界杯决赛不会、也不应该在西班牙以外举行",
+      "title": "唯一拿欧冠+世界杯球员，法比安-鲁伊斯：希望金球排名更高",
       "summary": "",
-      "url": "https://bbs.hupu.com/642379155.html",
-      "team": "ESP",
-      "time": "11小时前",
-      "time_iso": "2026-09-13T04:32:59.422085+00:00",
+      "url": "https://bbs.hupu.com/642382340.html",
+      "team": "",
+      "time": "9小时前",
+      "time_iso": "2026-09-13T11:37:27.355248+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.371895+00:00",
+      "time_iso": "2026-09-13T20:39:15.446213+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "40088c15cd",
+      "id": "bbbcb8be77",
       "category": "hot",
-      "title": "谢林汉姆：凯恩赛季现象级但没欧冠/世界杯，金球我投罗德里",
+      "title": "西足协主席：世界杯决赛不会、也不应该在西班牙以外举行",
       "summary": "",
-      "url": "https://bbs.hupu.com/642378144.html",
-      "team": "ENG",
-      "time": "11小时前",
-      "time_iso": "2026-09-13T04:32:59.422168+00:00",
+      "url": "https://bbs.hupu.com/642379155.html",
+      "team": "ESP",
+      "time": "16小时前",
+      "time_iso": "2026-09-13T04:32:59.422085+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,19 +82,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.372008+00:00",
+      "time_iso": "2026-09-13T20:39:15.446325+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "c9a6c3117f",
+      "id": "40088c15cd",
       "category": "hot",
-      "title": "德保罗喷莱万：我是两届美洲杯+一届世界杯冠军，你是谁？",
+      "title": "谢林汉姆：凯恩赛季现象级但没欧冠/世界杯，金球我投罗德里",
       "summary": "",
-      "url": "https://bbs.hupu.com/642359605.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/642378144.html",
+      "team": "ENG",
       "time": "16小时前",
-      "time_iso": "2026-09-12T23:54:27.744126+00:00",
+      "time_iso": "2026-09-13T04:32:59.422168+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -105,20 +105,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa46db0dbbd2native.htm",
       "team": "FRA",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-09-13T11:37:25.790294+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "b4a0e8d9be",
+      "id": "c9a6c3117f",
       "category": "hot",
-      "title": "FIFA否认世界杯决赛场地已定，相关决定将在适当时机做出",
+      "title": "德保罗喷莱万：我是两届美洲杯+一届世界杯冠军，你是谁？",
       "summary": "",
-      "url": "https://bbs.hupu.com/642364272.html",
+      "url": "https://bbs.hupu.com/642359605.html",
       "team": "",
-      "time": "19小时前",
-      "time_iso": "2026-09-12T20:27:43.839888+00:00",
+      "time": "20小时前",
+      "time_iso": "2026-09-12T23:54:27.744126+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -129,8 +129,32 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa483919145cnative.htm",
       "team": "",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-09-13T11:37:25.791231+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "b4a0e8d9be",
+      "category": "hot",
+      "title": "FIFA否认世界杯决赛场地已定，相关决定将在适当时机做出",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642364272.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-09-12T20:27:43.839888+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "83fdae6d22",
+      "category": "hot",
+      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
+      "team": "",
+      "time": "16小时前",
+      "time_iso": "2026-09-13T04:32:57.565984+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "83fdae6d22",
-      "category": "hot",
-      "title": "著名杂志：C罗为世界杯进行形象大改造，打理发型+修饰妆容",
+      "id": "38a72111bf",
+      "category": "tactical",
+      "title": "巴西世界杯后首期大名单：维尼修斯领衔，拉菲、若昂·佩德罗在列",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a3a499b364bbnative.htm",
-      "team": "",
-      "time": "11小时前",
-      "time_iso": "2026-09-13T04:32:57.565984+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa19cbb6c479native.htm",
+      "team": "BRA",
+      "time": "1天前",
+      "time_iso": "2026-09-12T00:04:41.553643+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "38a72111bf",
-      "category": "tactical",
-      "title": "巴西世界杯后首期大名单：维尼修斯领衔，拉菲、若昂·佩德罗在列",
+      "id": "9101e6799b",
+      "category": "injury",
+      "title": "库卡谈内马尔受伤：我们得像他参加世界杯时那样应对",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa19cbb6c479native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
       "team": "BRA",
-      "time": "1天前",
-      "time_iso": "2026-09-12T00:04:41.553643+00:00",
+      "time": "2天前",
+      "time_iso": "2026-09-10T23:57:42.240105+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,16 +219,16 @@
       "is_hot": false
     },
     {
-      "id": "9101e6799b",
-      "category": "injury",
-      "title": "库卡谈内马尔受伤：我们得像他参加世界杯时那样应对",
+      "id": "963280ee4c",
+      "category": "hot",
+      "title": "U20女足世界杯小组赛第三轮，中国U20女足1比3西班牙U20女足",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-03/6a98f47eec1d1native.htm",
-      "team": "BRA",
-      "time": "2天前",
-      "time_iso": "2026-09-10T23:57:42.240105+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6c09904133native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-13T20:39:15.442382+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "353f73ac85",
@@ -219,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "963280ee4c",
-      "category": "hot",
-      "title": "U20女足世界杯小组赛第三轮，中国U20女足1比3西班牙U20女足",
+      "id": "f383a560ef",
+      "category": "injury",
+      "title": "小组第三出线！中国U20女足1-3西班牙U20女足 黄嘉欣破门后伤退",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6c09904133native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/match1984061date2026vnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368113+00:00",
+      "time_iso": "2026-09-13T20:39:15.442524+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -243,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "f383a560ef",
-      "category": "injury",
-      "title": "小组第三出线！中国U20女足1-3西班牙U20女足 黄嘉欣破门后伤退",
+      "id": "af004a26e2",
+      "category": "hot",
+      "title": "2026/27亚冠二级联赛 上海申花球员名单及赛程表",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/match1984061date2026vnative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa69b0a17aaenative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368229+00:00",
+      "time_iso": "2026-09-13T20:39:15.442603+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -267,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "af004a26e2",
+      "id": "a5d25315bc",
       "category": "hot",
-      "title": "2026/27亚冠二级联赛 上海申花球员名单及赛程表",
+      "title": "2026-27赛季亚冠联赛上海海港、北京国安、上海申花报名名单",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa69b0a17aaenative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa68d433be89native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368310+00:00",
+      "time_iso": "2026-09-13T20:39:15.442662+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -291,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "a5d25315bc",
-      "category": "hot",
-      "title": "2026-27赛季亚冠联赛上海海港、北京国安、上海申花报名名单",
+      "id": "fccc370376",
+      "category": "tactical",
+      "title": "U20女足世界杯小组赛第三轮，中国vs西班牙，中国U20女足首发阵容",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa68d433be89native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa68c547f758native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368368+00:00",
+      "time_iso": "2026-09-13T20:39:15.442692+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -315,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "fccc370376",
-      "category": "tactical",
-      "title": "U20女足世界杯小组赛第三轮，中国vs西班牙，中国U20女足首发阵容",
+      "id": "02c34f4607",
+      "category": "hot",
+      "title": "北京国安2026/27赛季亚冠精英联赛报名表 我们一起战斗💚💚",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa68c547f758native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa62b2551800native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368398+00:00",
+      "time_iso": "2026-09-13T20:39:15.442881+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -339,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "02c34f4607",
+      "id": "d47d193a0b",
       "category": "hot",
-      "title": "北京国安2026/27赛季亚冠精英联赛报名表 我们一起战斗💚💚",
+      "title": "亚冠启幕 工体战斗！ 9月15日亚冠精英联赛揭幕战散票已正式开售",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa62b2551800native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa362790837bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368604+00:00",
+      "time_iso": "2026-09-13T20:39:15.442944+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "d47d193a0b",
+      "id": "b890377401",
       "category": "hot",
-      "title": "亚冠启幕 工体战斗！ 9月15日亚冠精英联赛揭幕战散票已正式开售",
+      "title": "2026/2027亚冠精英联赛 北京国安主场赛事票务公告",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa362790837bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368670+00:00",
+      "time_iso": "2026-09-13T20:39:15.442996+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "b890377401",
+      "id": "e7e5b436fd",
       "category": "hot",
-      "title": "2026/2027亚冠精英联赛 北京国安主场赛事票务公告",
+      "title": "【MATCHDAY】2026怡宝中超联赛第26轮，上海海港0比0北京国安",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa14affcf85anative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368722+00:00",
+      "time_iso": "2026-09-13T20:39:15.443038+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -411,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "e7e5b436fd",
+      "id": "0706b2f0d9",
       "category": "hot",
-      "title": "【MATCHDAY】2026怡宝中超联赛第26轮，上海海港0比0北京国安",
+      "title": "津媒：若亚运队小组赛无法出线，部分队员可参加国足后3场比赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-07/6a9eb49b4ae47native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa34a58151adnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368763+00:00",
+      "time_iso": "2026-09-13T20:39:15.443175+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,30 +459,6 @@
       "is_hot": false
     },
     {
-      "id": "0706b2f0d9",
-      "category": "hot",
-      "title": "津媒：若亚运队小组赛无法出线，部分队员可参加国足后3场比赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa34a58151adnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368900+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "9092f15171",
-      "category": "hot",
-      "title": "斯科尔斯谈赖斯罗杰斯冲突：他俩世界杯时会不会发生过什么",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642334567.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-10T17:37:57.417899+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "c8cde489e6",
       "category": "tactical",
       "title": "国足2026年第四期集训名单公布，深圳新鹏城球员戴伟浚入选！",
@@ -466,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-09/6aa0d016e2b36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.368995+00:00",
+      "time_iso": "2026-09-13T20:39:15.443274+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa61a6664319native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.369035+00:00",
+      "time_iso": "2026-09-13T20:39:15.443315+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6173496231native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.369067+00:00",
+      "time_iso": "2026-09-13T20:39:15.443345+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa380a92fce6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.369101+00:00",
+      "time_iso": "2026-09-13T20:39:15.443379+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa2eea6d6b05native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.369141+00:00",
+      "time_iso": "2026-09-13T20:39:15.443418+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa50db4c40e1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.369983+00:00",
+      "time_iso": "2026-09-13T20:39:15.444235+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa4f2187830cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.370030+00:00",
+      "time_iso": "2026-09-13T20:39:15.444284+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa681ccb565bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.370465+00:00",
+      "time_iso": "2026-09-13T20:39:15.444705+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6508b48ad8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.371177+00:00",
+      "time_iso": "2026-09-13T20:39:15.445531+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -574,7 +574,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.371944+00:00",
+      "time_iso": "2026-09-13T20:39:15.446260+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,7 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa69e8340746native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-13T16:05:44.372194+00:00",
+      "time_iso": "2026-09-13T20:39:15.446534+00:00",
       "source": "直播吧",
       "is_hot": false
     }
