@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T18:05:33.871911+00:00",
-  "count": 37,
+  "updated_at": "2026-09-15T22:49:50.592206+00:00",
+  "count": 38,
   "articles": [
     {
       "id": "046422f699",
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8a532cce19native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.933129+00:00",
+      "time_iso": "2026-09-15T22:49:47.945792+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "ef5cc6abc2",
+      "id": "2fbd97d66b",
       "category": "hot",
-      "title": "萨尼亚：法甲运营死板，C罗内马尔入选世界杯名单本质是商业",
+      "title": "迈阿密主帅：梅西的世界杯金球奖被夺走，现在争夺金球奖",
       "summary": "",
-      "url": "https://bbs.hupu.com/642423562.html",
-      "team": "BRA",
-      "time": "10小时前",
-      "time_iso": "2026-09-15T07:35:15.948871+00:00",
+      "url": "https://bbs.hupu.com/642411685.html",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-15T22:49:50.591807+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa96a6307f5bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.933208+00:00",
+      "time_iso": "2026-09-15T22:49:47.945975+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "ef5cc6abc2",
+      "category": "hot",
+      "title": "萨尼亚：法甲运营死板，C罗内马尔入选世界杯名单本质是商业",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642423562.html",
+      "team": "BRA",
+      "time": "15小时前",
+      "time_iso": "2026-09-15T07:35:15.948871+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "e8561d8e91",
+      "category": "hot",
+      "title": "散步回防遭绝杀！尤文被吐槽：像踢野球，难怪意大利进不了世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8b690de311native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-15T22:49:47.946276+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "0c057033e3",
+      "category": "hot",
+      "title": "【集锦】U20女足世界杯：中国1-3西班牙第三出线，黄嘉欣破门",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642412676.html",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-15T22:49:50.591676+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "b48008be97",
+      "category": "hot",
+      "title": "告别赛预定！梅西宣布从国家队退役两周后，再次入选阿根廷名单",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9a884ae0b8native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-15T22:49:47.946679+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +99,14 @@
       "is_hot": false
     },
     {
-      "id": "e8561d8e91",
-      "category": "hot",
-      "title": "散步回防遭绝杀！尤文被吐槽：像踢野球，难怪意大利进不了世界杯",
+      "id": "72f0544801",
+      "category": "tactical",
+      "title": "已退出国家队！阿根廷记者确认：梅西不会入选9月阿根廷大名单",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8b690de311native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa99099b33eanative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.933707+00:00",
+      "time_iso": "2026-09-15T22:49:47.946716+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8cde6ef856native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.934227+00:00",
+      "time_iso": "2026-09-15T22:49:47.946802+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642373676.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-13T20:39:17.124218+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa7f2a6e41d1native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.934276+00:00",
+      "time_iso": "2026-09-15T22:49:47.946897+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.934750+00:00",
+      "time_iso": "2026-09-15T22:49:47.947215+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,21 +202,9 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.934865+00:00",
+      "time_iso": "2026-09-15T22:49:47.947307+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "b4a0e8d9be",
-      "category": "hot",
-      "title": "FIFA否认世界杯决赛场地已定，相关决定将在适当时机做出",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642364272.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-12T20:27:43.839888+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "1c731e4bc9",
@@ -177,7 +213,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa7f930ccdd7native.htm",
       "team": "FRA",
-      "time": "10小时前",
+      "time": "15小时前",
       "time_iso": "2026-09-15T07:35:14.048681+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa78879c0663native.htm",
       "team": "FRA",
-      "time": "17小时前",
+      "time": "22小时前",
       "time_iso": "2026-09-15T00:27:00.152509+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -262,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa935254a146native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.931766+00:00",
+      "time_iso": "2026-09-15T22:49:47.944556+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8c224e0616native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.932035+00:00",
+      "time_iso": "2026-09-15T22:49:47.944779+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa770883678enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.932156+00:00",
+      "time_iso": "2026-09-15T22:49:47.944881+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa747160ea3anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.932196+00:00",
+      "time_iso": "2026-09-15T22:49:47.944913+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa73f9460209native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.932223+00:00",
+      "time_iso": "2026-09-15T22:49:47.944936+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6c09904133native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.932250+00:00",
+      "time_iso": "2026-09-15T22:49:47.944959+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8c0481d9eenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.932633+00:00",
+      "time_iso": "2026-09-15T22:49:47.945344+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,19 +382,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa95c8c04cbfnative.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.932821+00:00",
+      "time_iso": "2026-09-15T22:49:47.945515+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "3ff7d835c1",
+      "id": "04391d3f14",
       "category": "hot",
-      "title": "14年世界杯一球成名！官方：35岁J罗从哥伦比亚国家队退役",
+      "title": "德天空：克洛普已告知翁达夫落选德国国家队，预计将不会征召他",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9813bdcd33native.htm",
-      "team": "COL",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9b4244a81bnative.htm",
+      "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.933176+00:00",
+      "time_iso": "2026-09-15T22:49:47.946424+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa9676b407c4native.htm",
       "team": "CAN",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.933879+00:00",
+      "time_iso": "2026-09-15T22:49:47.946461+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa94558856a2native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.933935+00:00",
+      "time_iso": "2026-09-15T22:49:47.946507+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6508b48ad8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.934042+00:00",
+      "time_iso": "2026-09-15T22:49:47.946585+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.934797+00:00",
+      "time_iso": "2026-09-15T22:49:47.947253+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,31 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa93690d8896native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.935052+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "05cd40dd3e",
-      "category": "hot",
-      "title": "2002年，罗宾·范佩西欧冠首秀；2026年，沙奎尔·范佩西欧冠首秀",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa53fbab6cb0native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.935115+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "0c07a4a231",
-      "category": "hot",
-      "title": "森保一谈日本队选人：基本以世界杯名单为主，兼顾状态和未来考量",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa69e8340746native.htm",
-      "team": "JPN",
-      "time": "1分钟前",
-      "time_iso": "2026-09-15T18:05:31.935203+00:00",
+      "time_iso": "2026-09-15T22:49:47.947455+00:00",
       "source": "直播吧",
       "is_hot": false
     }
