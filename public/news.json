@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T04:34:55.454281+00:00",
+  "updated_at": "2026-09-16T11:21:12.947354+00:00",
   "count": 37,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa96a6307f5bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515407+00:00",
+      "time_iso": "2026-09-16T11:21:10.600954+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642411685.html",
       "team": "ARG",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-15T22:49:50.591807+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8b690de311native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515654+00:00",
+      "time_iso": "2026-09-16T11:21:10.601303+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,20 +45,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642423562.html",
       "team": "BRA",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-15T07:35:15.948871+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "27ea945c31",
+      "id": "83d19196c6",
       "category": "hot",
-      "title": "冠军班底重聚！梅西国家队最后一舞，2022世界杯冠军成员将到场！",
+      "title": "法媒谈C罗：远离金球奖、世界杯毫无灵光，现在亚冠也踢不明白了",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9dda2103b9native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa5551e6faanative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516012+00:00",
+      "time_iso": "2026-09-16T11:21:10.601706+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,20 +69,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642412676.html",
       "team": "ESP",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-15T22:49:50.591676+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "b48008be97",
+      "id": "27ea945c31",
       "category": "hot",
-      "title": "告别赛预定！梅西宣布从国家队退役两周后，再次入选阿根廷名单",
+      "title": "冠军班底重聚！梅西国家队最后一舞，2022世界杯冠军成员将到场！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9a884ae0b8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9dda2103b9native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516043+00:00",
+      "time_iso": "2026-09-16T11:21:10.601809+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +99,14 @@
       "is_hot": false
     },
     {
-      "id": "72f0544801",
-      "category": "tactical",
-      "title": "已退出国家队！阿根廷记者确认：梅西不会入选9月阿根廷大名单",
+      "id": "b48008be97",
+      "category": "hot",
+      "title": "告别赛预定！梅西宣布从国家队退役两周后，再次入选阿根廷名单",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa99099b33eanative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9a884ae0b8native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516073+00:00",
+      "time_iso": "2026-09-16T11:21:10.601855+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516355+00:00",
+      "time_iso": "2026-09-16T11:21:10.602276+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516430+00:00",
+      "time_iso": "2026-09-16T11:21:10.602388+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,13 +171,25 @@
       "is_hot": false
     },
     {
+      "id": "72f0544801",
+      "category": "tactical",
+      "title": "已退出国家队！阿根廷记者确认：梅西不会入选9月阿根廷大名单",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa99099b33eanative.htm",
+      "team": "ARG",
+      "time": "6小时前",
+      "time_iso": "2026-09-16T04:34:52.516073+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
       "id": "046422f699",
       "category": "hot",
       "title": "队报：姆巴佩比以往任何都渴望金球 18年他拿世界杯时也没获奖",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8a532cce19native.htm",
       "team": "FRA",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-15T22:49:47.945792+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8cde6ef856native.htm",
       "team": "ARG",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-15T22:49:47.946802+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,7 +213,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa7f2a6e41d1native.htm",
       "team": "FRA",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-15T22:49:47.946897+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -213,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa7f930ccdd7native.htm",
       "team": "FRA",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-15T07:35:14.048681+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +261,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa5038490a87native.htm",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-14T07:49:42.810014+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -286,19 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa0bc763b9anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.513588+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "e107823017",
-      "category": "hot",
-      "title": "致敬世界杯！海港亚冠4-0领先全场6-4，与世界杯季军赛一模一样",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa935254a146native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.514380+00:00",
+      "time_iso": "2026-09-16T11:21:10.599514+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8c224e0616native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.514477+00:00",
+      "time_iso": "2026-09-16T11:21:10.599610+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa770883678enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.514559+00:00",
+      "time_iso": "2026-09-16T11:21:10.599733+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,31 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa15a029c89native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515219+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "6114de7318",
-      "category": "hot",
-      "title": "前西足协主席：不应批评因凡蒂诺 我希望世界杯决赛在西班牙举行",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9eeae68571native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515315+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "7427fa3066",
-      "category": "hot",
-      "title": "埃及主帅：参加世界杯令哈姆扎受益 萨拉赫是年轻球员的榜样",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9ee8d9f044native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515333+00:00",
+      "time_iso": "2026-09-16T11:21:10.600764+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,19 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9fc93721c0native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515765+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "04391d3f14",
-      "category": "hot",
-      "title": "德天空：克洛普已告知翁达夫落选德国国家队，预计将不会征召他",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9b4244a81bnative.htm",
-      "team": "GER",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515812+00:00",
+      "time_iso": "2026-09-16T11:21:10.601468+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa9676b407c4native.htm",
       "team": "CAN",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515842+00:00",
+      "time_iso": "2026-09-16T11:21:10.601548+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6508b48ad8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.515891+00:00",
+      "time_iso": "2026-09-16T11:21:10.601624+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,19 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516387+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4068a87ff5",
-      "category": "hot",
-      "title": "勒纳尔：塞内加尔足协曾联系过我，目前摩洛哥是非洲最强国家队",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9d8b4e69d3native.htm",
-      "team": "SEN",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516554+00:00",
+      "time_iso": "2026-09-16T11:21:10.602323+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +394,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa93690d8896native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T04:34:52.516575+00:00",
+      "time_iso": "2026-09-16T11:21:10.602612+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "05cd40dd3e",
+      "category": "hot",
+      "title": "2002年，罗宾·范佩西欧冠首秀；2026年，沙奎尔·范佩西欧冠首秀",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa53fbab6cb0native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T11:21:10.602680+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0c07a4a231",
+      "category": "hot",
+      "title": "森保一谈日本队选人：基本以世界杯名单为主，兼顾状态和未来考量",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa69e8340746native.htm",
+      "team": "JPN",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T11:21:10.602751+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "4206b5f1e7",
+      "category": "hot",
+      "title": "盐贝健人谈再战巴西：要在赛场上回击他们，一雪世界杯不敌的耻辱",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3cf9a85be1native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T11:21:10.602808+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0d7a7076ed",
+      "category": "hot",
+      "title": "森保一：长友佑都参加世界杯是用自身表现赢得资格，全队都尊重他",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa26d0e8f580native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T11:21:10.602834+00:00",
       "source": "直播吧",
       "is_hot": false
     }
