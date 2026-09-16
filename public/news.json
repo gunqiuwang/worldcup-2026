@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T11:21:12.947354+00:00",
-  "count": 37,
+  "updated_at": "2026-09-16T16:40:54.772566+00:00",
+  "count": 38,
   "articles": [
     {
       "id": "dfc91f0b28",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa96a6307f5bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.600954+00:00",
+      "time_iso": "2026-09-16T16:40:51.129567+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,20 +21,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642411685.html",
       "team": "ARG",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-09-15T22:49:50.591807+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "e8561d8e91",
-      "category": "hot",
-      "title": "散步回防遭绝杀！尤文被吐槽：像踢野球，难怪意大利进不了世界杯",
+      "id": "3715a706fb",
+      "category": "injury",
+      "title": "C罗祈祷梅西输世界杯决赛？假！营销号断章取义 原视频谈自己伤病",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8b690de311native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aaab2028b1c2native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.601303+00:00",
+      "time_iso": "2026-09-16T16:40:51.130246+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa5551e6faanative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.601706+00:00",
+      "time_iso": "2026-09-16T16:40:51.130293+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "0c057033e3",
-      "category": "hot",
-      "title": "【集锦】U20女足世界杯：中国1-3西班牙第三出线，黄嘉欣破门",
+      "id": "bb9ff597cf",
+      "category": "tactical",
+      "title": "德天空：预计阿德耶米也将重返德国国家队大名单",
       "summary": "",
-      "url": "https://bbs.hupu.com/642412676.html",
-      "team": "ESP",
-      "time": "12小时前",
-      "time_iso": "2026-09-15T22:49:50.591676+00:00",
+      "url": "https://bbs.hupu.com/642434982.html",
+      "team": "GER",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T16:40:54.771863+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,7 +82,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9dda2103b9native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.601809+00:00",
+      "time_iso": "2026-09-16T16:40:51.130396+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "3edcf23b22",
+      "category": "tactical",
+      "title": "28日对中国，新西兰大名单：伍德领衔，16名世界杯球员入选",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642432681.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T16:40:54.772132+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "b48008be97",
+      "category": "hot",
+      "title": "告别赛预定！梅西宣布从国家队退役两周后，再次入选阿根廷名单",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9a884ae0b8native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T16:40:51.130441+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "0c057033e3",
+      "category": "hot",
+      "title": "【集锦】U20女足世界杯：中国1-3西班牙第三出线，黄嘉欣破门",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642412676.html",
+      "team": "ESP",
+      "time": "17小时前",
+      "time_iso": "2026-09-15T22:49:50.591676+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "c73169e424",
+      "category": "hot",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T16:40:51.130881+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "b48008be97",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "告别赛预定！梅西宣布从国家队退役两周后，再次入选阿根廷名单",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9a884ae0b8native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.601855+00:00",
+      "time_iso": "2026-09-16T16:40:51.130996+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "c73169e424",
+      "id": "e8561d8e91",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "散步回防遭绝杀！尤文被吐槽：像踢野球，难怪意大利进不了世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602276+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8b690de311native.htm",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-09-16T11:21:10.601303+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,37 +195,13 @@
       "is_hot": false
     },
     {
-      "id": "cfb98e86ee",
-      "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602388+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "b86b0aff6d",
-      "category": "hot",
-      "title": "唯一拿欧冠+世界杯球员，法比安-鲁伊斯：希望金球排名更高",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642382340.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-13T11:37:27.355248+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "72f0544801",
       "category": "tactical",
       "title": "已退出国家队！阿根廷记者确认：梅西不会入选9月阿根廷大名单",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa99099b33eanative.htm",
       "team": "ARG",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-09-16T04:34:52.516073+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,7 +213,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8a532cce19native.htm",
       "team": "FRA",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-09-15T22:49:47.945792+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8cde6ef856native.htm",
       "team": "ARG",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-09-15T22:49:47.946802+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa7f2a6e41d1native.htm",
       "team": "FRA",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-09-15T22:49:47.946897+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-06/6a9cde9123a80native.htm",
       "team": "BRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-14T14:57:19.329140+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -267,28 +291,16 @@
       "is_hot": true
     },
     {
-      "id": "3ab9e5114d",
+      "id": "6320b90655",
       "category": "hot",
-      "title": "姆巴佩：世界杯不算失败，刚输球后也许我会那么想，但现在是遗憾",
+      "title": "U20女足世界杯1/8决赛-U20女足vs意大利U20：周欣怡、黄嘉欣出战",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa46db0dbbd2native.htm",
-      "team": "FRA",
-      "time": "2天前",
-      "time_iso": "2026-09-13T11:37:25.790294+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "01d5e13990",
-      "category": "hot",
-      "title": "英媒：斯内德拍卖职业生涯收藏品，包括世界杯银球奖、C罗球衣",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa483919145cnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaab1ed1e4fenative.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-13T11:37:25.791231+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T16:40:51.127043+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "21a8429312",
@@ -298,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa0bc763b9anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.599514+00:00",
+      "time_iso": "2026-09-16T16:40:51.128154+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa8c224e0616native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.599610+00:00",
+      "time_iso": "2026-09-16T16:40:51.128214+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,19 +334,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-14/6aa770883678enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.599733+00:00",
+      "time_iso": "2026-09-16T16:40:51.128333+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "3279140861",
+      "id": "fa07029320",
       "category": "hot",
-      "title": "埃尔切赛前向世界杯冠军库库雷利亚致敬，为其颁发纪念品",
+      "title": "哪3人没踢世界杯？克罗斯讽刺：维尔茨、穆西亚拉和帕夫洛维奇",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa15a029c89native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa9b5e26edbnative.htm",
+      "team": "GER",
+      "time": "1分钟前",
+      "time_iso": "2026-09-16T16:40:51.128480+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "13ad54d03b",
+      "category": "hot",
+      "title": "女足欧冠抽签：巴萨主场踢枪手，拜仁连战巴萨巴黎皇马曼城",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-04/6a9aafb7039b3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.600764+00:00",
+      "time_iso": "2026-09-16T16:40:51.129045+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,19 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aa9fc93721c0native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.601468+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "b643bd0aef",
-      "category": "hot",
-      "title": "加拿大媒体：戴维斯将缺席最新的加拿大国家队名单去度蜜月",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa9676b407c4native.htm",
-      "team": "CAN",
-      "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.601548+00:00",
+      "time_iso": "2026-09-16T16:40:51.130080+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa6508b48ad8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.601624+00:00",
+      "time_iso": "2026-09-16T16:40:51.130181+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602323+00:00",
+      "time_iso": "2026-09-16T16:40:51.130931+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-15/6aa93690d8896native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602612+00:00",
+      "time_iso": "2026-09-16T16:40:51.131233+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-12/6aa53fbab6cb0native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602680+00:00",
+      "time_iso": "2026-09-16T16:40:51.131301+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-13/6aa69e8340746native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602751+00:00",
+      "time_iso": "2026-09-16T16:40:51.131366+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-11/6aa3cf9a85be1native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602808+00:00",
+      "time_iso": "2026-09-16T16:40:51.131424+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-10/6aa26d0e8f580native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-16T11:21:10.602834+00:00",
+      "time_iso": "2026-09-16T16:40:51.131451+00:00",
       "source": "直播吧",
       "is_hot": false
     }
