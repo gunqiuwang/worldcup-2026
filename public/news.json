@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-21T15:02:16.445112+00:00",
-  "count": 42,
+  "updated_at": "2026-09-21T20:22:38.071988+00:00",
+  "count": 41,
   "articles": [
     {
-      "id": "d1a1df0a14",
+      "id": "ad95439cb4",
       "category": "hot",
-      "title": "23年征程继续！41岁C罗入选葡萄牙国家队，美加墨世界杯5场3球",
+      "title": "23年征程继续！41岁C罗晒照抵达葡萄牙国家队，备战欧国联的比赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacf5655be75native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab165e702e12native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.931557+00:00",
+      "time_iso": "2026-09-21T20:22:36.539219+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -27,14 +27,14 @@
       "is_hot": true
     },
     {
-      "id": "c73169e424",
+      "id": "d1a1df0a14",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "23年征程继续！41岁C罗入选葡萄牙国家队，美加墨世界杯5场3球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacf5655be75native.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.932010+00:00",
+      "time_iso": "2026-09-21T20:22:36.539418+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,8 +45,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642526719.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-09-21T15:02:16.444567+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "c73169e424",
+      "category": "hot",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-21T20:22:36.539874+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "9555a8d930",
+      "category": "hot",
+      "title": "国足亚运队出线形势：打平即出线，小组第二极大概率碰日本",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642519132.html",
+      "team": "JPN",
+      "time": "12小时前",
+      "time_iso": "2026-09-21T07:53:22.570794+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,31 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.932139+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "9555a8d930",
-      "category": "hot",
-      "title": "国足亚运队出线形势：打平即出线，小组第二极大概率碰日本",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642519132.html",
-      "team": "JPN",
-      "time": "7小时前",
-      "time_iso": "2026-09-21T07:53:22.570794+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "5f65972c0a",
-      "category": "hot",
-      "title": "凯恩：梅西非常谦逊更重视团队，半决赛后我抱了他祝他决赛好运",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacc4b69d264native.htm",
-      "team": "ARG",
-      "time": "14小时前",
-      "time_iso": "2026-09-21T00:05:23.010590+00:00",
+      "time_iso": "2026-09-21T20:22:36.540005+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,20 +93,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642497595.html",
       "team": "",
-      "time": "14小时前",
+      "time": "20小时前",
       "time_iso": "2026-09-21T00:05:25.306021+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "83d19196c6",
+      "id": "5f65972c0a",
       "category": "hot",
-      "title": "法媒谈C罗：远离金球奖、世界杯毫无灵光，现在亚冠也踢不明白了",
+      "title": "凯恩：梅西非常谦逊更重视团队，半决赛后我抱了他祝他决赛好运",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa5551e6faanative.htm",
-      "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-09-21T00:05:23.010686+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacc4b69d264native.htm",
+      "team": "ARG",
+      "time": "20小时前",
+      "time_iso": "2026-09-21T00:05:23.010590+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,20 +117,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642504224.html",
       "team": "",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-09-20T17:22:58.870589+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "6e6015de7a",
+      "id": "83d19196c6",
       "category": "hot",
-      "title": "亚马尔牵制两人？回顾世界杯决赛制胜球：梅里诺带走3人 费兰破僵",
+      "title": "法媒谈C罗：远离金球奖、世界杯毫无灵光，现在亚冠也踢不明白了",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-19/6aae34f7c4e2fnative.htm",
-      "team": "ESP",
-      "time": "21小时前",
-      "time_iso": "2026-09-20T17:22:56.808943+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa5551e6faanative.htm",
+      "team": "",
+      "time": "20小时前",
+      "time_iso": "2026-09-21T00:05:23.010686+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "7340ccee53",
+      "id": "6e6015de7a",
       "category": "hot",
-      "title": "无视凯恩！亚马尔：哪怕英格兰世界杯夺冠，也是我和姆巴佩争金球",
+      "title": "亚马尔牵制两人？回顾世界杯决赛制胜球：梅里诺带走3人 费兰破僵",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aad53fad76d2native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-19/6aae34f7c4e2fnative.htm",
+      "team": "ESP",
       "time": "1天前",
-      "time_iso": "2026-09-20T00:02:18.771068+00:00",
+      "time_iso": "2026-09-20T17:22:56.808943+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "1132ae4eff",
+      "id": "7340ccee53",
       "category": "hot",
-      "title": "哈维：亚马尔最好的镜子是梅西，有了欧洲杯世界杯他还需赢欧冠",
+      "title": "无视凯恩！亚马尔：哪怕英格兰世界杯夺冠，也是我和姆巴佩争金球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-19/6aae6d4146e9anative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aad53fad76d2native.htm",
+      "team": "FRA",
       "time": "1天前",
-      "time_iso": "2026-09-19T17:08:48.046423+00:00",
+      "time_iso": "2026-09-20T00:02:18.771068+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "6380fbb62e",
+      "id": "1132ae4eff",
       "category": "hot",
-      "title": "每体：皇马为姆巴佩拿金球奖造势，但他上个重要冠军是18年世界杯",
+      "title": "哈维：亚马尔最好的镜子是梅西，有了欧洲杯世界杯他还需赢欧冠",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aaccf67877b9native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-19/6aae6d4146e9anative.htm",
+      "team": "ESP",
       "time": "2天前",
-      "time_iso": "2026-09-19T12:26:19.426611+00:00",
+      "time_iso": "2026-09-19T17:08:48.046423+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "db5427db31",
+      "id": "6380fbb62e",
       "category": "hot",
-      "title": "亚马尔：世界杯决赛我吸引2人造就制胜进球，懂球的知道我的价值",
+      "title": "每体：皇马为姆巴佩拿金球奖造势，但他上个重要冠军是18年世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-19/6aadebf8c66benative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aaccf67877b9native.htm",
+      "team": "FRA",
       "time": "2天前",
-      "time_iso": "2026-09-19T07:15:35.042266+00:00",
+      "time_iso": "2026-09-19T12:26:19.426611+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "b9ac4d3ff1",
+      "id": "db5427db31",
       "category": "hot",
-      "title": "德保罗谈金球奖：梅西是世界杯表现最好的球员，没什么可争论的",
+      "title": "亚马尔：世界杯决赛我吸引2人造就制胜进球，懂球的知道我的价值",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aab8b8fbe65dnative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-19/6aadebf8c66benative.htm",
+      "team": "ESP",
       "time": "2天前",
-      "time_iso": "2026-09-19T07:15:35.042802+00:00",
+      "time_iso": "2026-09-19T07:15:35.042266+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -267,6 +267,18 @@
       "is_hot": false
     },
     {
+      "id": "b9ac4d3ff1",
+      "category": "hot",
+      "title": "德保罗谈金球奖：梅西是世界杯表现最好的球员，没什么可争论的",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aab8b8fbe65dnative.htm",
+      "team": "ARG",
+      "time": "2天前",
+      "time_iso": "2026-09-19T07:15:35.042802+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
       "id": "3f6d471fb3",
       "category": "hot",
       "title": "亚马尔：我认为梅西是这届世界杯的最佳球员，39岁还能带队进决赛",
@@ -279,30 +291,6 @@
       "is_hot": true
     },
     {
-      "id": "2d1d560b4a",
-      "category": "hot",
-      "title": "马加特：德国队具备世界杯四强实力，基米希不一定要回中场",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642439637.html",
-      "team": "GER",
-      "time": "2天前",
-      "time_iso": "2026-09-18T16:16:38.363287+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "756dd147ae",
-      "category": "hot",
-      "title": "强！梅西决赛36球分布：西超杯13球最多 世界杯、欧冠各2球",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aab4c070d820native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-09-18T16:16:35.422766+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "c02c89f940",
       "category": "tactical",
       "title": "米利西奇：三场都有丢球让人失望，阵容轮换为淘汰赛做好准备",
@@ -310,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab1370cee7c5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.927519+00:00",
+      "time_iso": "2026-09-21T20:22:36.535798+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab10fa2d5627native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.927677+00:00",
+      "time_iso": "2026-09-21T20:22:36.535949+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab1021528954native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.927717+00:00",
+      "time_iso": "2026-09-21T20:22:36.536024+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0fbc6eab7enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.927758+00:00",
+      "time_iso": "2026-09-21T20:22:36.536068+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.927808+00:00",
+      "time_iso": "2026-09-21T20:22:36.536111+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.928828+00:00",
+      "time_iso": "2026-09-21T20:22:36.536924+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0ca2919152native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.929167+00:00",
+      "time_iso": "2026-09-21T20:22:36.537241+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-20/6aaf9e1f6787enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.929220+00:00",
+      "time_iso": "2026-09-21T20:22:36.537281+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-20/6aaf2aa815b0fnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.929259+00:00",
+      "time_iso": "2026-09-21T20:22:36.537317+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +406,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0d6c1d8fccnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.929614+00:00",
+      "time_iso": "2026-09-21T20:22:36.537641+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "737d51fa9b",
+      "category": "hot",
+      "title": "母亲谈费兰：我对他感到非常骄傲，世界杯决赛进球让他达到了巅峰",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab1902ad7abfnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-21T20:22:36.537853+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,19 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab11dae10c32native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.929894+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "e35fe2f3f0",
-      "category": "hot",
-      "title": "世界杯+欧洲杯冠军主帅！官方：西班牙与德拉富恩特续约至2032年",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab10c50c71a2native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.930367+00:00",
+      "time_iso": "2026-09-21T20:22:36.537936+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab110fdb8d9bnative.htm",
       "team": "NED",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.930629+00:00",
+      "time_iso": "2026-09-21T20:22:36.538794+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +454,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab04aa29f59fnative.htm",
       "team": "NED",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.930922+00:00",
+      "time_iso": "2026-09-21T20:22:36.538829+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "113f8b4cae",
+      "category": "injury",
+      "title": "德国足协官方：莱比锡攻击手格鲁达因伤退出本期国家队",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab143213e8d0native.htm",
+      "team": "GER",
+      "time": "1分钟前",
+      "time_iso": "2026-09-21T20:22:36.538917+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0c5ab20f1dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.931029+00:00",
+      "time_iso": "2026-09-21T20:22:36.538986+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,19 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab073f6de936native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.931079+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "7f17cbdc41",
-      "category": "injury",
-      "title": "踢球者：莱比锡攻击手格鲁达受伤，出战本期德国国家队比赛存疑",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab03eebd89e7native.htm",
-      "team": "GER",
-      "time": "1分钟前",
-      "time_iso": "2026-09-21T15:02:13.931145+00:00",
+      "time_iso": "2026-09-21T20:22:36.539039+00:00",
       "source": "直播吧",
       "is_hot": false
     }
