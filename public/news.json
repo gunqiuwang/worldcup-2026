@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-21T20:22:38.071988+00:00",
+  "updated_at": "2026-09-22T00:41:43.614191+00:00",
   "count": 41,
   "articles": [
     {
-      "id": "ad95439cb4",
+      "id": "5822075ba7",
       "category": "hot",
-      "title": "23年征程继续！41岁C罗晒照抵达葡萄牙国家队，备战欧国联的比赛",
+      "title": "费兰：我就喜欢打脸骂我的人，拿世界杯绝杀换欧冠决赛3球都不换",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab165e702e12native.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab19742689d5native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.539219+00:00",
+      "time_iso": "2026-09-22T00:41:41.371450+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -27,26 +27,26 @@
       "is_hot": true
     },
     {
-      "id": "d1a1df0a14",
+      "id": "ad95439cb4",
       "category": "hot",
-      "title": "23年征程继续！41岁C罗入选葡萄牙国家队，美加墨世界杯5场3球",
+      "title": "23年征程继续！41岁C罗晒照抵达葡萄牙国家队，备战欧国联的比赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacf5655be75native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab165e702e12native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.539418+00:00",
+      "time_iso": "2026-09-22T00:41:41.372541+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "748cb5effd",
+      "id": "f474d0b8ad",
       "category": "hot",
-      "title": "普利西奇：2026对我和球队都很艰难；现在我们需要继续赢球",
+      "title": "俄罗斯获准参加U15世界杯，乌克兰呼吁各国足协集体抵制",
       "summary": "",
-      "url": "https://bbs.hupu.com/642526719.html",
+      "url": "https://bbs.hupu.com/642509779.html",
       "team": "",
-      "time": "5小时前",
-      "time_iso": "2026-09-21T15:02:16.444567+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-09-22T00:41:43.613785+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.539874+00:00",
+      "time_iso": "2026-09-22T00:41:41.373033+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "9555a8d930",
+      "id": "748cb5effd",
       "category": "hot",
-      "title": "国足亚运队出线形势：打平即出线，小组第二极大概率碰日本",
+      "title": "普利西奇：2026对我和球队都很艰难；现在我们需要继续赢球",
       "summary": "",
-      "url": "https://bbs.hupu.com/642519132.html",
-      "team": "JPN",
-      "time": "12小时前",
-      "time_iso": "2026-09-21T07:53:22.570794+00:00",
+      "url": "https://bbs.hupu.com/642526719.html",
+      "team": "",
+      "time": "9小时前",
+      "time_iso": "2026-09-21T15:02:16.444567+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,7 +82,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.540005+00:00",
+      "time_iso": "2026-09-22T00:41:41.373128+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "9555a8d930",
+      "category": "hot",
+      "title": "国足亚运队出线形势：打平即出线，小组第二极大概率碰日本",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642519132.html",
+      "team": "JPN",
+      "time": "16小时前",
+      "time_iso": "2026-09-21T07:53:22.570794+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "d1a1df0a14",
+      "category": "hot",
+      "title": "23年征程继续！41岁C罗入选葡萄牙国家队，美加墨世界杯5场3球",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacf5655be75native.htm",
+      "team": "POR",
+      "time": "4小时前",
+      "time_iso": "2026-09-21T20:22:36.539418+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642497595.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-21T00:05:25.306021+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacc4b69d264native.htm",
       "team": "ARG",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-21T00:05:23.010590+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -129,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa5551e6faanative.htm",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-09-21T00:05:23.010686+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -177,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aad53fad76d2native.htm",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-20T00:02:18.771068+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642485535.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-20T00:02:21.012565+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -255,18 +279,6 @@
       "is_hot": true
     },
     {
-      "id": "1b87728cda",
-      "category": "hot",
-      "title": "官方：37岁维特塞尔从比利时退役，结束18年国家队生涯",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642450858.html",
-      "team": "BEL",
-      "time": "2天前",
-      "time_iso": "2026-09-18T20:48:08.185969+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "b9ac4d3ff1",
       "category": "hot",
       "title": "德保罗谈金球奖：梅西是世界杯表现最好的球员，没什么可争论的",
@@ -279,18 +291,6 @@
       "is_hot": true
     },
     {
-      "id": "3f6d471fb3",
-      "category": "hot",
-      "title": "亚马尔：我认为梅西是这届世界杯的最佳球员，39岁还能带队进决赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aad4ea7d6809native.htm",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-09-18T20:48:05.999018+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "c02c89f940",
       "category": "tactical",
       "title": "米利西奇：三场都有丢球让人失望，阵容轮换为淘汰赛做好准备",
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab1370cee7c5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.535798+00:00",
+      "time_iso": "2026-09-22T00:41:41.369819+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab10fa2d5627native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.535949+00:00",
+      "time_iso": "2026-09-22T00:41:41.369948+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab1021528954native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.536024+00:00",
+      "time_iso": "2026-09-22T00:41:41.369978+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0fbc6eab7enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.536068+00:00",
+      "time_iso": "2026-09-22T00:41:41.370010+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.536111+00:00",
+      "time_iso": "2026-09-22T00:41:41.370048+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.536924+00:00",
+      "time_iso": "2026-09-22T00:41:41.370612+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0ca2919152native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.537241+00:00",
+      "time_iso": "2026-09-22T00:41:41.370864+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-20/6aaf9e1f6787enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.537281+00:00",
+      "time_iso": "2026-09-22T00:41:41.370893+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-20/6aaf2aa815b0fnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.537317+00:00",
+      "time_iso": "2026-09-22T00:41:41.370924+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +406,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0d6c1d8fccnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.537641+00:00",
+      "time_iso": "2026-09-22T00:41:41.371237+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "01340f6f12",
+      "category": "hot",
+      "title": "队报：FIFA将9月、10月国际比赛日合并，以减少球员的奔波往返",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab1c83404a20native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-22T00:41:41.371406+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,19 +430,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab1902ad7abfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.537853+00:00",
+      "time_iso": "2026-09-22T00:41:41.371477+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "acf615687e",
-      "category": "injury",
-      "title": "官方：埃梅里因伤退出，阿克利乌什补招进入法国国家队出战欧国联",
+      "id": "82c4d81b22",
+      "category": "hot",
+      "title": "哈维：很遗憾马伦最后时刻退出本期荷兰国家队，他的伤势不严重",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab11dae10c32native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab1c63649f9cnative.htm",
+      "team": "NED",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.537936+00:00",
+      "time_iso": "2026-09-22T00:41:41.371969+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab110fdb8d9bnative.htm",
       "team": "NED",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.538794+00:00",
+      "time_iso": "2026-09-22T00:41:41.372248+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +466,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab04aa29f59fnative.htm",
       "team": "NED",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.538829+00:00",
+      "time_iso": "2026-09-22T00:41:41.372279+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "98103add1c",
+      "category": "hot",
+      "title": "鲍曼：不想再谈世界杯变成替补门将话题，没有针对纳格尔斯曼",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab1c39abc00enative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-22T00:41:41.372329+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,31 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab143213e8d0native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.538917+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "e92f1bc759",
-      "category": "hot",
-      "title": "BBC：世界杯期间垃圾食品广告可见时间28.1小时 比比赛总时长还多",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0c5ab20f1dnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.538986+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "0cfe8613de",
-      "category": "hot",
-      "title": "鲍曼：我和克洛普联系过，他并没有对我关闭德国国家队的大门",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab073f6de936native.htm",
-      "team": "GER",
-      "time": "1分钟前",
-      "time_iso": "2026-09-21T20:22:36.539039+00:00",
+      "time_iso": "2026-09-22T00:41:41.372384+00:00",
       "source": "直播吧",
       "is_hot": false
     }
