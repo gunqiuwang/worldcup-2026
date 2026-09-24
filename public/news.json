@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T21:24:39.725177+00:00",
-  "count": 38,
+  "updated_at": "2026-09-24T00:22:12.307696+00:00",
+  "count": 37,
   "articles": [
     {
       "id": "c050f59504",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab37283dfc8cnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.034219+00:00",
+      "time_iso": "2026-09-24T00:22:10.136918+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642525772.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "2小时前",
       "time_iso": "2026-09-23T21:24:39.724723+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab282b656775native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.034441+00:00",
+      "time_iso": "2026-09-24T00:22:10.136952+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,8 +45,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642555988.html",
       "team": "",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-09-23T11:22:08.509362+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "549ed70da7",
+      "category": "hot",
+      "title": "哈维：希望金球奖颁给西班牙球员，但梅西也踢出现象级的世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab45c70ee89cnative.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-24T00:22:10.137051+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "d77c6a58d9",
+      "category": "hot",
+      "title": "国家队版“开学了”！B/R动画演绎世界杯后首次集结",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642555105.html",
+      "team": "",
+      "time": "13小时前",
+      "time_iso": "2026-09-23T11:22:08.509593+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,19 +82,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab33b0d9e570native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.035063+00:00",
+      "time_iso": "2026-09-24T00:22:10.137587+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "d77c6a58d9",
+      "id": "c43297c760",
       "category": "hot",
-      "title": "国家队版“开学了”！B/R动画演绎世界杯后首次集结",
+      "title": "毛罗：曾拒绝代表荷兰国家队，即使当时我离巴西队还很遥远",
       "summary": "",
-      "url": "https://bbs.hupu.com/642555105.html",
-      "team": "",
-      "time": "10小时前",
-      "time_iso": "2026-09-23T11:22:08.509593+00:00",
+      "url": "https://bbs.hupu.com/642538878.html",
+      "team": "BRA",
+      "time": "1天前",
+      "time_iso": "2026-09-22T22:51:45.884608+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,31 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab35444051fenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.035457+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "c43297c760",
-      "category": "hot",
-      "title": "毛罗：曾拒绝代表荷兰国家队，即使当时我离巴西队还很遥远",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642538878.html",
-      "team": "BRA",
-      "time": "22小时前",
-      "time_iso": "2026-09-22T22:51:45.884608+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "fff4165ce4",
-      "category": "hot",
-      "title": "大马丁：梅西会拿金球奖，我绝对没戏，遗憾今年世界杯决赛没赢",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab274e85afa2native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.035539+00:00",
+      "time_iso": "2026-09-24T00:22:10.137904+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +123,14 @@
       "is_hot": false
     },
     {
-      "id": "ad95439cb4",
+      "id": "fff4165ce4",
       "category": "hot",
-      "title": "23年征程继续！41岁C罗晒照抵达葡萄牙国家队，备战欧国联的比赛",
+      "title": "大马丁：梅西会拿金球奖，我绝对没戏，遗憾今年世界杯决赛没赢",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab165e702e12native.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab274e85afa2native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.035633+00:00",
+      "time_iso": "2026-09-24T00:22:10.137987+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "c73169e424",
+      "id": "ad95439cb4",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "23年征程继续！41岁C罗晒照抵达葡萄牙国家队，备战欧国联的比赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab165e702e12native.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.036127+00:00",
+      "time_iso": "2026-09-24T00:22:10.138088+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,6 +171,18 @@
       "is_hot": false
     },
     {
+      "id": "c73169e424",
+      "category": "hot",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-24T00:22:10.138568+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
       "id": "cfb98e86ee",
       "category": "hot",
       "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
@@ -178,21 +190,9 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.036240+00:00",
+      "time_iso": "2026-09-24T00:22:10.138685+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "e26e0b2c2e",
-      "category": "hot",
-      "title": "图赫尔：不喜欢马奎尔落选世界杯反应，从那后没和他说过话",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642497595.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-21T00:05:25.306021+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "5822075ba7",
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab19742689d5native.htm",
       "team": "",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-09-22T22:51:43.938646+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab2aa693ba14native.htm",
       "team": "ESP",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-09-22T22:51:43.939076+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -243,30 +243,6 @@
       "is_hot": true
     },
     {
-      "id": "5f65972c0a",
-      "category": "hot",
-      "title": "凯恩：梅西非常谦逊更重视团队，半决赛后我抱了他祝他决赛好运",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-18/6aacc4b69d264native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-09-21T00:05:23.010590+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "83d19196c6",
-      "category": "hot",
-      "title": "法媒谈C罗：远离金球奖、世界杯毫无灵光，现在亚冠也踢不明白了",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-16/6aaa5551e6faanative.htm",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-21T00:05:23.010686+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "28a56bb68b",
       "category": "hot",
       "title": "提前出线留力淘汰赛！泰国U23末轮轮休了包括门将在内的大半主力",
@@ -274,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab3c9b4eaab5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.031741+00:00",
+      "time_iso": "2026-09-24T00:22:10.134251+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab3c508378acnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.031831+00:00",
+      "time_iso": "2026-09-24T00:22:10.134343+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab39f90af8a7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.031941+00:00",
+      "time_iso": "2026-09-24T00:22:10.134468+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.032123+00:00",
+      "time_iso": "2026-09-24T00:22:10.134636+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.032811+00:00",
+      "time_iso": "2026-09-24T00:22:10.135360+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab37f63cfe74native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.032993+00:00",
+      "time_iso": "2026-09-24T00:22:10.135582+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab1370cee7c5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033125+00:00",
+      "time_iso": "2026-09-24T00:22:10.135690+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0fbc6eab7enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033183+00:00",
+      "time_iso": "2026-09-24T00:22:10.135732+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0ca2919152native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033264+00:00",
+      "time_iso": "2026-09-24T00:22:10.135811+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-20/6aaf9e1f6787enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033300+00:00",
+      "time_iso": "2026-09-24T00:22:10.135847+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-20/6aaf2aa815b0fnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033335+00:00",
+      "time_iso": "2026-09-24T00:22:10.135883+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab421ba57563native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033388+00:00",
+      "time_iso": "2026-09-24T00:22:10.136016+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab3fd9ca0452native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033444+00:00",
+      "time_iso": "2026-09-24T00:22:10.136243+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,19 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab3e686dc926native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033517+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "958884b98c",
-      "category": "hot",
-      "title": "被批毁了荷兰足球，范戴克反驳记者：世界杯没踢好不只是我的问题",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab3e69f89136native.htm",
-      "team": "NED",
-      "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033543+00:00",
+      "time_iso": "2026-09-24T00:22:10.136269+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +418,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab3510663e30native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-23T21:24:38.033778+00:00",
+      "time_iso": "2026-09-24T00:22:10.136322+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "958884b98c",
+      "category": "hot",
+      "title": "被批毁了荷兰足球，范戴克反驳记者：世界杯没踢好不只是我的问题",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab3e69f89136native.htm",
+      "team": "NED",
+      "time": "1分钟前",
+      "time_iso": "2026-09-24T00:22:10.136428+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ac948e2181",
+      "category": "hot",
+      "title": "奥莱：帕雷德斯国家队未来存疑，明年9月才能解禁再为阿根廷出战",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab3d5f24660enative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-24T00:22:10.136680+00:00",
       "source": "直播吧",
       "is_hot": false
     }
