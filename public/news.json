@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T18:14:40.406733+00:00",
+  "updated_at": "2026-09-27T22:56:43.738403+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab796373b371native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.443258+00:00",
+      "time_iso": "2026-09-27T22:56:41.022136+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642605847.html",
       "team": "FRA",
-      "time": "10小时前",
+      "time": "14小时前",
       "time_iso": "2026-09-27T07:58:34.938162+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab774c050e27native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.443301+00:00",
+      "time_iso": "2026-09-27T22:56:41.022186+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642590933.html",
       "team": "ENG",
-      "time": "10小时前",
+      "time": "14小时前",
       "time_iso": "2026-09-27T07:58:34.938482+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab8815be9ae3native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.444243+00:00",
+      "time_iso": "2026-09-27T22:56:41.023329+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,31 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab630e5ef088native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.444371+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "73f16298a9",
-      "category": "hot",
-      "title": "菲利克斯：亚马尔就是足球，世界杯夺冠让他更接近金球奖",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642571956.html",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-09-24T18:22:19.217674+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "8fceb12d0c",
-      "category": "hot",
-      "title": "斯卡洛尼谈金球：在梅西踢完世界杯后无需多言，我觉得他不太在意",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5c4df56c38native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.444498+00:00",
+      "time_iso": "2026-09-27T22:56:41.023500+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,8 +93,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642600530.html",
       "team": "KOR",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-09-27T13:51:46.188049+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "8fceb12d0c",
+      "category": "hot",
+      "title": "斯卡洛尼谈金球：在梅西踢完世界杯后无需多言，我觉得他不太在意",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5c4df56c38native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T22:56:41.023567+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "ed9765e5de",
+      "category": "hot",
+      "title": "英超西甲意甲德甲发表联合声明：FIFA必须进行根本性改革",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642597378.html",
+      "team": "",
+      "time": "14小时前",
+      "time_iso": "2026-09-27T07:58:34.938401+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -130,31 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.444886+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "ed9765e5de",
-      "category": "hot",
-      "title": "英超西甲意甲德甲发表联合声明：FIFA必须进行根本性改革",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642597378.html",
-      "team": "",
-      "time": "10小时前",
-      "time_iso": "2026-09-27T07:58:34.938401+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "cfb98e86ee",
-      "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.444993+00:00",
+      "time_iso": "2026-09-27T22:56:41.023934+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "ed6d054241",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "英媒：C罗若从国家队退役会多方面影响葡萄牙队 商业收入大幅缩水",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5ae0882f02native.htm",
-      "team": "POR",
-      "time": "10小时前",
-      "time_iso": "2026-09-27T07:58:32.496647+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T22:56:41.024044+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "75d8e9fa9d",
+      "id": "ed6d054241",
       "category": "hot",
-      "title": "葡总理：C罗和整个国家队是所有人的骄傲 没拿世界杯但真的很优秀",
+      "title": "英媒：C罗若从国家队退役会多方面影响葡萄牙队 商业收入大幅缩水",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab35444051fenative.htm",
-      "team": "",
-      "time": "17小时前",
-      "time_iso": "2026-09-27T00:24:42.042537+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5ae0882f02native.htm",
+      "team": "POR",
+      "time": "14小时前",
+      "time_iso": "2026-09-27T07:58:32.496647+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "a191932095",
+      "id": "75d8e9fa9d",
       "category": "hot",
-      "title": "⭐姆巴佩完整专访：世界杯金靴|金球奖|差点去利物浦|永远支持C罗",
+      "title": "葡总理：C罗和整个国家队是所有人的骄傲 没拿世界杯但真的很优秀",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab282b656775native.htm",
-      "team": "FRA",
-      "time": "17小时前",
-      "time_iso": "2026-09-27T00:24:42.042564+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab35444051fenative.htm",
+      "team": "",
+      "time": "22小时前",
+      "time_iso": "2026-09-27T00:24:42.042537+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "73ab2ceba5",
+      "id": "a191932095",
       "category": "hot",
-      "title": "阿根廷国脚苏莱：梅西在世界杯的表现配得上金球奖，他是现象级的",
+      "title": "⭐姆巴佩完整专访：世界杯金靴|金球奖|差点去利物浦|永远支持C罗",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab33b0d9e570native.htm",
-      "team": "ARG",
-      "time": "21小时前",
-      "time_iso": "2026-09-26T20:58:41.810716+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab282b656775native.htm",
+      "team": "FRA",
+      "time": "22小时前",
+      "time_iso": "2026-09-27T00:24:42.042564+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -267,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "6eb40e7f68",
+      "id": "73ab2ceba5",
       "category": "hot",
-      "title": "罗伯逊：生涯遇见过最强对手是梅西，欧冠半决赛首回合，太特别了",
+      "title": "阿根廷国脚苏莱：梅西在世界杯的表现配得上金球奖，他是现象级的",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab4e928bc356native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab33b0d9e570native.htm",
       "team": "ARG",
       "time": "1天前",
-      "time_iso": "2026-09-26T00:29:29.048120+00:00",
+      "time_iso": "2026-09-26T20:58:41.810716+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -291,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "cf3c8db8da",
+      "id": "6eb40e7f68",
       "category": "hot",
-      "title": "拉菲尼亚：难忘两年前欧冠四强输给国米，亚马尔理应获得金球奖",
+      "title": "罗伯逊：生涯遇见过最强对手是梅西，欧冠半决赛首回合，太特别了",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5cc3649f91native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab4e928bc356native.htm",
+      "team": "ARG",
       "time": "1天前",
-      "time_iso": "2026-09-26T00:29:29.049138+00:00",
+      "time_iso": "2026-09-26T00:29:29.048120+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -315,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "6bcfa3e85e",
+      "id": "cf3c8db8da",
       "category": "hot",
-      "title": "世界杯遭阿根廷逆转！图赫尔：到现在还是很难过，我们当时太怕输",
+      "title": "拉菲尼亚：难忘两年前欧冠四强输给国米，亚马尔理应获得金球奖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab6bf3b70f6anative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5cc3649f91native.htm",
+      "team": "ESP",
       "time": "1天前",
-      "time_iso": "2026-09-25T21:26:27.138398+00:00",
+      "time_iso": "2026-09-26T00:29:29.049138+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -339,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "fccf5ac2bb",
+      "id": "6bcfa3e85e",
       "category": "hot",
-      "title": "罗杰斯：我个人偏爱C罗，但世界杯交手了39岁的梅西，几乎防不住",
+      "title": "世界杯遭阿根廷逆转！图赫尔：到现在还是很难过，我们当时太怕输",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab52fb629dddnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab6bf3b70f6anative.htm",
       "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-09-25T21:26:27.139258+00:00",
+      "time": "2天前",
+      "time_iso": "2026-09-25T21:26:27.138398+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -363,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "37a3f897fc",
+      "id": "fccf5ac2bb",
       "category": "hot",
-      "title": "亨利：西班牙夺得世界杯冠军实至名归；姆巴佩深度参与新球鞋研发",
+      "title": "罗杰斯：我个人偏爱C罗，但世界杯交手了39岁的梅西，几乎防不住",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab4cbd7ededbnative.htm",
-      "team": "FRA",
-      "time": "1天前",
-      "time_iso": "2026-09-25T21:26:27.139950+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab52fb629dddnative.htm",
+      "team": "ARG",
+      "time": "2天前",
+      "time_iso": "2026-09-25T21:26:27.139258+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -387,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "6fb4b635de",
+      "id": "37a3f897fc",
       "category": "hot",
-      "title": "26岁哈兰德国家队56场轰64球！超越伊布、大罗、亨利等多位传奇",
+      "title": "亨利：西班牙夺得世界杯冠军实至名归；姆巴佩深度参与新球鞋研发",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab645939d102native.htm",
-      "team": "GER",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab4cbd7ededbnative.htm",
+      "team": "FRA",
       "time": "2天前",
-      "time_iso": "2026-09-25T17:02:09.855386+00:00",
+      "time_iso": "2026-09-25T21:26:27.139950+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -411,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "cf0e763a34",
+      "id": "6fb4b635de",
       "category": "hot",
-      "title": "判若两人？最新定妆照对比：医美后的维尼修斯与世界杯前变化巨大",
+      "title": "26岁哈兰德国家队56场轰64球！超越伊布、大罗、亨利等多位传奇",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5d19f4da70native.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab645939d102native.htm",
+      "team": "GER",
       "time": "2天前",
-      "time_iso": "2026-09-25T11:40:09.045240+00:00",
+      "time_iso": "2026-09-25T17:02:09.855386+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -435,6 +411,30 @@
       "is_hot": false
     },
     {
+      "id": "cf0e763a34",
+      "category": "hot",
+      "title": "判若两人？最新定妆照对比：医美后的维尼修斯与世界杯前变化巨大",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5d19f4da70native.htm",
+      "team": "BRA",
+      "time": "2天前",
+      "time_iso": "2026-09-25T11:40:09.045240+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "1db60a65c3",
+      "category": "hot",
+      "title": "图赫尔：凯恩应该赢得金球；他下届世界杯36岁了也还能再踢",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642588267.html",
+      "team": "ENG",
+      "time": "2天前",
+      "time_iso": "2026-09-25T21:26:28.728452+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
       "id": "c050f59504",
       "category": "hot",
       "title": "姆巴佩：不会像C罗一样在国家队那么久 法国肯定不会让我踢到41岁",
@@ -447,14 +447,14 @@
       "is_hot": true
     },
     {
-      "id": "1db60a65c3",
+      "id": "49c99e3747",
       "category": "hot",
-      "title": "图赫尔：凯恩应该赢得金球；他下届世界杯36岁了也还能再踢",
+      "title": "阿根廷国家队分析师：恩佐是8号位，不该让他无谓地高位逼抢",
       "summary": "",
-      "url": "https://bbs.hupu.com/642588267.html",
-      "team": "ENG",
-      "time": "1天前",
-      "time_iso": "2026-09-25T21:26:28.728452+00:00",
+      "url": "https://bbs.hupu.com/642561104.html",
+      "team": "ARG",
+      "time": "2天前",
+      "time_iso": "2026-09-25T21:26:28.728606+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -471,14 +471,14 @@
       "is_hot": true
     },
     {
-      "id": "49c99e3747",
-      "category": "hot",
-      "title": "阿根廷国家队分析师：恩佐是8号位，不该让他无谓地高位逼抢",
+      "id": "3c69bb801b",
+      "category": "tactical",
+      "title": "中国vs阿联酋首发：张玉宁、吴曦领衔，三场小组赛阵容不变",
       "summary": "",
-      "url": "https://bbs.hupu.com/642561104.html",
-      "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-09-25T21:26:28.728606+00:00",
+      "url": "https://bbs.hupu.com/642559896.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-09-25T21:26:28.728681+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -495,30 +495,6 @@
       "is_hot": true
     },
     {
-      "id": "3c69bb801b",
-      "category": "tactical",
-      "title": "中国vs阿联酋首发：张玉宁、吴曦领衔，三场小组赛阵容不变",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642559896.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-09-25T21:26:28.728681+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "e84183a92d",
-      "category": "hot",
-      "title": "0-3不敌新西兰！赛前90名对87名，国足FIFA实时排名下降2名至92名",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab917be27b78native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.441053+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "a235ae21ce",
       "category": "hot",
       "title": "图赫尔：若经历今夏世界杯有球员不愿来英格兰，我会很意外",
@@ -531,14 +507,14 @@
       "is_hot": false
     },
     {
-      "id": "7950b9be31",
-      "category": "tactical",
-      "title": "参加U15世界杯！U15国足集训名单：周海滨带队，殷扎吉、沙明入选",
+      "id": "e84183a92d",
+      "category": "hot",
+      "title": "0-3不敌新西兰！赛前90名对87名，国足FIFA实时排名下降2名至92名",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab917be27b78native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.441330+00:00",
+      "time_iso": "2026-09-27T22:56:41.019502+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "f47ba4f7c8",
-      "category": "hot",
-      "title": "2026-27亚冠精英联赛第1轮现场观众人数统计：国安主场27999人",
+      "id": "7950b9be31",
+      "category": "tactical",
+      "title": "参加U15世界杯！U15国足集训名单：周海滨带队，殷扎吉、沙明入选",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.441502+00:00",
+      "time_iso": "2026-09-27T22:56:41.019785+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -579,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "51408293d8",
+      "id": "f47ba4f7c8",
       "category": "hot",
-      "title": "津媒：若张琳艳半决赛缺阵+王妍雯停赛，米利西奇排阵将遇困难",
+      "title": "2026-27亚冠精英联赛第1轮现场观众人数统计：国安主场27999人",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab70b56c7d77native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T18:14:38.441673+00:00",
+      "time_iso": "2026-09-27T22:56:41.019964+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -600,6 +576,30 @@
       "time": "2天前",
       "time_iso": "2026-09-25T04:40:34.672760+00:00",
       "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "51408293d8",
+      "category": "hot",
+      "title": "津媒：若张琳艳半决赛缺阵+王妍雯停赛，米利西奇排阵将遇困难",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab70b56c7d77native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T22:56:41.020140+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "beb874677b",
+      "category": "hot",
+      "title": "中国女足1比0战胜越南女足，晋级本届赛事半决赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab63512c71b1native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T22:56:41.020183+00:00",
+      "source": "直播吧",
       "is_hot": false
     }
   ]
