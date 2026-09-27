@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T00:24:43.773371+00:00",
+  "updated_at": "2026-09-27T07:58:34.938907+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab796373b371native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.041126+00:00",
+      "time_iso": "2026-09-27T07:58:32.495455+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "ff02401924",
+      "id": "6cabd5256a",
       "category": "hot",
-      "title": "世界杯7球获铜靴！贝林厄姆晒奖杯：我都不知道还有这个奖",
+      "title": "追平自己！姆巴佩2026国家队12球，并列法国21世纪年度最高",
       "summary": "",
-      "url": "https://bbs.hupu.com/642590933.html",
-      "team": "ENG",
+      "url": "https://bbs.hupu.com/642605847.html",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:43.772908+00:00",
+      "time_iso": "2026-09-27T07:58:34.938162+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab774c050e27native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.041170+00:00",
+      "time_iso": "2026-09-27T07:58:32.495498+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "ff02401924",
+      "category": "hot",
+      "title": "世界杯7球获铜靴！贝林厄姆晒奖杯：我都不知道还有这个奖",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642590933.html",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T07:58:34.938482+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "c769027e13",
+      "category": "hot",
+      "title": "卫报：梅西从国家队退役后，阿根廷失去了比赛失控时的保命底牌",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab8815be9ae3native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T07:58:32.496432+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642613237.html",
       "team": "ESP",
-      "time": "11小时前",
+      "time": "19小时前",
       "time_iso": "2026-09-26T12:57:29.816378+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab630e5ef088native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.042252+00:00",
+      "time_iso": "2026-09-27T07:58:32.496552+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5ae0882f02native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.042349+00:00",
+      "time_iso": "2026-09-27T07:58:32.496647+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -94,7 +118,7 @@
       "url": "https://bbs.hupu.com/642600530.html",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:43.772732+00:00",
+      "time_iso": "2026-09-27T07:58:34.938337+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -106,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5c4df56c38native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.042408+00:00",
+      "time_iso": "2026-09-27T07:58:32.496734+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,55 +142,7 @@
       "url": "https://bbs.hupu.com/642597378.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:43.772819+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "75d8e9fa9d",
-      "category": "hot",
-      "title": "葡总理：C罗和整个国家队是所有人的骄傲 没拿世界杯但真的很优秀",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab35444051fenative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.042537+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "ac02e6fd65",
-      "category": "hot",
-      "title": "向余望谈亚运会半决赛：走到这一步，发生什么都有可能",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642619870.html",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-09-26T17:42:34.119201+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "a191932095",
-      "category": "hot",
-      "title": "⭐姆巴佩完整专访：世界杯金靴|金球奖|差点去利物浦|永远支持C罗",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab282b656775native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.042564+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "a926c9dbdd",
-      "category": "hot",
-      "title": "路透社：因凡蒂诺预计不会离任，但FIFA权力之争已然开始",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642585533.html",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-09-26T17:42:34.119483+00:00",
+      "time_iso": "2026-09-27T07:58:34.938401+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.042919+00:00",
+      "time_iso": "2026-09-27T07:58:32.497167+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "cb02d80037",
+      "id": "ac02e6fd65",
       "category": "hot",
-      "title": "埃斯帕特：已习惯频繁换位置；踢欧洲杯和世界杯是儿时梦想",
+      "title": "向余望谈亚运会半决赛：走到这一步，发生什么都有可能",
       "summary": "",
-      "url": "https://bbs.hupu.com/642582600.html",
+      "url": "https://bbs.hupu.com/642619870.html",
       "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-09-26T17:42:34.119560+00:00",
+      "time": "14小时前",
+      "time_iso": "2026-09-26T17:42:34.119201+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -202,7 +178,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.043030+00:00",
+      "time_iso": "2026-09-27T07:58:32.497277+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "a926c9dbdd",
+      "category": "hot",
+      "title": "路透社：因凡蒂诺预计不会离任，但FIFA权力之争已然开始",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642585533.html",
+      "team": "",
+      "time": "14小时前",
+      "time_iso": "2026-09-26T17:42:34.119483+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "75d8e9fa9d",
+      "category": "hot",
+      "title": "葡总理：C罗和整个国家队是所有人的骄傲 没拿世界杯但真的很优秀",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab35444051fenative.htm",
+      "team": "",
+      "time": "7小时前",
+      "time_iso": "2026-09-27T00:24:42.042537+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "cb02d80037",
+      "category": "hot",
+      "title": "埃斯帕特：已习惯频繁换位置；踢欧洲杯和世界杯是儿时梦想",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642582600.html",
+      "team": "",
+      "time": "14小时前",
+      "time_iso": "2026-09-26T17:42:34.119560+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "a191932095",
+      "category": "hot",
+      "title": "⭐姆巴佩完整专访：世界杯金靴|金球奖|差点去利物浦|永远支持C罗",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab282b656775native.htm",
+      "team": "FRA",
+      "time": "7小时前",
+      "time_iso": "2026-09-27T00:24:42.042564+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642608596.html",
       "team": "",
-      "time": "11小时前",
+      "time": "19小时前",
       "time_iso": "2026-09-26T12:57:29.816525+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -225,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab33b0d9e570native.htm",
       "team": "ARG",
-      "time": "3小时前",
+      "time": "10小时前",
       "time_iso": "2026-09-26T20:58:41.810716+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642574237.html",
       "team": "",
-      "time": "11小时前",
+      "time": "19小时前",
       "time_iso": "2026-09-26T12:57:29.816696+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -249,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab4e928bc356native.htm",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T00:29:29.048120+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642573888.html",
       "team": "",
-      "time": "11小时前",
+      "time": "19小时前",
       "time_iso": "2026-09-26T12:57:29.816715+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -273,7 +297,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5cc3649f91native.htm",
       "team": "ESP",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T00:29:29.049138+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -285,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642585698.html",
       "team": "",
-      "time": "16小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T07:28:35.902046+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -309,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642582526.html",
       "team": "ESP",
-      "time": "16小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T07:28:35.902204+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -333,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642571113.html",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T00:29:31.024124+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -357,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642570948.html",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T00:29:31.024207+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -381,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642567908.html",
       "team": "JPN",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T00:29:31.024384+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -405,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642565090.html",
       "team": "KOR",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T00:29:31.024518+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -417,7 +441,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab37283dfc8cnative.htm",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-25T04:40:32.781232+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -507,16 +531,16 @@
       "is_hot": false
     },
     {
-      "id": "549ed70da7",
+      "id": "097b5c5cdb",
       "category": "hot",
-      "title": "哈维：希望金球奖颁给西班牙球员，但梅西也踢出现象级的世界杯",
+      "title": "亚运男足半决赛将开启VAR，小组赛和1/4决赛都没有VAR",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-24/6ab45c70ee89cnative.htm",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-09-24T07:31:27.823237+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab88d83afbcdnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T07:58:32.492905+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "6877352d55",
@@ -531,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "d372fbeb76",
+      "id": "00912daa7d",
       "category": "hot",
-      "title": "2026中俄足球邀请赛•赛前 | 米洛耶维奇：珍惜交流学习机会",
+      "title": "今晚国足第二战！对阵新西兰，国足面对世界杯球队能否拿下胜利？",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab860ea3c051native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab8686307708native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.034498+00:00",
+      "time_iso": "2026-09-27T07:58:32.492995+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +579,14 @@
       "is_hot": false
     },
     {
-      "id": "04b250ce30",
+      "id": "3cf6693bda",
       "category": "hot",
-      "title": "中日韩均连进四强！今年U23两届大赛8个四强席位：东亚大区占7席",
+      "title": "已完成任务！马德兴：男足亚运会赛前内部指标是四强",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab7c1b7c11b3native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab87780c6796native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.034690+00:00",
+      "time_iso": "2026-09-27T07:58:32.493066+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -573,32 +597,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642565280.html",
       "team": "NED",
-      "time": "1天前",
-      "time_iso": "2026-09-25T04:40:34.672760+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "ac7d9c45cc",
-      "category": "hot",
-      "title": "吴曦：用这种比分进四强对所有人都是肯定，半决赛大家一起拼",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab7c2660e801native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T00:24:42.034737+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c1cafa0db8",
-      "category": "hot",
-      "title": "弗拉泰西：法国三队也可能夺世界杯；意大利球员机会有点少",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642567688.html",
-      "team": "FRA",
       "time": "2天前",
-      "time_iso": "2026-09-24T18:22:19.217893+00:00",
+      "time_iso": "2026-09-25T04:40:34.672760+00:00",
       "source": "虎扑",
       "is_hot": false
     }
