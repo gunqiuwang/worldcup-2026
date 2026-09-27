@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T07:58:34.938907+00:00",
+  "updated_at": "2026-09-27T13:51:46.188554+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab796373b371native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.495455+00:00",
+      "time_iso": "2026-09-27T13:51:44.015430+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642605847.html",
       "team": "FRA",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-09-27T07:58:34.938162+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab774c050e27native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.495498+00:00",
+      "time_iso": "2026-09-27T13:51:44.015477+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642590933.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-09-27T07:58:34.938482+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab8815be9ae3native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.496432+00:00",
+      "time_iso": "2026-09-27T13:51:44.016472+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642613237.html",
       "team": "ESP",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T12:57:29.816378+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab630e5ef088native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.496552+00:00",
+      "time_iso": "2026-09-27T13:51:44.016618+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "ed6d054241",
+      "id": "8fceb12d0c",
       "category": "hot",
-      "title": "英媒：C罗若从国家队退役会多方面影响葡萄牙队 商业收入大幅缩水",
+      "title": "斯卡洛尼谈金球：在梅西踢完世界杯后无需多言，我觉得他不太在意",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5ae0882f02native.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5c4df56c38native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.496647+00:00",
+      "time_iso": "2026-09-27T13:51:44.016793+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,31 +118,7 @@
       "url": "https://bbs.hupu.com/642600530.html",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:34.938337+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "8fceb12d0c",
-      "category": "hot",
-      "title": "斯卡洛尼谈金球：在梅西踢完世界杯后无需多言，我觉得他不太在意",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5c4df56c38native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.496734+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "ed9765e5de",
-      "category": "hot",
-      "title": "英超西甲意甲德甲发表联合声明：FIFA必须进行根本性改革",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642597378.html",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:34.938401+00:00",
+      "time_iso": "2026-09-27T13:51:46.188049+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -154,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.497167+00:00",
+      "time_iso": "2026-09-27T13:51:44.017224+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "ac02e6fd65",
+      "id": "ed9765e5de",
       "category": "hot",
-      "title": "向余望谈亚运会半决赛：走到这一步，发生什么都有可能",
+      "title": "英超西甲意甲德甲发表联合声明：FIFA必须进行根本性改革",
       "summary": "",
-      "url": "https://bbs.hupu.com/642619870.html",
+      "url": "https://bbs.hupu.com/642597378.html",
       "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-09-26T17:42:34.119201+00:00",
+      "time": "5小时前",
+      "time_iso": "2026-09-27T07:58:34.938401+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,7 +154,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.497277+00:00",
+      "time_iso": "2026-09-27T13:51:44.017344+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "ac02e6fd65",
+      "category": "hot",
+      "title": "向余望谈亚运会半决赛：走到这一步，发生什么都有可能",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642619870.html",
+      "team": "",
+      "time": "20小时前",
+      "time_iso": "2026-09-26T17:42:34.119201+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "ed6d054241",
+      "category": "hot",
+      "title": "英媒：C罗若从国家队退役会多方面影响葡萄牙队 商业收入大幅缩水",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5ae0882f02native.htm",
+      "team": "POR",
+      "time": "5小时前",
+      "time_iso": "2026-09-27T07:58:32.496647+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642585533.html",
       "team": "",
-      "time": "14小时前",
+      "time": "20小时前",
       "time_iso": "2026-09-26T17:42:34.119483+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab35444051fenative.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-09-27T00:24:42.042537+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642582600.html",
       "team": "",
-      "time": "14小时前",
+      "time": "20小时前",
       "time_iso": "2026-09-26T17:42:34.119560+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -225,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab282b656775native.htm",
       "team": "FRA",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-09-27T00:24:42.042564+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642608596.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T12:57:29.816525+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -249,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab33b0d9e570native.htm",
       "team": "ARG",
-      "time": "10小时前",
+      "time": "16小时前",
       "time_iso": "2026-09-26T20:58:41.810716+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642574237.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T12:57:29.816696+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642573888.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-09-26T12:57:29.816715+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -417,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-25/6ab5d19f4da70native.htm",
       "team": "BRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-25T11:40:09.045240+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -507,16 +507,16 @@
       "is_hot": false
     },
     {
-      "id": "fff4165ce4",
+      "id": "e84183a92d",
       "category": "hot",
-      "title": "大马丁：梅西会拿金球奖，我绝对没戏，遗憾今年世界杯决赛没赢",
+      "title": "0-3不敌新西兰！赛前90名对87名，国足FIFA实时排名下降2名至92名",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab274e85afa2native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-09-24T13:28:59.865410+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab917be27b78native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-27T13:51:44.006936+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "a235ae21ce",
@@ -531,14 +531,14 @@
       "is_hot": false
     },
     {
-      "id": "097b5c5cdb",
-      "category": "hot",
-      "title": "亚运男足半决赛将开启VAR，小组赛和1/4决赛都没有VAR",
+      "id": "7950b9be31",
+      "category": "tactical",
+      "title": "参加U15世界杯！U15国足集训名单：周海滨带队，殷扎吉、沙明入选",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab88d83afbcdnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.492905+00:00",
+      "time_iso": "2026-09-27T13:51:44.007287+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -555,14 +555,14 @@
       "is_hot": false
     },
     {
-      "id": "00912daa7d",
+      "id": "f47ba4f7c8",
       "category": "hot",
-      "title": "今晚国足第二战！对阵新西兰，国足面对世界杯球队能否拿下胜利？",
+      "title": "2026-27亚冠精英联赛第1轮现场观众人数统计：国安主场27999人",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab8686307708native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.492995+00:00",
+      "time_iso": "2026-09-27T13:51:44.007475+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -573,20 +573,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642560501.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-09-25T11:40:10.948776+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "3cf6693bda",
+      "id": "51408293d8",
       "category": "hot",
-      "title": "已完成任务！马德兴：男足亚运会赛前内部指标是四强",
+      "title": "津媒：若张琳艳半决赛缺阵+王妍雯停赛，米利西奇排阵将遇困难",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab87780c6796native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab70b56c7d77native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-27T07:58:32.493066+00:00",
+      "time_iso": "2026-09-27T13:51:44.007672+00:00",
       "source": "直播吧",
       "is_hot": false
     },
