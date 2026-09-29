@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T08:18:04.412285+00:00",
-  "count": 43,
+  "updated_at": "2026-09-29T16:26:59.193653+00:00",
+  "count": 39,
   "articles": [
     {
       "id": "10667a8cd6",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6ab9ce7596bb3native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.873502+00:00",
+      "time_iso": "2026-09-29T16:26:56.723960+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642644763.html",
       "team": "ESP",
-      "time": "11小时前",
+      "time": "19小时前",
       "time_iso": "2026-09-28T20:29:13.332675+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba7621174fanative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.874554+00:00",
+      "time_iso": "2026-09-29T16:26:56.724719+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba16e93b08anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.874600+00:00",
+      "time_iso": "2026-09-29T16:26:56.724758+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,31 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6ab9c8f243981native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.874674+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "0f0c773b2c",
-      "category": "hot",
-      "title": "亚马尔：世界杯我拿球人们就起立，我这种级别球员才能体会",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642613237.html",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-09-26T12:57:29.816378+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "c73169e424",
-      "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.875211+00:00",
+      "time_iso": "2026-09-29T16:26:56.724812+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,20 +93,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642661645.html",
       "team": "FRA",
-      "time": "1分钟前",
+      "time": "8小时前",
       "time_iso": "2026-09-29T08:18:04.411576+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "cfb98e86ee",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.875329+00:00",
+      "time_iso": "2026-09-29T16:26:56.725206+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +123,14 @@
       "is_hot": false
     },
     {
-      "id": "2561e05839",
+      "id": "cfb98e86ee",
       "category": "hot",
-      "title": "维尔茨穿亚马尔同款内裤抢镜，曾因世界杯决赛一度卖断货",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba2c5c1770bnative.htm",
-      "team": "GER",
-      "time": "6小时前",
-      "time_iso": "2026-09-29T01:44:23.903748+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T16:26:56.725302+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "f6ddbf20f6",
+      "id": "2561e05839",
       "category": "hot",
-      "title": "法国队官方：姆巴佩因伤离开本期国家队，不会补招其他球员",
+      "title": "维尔茨穿亚马尔同款内裤抢镜，曾因世界杯决赛一度卖断货",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab796373b371native.htm",
-      "team": "FRA",
-      "time": "1天前",
-      "time_iso": "2026-09-28T05:07:04.492586+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba2c5c1770bnative.htm",
+      "team": "GER",
+      "time": "14小时前",
+      "time_iso": "2026-09-29T01:44:23.903748+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "a04a0ddfb1",
+      "id": "f6ddbf20f6",
       "category": "hot",
-      "title": "世体：姆巴佩将回皇马接受详细检查，若缺战超28天可获FIFA赔偿",
+      "title": "法国队官方：姆巴佩因伤离开本期国家队，不会补招其他球员",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab774c050e27native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab796373b371native.htm",
       "team": "FRA",
       "time": "1天前",
-      "time_iso": "2026-09-27T22:56:41.022186+00:00",
+      "time_iso": "2026-09-28T05:07:04.492586+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "c769027e13",
+      "id": "a04a0ddfb1",
       "category": "hot",
-      "title": "卫报：梅西从国家队退役后，阿根廷失去了比赛失控时的保命底牌",
+      "title": "世体：姆巴佩将回皇马接受详细检查，若缺战超28天可获FIFA赔偿",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab8815be9ae3native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab774c050e27native.htm",
+      "team": "FRA",
       "time": "1天前",
-      "time_iso": "2026-09-27T22:56:41.023329+00:00",
+      "time_iso": "2026-09-27T22:56:41.022186+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,6 +219,18 @@
       "is_hot": false
     },
     {
+      "id": "c769027e13",
+      "category": "hot",
+      "title": "卫报：梅西从国家队退役后，阿根廷失去了比赛失控时的保命底牌",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab8815be9ae3native.htm",
+      "team": "ARG",
+      "time": "1天前",
+      "time_iso": "2026-09-27T22:56:41.023329+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
       "id": "fe3a54560c",
       "category": "hot",
       "title": "阿迪达斯今日正式推出特别版球衣，致敬梅西传奇阿根廷国家队生涯",
@@ -253,18 +241,6 @@
       "time_iso": "2026-09-27T22:56:41.023500+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "84ee51396b",
-      "category": "hot",
-      "title": "亚运男足前瞻：中国队再战泰国冲击四强，王钰栋停赛成变数",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642608596.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-26T12:57:29.816525+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "8fceb12d0c",
@@ -279,18 +255,6 @@
       "is_hot": true
     },
     {
-      "id": "83ef787b57",
-      "category": "injury",
-      "title": "前威尔士国脚：帕尔默因没参加世界杯赌气，所以这次装受伤",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642574237.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-26T12:57:29.816696+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "ed6d054241",
       "category": "hot",
       "title": "英媒：C罗若从国家队退役会多方面影响葡萄牙队 商业收入大幅缩水",
@@ -301,18 +265,6 @@
       "time_iso": "2026-09-27T07:58:32.496647+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "3d3e22c2e7",
-      "category": "hot",
-      "title": "前金球奖负责人：金球得主若没拿世界杯或欧冠，那会很奇怪",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642573888.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-26T12:57:29.816715+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "75d8e9fa9d",
@@ -351,26 +303,26 @@
       "is_hot": true
     },
     {
-      "id": "249abbf0b4",
+      "id": "788e409202",
       "category": "hot",
-      "title": "亚洲杯四强+亚运会铜牌赛，如何评价女足主帅米利西奇执教成绩？",
+      "title": "昨晚执法韩国vs乌拉圭！马宁社媒：昨晚体会到世界杯球队的高水平",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb670901b02native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abbd64c1789cnative.htm",
+      "team": "URU",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.871208+00:00",
+      "time_iso": "2026-09-29T16:26:56.719621+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "57e79fdbca",
+      "id": "0571dba711",
       "category": "hot",
-      "title": "亚运男足半决赛中国vs韩国裁判信息：塔吉克斯坦裁判执法，有VAR",
+      "title": "2026中甲联赛第2轮、第14轮、第18轮补赛后现场观众人数统计",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb5ddf08c77native.htm",
-      "team": "KOR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abbc430c4e30native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.871364+00:00",
+      "time_iso": "2026-09-29T16:26:56.719712+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.871608+00:00",
+      "time_iso": "2026-09-29T16:26:56.719977+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.871791+00:00",
+      "time_iso": "2026-09-29T16:26:56.720127+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb4b1338ca4native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.871929+00:00",
+      "time_iso": "2026-09-29T16:26:56.720227+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,19 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb179535de5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.871973+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8dc8bb664b",
-      "category": "hot",
-      "title": "亚运会半决赛-中国女足VS朝鲜女足将于明日14点打响",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba0391ab9b6native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.872133+00:00",
+      "time_iso": "2026-09-29T16:26:56.720262+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,43 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb602954587native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.872233+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "04bd0ffe7f",
-      "category": "hot",
-      "title": "法国队2026年各赛事取胜11场，2018年之后自然年胜场最多",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abaf7473faf0native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.872758+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "68640e80d7",
-      "category": "hot",
-      "title": "TA：因凡蒂诺同意动用FIFA60亿美元储备金，向各协会分配更多资金",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abae83e15015native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.872826+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "37bd854eea",
-      "category": "hot",
-      "title": "拉波尔特：我没配备最顶级的营销团队 世界杯时对阵佛得角最艰难",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb5e6b1ef5cnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.873639+00:00",
+      "time_iso": "2026-09-29T16:26:56.720930+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,31 +394,79 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6ab9bd6eac29anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.874218+00:00",
+      "time_iso": "2026-09-29T16:26:56.724502+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "dad6984606",
+      "id": "c62cf48fd6",
       "category": "hot",
-      "title": "马特乌斯：德国球员俱乐部表现很好，但在国家队未能展现应有实力",
+      "title": "成人女星：某尤文图斯球员和世界杯某教练曾私信追求我",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abaefd044511native.htm",
-      "team": "GER",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.874323+00:00",
+      "time_iso": "2026-09-29T16:26:56.725248+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "b8aff21b13",
+      "id": "3ae87475e0",
       "category": "hot",
-      "title": "4球9助！奥利塞2026年为法国队出战14场比赛，直接参与13球",
+      "title": "荷媒：因为要参加罗纳德·科曼妻子葬礼，荷兰国家队日程调整",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abadf751e5b5native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab26ce301e13native.htm",
+      "team": "NED",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T08:18:01.874365+00:00",
+      "time_iso": "2026-09-29T16:26:56.725567+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "b52c060012",
+      "category": "hot",
+      "title": "国家队首秀即破门，官方:23岁松木玖生当选日本3-1乌拉圭全场最佳",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab79341c4a17native.htm",
+      "team": "URU",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T16:26:56.725634+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ef10232e8a",
+      "category": "hot",
+      "title": "记者:U23国足昨日移师大阪备战与韩国U23的半决赛 训练基本全封闭",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba3e9f9e23anative.htm",
+      "team": "KOR",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T16:26:56.725712+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "e6e7142fe4",
+      "category": "hot",
+      "title": "马宁社媒祝贺U23国足：祝贺中国男足时隔28年后进入亚运会四强",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab7b5e4ccdednative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T16:26:56.725739+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "4aca813d0a",
+      "category": "hot",
+      "title": "哥伦比亚新10号！J罗从国家队退役后，琼·阿里亚斯将穿10号球衣",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab864e1980b9native.htm",
+      "team": "COL",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T16:26:56.725843+00:00",
       "source": "直播吧",
       "is_hot": false
     }
