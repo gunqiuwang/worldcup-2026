@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T16:26:59.193653+00:00",
-  "count": 39,
+  "updated_at": "2026-09-29T22:08:50.885236+00:00",
+  "count": 36,
   "articles": [
     {
       "id": "10667a8cd6",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6ab9ce7596bb3native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.723960+00:00",
+      "time_iso": "2026-09-29T22:08:48.567038+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,20 +21,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642644763.html",
       "team": "ESP",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-09-28T20:29:13.332675+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "c0e86fff5b",
+      "id": "2b3c55a96f",
       "category": "hot",
-      "title": "梅西国家队最后一战！官方：阿根廷vs贝宁10月7日7点开球",
+      "title": "尼科：我还在满怀深情地回忆世界杯夺冠 希望亚马尔能赢得金球奖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba7621174fanative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-30/6abc2d38daf12native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.724719+00:00",
+      "time_iso": "2026-09-29T22:08:48.567146+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +51,14 @@
       "is_hot": true
     },
     {
-      "id": "3b0e0e9d71",
+      "id": "c0e86fff5b",
       "category": "hot",
-      "title": "Footy Headlines独家爆料：39岁梅西正考虑2026赛季结束后退役！",
+      "title": "梅西国家队最后一战！官方：阿根廷vs贝宁10月7日7点开球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba16e93b08anative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba7621174fanative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.724758+00:00",
+      "time_iso": "2026-09-29T22:08:48.568332+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "0d2709de20",
+      "id": "3b0e0e9d71",
       "category": "hot",
-      "title": "难说再见！梅西下场比赛是阿根廷国家队告别赛，预计10月7日打响",
+      "title": "Footy Headlines独家爆料：39岁梅西正考虑2026赛季结束后退役！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6ab9c8f243981native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba16e93b08anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.724812+00:00",
+      "time_iso": "2026-09-29T22:08:48.568361+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642661645.html",
       "team": "FRA",
-      "time": "8小时前",
+      "time": "13小时前",
       "time_iso": "2026-09-29T08:18:04.411576+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725206+00:00",
+      "time_iso": "2026-09-29T22:08:48.568864+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725302+00:00",
+      "time_iso": "2026-09-29T22:08:48.569010+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,28 +147,28 @@
       "is_hot": false
     },
     {
+      "id": "0d2709de20",
+      "category": "hot",
+      "title": "难说再见！梅西下场比赛是阿根廷国家队告别赛，预计10月7日打响",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6ab9c8f243981native.htm",
+      "team": "ARG",
+      "time": "5小时前",
+      "time_iso": "2026-09-29T16:26:56.724812+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
       "id": "2561e05839",
       "category": "hot",
       "title": "维尔茨穿亚马尔同款内裤抢镜，曾因世界杯决赛一度卖断货",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba2c5c1770bnative.htm",
       "team": "GER",
-      "time": "14小时前",
+      "time": "20小时前",
       "time_iso": "2026-09-29T01:44:23.903748+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "ac02e6fd65",
-      "category": "hot",
-      "title": "向余望谈亚运会半决赛：走到这一步，发生什么都有可能",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642619870.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-26T17:42:34.119201+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "f6ddbf20f6",
@@ -183,18 +183,6 @@
       "is_hot": true
     },
     {
-      "id": "a926c9dbdd",
-      "category": "hot",
-      "title": "路透社：因凡蒂诺预计不会离任，但FIFA权力之争已然开始",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642585533.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-26T17:42:34.119483+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "a04a0ddfb1",
       "category": "hot",
       "title": "世体：姆巴佩将回皇马接受详细检查，若缺战超28天可获FIFA赔偿",
@@ -205,18 +193,6 @@
       "time_iso": "2026-09-27T22:56:41.022186+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "cb02d80037",
-      "category": "hot",
-      "title": "埃斯帕特：已习惯频繁换位置；踢欧洲杯和世界杯是儿时梦想",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642582600.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-09-26T17:42:34.119560+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "c769027e13",
@@ -291,18 +267,6 @@
       "is_hot": true
     },
     {
-      "id": "73ab2ceba5",
-      "category": "hot",
-      "title": "阿根廷国脚苏莱：梅西在世界杯的表现配得上金球奖，他是现象级的",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-23/6ab33b0d9e570native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-09-26T20:58:41.810716+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "788e409202",
       "category": "hot",
       "title": "昨晚执法韩国vs乌拉圭！马宁社媒：昨晚体会到世界杯球队的高水平",
@@ -310,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abbd64c1789cnative.htm",
       "team": "URU",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.719621+00:00",
+      "time_iso": "2026-09-29T22:08:48.564661+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abbc430c4e30native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.719712+00:00",
+      "time_iso": "2026-09-29T22:08:48.564760+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-21/6ab0f918da496native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.719977+00:00",
+      "time_iso": "2026-09-29T22:08:48.565091+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-17/6aabc4bd60f7fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.720127+00:00",
+      "time_iso": "2026-09-29T22:08:48.565258+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb4b1338ca4native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.720227+00:00",
+      "time_iso": "2026-09-29T22:08:48.565369+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +334,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb179535de5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.720262+00:00",
+      "time_iso": "2026-09-29T22:08:48.565411+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "5dd29331b1",
+      "category": "hot",
+      "title": "里程碑之日取得进球！巴西足协祝贺吉马良斯达成国家队50场里程碑",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-30/6abc196683412native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T22:08:48.565684+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +358,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abb602954587native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.720930+00:00",
+      "time_iso": "2026-09-29T22:08:48.566304+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "31f0c216fd",
+      "category": "hot",
+      "title": "费尔明：能为我的国家出战是荣耀 以球迷身份经历世界杯有点奇怪",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-30/6abc2c823afccnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T22:08:48.567181+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "40ec60ed07",
+      "category": "hot",
+      "title": "西班牙国家队在皮斯胡安球场保持不败，26场取得了21胜5平的战绩",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-30/6abc2b2c96124native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T22:08:48.567213+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "f3f32ab01d",
+      "category": "hot",
+      "title": "欧国联2连胜+世界杯7胜！西班牙获9连胜，追平德拉富恩特时代纪录",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-30/6abc245df3eeenative.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T22:08:48.567255+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ced282d8bf",
+      "category": "hot",
+      "title": "时光荏苒，距离莫德里奇上演克罗地亚国家队首秀已经过去20多年",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-09-30/6abc2560bb57anative.htm",
+      "team": "CRO",
+      "time": "1分钟前",
+      "time_iso": "2026-09-29T22:08:48.567542+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6ab9bd6eac29anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.724502+00:00",
+      "time_iso": "2026-09-29T22:08:48.568024+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,67 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725248+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "3ae87475e0",
-      "category": "hot",
-      "title": "荷媒：因为要参加罗纳德·科曼妻子葬礼，荷兰国家队日程调整",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-22/6ab26ce301e13native.htm",
-      "team": "NED",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725567+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "b52c060012",
-      "category": "hot",
-      "title": "国家队首秀即破门，官方:23岁松木玖生当选日本3-1乌拉圭全场最佳",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab79341c4a17native.htm",
-      "team": "URU",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725634+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ef10232e8a",
-      "category": "hot",
-      "title": "记者:U23国足昨日移师大阪备战与韩国U23的半决赛 训练基本全封闭",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba3e9f9e23anative.htm",
-      "team": "KOR",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725712+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "e6e7142fe4",
-      "category": "hot",
-      "title": "马宁社媒祝贺U23国足：祝贺中国男足时隔28年后进入亚运会四强",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-26/6ab7b5e4ccdednative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725739+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4aca813d0a",
-      "category": "hot",
-      "title": "哥伦比亚新10号！J罗从国家队退役后，琼·阿里亚斯将穿10号球衣",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-27/6ab864e1980b9native.htm",
-      "team": "COL",
-      "time": "1分钟前",
-      "time_iso": "2026-09-29T16:26:56.725843+00:00",
+      "time_iso": "2026-09-29T22:08:48.568910+00:00",
       "source": "直播吧",
       "is_hot": false
     }
