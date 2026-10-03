@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T16:07:00.481846+00:00",
+  "updated_at": "2026-10-03T20:56:53.375144+00:00",
   "count": 50,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac08086690aenative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.929736+00:00",
+      "time_iso": "2026-10-03T20:56:51.485362+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642712054.html",
       "team": "POR",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-10-03T16:07:00.481404+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac05d495ff9dnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.929778+00:00",
+      "time_iso": "2026-10-03T20:56:51.485396+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,8 +45,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642703276.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-10-03T16:07:00.481441+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "8f0f4f11bd",
+      "category": "hot",
+      "title": "西班牙队的开局外挂！亚马尔11粒国家队进球有5球来自前10分钟",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac153543ae93native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-03T20:56:51.485762+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "388d7afbd6",
+      "category": "hot",
+      "title": "梅洛：金球奖必须给梅西，他是史上最佳球员+本届世界杯最佳",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642682181.html",
+      "team": "ARG",
+      "time": "21小时前",
+      "time_iso": "2026-10-02T23:41:17.676639+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,31 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac090680dd4fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.931174+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "388d7afbd6",
-      "category": "hot",
-      "title": "梅洛：金球奖必须给梅西，他是史上最佳球员+本届世界杯最佳",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642682181.html",
-      "team": "ARG",
-      "time": "16小时前",
-      "time_iso": "2026-10-02T23:41:17.676639+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "8b1d6c3315",
-      "category": "hot",
-      "title": "终有一别！奥莱报：梅西已经和家人抵达阿根廷，准备国家队告别战",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-02/6abf896ad280bnative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.931297+00:00",
+      "time_iso": "2026-10-03T20:56:51.486602+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642679530.html",
       "team": "POR",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-02T23:41:17.676828+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-02/6abee8438cec2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.931364+00:00",
+      "time_iso": "2026-10-03T20:56:51.486643+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-02/6abe94416607fnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.931396+00:00",
+      "time_iso": "2026-10-03T20:56:51.486668+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,19 +154,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-01/6abdac0b1b228native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.931470+00:00",
+      "time_iso": "2026-10-03T20:56:51.486730+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "29fc7b7502",
-      "category": "hot",
-      "title": "法国半场遭8次射门！上次主场更多还是2016欧洲杯半决赛",
+      "id": "cb31755806",
+      "category": "tactical",
+      "title": "弗雷德：巴西22年世界杯最有希望，但战术出问题我成背锅的",
       "summary": "",
-      "url": "https://bbs.hupu.com/642729428.html",
-      "team": "FRA",
+      "url": "https://bbs.hupu.com/642734114.html",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:07:00.481066+00:00",
+      "time_iso": "2026-10-03T20:56:53.374541+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,19 +178,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.931924+00:00",
+      "time_iso": "2026-10-03T20:56:51.487080+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "6d0de3c1d1",
+      "id": "29fc7b7502",
       "category": "hot",
-      "title": "记者：阿足协想独占收入，布基纳法索球员拒绝赴阿根廷参赛",
+      "title": "法国半场遭8次射门！上次主场更多还是2016欧洲杯半决赛",
       "summary": "",
-      "url": "https://bbs.hupu.com/642728241.html",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-03T16:07:00.481206+00:00",
+      "url": "https://bbs.hupu.com/642729428.html",
+      "team": "FRA",
+      "time": "4小时前",
+      "time_iso": "2026-10-03T16:07:00.481066+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -202,7 +202,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-03T16:06:55.932050+00:00",
+      "time_iso": "2026-10-03T20:56:51.487172+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "6d0de3c1d1",
+      "category": "hot",
+      "title": "记者：阿足协想独占收入，布基纳法索球员拒绝赴阿根廷参赛",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642728241.html",
+      "team": "ARG",
+      "time": "4小时前",
+      "time_iso": "2026-10-03T16:07:00.481206+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "8b1d6c3315",
+      "category": "hot",
+      "title": "终有一别！奥莱报：梅西已经和家人抵达阿根廷，准备国家队告别战",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-02/6abf896ad280bnative.htm",
+      "team": "ARG",
+      "time": "4小时前",
+      "time_iso": "2026-10-03T16:06:55.931297+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642711185.html",
       "team": "FRA",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-10-03T11:31:55.494870+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642694111.html",
       "team": "",
-      "time": "11小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-03T05:03:44.398425+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642691639.html",
       "team": "USA",
-      "time": "11小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-03T05:03:44.398636+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -285,7 +309,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642691565.html",
       "team": "JPN",
-      "time": "11小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-03T05:03:44.398688+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -297,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-01/6abe3a0ff387dnative.htm",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-01T19:24:40.768848+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -309,7 +333,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642680193.html",
       "team": "ESP",
-      "time": "11小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-03T05:03:44.398931+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -321,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-01/6abe0cf838516native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-01T19:24:40.769727+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -333,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642685658.html",
       "team": "",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-02T23:41:17.676534+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -345,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-01/6abdad6826de2native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-01T19:24:40.769782+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -357,7 +381,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642680231.html",
       "team": "ESP",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-02T23:41:17.676685+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -381,7 +405,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642679588.html",
       "team": "",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-02T23:41:17.676749+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -405,7 +429,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642676739.html",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-02T23:41:17.676993+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -429,7 +453,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642677486.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-10-02T19:08:26.815480+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -575,30 +599,6 @@
       "team": "ESP",
       "time": "2天前",
       "time_iso": "2026-09-30T23:38:36.481158+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "c0e86fff5b",
-      "category": "hot",
-      "title": "梅西国家队最后一战！官方：阿根廷vs贝宁10月7日7点开球",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-09-28/6aba7621174fanative.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-09-30T19:03:34.397020+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "318ecff637",
-      "category": "hot",
-      "title": "摩洛哥足协游说因凡蒂诺，想要取代西班牙主办30世界杯决赛",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642668779.html",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-09-30T23:38:36.481224+00:00",
       "source": "虎扑",
       "is_hot": false
     }
