@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T12:20:03.466922+00:00",
-  "count": 48,
+  "updated_at": "2026-10-10T18:24:32.758756+00:00",
+  "count": 50,
   "articles": [
     {
       "id": "2ac2e74487",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6aca0f9978740native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.438137+00:00",
+      "time_iso": "2026-10-10T18:24:30.752550+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642829248.html",
       "team": "ARG",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-10T05:34:44.606839+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac8ac0e5c847native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.438969+00:00",
+      "time_iso": "2026-10-10T18:24:30.752643+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642806181.html",
       "team": "FRA",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-10-09T16:55:44.894482+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac996d80cabenative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.439016+00:00",
+      "time_iso": "2026-10-10T18:24:30.752688+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac856d15a9cenative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.439089+00:00",
+      "time_iso": "2026-10-10T18:24:30.752747+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,19 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.439451+00:00",
+      "time_iso": "2026-10-10T18:24:30.753067+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "9598de7402",
+      "id": "22788fc7a7",
       "category": "hot",
-      "title": "FM：齐达内欣赏约罗的表现，他未来或会再次入选法国国家队",
+      "title": "王钰栋：年轻一代有信心进世界杯，不觉得和强队有大差距",
       "summary": "",
-      "url": "https://bbs.hupu.com/642790489.html",
-      "team": "FRA",
+      "url": "https://bbs.hupu.com/642864901.html",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:20:03.466516+00:00",
+      "time_iso": "2026-10-10T18:24:32.758232+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.439558+00:00",
+      "time_iso": "2026-10-10T18:24:30.753150+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "e6dc299fdb",
+      "id": "0eaf90b472",
       "category": "hot",
-      "title": "4场仅取1胜！德国最新FIFA排名下降至13，被瑞士超越",
+      "title": "FIFA报告：阿根廷是世界杯期间社交媒体上最被仇恨的国家队",
       "summary": "",
-      "url": "https://bbs.hupu.com/642829333.html",
-      "team": "GER",
-      "time": "6小时前",
-      "time_iso": "2026-10-10T05:34:44.606740+00:00",
+      "url": "https://bbs.hupu.com/642863541.html",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-10T18:24:32.758308+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -153,20 +153,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac8d92e90aeanative.htm",
       "team": "POR",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-10T05:34:39.944458+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "32c3801010",
+      "id": "433b1f213a",
       "category": "hot",
-      "title": "北青：U19国青11月将参加熊猫杯，韩国越南阿联酋来华参赛",
+      "title": "王钰栋：年轻一代有信心进世界杯，更多的年轻球员要走出去",
       "summary": "",
-      "url": "https://bbs.hupu.com/642826198.html",
-      "team": "KOR",
-      "time": "6小时前",
-      "time_iso": "2026-10-10T05:34:44.606899+00:00",
+      "url": "https://bbs.hupu.com/642862990.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-10T18:24:32.758339+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -177,20 +177,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-07/6ac65a58a8108native.htm",
       "team": "ARG",
-      "time": "13小时前",
+      "time": "19小时前",
       "time_iso": "2026-10-09T22:32:14.067803+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "2557d55032",
+      "id": "205c4cc089",
       "category": "hot",
-      "title": "卫报独家：FIFA强行要在冬季办女足世俱杯，将影响欧洲联赛",
+      "title": "巴西、意大利争抢18岁新星！小罗比尼奥面临国家队选择",
       "summary": "",
-      "url": "https://bbs.hupu.com/642808970.html",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-10-10T05:34:44.606989+00:00",
+      "url": "https://bbs.hupu.com/642856429.html",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-10T18:24:32.758409+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "da5312bf65",
-      "category": "injury",
-      "title": "马卡：西甲遭FIFA病毒打击，14名球员受伤，皇马巴萨各两人",
+      "id": "9598de7402",
+      "category": "hot",
+      "title": "FM：齐达内欣赏约罗的表现，他未来或会再次入选法国国家队",
       "summary": "",
-      "url": "https://bbs.hupu.com/642800411.html",
-      "team": "",
-      "time": "13小时前",
-      "time_iso": "2026-10-09T22:32:15.960358+00:00",
+      "url": "https://bbs.hupu.com/642790489.html",
+      "team": "FRA",
+      "time": "6小时前",
+      "time_iso": "2026-10-10T12:20:03.466516+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,14 @@
       "is_hot": true
     },
     {
-      "id": "6c9ea91db0",
+      "id": "e6dc299fdb",
       "category": "hot",
-      "title": "上任4连败！马克斯：世界杯友谊赛没可比性，主要为考察球员",
+      "title": "4场仅取1胜！德国最新FIFA排名下降至13，被瑞士超越",
       "summary": "",
-      "url": "https://bbs.hupu.com/642808170.html",
-      "team": "",
-      "time": "19小时前",
-      "time_iso": "2026-10-09T16:55:44.894304+00:00",
+      "url": "https://bbs.hupu.com/642829333.html",
+      "team": "GER",
+      "time": "12小时前",
+      "time_iso": "2026-10-10T05:34:44.606740+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -255,14 +255,14 @@
       "is_hot": true
     },
     {
-      "id": "546b4c17de",
+      "id": "32c3801010",
       "category": "hot",
-      "title": "最新FIFA排名：西班牙第一；国足第96&亚洲第15，近10年新低",
+      "title": "北青：U19国青11月将参加熊猫杯，韩国越南阿联酋来华参赛",
       "summary": "",
-      "url": "https://bbs.hupu.com/642807895.html",
-      "team": "ESP",
-      "time": "19小时前",
-      "time_iso": "2026-10-09T16:55:44.894397+00:00",
+      "url": "https://bbs.hupu.com/642826198.html",
+      "team": "KOR",
+      "time": "12小时前",
+      "time_iso": "2026-10-10T05:34:44.606899+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -279,14 +279,14 @@
       "is_hot": true
     },
     {
-      "id": "3859fc9cf8",
+      "id": "2557d55032",
       "category": "hot",
-      "title": "吉鲁：加盟阿森纳让我真正起飞；世界杯对英格兰进球后想哭",
+      "title": "卫报独家：FIFA强行要在冬季办女足世俱杯，将影响欧洲联赛",
       "summary": "",
-      "url": "https://bbs.hupu.com/642806127.html",
-      "team": "ENG",
-      "time": "19小时前",
-      "time_iso": "2026-10-09T16:55:44.894513+00:00",
+      "url": "https://bbs.hupu.com/642808970.html",
+      "team": "",
+      "time": "12小时前",
+      "time_iso": "2026-10-10T05:34:44.606989+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -303,14 +303,14 @@
       "is_hot": true
     },
     {
-      "id": "6c00e27e12",
-      "category": "hot",
-      "title": "凯恩已为英格兰队打进91球，是第七位国家队90+球的球员",
+      "id": "da5312bf65",
+      "category": "injury",
+      "title": "马卡：西甲遭FIFA病毒打击，14名球员受伤，皇马巴萨各两人",
       "summary": "",
-      "url": "https://bbs.hupu.com/642797051.html",
-      "team": "ENG",
+      "url": "https://bbs.hupu.com/642800411.html",
+      "team": "",
       "time": "19小时前",
-      "time_iso": "2026-10-09T16:55:44.894700+00:00",
+      "time_iso": "2026-10-09T22:32:15.960358+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -327,14 +327,14 @@
       "is_hot": true
     },
     {
-      "id": "a179e72bca",
+      "id": "6c9ea91db0",
       "category": "hot",
-      "title": "希克在世界杯后退出捷克国家队，与新帅沟通后重新考虑回归",
+      "title": "上任4连败！马克斯：世界杯友谊赛没可比性，主要为考察球员",
       "summary": "",
-      "url": "https://bbs.hupu.com/642797062.html",
+      "url": "https://bbs.hupu.com/642808170.html",
       "team": "",
       "time": "1天前",
-      "time_iso": "2026-10-08T19:47:06.304321+00:00",
+      "time_iso": "2026-10-09T16:55:44.894304+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -351,14 +351,14 @@
       "is_hot": true
     },
     {
-      "id": "f5b3c5863d",
+      "id": "546b4c17de",
       "category": "hot",
-      "title": "西班牙世界杯首冠成员仅剩拉莫斯还未退役，但目前无球可踢",
+      "title": "最新FIFA排名：西班牙第一；国足第96&亚洲第15，近10年新低",
       "summary": "",
-      "url": "https://bbs.hupu.com/642808353.html",
+      "url": "https://bbs.hupu.com/642807895.html",
       "team": "ESP",
       "time": "1天前",
-      "time_iso": "2026-10-08T13:16:00.430997+00:00",
+      "time_iso": "2026-10-09T16:55:44.894397+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -375,14 +375,14 @@
       "is_hot": true
     },
     {
-      "id": "7f33e5d65c",
+      "id": "3859fc9cf8",
       "category": "hot",
-      "title": "曼联官方晒2026/27赛季全家福，卡里克携一线队球员集体出镜",
+      "title": "吉鲁：加盟阿森纳让我真正起飞；世界杯对英格兰进球后想哭",
       "summary": "",
-      "url": "https://bbs.hupu.com/642777092.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/642806127.html",
+      "team": "ENG",
       "time": "1天前",
-      "time_iso": "2026-10-08T13:16:00.431264+00:00",
+      "time_iso": "2026-10-09T16:55:44.894513+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -399,14 +399,14 @@
       "is_hot": true
     },
     {
-      "id": "ae9d7526c7",
+      "id": "6c00e27e12",
       "category": "hot",
-      "title": "欧国联形势综述：西葡提前晋级淘汰赛，德国形势不乐观",
+      "title": "凯恩已为英格兰队打进91球，是第七位国家队90+球的球员",
       "summary": "",
-      "url": "https://bbs.hupu.com/642797436.html",
-      "team": "GER",
-      "time": "2天前",
-      "time_iso": "2026-10-08T05:47:23.372840+00:00",
+      "url": "https://bbs.hupu.com/642797051.html",
+      "team": "ENG",
+      "time": "1天前",
+      "time_iso": "2026-10-09T16:55:44.894700+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -423,14 +423,14 @@
       "is_hot": true
     },
     {
-      "id": "a68e290d22",
+      "id": "a179e72bca",
       "category": "hot",
-      "title": "因因凡蒂诺需要刚果足协支持，FIFA默许其违规并杀入世界杯",
+      "title": "希克在世界杯后退出捷克国家队，与新帅沟通后重新考虑回归",
       "summary": "",
-      "url": "https://bbs.hupu.com/642787881.html",
+      "url": "https://bbs.hupu.com/642797062.html",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-08T05:47:23.373141+00:00",
+      "time": "1天前",
+      "time_iso": "2026-10-08T19:47:06.304321+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -447,16 +447,16 @@
       "is_hot": true
     },
     {
-      "id": "bd5675f577",
+      "id": "f5b3c5863d",
       "category": "hot",
-      "title": "大赛3连冠！梅西13届大赛：6战世界杯1冠2亚，7战美洲杯2冠3亚1季",
+      "title": "西班牙世界杯首冠成员仅剩拉莫斯还未退役，但目前无球可踢",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-07/6ac58a8a66738native.htm",
-      "team": "ARG",
+      "url": "https://bbs.hupu.com/642808353.html",
+      "team": "ESP",
       "time": "2天前",
-      "time_iso": "2026-10-07T17:22:36.164605+00:00",
-      "source": "直播吧",
-      "is_hot": true
+      "time_iso": "2026-10-08T13:16:00.430997+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "0422c8c221",
@@ -466,8 +466,20 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-07/6ac65a96626b9native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.431083+00:00",
+      "time_iso": "2026-10-10T18:24:30.750123+00:00",
       "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "7f33e5d65c",
+      "category": "hot",
+      "title": "曼联官方晒2026/27赛季全家福，卡里克携一线队球员集体出镜",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642777092.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-10-08T13:16:00.431264+00:00",
+      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -478,8 +490,20 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac8f84d12724native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.436717+00:00",
+      "time_iso": "2026-10-10T18:24:30.750463+00:00",
       "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ae9d7526c7",
+      "category": "hot",
+      "title": "欧国联形势综述：西葡提前晋级淘汰赛，德国形势不乐观",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642797436.html",
+      "team": "GER",
+      "time": "2天前",
+      "time_iso": "2026-10-08T05:47:23.372840+00:00",
+      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -490,8 +514,20 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac85c51d89a4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.436836+00:00",
+      "time_iso": "2026-10-10T18:24:30.750528+00:00",
       "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a68e290d22",
+      "category": "hot",
+      "title": "因因凡蒂诺需要刚果足协支持，FIFA默许其违规并杀入世界杯",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642787881.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-10-08T05:47:23.373141+00:00",
+      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -502,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-08/6ac6ec7423e3fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.436951+00:00",
+      "time_iso": "2026-10-10T18:24:30.750629+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,19 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.436988+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "3d314ae42f",
-      "category": "hot",
-      "title": "泰晤士：因凡蒂诺的反对派希望说服温格竞选FIFA主席",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac99f5387c54native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.437453+00:00",
+      "time_iso": "2026-10-10T18:24:30.750658+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9d982ad44anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.437672+00:00",
+      "time_iso": "2026-10-10T18:24:30.751585+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,19 +574,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac978f1d03f8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.437758+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "1e94a66598",
-      "category": "hot",
-      "title": "斯彭斯：自18岁后比赛就不紧张了，但首场世界杯比赛前有点紧张",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac8bacb0a7ecnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.438554+00:00",
+      "time_iso": "2026-10-10T18:24:30.751682+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -574,7 +586,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-10T12:19:57.439497+00:00",
+      "time_iso": "2026-10-10T18:24:30.753102+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "df44eceef3",
+      "category": "hot",
+      "title": "哈维：世界杯结束3个月就安排繁忙赛程，对国家队和俱乐部都不好",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac17fb6d3c98native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-10T18:24:30.753362+00:00",
       "source": "直播吧",
       "is_hot": false
     }
