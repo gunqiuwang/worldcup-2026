@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T18:44:54.145636+00:00",
+  "updated_at": "2026-10-11T23:33:32.546677+00:00",
   "count": 49,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-11/6acba894b3e61native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.963571+00:00",
+      "time_iso": "2026-10-11T23:33:30.404058+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,8 +21,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642875363.html",
       "team": "POR",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-11T12:36:16.544887+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "f93b49f612",
+      "category": "hot",
+      "title": "奥科查：姆巴佩应该获得金球奖，他是世界杯、欧冠、西甲最佳射手",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc035fb9289native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-11T23:33:30.405874+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "98e2eaca18",
+      "category": "hot",
+      "title": "贝宁国脚：站在人墙里面对梅西罚任意球，像置身于FIFA游戏",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642829248.html",
+      "team": "ARG",
+      "time": "18小时前",
+      "time_iso": "2026-10-11T05:30:44.091848+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,31 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac996d80cabenative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.967096+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "98e2eaca18",
-      "category": "hot",
-      "title": "贝宁国脚：站在人墙里面对梅西罚任意球，像置身于FIFA游戏",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642829248.html",
-      "team": "ARG",
-      "time": "13小时前",
-      "time_iso": "2026-10-11T05:30:44.091848+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "c73169e424",
-      "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.967517+00:00",
+      "time_iso": "2026-10-11T23:33:30.407517+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "cfb98e86ee",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.967640+00:00",
+      "time_iso": "2026-10-11T23:33:30.407910+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,13 +99,37 @@
       "is_hot": true
     },
     {
+      "id": "cfb98e86ee",
+      "category": "hot",
+      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-11T23:33:30.408029+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "424e433413",
+      "category": "hot",
+      "title": "厄德高：夺英超+踢世界杯，这些曾经遥不可及目标我都实现了",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642854713.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-11T23:33:32.546273+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
       "id": "7b8be4c203",
       "category": "hot",
       "title": "普约尔转发梅西高举阿根廷球衣图片，祝贺他度过辉煌国家队生涯",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac84e17610b4native.htm",
       "team": "ARG",
-      "time": "13小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-11T05:30:41.066655+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642860463.html",
       "team": "ENG",
-      "time": "13小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-11T05:30:44.091711+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6aca0f9978740native.htm",
       "team": "ARG",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-10-10T23:23:58.133930+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642829333.html",
       "team": "GER",
-      "time": "13小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-11T05:30:44.091827+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -153,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac856d15a9cenative.htm",
       "team": "ARG",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-10-10T23:23:58.134121+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -225,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-07/6ac65a58a8108native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-09T22:32:14.067803+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -333,7 +357,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642800411.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-09T22:32:15.960358+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -387,16 +411,16 @@
       "is_hot": false
     },
     {
-      "id": "ef23889e0f",
+      "id": "cc4fa05a9e",
       "category": "hot",
-      "title": "卡西转发+点赞！视频全是黑C罗“回旋镖”言论：世界杯、金球奖..",
+      "title": "马德兴：亚国联让国足或再无热身赛，冲击世界杯难度进一步加大",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-08/6ac700e247643native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac85c51d89a4native.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-08T19:47:04.402649+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-10-11T23:33:30.404606+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "3859fc9cf8",
@@ -411,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "cc4fa05a9e",
+      "id": "2d34f7cd3c",
       "category": "hot",
-      "title": "马德兴：亚国联让国足或再无热身赛，冲击世界杯难度进一步加大",
+      "title": "若国足11月仍失利，世预赛抽签或落入第3档，甚至亚国联无缘第1级",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac85c51d89a4native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-08/6ac6ec7423e3fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.964099+00:00",
+      "time_iso": "2026-10-11T23:33:30.404741+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,30 +459,6 @@
       "is_hot": false
     },
     {
-      "id": "2d34f7cd3c",
-      "category": "hot",
-      "title": "若国足11月仍失利，世预赛抽签或落入第3档，甚至亚国联无缘第1级",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-08/6ac6ec7423e3fnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.964230+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a179e72bca",
-      "category": "hot",
-      "title": "希克在世界杯后退出捷克国家队，与新帅沟通后重新考虑回归",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642797062.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-08T19:47:06.304321+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "b7c7eaa20e",
       "category": "hot",
       "title": "中国U17女足整装待发，21名小玫瑰即将踏上摩洛哥世界杯的赛场",
@@ -466,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.964262+00:00",
+      "time_iso": "2026-10-11T23:33:30.404775+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.967571+00:00",
+      "time_iso": "2026-10-11T23:33:30.407960+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac17fb6d3c98native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.967938+00:00",
+      "time_iso": "2026-10-11T23:33:30.408344+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac10b288b075native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.968119+00:00",
+      "time_iso": "2026-10-11T23:33:30.408526+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.968191+00:00",
+      "time_iso": "2026-10-11T23:33:30.408605+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.968224+00:00",
+      "time_iso": "2026-10-11T23:33:30.408638+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-09-29/6abbd64c1789cnative.htm",
       "team": "URU",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.968304+00:00",
+      "time_iso": "2026-10-11T23:33:30.408717+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1cf9c1acd0native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.968374+00:00",
+      "time_iso": "2026-10-11T23:33:30.408788+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac07750e22banative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-11T18:44:51.968427+00:00",
+      "time_iso": "2026-10-11T23:33:30.408828+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -573,7 +573,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-07/6ac65a96626b9native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-11T12:36:13.725931+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -585,7 +585,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac8f84d12724native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-11T12:36:13.726338+00:00",
       "source": "直播吧",
       "is_hot": false
