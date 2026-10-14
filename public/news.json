@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T01:03:46.141190+00:00",
-  "count": 34,
+  "updated_at": "2026-10-14T07:26:12.154223+00:00",
+  "count": 33,
   "articles": [
     {
       "id": "f93b49f612",
@@ -10,7 +10,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc035fb9289native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.758252+00:00",
+      "time_iso": "2026-10-14T07:26:09.403560+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "20911c6935",
+      "category": "hot",
+      "title": "罗马诺：C罗愿重返葡萄牙国家队，双方推动沟通寻找解决方案",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642921701.html",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-10-14T07:26:12.153818+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "c73169e424",
+      "category": "hot",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-14T07:26:09.405202+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -27,30 +51,6 @@
       "is_hot": true
     },
     {
-      "id": "c73169e424",
-      "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.759496+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "98e2eaca18",
-      "category": "hot",
-      "title": "贝宁国脚：站在人墙里面对梅西罚任意球，像置身于FIFA游戏",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642829248.html",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-11T05:30:44.091848+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
       "id": "cfb98e86ee",
       "category": "hot",
       "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.759587+00:00",
+      "time_iso": "2026-10-14T07:26:09.405322+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -87,18 +87,6 @@
       "is_hot": true
     },
     {
-      "id": "5711b78281",
-      "category": "hot",
-      "title": "电讯报：帕尔默决心重回英格兰队，不效力国家队他没影响力",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642860463.html",
-      "team": "ENG",
-      "time": "2天前",
-      "time_iso": "2026-10-11T05:30:44.091711+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "8dc08e5068",
       "category": "hot",
       "title": "苏超综述：四强出炉！无锡双杀徐州，常州逆转，泰州、盐城晋级",
@@ -109,18 +97,6 @@
       "time_iso": "2026-10-11T23:33:30.404058+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "e6dc299fdb",
-      "category": "hot",
-      "title": "4场仅取1胜！德国最新FIFA排名下降至13，被瑞士超越",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642829333.html",
-      "team": "GER",
-      "time": "2天前",
-      "time_iso": "2026-10-11T05:30:44.091827+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "41d997f345",
@@ -135,18 +111,6 @@
       "is_hot": true
     },
     {
-      "id": "e427cc4fe4",
-      "category": "hot",
-      "title": "U17女足将迎世界杯首战，主帅马晓旭：技术、应变、体能进步明显",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acec9b1e2445native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706209+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "069dd8f259",
       "category": "hot",
       "title": "加油！国安各项赛事18场不败，亚冠和联赛均排第3+足协杯进半决赛",
@@ -154,19 +118,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace43b987135native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706321+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "5c73f2776c",
-      "category": "hot",
-      "title": "国足同组对手！吉尔吉斯斯坦新帅：我们亚洲杯目标是闯入半决赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace3ef1e380enative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706357+00:00",
+      "time_iso": "2026-10-14T07:26:09.401525+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -178,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace31cddbb2fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706626+00:00",
+      "time_iso": "2026-10-14T07:26:09.401689+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -190,7 +142,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace2267b73e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706673+00:00",
+      "time_iso": "2026-10-14T07:26:09.401759+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc92af6da2enative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706791+00:00",
+      "time_iso": "2026-10-14T07:26:09.401853+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +166,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac85c51d89a4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706855+00:00",
+      "time_iso": "2026-10-14T07:26:09.401939+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,19 +178,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.706894+00:00",
+      "time_iso": "2026-10-14T07:26:09.401988+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "bd5cd5bc54",
+      "id": "254834464e",
       "category": "hot",
-      "title": "马竞首次在欧冠小组赛或联赛阶段击败英格兰球队，此前战绩4平7负",
+      "title": "TA：FIFA预计将提出提案，2027-30年间向足球界返还超过60亿美元",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acea429296b0native.htm",
-      "team": "ENG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acee008e6112native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.758539+00:00",
+      "time_iso": "2026-10-14T07:26:09.404409+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.759535+00:00",
+      "time_iso": "2026-10-14T07:26:09.405255+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac17fb6d3c98native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.759803+00:00",
+      "time_iso": "2026-10-14T07:26:09.405548+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.760000+00:00",
+      "time_iso": "2026-10-14T07:26:09.405832+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.760025+00:00",
+      "time_iso": "2026-10-14T07:26:09.405870+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac10b288b075native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.760055+00:00",
+      "time_iso": "2026-10-14T07:26:09.405911+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +262,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1cf9c1acd0native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T01:03:43.760143+00:00",
+      "time_iso": "2026-10-14T07:26:09.406024+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "e427cc4fe4",
+      "category": "hot",
+      "title": "U17女足将迎世界杯首战，主帅马晓旭：技术、应变、体能进步明显",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acec9b1e2445native.htm",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-14T01:03:43.706209+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "5c73f2776c",
+      "category": "hot",
+      "title": "国足同组对手！吉尔吉斯斯坦新帅：我们亚洲杯目标是闯入半决赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace3ef1e380enative.htm",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-14T01:03:43.706357+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "bd5cd5bc54",
+      "category": "hot",
+      "title": "马竞首次在欧冠小组赛或联赛阶段击败英格兰球队，此前战绩4平7负",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acea429296b0native.htm",
+      "team": "ENG",
+      "time": "6小时前",
+      "time_iso": "2026-10-14T01:03:43.758539+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -321,7 +309,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac07750e22banative.htm",
       "team": "",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-14T01:03:43.760173+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -333,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace201347cf4native.htm",
       "team": "",
-      "time": "3小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-13T21:08:36.494751+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +333,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace1d5d24e62native.htm",
       "team": "ESP",
-      "time": "3小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-13T21:08:36.494812+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6acdf0f242053native.htm",
       "team": "",
-      "time": "9小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-13T15:50:20.055001+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6acdb78028979native.htm",
       "team": "",
-      "time": "9小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-13T15:50:20.056074+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acce975df4e1native.htm",
       "team": "",
-      "time": "18小时前",
+      "time": "1天前",
       "time_iso": "2026-10-13T06:36:37.803657+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6acd9460b0dc2native.htm",
       "team": "",
-      "time": "18小时前",
+      "time": "1天前",
       "time_iso": "2026-10-13T06:36:37.804982+00:00",
       "source": "直播吧",
       "is_hot": false
