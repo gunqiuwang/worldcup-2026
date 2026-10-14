@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T21:08:38.688021+00:00",
+  "updated_at": "2026-10-14T01:03:46.141190+00:00",
   "count": 34,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc035fb9289native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.495063+00:00",
+      "time_iso": "2026-10-14T01:03:43.758252+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642875363.html",
       "team": "POR",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-10-12T22:51:09.898417+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.496661+00:00",
+      "time_iso": "2026-10-14T01:03:43.759496+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.496777+00:00",
+      "time_iso": "2026-10-14T01:03:43.759587+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642854713.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-11T23:33:32.546273+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-11/6acba894b3e61native.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-11T23:33:30.404058+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -129,34 +129,22 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac996d80cabenative.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-11T23:33:30.407517+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "2ac2e74487",
+      "id": "e427cc4fe4",
       "category": "hot",
-      "title": "有希望吗？凯恩2026年已攻入50球，距梅西91球纪录还差41球",
+      "title": "U17女足将迎世界杯首战，主帅马晓旭：技术、应变、体能进步明显",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6aca0f9978740native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-10T23:23:58.133930+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acec9b1e2445native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-14T01:03:43.706209+00:00",
       "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "d1726763ef",
-      "category": "hot",
-      "title": "全身心投入迈阿密！Ole：梅西今年还有2冠可争，最快2026实现50冠",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac856d15a9cenative.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-10T23:23:58.134121+00:00",
-      "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "069dd8f259",
@@ -166,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace43b987135native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.492768+00:00",
+      "time_iso": "2026-10-14T01:03:43.706321+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -178,7 +166,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace3ef1e380enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.492882+00:00",
+      "time_iso": "2026-10-14T01:03:43.706357+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -190,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace31cddbb2fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.493257+00:00",
+      "time_iso": "2026-10-14T01:03:43.706626+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace2267b73e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.493320+00:00",
+      "time_iso": "2026-10-14T01:03:43.706673+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc92af6da2enative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.493471+00:00",
+      "time_iso": "2026-10-14T01:03:43.706791+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac85c51d89a4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.493552+00:00",
+      "time_iso": "2026-10-14T01:03:43.706855+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,31 +226,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.493600+00:00",
+      "time_iso": "2026-10-14T01:03:43.706894+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "16ccb0ec4d",
+      "id": "bd5cd5bc54",
       "category": "hot",
-      "title": "外媒：FIFA以400万美元租特朗普大厦450平米办公室，却经常闲置",
+      "title": "马竞首次在欧冠小组赛或联赛阶段击败英格兰球队，此前战绩4平7负",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace201347cf4native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acea429296b0native.htm",
+      "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.494751+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "2153f3b564",
-      "category": "hot",
-      "title": "官方：网飞获2030世界杯西班牙及安道尔地区独家转播权",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace1d5d24e62native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.494812+00:00",
+      "time_iso": "2026-10-14T01:03:43.758539+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.496711+00:00",
+      "time_iso": "2026-10-14T01:03:43.759535+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac17fb6d3c98native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.497009+00:00",
+      "time_iso": "2026-10-14T01:03:43.759803+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.497268+00:00",
+      "time_iso": "2026-10-14T01:03:43.760000+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.497300+00:00",
+      "time_iso": "2026-10-14T01:03:43.760025+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac10b288b075native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.497338+00:00",
+      "time_iso": "2026-10-14T01:03:43.760055+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1cf9c1acd0native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.497455+00:00",
+      "time_iso": "2026-10-14T01:03:43.760143+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +322,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac07750e22banative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-13T21:08:36.497499+00:00",
+      "time_iso": "2026-10-14T01:03:43.760173+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "16ccb0ec4d",
+      "category": "hot",
+      "title": "外媒：FIFA以400万美元租特朗普大厦450平米办公室，却经常闲置",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace201347cf4native.htm",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-10-13T21:08:36.494751+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "2153f3b564",
+      "category": "hot",
+      "title": "官方：网飞获2030世界杯西班牙及安道尔地区独家转播权",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace1d5d24e62native.htm",
+      "team": "ESP",
+      "time": "3小时前",
+      "time_iso": "2026-10-13T21:08:36.494812+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -357,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6acdf0f242053native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "9小时前",
       "time_iso": "2026-10-13T15:50:20.055001+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6acdb78028979native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "9小时前",
       "time_iso": "2026-10-13T15:50:20.056074+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acce975df4e1native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-13T06:36:37.803657+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6acd9460b0dc2native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-13T06:36:37.804982+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc9d7c0963fnative.htm",
       "team": "",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-10-12T22:51:05.998140+00:00",
       "source": "直播吧",
       "is_hot": false
