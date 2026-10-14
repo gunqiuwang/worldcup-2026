@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-14T18:28:32.455070+00:00",
+  "updated_at": "2026-10-14T23:06:37.665757+00:00",
   "count": 33,
   "articles": [
     {
-      "id": "f93b49f612",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "奥科查：姆巴佩应该获得金球奖，他是世界杯、欧冠、西甲最佳射手",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc035fb9289native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.703467+00:00",
+      "time_iso": "2026-10-14T23:06:35.645915+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,32 +21,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642921701.html",
       "team": "POR",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-10-14T18:28:32.454513+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "c73169e424",
-      "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.706025+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "2961a3d47e",
-      "category": "hot",
-      "title": "葡萄牙足协主席：足协和国家队主教练都希望C罗尽快归队",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642875363.html",
-      "team": "POR",
-      "time": "1天前",
-      "time_iso": "2026-10-12T22:51:09.898417+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.706272+00:00",
+      "time_iso": "2026-10-14T23:06:35.646024+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "2961a3d47e",
+      "category": "hot",
+      "title": "葡萄牙足协主席：足协和国家队主教练都希望C罗尽快归队",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642875363.html",
+      "team": "POR",
+      "time": "2天前",
+      "time_iso": "2026-10-12T22:51:09.898417+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "f93b49f612",
+      "category": "hot",
+      "title": "奥科查：姆巴佩应该获得金球奖，他是世界杯、欧冠、西甲最佳射手",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc035fb9289native.htm",
+      "team": "FRA",
+      "time": "4小时前",
+      "time_iso": "2026-10-14T18:28:30.703467+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,7 +118,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acf45bed4a73native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.700544+00:00",
+      "time_iso": "2026-10-14T23:06:35.642249+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acf42ee21bb5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.700662+00:00",
+      "time_iso": "2026-10-14T23:06:35.642347+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -142,7 +142,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acf3edf7bc2bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.700719+00:00",
+      "time_iso": "2026-10-14T23:06:35.642396+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace43b987135native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.701128+00:00",
+      "time_iso": "2026-10-14T23:06:35.642792+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -166,7 +166,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace31cddbb2fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.701207+00:00",
+      "time_iso": "2026-10-14T23:06:35.642872+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace2267b73e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.701265+00:00",
+      "time_iso": "2026-10-14T23:06:35.642928+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -190,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc92af6da2enative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.701350+00:00",
+      "time_iso": "2026-10-14T23:06:35.643011+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac85c51d89a4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.701429+00:00",
+      "time_iso": "2026-10-14T23:06:35.643085+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +214,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.701476+00:00",
+      "time_iso": "2026-10-14T23:06:35.643132+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "b9ef3777e8",
+      "category": "hot",
+      "title": "魔鬼主场！博德闪耀2026年欧冠主场全胜，赢下曼城、国米、多特",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6acffd0b39eefnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-14T23:06:35.643761+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acf3662a94c3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.704748+00:00",
+      "time_iso": "2026-10-14T23:06:35.645226+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.706136+00:00",
+      "time_iso": "2026-10-14T23:06:35.645964+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac17fb6d3c98native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.706681+00:00",
+      "time_iso": "2026-10-14T23:06:35.646299+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.707243+00:00",
+      "time_iso": "2026-10-14T23:06:35.646533+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.707324+00:00",
+      "time_iso": "2026-10-14T23:06:35.646565+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac10b288b075native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.707415+00:00",
+      "time_iso": "2026-10-14T23:06:35.646601+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1cf9c1acd0native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-14T18:28:30.707679+00:00",
+      "time_iso": "2026-10-14T23:06:35.646707+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -309,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acee008e6112native.htm",
       "team": "",
-      "time": "11小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-14T07:26:09.404409+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -321,7 +333,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acec9b1e2445native.htm",
       "team": "",
-      "time": "17小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-14T01:03:43.706209+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -333,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace3ef1e380enative.htm",
       "team": "",
-      "time": "17小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-14T01:03:43.706357+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acea429296b0native.htm",
       "team": "ENG",
-      "time": "17小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-14T01:03:43.758539+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac07750e22banative.htm",
       "team": "",
-      "time": "17小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-14T01:03:43.760173+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace201347cf4native.htm",
       "team": "",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-10-13T21:08:36.494751+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,20 +393,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace1d5d24e62native.htm",
       "team": "ESP",
-      "time": "21小时前",
-      "time_iso": "2026-10-13T21:08:36.494812+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "5cb3fcc11e",
-      "category": "hot",
-      "title": "泰晤士报：因凡蒂诺领取额外薪酬176万美元，涉嫌违反FIFA章程",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6acdf0f242053native.htm",
-      "team": "",
       "time": "1天前",
-      "time_iso": "2026-10-13T15:50:20.055001+00:00",
+      "time_iso": "2026-10-13T21:08:36.494812+00:00",
       "source": "直播吧",
       "is_hot": false
     }
