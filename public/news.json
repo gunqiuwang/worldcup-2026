@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-15T11:16:50.176680+00:00",
-  "count": 32,
+  "updated_at": "2026-10-15T16:48:05.345178+00:00",
+  "count": 35,
   "articles": [
+    {
+      "id": "7f64a50bd4",
+      "category": "hot",
+      "title": "7千字长文！梅里诺：被告知无缘世界杯 封堵梅西射门单眼暂时失明",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0c3db1cfbdnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-15T16:48:03.034780+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "ebe22924b2",
+      "category": "hot",
+      "title": "罗马诺：C罗已准备好回归葡萄牙国家队，预计11月归队",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642924636.html",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-10-15T16:48:05.344788+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
     {
       "id": "96b634e2fa",
       "category": "hot",
@@ -10,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad05252eca59native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386438+00:00",
+      "time_iso": "2026-10-15T16:48:03.036378+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642921701.html",
       "team": "POR",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-14T18:28:32.454513+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0513a7ed1anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386454+00:00",
+      "time_iso": "2026-10-15T16:48:03.036405+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,9 +82,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386796+00:00",
+      "time_iso": "2026-10-15T16:48:03.037011+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "1df12d53aa",
+      "category": "hot",
+      "title": "有相关方联系阿森纳功勋主帅温格，寻求让他竞选新FIFA主席",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642928987.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-15T16:48:05.344604+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "cfb98e86ee",
@@ -70,9 +106,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386859+00:00",
+      "time_iso": "2026-10-15T16:48:03.037122+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "42e27c7e86",
+      "category": "hot",
+      "title": "佩蒂特力挺温格参选FIFA主席：他懂足球且极具智慧",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642924799.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-15T16:48:05.344740+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "2f29f24acd",
@@ -81,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad02b1247afenative.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-15T04:20:24.962985+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -93,56 +141,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc035fb9289native.htm",
       "team": "FRA",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-14T18:28:30.703467+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "7b8be4c203",
+      "id": "174a2d824b",
       "category": "hot",
-      "title": "普约尔转发梅西高举阿根廷球衣图片，祝贺他度过辉煌国家队生涯",
+      "title": "外媒列亚冠精英出线概率：国安79%，海港50%，日本5队全部出线",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac84e17610b4native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-12T15:09:34.962488+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "80e6bfad92",
-      "category": "tactical",
-      "title": "2026/27 亚冠二级联赛第2轮 柴桢 VS 上海申花 首发名单",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0b448962c8native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0e7b78440bnative.htm",
+      "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.384357+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "882739eef0",
-      "category": "hot",
-      "title": "2026年10月17日19:35中超联赛第二十八轮 云南玉昆vs重庆铜梁龙",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0a46b0f1cenative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.384435+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "9678eb63ff",
-      "category": "hot",
-      "title": "PASSIONATE MOMENTS·2026/2027亚冠精英联赛第2轮，安佩姆破门",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace31cddbb2fnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.384730+00:00",
+      "time_iso": "2026-10-15T16:48:03.028015+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -154,7 +166,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.384767+00:00",
+      "time_iso": "2026-10-15T16:48:03.028583+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -166,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc92af6da2enative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.384810+00:00",
+      "time_iso": "2026-10-15T16:48:03.028669+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -178,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.384858+00:00",
+      "time_iso": "2026-10-15T16:48:03.028751+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -190,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad09f4dcb0f7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.385447+00:00",
+      "time_iso": "2026-10-15T16:48:03.035201+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad04079884a2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386186+00:00",
+      "time_iso": "2026-10-15T16:48:03.035933+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01008d530cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386205+00:00",
+      "time_iso": "2026-10-15T16:48:03.035970+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6acffd0b39eefnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386224+00:00",
+      "time_iso": "2026-10-15T16:48:03.036003+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0a55e548d5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386336+00:00",
+      "time_iso": "2026-10-15T16:48:03.036224+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad031d47001bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386472+00:00",
+      "time_iso": "2026-10-15T16:48:03.036437+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386823+00:00",
+      "time_iso": "2026-10-15T16:48:03.037058+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad085792806cnative.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.386965+00:00",
+      "time_iso": "2026-10-15T16:48:03.037299+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac17fb6d3c98native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.387041+00:00",
+      "time_iso": "2026-10-15T16:48:03.037427+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.387161+00:00",
+      "time_iso": "2026-10-15T16:48:03.037638+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.387178+00:00",
+      "time_iso": "2026-10-15T16:48:03.037668+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac10b288b075native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.387199+00:00",
+      "time_iso": "2026-10-15T16:48:03.037704+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +346,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1cf9c1acd0native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-15T11:16:47.387270+00:00",
+      "time_iso": "2026-10-15T16:48:03.037817+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "80e6bfad92",
+      "category": "tactical",
+      "title": "2026/27 亚冠二级联赛第2轮 柴桢 VS 上海申花 首发名单",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0b448962c8native.htm",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-10-15T11:16:47.384357+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "882739eef0",
+      "category": "hot",
+      "title": "2026年10月17日19:35中超联赛第二十八轮 云南玉昆vs重庆铜梁龙",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0a46b0f1cenative.htm",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-10-15T11:16:47.384435+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "9678eb63ff",
+      "category": "hot",
+      "title": "PASSIONATE MOMENTS·2026/2027亚冠精英联赛第2轮，安佩姆破门",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace31cddbb2fnative.htm",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-10-15T11:16:47.384730+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -345,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-13/6ace2267b73e8native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-15T04:20:24.961502+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-09/6ac85c51d89a4native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-15T04:20:24.961668+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,20 +417,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acf3662a94c3native.htm",
       "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-10-15T04:20:24.964231+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "7df5e77bbe",
-      "category": "hot",
-      "title": "助力出征中体联足球世界杯！阿迪发布中国中学生足球队国字号球衣",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-14/6acf45bed4a73native.htm",
-      "team": "",
       "time": "12小时前",
-      "time_iso": "2026-10-14T23:06:35.642249+00:00",
+      "time_iso": "2026-10-15T04:20:24.964231+00:00",
       "source": "直播吧",
       "is_hot": false
     }
