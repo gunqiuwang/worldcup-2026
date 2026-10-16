@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:10:09.794922+00:00",
+  "updated_at": "2026-10-16T17:55:36.702912+00:00",
   "count": 35,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad05252eca59native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.995409+00:00",
+      "time_iso": "2026-10-16T17:55:35.218748+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642924636.html",
       "team": "POR",
-      "time": "15小时前",
+      "time": "20小时前",
       "time_iso": "2026-10-15T21:14:05.981337+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0513a7ed1anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.995438+00:00",
+      "time_iso": "2026-10-16T17:55:35.218781+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.996069+00:00",
+      "time_iso": "2026-10-16T17:55:35.219424+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -70,7 +70,7 @@
       "url": "https://bbs.hupu.com/642944341.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:09.794520+00:00",
+      "time_iso": "2026-10-16T17:55:36.702583+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -81,7 +81,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
       "team": "",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-10-16T13:10:07.996187+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642928987.html",
       "team": "",
-      "time": "15小时前",
+      "time": "20小时前",
       "time_iso": "2026-10-15T21:14:05.981232+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0c3db1cfbdnative.htm",
       "team": "ARG",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-16T07:00:12.874188+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642924799.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-10-15T16:48:05.344740+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -147,18 +147,6 @@
       "is_hot": true
     },
     {
-      "id": "60fa1c82b4",
-      "category": "hot",
-      "title": "中甲第27轮：宁波FC VS 苏州东吴 2026.10.17周六19:00打响",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad211bc6375fnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.991905+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "174a2d824b",
       "category": "hot",
       "title": "外媒列亚冠精英出线概率：国安79%，海港50%，日本5队全部出线",
@@ -166,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0e7b78440bnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.992483+00:00",
+      "time_iso": "2026-10-16T17:55:35.215775+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -178,7 +166,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.992794+00:00",
+      "time_iso": "2026-10-16T17:55:35.216092+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -190,19 +178,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.992883+00:00",
+      "time_iso": "2026-10-16T17:55:35.216178+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "8686bbd974",
+      "id": "694ebf094f",
       "category": "hot",
-      "title": "天空：西班牙因恐伊斯兰口号遭FIFA罚款2万美元 下场部分关闭球场",
+      "title": "会是谁呢？官方：2026金球奖颁奖北京时间10月27日凌晨4点进行",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad20449d2ebfnative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad2218d40178native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.994464+00:00",
+      "time_iso": "2026-10-16T17:55:35.216934+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "d6225a7416",
+      "category": "hot",
+      "title": "马卡：诺坎普或承办2035橄榄球世界杯决赛，备选球场中其容量最大",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad257b04c20bnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-16T17:55:35.217710+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +214,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad184b9be4bcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.994893+00:00",
+      "time_iso": "2026-10-16T17:55:35.218211+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "4b1dbe2e85",
+      "category": "injury",
+      "title": "卡尔：父母并不支持我加盟拜仁青训 世界杯前受伤让我很煎熬",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad2402cb5ccanative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-16T17:55:35.218436+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6acffd0b39eefnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.995279+00:00",
+      "time_iso": "2026-10-16T17:55:35.218615+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad031d47001bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.995473+00:00",
+      "time_iso": "2026-10-16T17:55:35.218819+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad16b5f86c60native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.995854+00:00",
+      "time_iso": "2026-10-16T17:55:35.219205+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +274,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.996120+00:00",
+      "time_iso": "2026-10-16T17:55:35.219473+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "33cb2b1eee",
+      "category": "hot",
+      "title": "官方：阿根廷国家队将在11月友谊赛对阵乌拉圭和哥斯达黎加",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad23dda46763native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-16T17:55:35.219670+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad20174d4f6anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.996335+00:00",
+      "time_iso": "2026-10-16T17:55:35.219697+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.996746+00:00",
+      "time_iso": "2026-10-16T17:55:35.220077+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.996788+00:00",
+      "time_iso": "2026-10-16T17:55:35.220113+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +334,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-03/6ac10b288b075native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-16T13:10:07.996828+00:00",
+      "time_iso": "2026-10-16T17:55:35.220153+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "60fa1c82b4",
+      "category": "hot",
+      "title": "中甲第27轮：宁波FC VS 苏州东吴 2026.10.17周六19:00打响",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad211bc6375fnative.htm",
+      "team": "",
+      "time": "4小时前",
+      "time_iso": "2026-10-16T13:10:07.991905+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "8686bbd974",
+      "category": "hot",
+      "title": "天空：西班牙因恐伊斯兰口号遭FIFA罚款2万美元 下场部分关闭球场",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad20449d2ebfnative.htm",
+      "team": "ESP",
+      "time": "4小时前",
+      "time_iso": "2026-10-16T13:10:07.994464+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -321,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc92af6da2enative.htm",
       "team": "KOR",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-16T07:00:12.873246+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -333,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad1be5217366native.htm",
       "team": "ESP",
-      "time": "6小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-16T07:00:12.874821+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad121e4d4b53native.htm",
       "team": "",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-16T00:13:28.039293+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad04079884a2native.htm",
       "team": "ARG",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-16T00:13:28.040332+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,56 +417,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01008d530cnative.htm",
       "team": "",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-16T00:13:28.040361+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "47e1b33684",
-      "category": "hot",
-      "title": "这真的好看吧？拜仁女足联手MCM推出2026-27赛季奢华联名球衣",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0a55e548d5native.htm",
-      "team": "",
-      "time": "12小时前",
-      "time_iso": "2026-10-16T00:13:28.040559+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "eea70511ae",
-      "category": "hot",
-      "title": "卫报：明年FIFA选举时，欧足联相信会有合适人选和因凡蒂诺竞争",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad09f4dcb0f7native.htm",
-      "team": "",
-      "time": "15小时前",
-      "time_iso": "2026-10-15T21:14:03.821336+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ec3d9ed70f",
-      "category": "hot",
-      "title": "法国队祝前主帅德尚58岁生日快乐 国家队生涯球员+教练共获4冠",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad085792806cnative.htm",
-      "team": "FRA",
-      "time": "15小时前",
-      "time_iso": "2026-10-15T21:14:03.822564+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "df44eceef3",
-      "category": "hot",
-      "title": "哈维：世界杯结束3个月就安排繁忙赛程，对国家队和俱乐部都不好",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac17fb6d3c98native.htm",
-      "team": "",
-      "time": "15小时前",
-      "time_iso": "2026-10-15T21:14:03.822638+00:00",
       "source": "直播吧",
       "is_hot": false
     }
