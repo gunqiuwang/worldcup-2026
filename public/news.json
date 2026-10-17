@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T20:26:46.786110+00:00",
-  "count": 36,
+  "updated_at": "2026-10-17T23:55:23.177698+00:00",
+  "count": 37,
   "articles": [
     {
       "id": "96b634e2fa",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad05252eca59native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.787094+00:00",
+      "time_iso": "2026-10-17T23:55:21.227946+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642924636.html",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-15T21:14:05.981337+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0513a7ed1anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.787119+00:00",
+      "time_iso": "2026-10-17T23:55:21.227994+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "137f98a93f",
+      "id": "df3dbd3d6e",
       "category": "hot",
-      "title": "小马尔蒂尼：父亲是我的超级英雄，梦想代表意大利踢世界杯",
+      "title": "官方：2026金球奖颁奖典礼将于北京时间10月27日凌晨4时举行",
       "summary": "",
-      "url": "https://bbs.hupu.com/643036419.html",
+      "url": "https://bbs.hupu.com/643009002.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:46.785760+00:00",
+      "time_iso": "2026-10-17T23:55:23.177287+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.787532+00:00",
+      "time_iso": "2026-10-17T23:55:21.228470+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "27994c049d",
+      "id": "137f98a93f",
       "category": "hot",
-      "title": "队报：温格称暂未参选FIFA主席，但不排除可能+各方翘首以盼",
+      "title": "小马尔蒂尼：父亲是我的超级英雄，梦想代表意大利踢世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/643010523.html",
+      "url": "https://bbs.hupu.com/643036419.html",
       "team": "",
       "time": "3小时前",
-      "time_iso": "2026-10-17T16:58:19.142380+00:00",
+      "time_iso": "2026-10-17T20:26:46.785760+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -81,20 +81,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad33718113ednative.htm",
       "team": "ARG",
-      "time": "8小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-17T12:05:48.138542+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "f76200d879",
+      "id": "27994c049d",
       "category": "hot",
-      "title": "法布雷加斯：欧冠比世界杯水平高；输球责任我来担&不怪球员",
+      "title": "队报：温格称暂未参选FIFA主席，但不排除可能+各方翘首以盼",
       "summary": "",
-      "url": "https://bbs.hupu.com/642970381.html",
+      "url": "https://bbs.hupu.com/643010523.html",
       "team": "",
-      "time": "3小时前",
-      "time_iso": "2026-10-17T16:58:19.142532+00:00",
+      "time": "6小时前",
+      "time_iso": "2026-10-17T16:58:19.142380+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -111,14 +111,14 @@
       "is_hot": true
     },
     {
-      "id": "e4346ba2d3",
+      "id": "f76200d879",
       "category": "hot",
-      "title": "维京是近10个赛季第四支，欧冠小组赛上半场进拜仁2+球球队",
+      "title": "法布雷加斯：欧冠比世界杯水平高；输球责任我来担&不怪球员",
       "summary": "",
-      "url": "https://bbs.hupu.com/642944341.html",
+      "url": "https://bbs.hupu.com/642970381.html",
       "team": "",
-      "time": "23小时前",
-      "time_iso": "2026-10-16T20:54:06.184063+00:00",
+      "time": "6小时前",
+      "time_iso": "2026-10-17T16:58:19.142532+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -135,14 +135,14 @@
       "is_hot": true
     },
     {
-      "id": "1df12d53aa",
+      "id": "e4346ba2d3",
       "category": "hot",
-      "title": "有相关方联系阿森纳功勋主帅温格，寻求让他竞选新FIFA主席",
+      "title": "维京是近10个赛季第四支，欧冠小组赛上半场进拜仁2+球球队",
       "summary": "",
-      "url": "https://bbs.hupu.com/642928987.html",
+      "url": "https://bbs.hupu.com/642944341.html",
       "team": "",
       "time": "1天前",
-      "time_iso": "2026-10-15T21:14:05.981232+00:00",
+      "time_iso": "2026-10-16T20:54:06.184063+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -159,6 +159,30 @@
       "is_hot": true
     },
     {
+      "id": "1df12d53aa",
+      "category": "hot",
+      "title": "有相关方联系阿森纳功勋主帅温格，寻求让他竞选新FIFA主席",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642928987.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-10-15T21:14:05.981232+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "e039f143a3",
+      "category": "hot",
+      "title": "“苏超”半决赛现场人数：泰州vs无锡29511人、盐城vs常州35063人",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3914aaea95native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-17T23:55:21.224342+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "42e27c7e86",
       "category": "hot",
       "title": "佩蒂特力挺温格参选FIFA主席：他懂足球且极具智慧",
@@ -171,18 +195,6 @@
       "is_hot": false
     },
     {
-      "id": "e039f143a3",
-      "category": "hot",
-      "title": "“苏超”半决赛现场人数：泰州vs无锡29511人、盐城vs常州35063人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3914aaea95native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.780581+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "8675aafac2",
       "category": "hot",
       "title": "“苏超”半决赛第一回合现场观众人数统计：场均32287人",
@@ -190,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad390a1390e5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.780659+00:00",
+      "time_iso": "2026-10-17T23:55:21.224431+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0e7b78440bnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.780944+00:00",
+      "time_iso": "2026-10-17T23:55:21.224837+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.781138+00:00",
+      "time_iso": "2026-10-17T23:55:21.225104+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.781202+00:00",
+      "time_iso": "2026-10-17T23:55:21.225177+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad384c14e524native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.785627+00:00",
+      "time_iso": "2026-10-17T23:55:21.226009+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,19 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad382f7e1d24native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.786361+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "7213551b84",
-      "category": "hot",
-      "title": "2026年MLS杯季后赛赛制公布：首轮三场两胜制，其余轮次单场淘汰",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad031d47001bnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.787158+00:00",
+      "time_iso": "2026-10-17T23:55:21.226901+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad16b5f86c60native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.787369+00:00",
+      "time_iso": "2026-10-17T23:55:21.228267+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.787569+00:00",
+      "time_iso": "2026-10-17T23:55:21.228521+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +298,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T20:26:44.787948+00:00",
+      "time_iso": "2026-10-17T23:55:21.229031+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "7213551b84",
+      "category": "hot",
+      "title": "2026年MLS杯季后赛赛制公布：首轮三场两胜制，其余轮次单场淘汰",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad031d47001bnative.htm",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-10-17T20:26:44.787158+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -309,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3467a50bbenative.htm",
       "team": "",
-      "time": "3小时前",
+      "time": "6小时前",
       "time_iso": "2026-10-17T16:58:16.535690+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -321,7 +333,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28afd0c79cnative.htm",
       "team": "",
-      "time": "8小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-17T12:05:48.138475+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -333,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad2aa8c973cbnative.htm",
       "team": "",
-      "time": "8小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-17T12:05:48.138767+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad2402cb5ccanative.htm",
       "team": "",
-      "time": "8小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-17T12:05:48.139677+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6acffd0b39eefnative.htm",
       "team": "",
-      "time": "8小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-17T12:05:48.139766+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad2218d40178native.htm",
       "team": "",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-17T06:49:50.506946+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad2cef4eb4e2native.htm",
       "team": "",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-17T06:49:50.507519+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad23dda46763native.htm",
       "team": "ARG",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-17T06:49:50.508961+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad20174d4f6anative.htm",
       "team": "",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-17T06:49:50.508988+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -417,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-17T06:49:50.509274+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -429,7 +441,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-17T06:49:50.509302+00:00",
       "source": "直播吧",
       "is_hot": false
