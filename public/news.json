@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T16:58:19.142942+00:00",
-  "count": 37,
+  "updated_at": "2026-10-17T20:26:46.786110+00:00",
+  "count": 36,
   "articles": [
     {
       "id": "96b634e2fa",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad05252eca59native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.536342+00:00",
+      "time_iso": "2026-10-17T20:26:44.787094+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,21 +34,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0513a7ed1anative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.536376+00:00",
+      "time_iso": "2026-10-17T20:26:44.787119+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "20911c6935",
+      "id": "137f98a93f",
       "category": "hot",
-      "title": "罗马诺：C罗愿重返葡萄牙国家队，双方推动沟通寻找解决方案",
+      "title": "小马尔蒂尼：父亲是我的超级英雄，梦想代表意大利踢世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/642921701.html",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-10-14T18:28:32.454513+00:00",
+      "url": "https://bbs.hupu.com/643036419.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-17T20:26:46.785760+00:00",
       "source": "虎扑",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "c73169e424",
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.536874+00:00",
+      "time_iso": "2026-10-17T20:26:44.787532+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643010523.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-10-17T16:58:19.142380+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -81,7 +81,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad33718113ednative.htm",
       "team": "ARG",
-      "time": "4小时前",
+      "time": "8小时前",
       "time_iso": "2026-10-17T12:05:48.138542+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642970381.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-10-17T16:58:19.142532+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642944341.html",
       "team": "",
-      "time": "20小时前",
+      "time": "23小时前",
       "time_iso": "2026-10-16T20:54:06.184063+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -171,18 +171,6 @@
       "is_hot": false
     },
     {
-      "id": "f93b49f612",
-      "category": "hot",
-      "title": "奥科查：姆巴佩应该获得金球奖，他是世界杯、欧冠、西甲最佳射手",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-12/6acc035fb9289native.htm",
-      "team": "FRA",
-      "time": "2天前",
-      "time_iso": "2026-10-14T18:28:30.703467+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "e039f143a3",
       "category": "hot",
       "title": "“苏超”半决赛现场人数：泰州vs无锡29511人、盐城vs常州35063人",
@@ -190,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3914aaea95native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.532728+00:00",
+      "time_iso": "2026-10-17T20:26:44.780581+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad390a1390e5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.532820+00:00",
+      "time_iso": "2026-10-17T20:26:44.780659+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0e7b78440bnative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.533191+00:00",
+      "time_iso": "2026-10-17T20:26:44.780944+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.533459+00:00",
+      "time_iso": "2026-10-17T20:26:44.781138+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.533533+00:00",
+      "time_iso": "2026-10-17T20:26:44.781202+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad384c14e524native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.534494+00:00",
+      "time_iso": "2026-10-17T20:26:44.785627+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,19 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad382f7e1d24native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.535266+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "150564dd6c",
-      "category": "hot",
-      "title": "多人不出力！劳塔罗：22年部分国米队友为世界杯留力，我始终如一",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3467a50bbenative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.535690+00:00",
+      "time_iso": "2026-10-17T20:26:44.786361+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad031d47001bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.536426+00:00",
+      "time_iso": "2026-10-17T20:26:44.787158+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad16b5f86c60native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.536674+00:00",
+      "time_iso": "2026-10-17T20:26:44.787369+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.536923+00:00",
+      "time_iso": "2026-10-17T20:26:44.787569+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +298,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-17T16:58:16.537418+00:00",
+      "time_iso": "2026-10-17T20:26:44.787948+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "150564dd6c",
+      "category": "hot",
+      "title": "多人不出力！劳塔罗：22年部分国米队友为世界杯留力，我始终如一",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3467a50bbenative.htm",
+      "team": "",
+      "time": "3小时前",
+      "time_iso": "2026-10-17T16:58:16.535690+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -333,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28afd0c79cnative.htm",
       "team": "",
-      "time": "4小时前",
+      "time": "8小时前",
       "time_iso": "2026-10-17T12:05:48.138475+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +333,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad2aa8c973cbnative.htm",
       "team": "",
-      "time": "4小时前",
+      "time": "8小时前",
       "time_iso": "2026-10-17T12:05:48.138767+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad2402cb5ccanative.htm",
       "team": "",
-      "time": "4小时前",
+      "time": "8小时前",
       "time_iso": "2026-10-17T12:05:48.139677+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6acffd0b39eefnative.htm",
       "team": "",
-      "time": "4小时前",
+      "time": "8小时前",
       "time_iso": "2026-10-17T12:05:48.139766+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad2218d40178native.htm",
       "team": "",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-17T06:49:50.506946+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad2cef4eb4e2native.htm",
       "team": "",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-17T06:49:50.507519+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad23dda46763native.htm",
       "team": "ARG",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-17T06:49:50.508961+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -417,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad20174d4f6anative.htm",
       "team": "",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-17T06:49:50.508988+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -429,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-17T06:49:50.509274+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -441,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff841bf20native.htm",
       "team": "JPN",
-      "time": "10小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-17T06:49:50.509302+00:00",
       "source": "直播吧",
       "is_hot": false
