@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T18:33:24.795496+00:00",
-  "count": 39,
+  "updated_at": "2026-10-18T22:21:37.426106+00:00",
+  "count": 37,
   "articles": [
     {
       "id": "6fc7d3a043",
@@ -10,31 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad471192419bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.570972+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "ebe22924b2",
-      "category": "hot",
-      "title": "罗马诺：C罗已准备好回归葡萄牙国家队，预计11月归队",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642924636.html",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-10-15T21:14:05.981337+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "9c45de771b",
-      "category": "hot",
-      "title": "队报确认：努诺·门德斯将缺战巴萨，世界杯他曾锁死亚马尔",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4d21b07050native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.571262+00:00",
+      "time_iso": "2026-10-18T22:21:35.390409+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,8 +21,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643035044.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-10-18T18:33:24.794856+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "9c45de771b",
+      "category": "hot",
+      "title": "队报确认：努诺·门德斯将缺战巴萨，世界杯他曾锁死亚马尔",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4d21b07050native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-18T22:21:35.390726+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "cd8f88851f",
+      "category": "hot",
+      "title": "卫报：FIFA高层要求废除和平奖，特朗普或成唯一获奖政治家",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643004250.html",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-18T15:45:09.034805+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad47f72e56e6native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.572730+00:00",
+      "time_iso": "2026-10-18T22:21:35.392121+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "cd8f88851f",
+      "id": "df3dbd3d6e",
       "category": "hot",
-      "title": "卫报：FIFA高层要求废除和平奖，特朗普或成唯一获奖政治家",
+      "title": "官方：2026金球奖颁奖典礼将于北京时间10月27日凌晨4时举行",
       "summary": "",
-      "url": "https://bbs.hupu.com/643004250.html",
+      "url": "https://bbs.hupu.com/643009002.html",
       "team": "",
-      "time": "2小时前",
-      "time_iso": "2026-10-18T15:45:09.034805+00:00",
+      "time": "22小时前",
+      "time_iso": "2026-10-17T23:55:23.177287+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,31 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.573374+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "df3dbd3d6e",
-      "category": "hot",
-      "title": "官方：2026金球奖颁奖典礼将于北京时间10月27日凌晨4时举行",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643009002.html",
-      "team": "",
-      "time": "18小时前",
-      "time_iso": "2026-10-17T23:55:23.177287+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "279593cad9",
-      "category": "hot",
-      "title": "超级两双！39岁梅西2026年目前44场打进40球，还送出21次助攻！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad42b4319de9native.htm",
-      "team": "ARG",
-      "time": "7小时前",
-      "time_iso": "2026-10-18T10:50:49.654777+00:00",
+      "time_iso": "2026-10-18T22:21:35.392813+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,20 +93,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643036419.html",
       "team": "",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-10-17T20:26:46.785760+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "d36b7664b9",
+      "id": "279593cad9",
       "category": "hot",
-      "title": "火力全开！梅西世界杯后17场17球9助，场均进1球、直接参与1.53球",
+      "title": "超级两双！39岁梅西2026年目前44场打进40球，还送出21次助攻！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad429429106cnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad42b4319de9native.htm",
       "team": "ARG",
-      "time": "7小时前",
-      "time_iso": "2026-10-18T10:50:49.654809+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-10-18T10:50:49.654777+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +123,14 @@
       "is_hot": false
     },
     {
-      "id": "fd0ee09a61",
+      "id": "d36b7664b9",
       "category": "hot",
-      "title": "王者风采！梅西今年世界杯以来已5次获得单场10分评价",
+      "title": "火力全开！梅西世界杯后17场17球9助，场均进1球、直接参与1.53球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4298629c3bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad429429106cnative.htm",
       "team": "ARG",
-      "time": "7小时前",
-      "time_iso": "2026-10-18T10:50:49.654837+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-10-18T10:50:49.654809+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "96b634e2fa",
+      "id": "fd0ee09a61",
       "category": "hot",
-      "title": "火力全开！梅西世界杯后16场斩获15球9助攻，场均直接参与1.5球",
+      "title": "王者风采！梅西今年世界杯以来已5次获得单场10分评价",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad05252eca59native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4298629c3bnative.htm",
       "team": "ARG",
-      "time": "18小时前",
-      "time_iso": "2026-10-17T23:55:21.227946+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-10-18T10:50:49.654837+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,10 +165,22 @@
       "summary": "",
       "url": "https://bbs.hupu.com/642944341.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-16T20:54:06.184063+00:00",
       "source": "虎扑",
       "is_hot": false
+    },
+    {
+      "id": "96b634e2fa",
+      "category": "hot",
+      "title": "火力全开！梅西世界杯后16场斩获15球9助攻，场均直接参与1.5球",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad05252eca59native.htm",
+      "team": "ARG",
+      "time": "22小时前",
+      "time_iso": "2026-10-17T23:55:21.227946+00:00",
+      "source": "直播吧",
+      "is_hot": true
     },
     {
       "id": "9f1b12119e",
@@ -201,22 +189,10 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0513a7ed1anative.htm",
       "team": "ARG",
-      "time": "18小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-17T23:55:21.227994+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "1df12d53aa",
-      "category": "hot",
-      "title": "有相关方联系阿森纳功勋主帅温格，寻求让他竞选新FIFA主席",
-      "summary": "",
-      "url": "https://bbs.hupu.com/642928987.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-15T21:14:05.981232+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "2388d55308",
@@ -262,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4e1535a8a3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.569191+00:00",
+      "time_iso": "2026-10-18T22:21:35.388483+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.570273+00:00",
+      "time_iso": "2026-10-18T22:21:35.389699+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.570355+00:00",
+      "time_iso": "2026-10-18T22:21:35.389824+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4dbd71f925native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.571051+00:00",
+      "time_iso": "2026-10-18T22:21:35.390482+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad481c269a38native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.571324+00:00",
+      "time_iso": "2026-10-18T22:21:35.390817+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,19 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad382f7e1d24native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.571919+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "cb2e02c1dc",
-      "category": "hot",
-      "title": "帕斯：目前专注于享受足球，还没有考虑阿根廷国家队的事",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad4fea415cf7native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.572068+00:00",
+      "time_iso": "2026-10-18T22:21:35.391353+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad16b5f86c60native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.573199+00:00",
+      "time_iso": "2026-10-18T22:21:35.392609+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.573422+00:00",
+      "time_iso": "2026-10-18T22:21:35.392871+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +334,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-18T18:33:22.573968+00:00",
+      "time_iso": "2026-10-18T22:21:35.393393+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "cb2e02c1dc",
+      "category": "hot",
+      "title": "帕斯：目前专注于享受足球，还没有考虑阿根廷国家队的事",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad4fea415cf7native.htm",
+      "team": "ARG",
+      "time": "3小时前",
+      "time_iso": "2026-10-18T18:33:22.572068+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -381,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4a2f755139native.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-18T10:50:49.645227+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4876eed18bnative.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-18T10:50:49.645453+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0e7b78440bnative.htm",
       "team": "JPN",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-18T10:50:49.645791+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -417,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad487104d550native.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-18T10:50:49.652726+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -429,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad41055cea66native.htm",
       "team": "GER",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-18T04:15:52.194509+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -441,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
       "team": "KOR",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-18T04:15:52.195351+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -453,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3914aaea95native.htm",
       "team": "",
-      "time": "18小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-17T23:55:21.224342+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -465,7 +441,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad390a1390e5native.htm",
       "team": "",
-      "time": "18小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-17T23:55:21.224431+00:00",
       "source": "直播吧",
       "is_hot": false
