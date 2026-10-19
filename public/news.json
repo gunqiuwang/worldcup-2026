@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-10-19T12:52:33.434101+00:00",
-  "count": 38,
+  "updated_at": "2026-10-19T19:45:54.553204+00:00",
+  "count": 39,
   "articles": [
-    {
-      "id": "f5a951f4ef",
-      "category": "hot",
-      "title": "世体：亚马尔可能再遇迪涅，两人上次交手迪涅世界杯半决赛送点",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad58979412b3native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.187512+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "9fb280def2",
-      "category": "hot",
-      "title": "天体：拉什福德世界杯后一直髋部有伤，他想恢复为曼联尽力",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643051131.html",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:33.433533+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
     {
       "id": "6fc7d3a043",
       "category": "hot",
@@ -34,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad471192419bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.188000+00:00",
+      "time_iso": "2026-10-19T19:45:52.326682+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "1ee59e1600",
+      "id": "146895f7d1",
       "category": "hot",
-      "title": "西蒙尼：巴埃纳达到引进时的期待，世界杯让他更上一层楼",
+      "title": "南野拓实时隔308天重返法甲，此前ACL重伤错过世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/643035044.html",
+      "url": "https://bbs.hupu.com/643062385.html",
       "team": "",
-      "time": "18小时前",
-      "time_iso": "2026-10-18T18:33:24.794856+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-10-19T19:45:54.552904+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad47f72e56e6native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.189282+00:00",
+      "time_iso": "2026-10-19T19:45:52.327213+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "cd8f88851f",
+      "id": "9fb280def2",
       "category": "hot",
-      "title": "卫报：FIFA高层要求废除和平奖，特朗普或成唯一获奖政治家",
+      "title": "天体：拉什福德世界杯后一直髋部有伤，他想恢复为曼联尽力",
       "summary": "",
-      "url": "https://bbs.hupu.com/643004250.html",
+      "url": "https://bbs.hupu.com/643051131.html",
       "team": "",
-      "time": "21小时前",
-      "time_iso": "2026-10-18T15:45:09.034805+00:00",
+      "time": "6小时前",
+      "time_iso": "2026-10-19T12:52:33.433533+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,7 +58,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.189904+00:00",
+      "time_iso": "2026-10-19T19:45:52.327487+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "1ee59e1600",
+      "category": "hot",
+      "title": "西蒙尼：巴埃纳达到引进时的期待，世界杯让他更上一层楼",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643035044.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-10-18T18:33:24.794856+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "f5a951f4ef",
+      "category": "hot",
+      "title": "世体：亚马尔可能再遇迪涅，两人上次交手迪涅世界杯半决赛送点",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad58979412b3native.htm",
+      "team": "ESP",
+      "time": "6小时前",
+      "time_iso": "2026-10-19T12:52:30.187512+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "cd8f88851f",
+      "category": "hot",
+      "title": "卫报：FIFA高层要求废除和平奖，特朗普或成唯一获奖政治家",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643004250.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-10-18T15:45:09.034805+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "9c45de771b",
+      "category": "hot",
+      "title": "队报确认：努诺·门德斯将缺战巴萨，世界杯他曾锁死亚马尔",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4d21b07050native.htm",
+      "team": "ESP",
+      "time": "15小时前",
+      "time_iso": "2026-10-19T04:23:02.385094+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +123,14 @@
       "is_hot": false
     },
     {
-      "id": "9c45de771b",
+      "id": "279593cad9",
       "category": "hot",
-      "title": "队报确认：努诺·门德斯将缺战巴萨，世界杯他曾锁死亚马尔",
+      "title": "超级两双！39岁梅西2026年目前44场打进40球，还送出21次助攻！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4d21b07050native.htm",
-      "team": "ESP",
-      "time": "8小时前",
-      "time_iso": "2026-10-19T04:23:02.385094+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad42b4319de9native.htm",
+      "team": "ARG",
+      "time": "1天前",
+      "time_iso": "2026-10-18T10:50:49.654777+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,30 +147,6 @@
       "is_hot": false
     },
     {
-      "id": "279593cad9",
-      "category": "hot",
-      "title": "超级两双！39岁梅西2026年目前44场打进40球，还送出21次助攻！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad42b4319de9native.htm",
-      "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-10-18T10:50:49.654777+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "27994c049d",
-      "category": "hot",
-      "title": "队报：温格称暂未参选FIFA主席，但不排除可能+各方翘首以盼",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643010523.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-17T16:58:19.142380+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "d36b7664b9",
       "category": "hot",
       "title": "火力全开！梅西世界杯后17场17球9助，场均进1球、直接参与1.53球",
@@ -159,14 +159,14 @@
       "is_hot": true
     },
     {
-      "id": "f76200d879",
+      "id": "27994c049d",
       "category": "hot",
-      "title": "法布雷加斯：欧冠比世界杯水平高；输球责任我来担&不怪球员",
+      "title": "队报：温格称暂未参选FIFA主席，但不排除可能+各方翘首以盼",
       "summary": "",
-      "url": "https://bbs.hupu.com/642970381.html",
+      "url": "https://bbs.hupu.com/643010523.html",
       "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-17T16:58:19.142532+00:00",
+      "time": "2天前",
+      "time_iso": "2026-10-17T16:58:19.142380+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -183,14 +183,14 @@
       "is_hot": true
     },
     {
-      "id": "e4346ba2d3",
+      "id": "f76200d879",
       "category": "hot",
-      "title": "维京是近10个赛季第四支，欧冠小组赛上半场进拜仁2+球球队",
+      "title": "法布雷加斯：欧冠比世界杯水平高；输球责任我来担&不怪球员",
       "summary": "",
-      "url": "https://bbs.hupu.com/642944341.html",
+      "url": "https://bbs.hupu.com/642970381.html",
       "team": "",
       "time": "2天前",
-      "time_iso": "2026-10-16T20:54:06.184063+00:00",
+      "time_iso": "2026-10-17T16:58:19.142532+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -205,6 +205,18 @@
       "time_iso": "2026-10-17T23:55:21.227946+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "e4346ba2d3",
+      "category": "hot",
+      "title": "维京是近10个赛季第四支，欧冠小组赛上半场进拜仁2+球球队",
+      "summary": "",
+      "url": "https://bbs.hupu.com/642944341.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-10-16T20:54:06.184063+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "9f1b12119e",
@@ -231,16 +243,40 @@
       "is_hot": true
     },
     {
-      "id": "cfb98e86ee",
+      "id": "9d7a375c19",
       "category": "hot",
-      "title": "葡媒：世界杯后C罗婚期进入倒计时，乔治娜的钻戒最高值2500万欧",
+      "title": "U17女足世界杯-中国3-0完胜肯尼亚取开门红 徐晓棠双响徐悦破门",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-07-24/6a63189a90ddfnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/match1987071date2026vnative.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-16T13:10:07.996187+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-10-19T19:45:52.325171+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
+    },
+    {
+      "id": "fbe1aa1fe1",
+      "category": "tactical",
+      "title": "U17女足世界杯小组赛第一轮：中国U17女足vs肯尼亚U17女足首发",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad6237421d30native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-19T19:45:52.325270+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "87b2ac9349",
+      "category": "tactical",
+      "title": "U17女足世界杯中国vs肯尼亚首发：方珍珠领衔，刘雨希替补",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad622c741d8dnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-19T19:45:52.325293+00:00",
+      "source": "直播吧",
+      "is_hot": false
     },
     {
       "id": "69feae0caa",
@@ -250,19 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad5dc6663539native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.184502+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ff34c35b88",
-      "category": "hot",
-      "title": "中体联世界杯首战破门！赵松源：希望能够帮助团队取得冠军",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad5a268be91fnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.184689+00:00",
+      "time_iso": "2026-10-19T19:45:52.325334+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.185786+00:00",
+      "time_iso": "2026-10-19T19:45:52.326151+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4dbd71f925native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.186946+00:00",
+      "time_iso": "2026-10-19T19:45:52.326483+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad382f7e1d24native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.188573+00:00",
+      "time_iso": "2026-10-19T19:45:52.326815+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.189959+00:00",
+      "time_iso": "2026-10-19T19:45:52.327512+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +346,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T12:52:30.190474+00:00",
+      "time_iso": "2026-10-19T19:45:52.327767+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ff34c35b88",
+      "category": "hot",
+      "title": "中体联世界杯首战破门！赵松源：希望能够帮助团队取得冠军",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad5a268be91fnative.htm",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-19T12:52:30.184689+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -333,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
       "team": "",
-      "time": "8小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-19T04:23:02.384070+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4e1535a8a3native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-18T22:21:35.388483+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad481c269a38native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-18T22:21:35.390817+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad16b5f86c60native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-18T22:21:35.392609+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad4fea415cf7native.htm",
       "team": "ARG",
-      "time": "18小时前",
+      "time": "1天前",
       "time_iso": "2026-10-18T18:33:22.572068+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -431,30 +467,6 @@
       "team": "",
       "time": "1天前",
       "time_iso": "2026-10-18T10:50:49.652726+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "2f86b4f54c",
-      "category": "hot",
-      "title": "菲尔克鲁格：我不想再谈论德国国家队的话题，希望媒体尊重我",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad41055cea66native.htm",
-      "team": "GER",
-      "time": "1天前",
-      "time_iso": "2026-10-18T04:15:52.194509+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "93ba3e2df7",
-      "category": "hot",
-      "title": "炫耀免兵役！韩国奥委会主席柳承敏呼吁国家队选手注意自身言行",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-04/6ac1ff143454cnative.htm",
-      "team": "KOR",
-      "time": "1天前",
-      "time_iso": "2026-10-18T04:15:52.195351+00:00",
       "source": "直播吧",
       "is_hot": false
     }
