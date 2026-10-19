@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-19T04:23:04.035898+00:00",
-  "count": 37,
+  "updated_at": "2026-10-19T12:52:33.434101+00:00",
+  "count": 38,
   "articles": [
+    {
+      "id": "f5a951f4ef",
+      "category": "hot",
+      "title": "世体：亚马尔可能再遇迪涅，两人上次交手迪涅世界杯半决赛送点",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad58979412b3native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-19T12:52:30.187512+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "9fb280def2",
+      "category": "hot",
+      "title": "天体：拉什福德世界杯后一直髋部有伤，他想恢复为曼联尽力",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643051131.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-19T12:52:33.433533+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
     {
       "id": "6fc7d3a043",
       "category": "hot",
@@ -10,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad471192419bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.384799+00:00",
+      "time_iso": "2026-10-19T12:52:30.188000+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,20 +45,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643035044.html",
       "team": "",
-      "time": "9小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-18T18:33:24.794856+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "f5a951f4ef",
+      "id": "f7e67fc7a5",
       "category": "hot",
-      "title": "世体：亚马尔可能再遇迪涅，两人上次交手迪涅世界杯半决赛送点",
+      "title": "营养师：助梅西备战我们做了大规模化验，26世界杯他状态比22年好",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad58979412b3native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad47f72e56e6native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.385007+00:00",
+      "time_iso": "2026-10-19T12:52:30.189282+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,20 +69,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643004250.html",
       "team": "",
-      "time": "12小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-18T15:45:09.034805+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "9c45de771b",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "队报确认：努诺·门德斯将缺战巴萨，世界杯他曾锁死亚马尔",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4d21b07050native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.385094+00:00",
+      "time_iso": "2026-10-19T12:52:30.189904+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +99,14 @@
       "is_hot": false
     },
     {
-      "id": "f7e67fc7a5",
+      "id": "9c45de771b",
       "category": "hot",
-      "title": "营养师：助梅西备战我们做了大规模化验，26世界杯他状态比22年好",
+      "title": "队报确认：努诺·门德斯将缺战巴萨，世界杯他曾锁死亚马尔",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad47f72e56e6native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.386111+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4d21b07050native.htm",
+      "team": "ESP",
+      "time": "8小时前",
+      "time_iso": "2026-10-19T04:23:02.385094+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +123,14 @@
       "is_hot": false
     },
     {
-      "id": "c73169e424",
+      "id": "279593cad9",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "超级两双！39岁梅西2026年目前44场打进40球，还送出21次助攻！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.386574+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad42b4319de9native.htm",
+      "team": "ARG",
+      "time": "1天前",
+      "time_iso": "2026-10-18T10:50:49.654777+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "279593cad9",
+      "id": "d36b7664b9",
       "category": "hot",
-      "title": "超级两双！39岁梅西2026年目前44场打进40球，还送出21次助攻！",
+      "title": "火力全开！梅西世界杯后17场17球9助，场均进1球、直接参与1.53球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad42b4319de9native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad429429106cnative.htm",
       "team": "ARG",
-      "time": "17小时前",
-      "time_iso": "2026-10-18T10:50:49.654777+00:00",
+      "time": "1天前",
+      "time_iso": "2026-10-18T10:50:49.654809+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "d36b7664b9",
+      "id": "fd0ee09a61",
       "category": "hot",
-      "title": "火力全开！梅西世界杯后17场17球9助，场均进1球、直接参与1.53球",
+      "title": "王者风采！梅西今年世界杯以来已5次获得单场10分评价",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad429429106cnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4298629c3bnative.htm",
       "team": "ARG",
-      "time": "17小时前",
-      "time_iso": "2026-10-18T10:50:49.654809+00:00",
+      "time": "1天前",
+      "time_iso": "2026-10-18T10:50:49.654837+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -169,18 +193,6 @@
       "time_iso": "2026-10-16T20:54:06.184063+00:00",
       "source": "虎扑",
       "is_hot": false
-    },
-    {
-      "id": "fd0ee09a61",
-      "category": "hot",
-      "title": "王者风采！梅西今年世界杯以来已5次获得单场10分评价",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4298629c3bnative.htm",
-      "team": "ARG",
-      "time": "17小时前",
-      "time_iso": "2026-10-18T10:50:49.654837+00:00",
-      "source": "直播吧",
-      "is_hot": true
     },
     {
       "id": "96b634e2fa",
@@ -213,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad33718113ednative.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-17T12:05:48.138542+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -231,26 +243,26 @@
       "is_hot": true
     },
     {
-      "id": "7f64a50bd4",
+      "id": "69feae0caa",
       "category": "hot",
-      "title": "7千字长文！梅里诺：被告知无缘世界杯 封堵梅西射门单眼暂时失明",
+      "title": "云南玉昆2026怡宝中超联赛第二十九轮客场球迷远征招募公告",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0c3db1cfbdnative.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-16T07:00:12.874188+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "3a73ce3e27",
-      "category": "hot",
-      "title": "米卢：相信国足有希望打进下届世界杯，年轻球员有潜力、有热情",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad5dc6663539native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.384070+00:00",
+      "time_iso": "2026-10-19T12:52:30.184502+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ff34c35b88",
+      "category": "hot",
+      "title": "中体联世界杯首战破门！赵松源：希望能够帮助团队取得冠军",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad5a268be91fnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-19T12:52:30.184689+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.384165+00:00",
+      "time_iso": "2026-10-19T12:52:30.185786+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4dbd71f925native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.384869+00:00",
+      "time_iso": "2026-10-19T12:52:30.186946+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad382f7e1d24native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.385542+00:00",
+      "time_iso": "2026-10-19T12:52:30.188573+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.386614+00:00",
+      "time_iso": "2026-10-19T12:52:30.189959+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +322,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-19T04:23:02.386997+00:00",
+      "time_iso": "2026-10-19T12:52:30.190474+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "3a73ce3e27",
+      "category": "hot",
+      "title": "米卢：相信国足有希望打进下届世界杯，年轻球员有潜力、有热情",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
+      "team": "",
+      "time": "8小时前",
+      "time_iso": "2026-10-19T04:23:02.384070+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -321,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4e1535a8a3native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "14小时前",
       "time_iso": "2026-10-18T22:21:35.388483+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -333,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad481c269a38native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "14小时前",
       "time_iso": "2026-10-18T22:21:35.390817+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad16b5f86c60native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "14小时前",
       "time_iso": "2026-10-18T22:21:35.392609+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad4fea415cf7native.htm",
       "team": "ARG",
-      "time": "9小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-18T18:33:22.572068+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4a2f755139native.htm",
       "team": "",
-      "time": "17小时前",
+      "time": "1天前",
       "time_iso": "2026-10-18T10:50:49.645227+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4876eed18bnative.htm",
       "team": "",
-      "time": "17小时前",
+      "time": "1天前",
       "time_iso": "2026-10-18T10:50:49.645453+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad0e7b78440bnative.htm",
       "team": "JPN",
-      "time": "17小时前",
+      "time": "1天前",
       "time_iso": "2026-10-18T10:50:49.645791+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad487104d550native.htm",
       "team": "",
-      "time": "17小时前",
+      "time": "1天前",
       "time_iso": "2026-10-18T10:50:49.652726+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -431,18 +455,6 @@
       "team": "KOR",
       "time": "1天前",
       "time_iso": "2026-10-18T04:15:52.195351+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "e039f143a3",
-      "category": "hot",
-      "title": "“苏超”半决赛现场人数：泰州vs无锡29511人、盐城vs常州35063人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad3914aaea95native.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-17T23:55:21.224342+00:00",
       "source": "直播吧",
       "is_hot": false
     }
