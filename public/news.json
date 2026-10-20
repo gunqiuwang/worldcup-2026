@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T04:33:39.551647+00:00",
+  "updated_at": "2026-10-20T11:21:34.662157+00:00",
   "count": 40,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad471192419bnative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.243726+00:00",
+      "time_iso": "2026-10-20T11:21:32.614526+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643079377.html",
       "team": "FRA",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-20T04:33:39.551055+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6d18a6d31anative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.244585+00:00",
+      "time_iso": "2026-10-20T11:21:32.614991+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643061376.html",
       "team": "GER",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-20T04:33:39.551178+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6c7d3bcb52native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.244642+00:00",
+      "time_iso": "2026-10-20T11:21:32.615095+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643062385.html",
       "team": "",
-      "time": "8小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-19T19:45:54.552904+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.245264+00:00",
+      "time_iso": "2026-10-20T11:21:32.615377+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643051131.html",
       "team": "",
-      "time": "15小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-19T12:52:33.433533+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad47f72e56e6native.htm",
       "team": "ARG",
-      "time": "5小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-19T23:30:49.483373+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad58979412b3native.htm",
       "team": "ESP",
-      "time": "15小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-19T12:52:30.187512+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad42b4319de9native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-18T10:50:49.654777+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad429429106cnative.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-18T10:50:49.654809+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -225,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4298629c3bnative.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-18T10:50:49.654837+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -279,38 +279,50 @@
       "is_hot": true
     },
     {
-      "id": "d3469013db",
+      "id": "6a80b8092f",
       "category": "hot",
-      "title": "马晓旭：世界杯首战队员们还没有完全放开，相信会渐入佳境",
+      "title": "周海滨挂帅！U15国足世界杯出征名单：沙明、殷扎吉在列",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6d1ed09051native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.237901+00:00",
+      "time_iso": "2026-10-20T11:21:32.613396+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "8029188433",
+      "id": "20d6b3bcdc",
       "category": "hot",
-      "title": "中国U-17女足3比0战胜肯尼亚U-17女足，迎U17女足世界杯开门红",
+      "title": "2026FIFAU-15世界杯暨足球节中国U-15国家男子足球队出征名单公布",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6cf045f1eenative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad73778a83b5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.238018+00:00",
+      "time_iso": "2026-10-20T11:21:32.613476+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "9d7a375c19",
+      "id": "27df8cc2c2",
       "category": "hot",
-      "title": "U17女足世界杯-中国3-0完胜肯尼亚取开门红 徐晓棠双响徐悦破门",
+      "title": "亚运第四！FIFA排名：中国女足被韩国女足反超 下降两位至第18位",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/match1987071date2026vnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
+      "team": "KOR",
+      "time": "1分钟前",
+      "time_iso": "2026-10-20T11:21:32.613508+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "b9951f1fb7",
+      "category": "hot",
+      "title": "足球报：中国U17女足世界杯首战交出出色答卷，刻苦备战获回报",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad72637c8ef3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.238104+00:00",
+      "time_iso": "2026-10-20T11:21:32.613537+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.238661+00:00",
+      "time_iso": "2026-10-20T11:21:32.613906+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6b02fe6485native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.244686+00:00",
+      "time_iso": "2026-10-20T11:21:32.615029+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.245320+00:00",
+      "time_iso": "2026-10-20T11:21:32.615405+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +370,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-20T04:33:37.245904+00:00",
+      "time_iso": "2026-10-20T11:21:32.615731+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "d3469013db",
+      "category": "hot",
+      "title": "马晓旭：世界杯首战队员们还没有完全放开，相信会渐入佳境",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6d1ed09051native.htm",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-20T04:33:37.237901+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "8029188433",
+      "category": "hot",
+      "title": "中国U-17女足3比0战胜肯尼亚U-17女足，迎U17女足世界杯开门红",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6cf045f1eenative.htm",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-20T04:33:37.238018+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "9d7a375c19",
+      "category": "hot",
+      "title": "U17女足世界杯-中国3-0完胜肯尼亚取开门红 徐晓棠双响徐悦破门",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/match1987071date2026vnative.htm",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-20T04:33:37.238104+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -369,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad6237421d30native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-19T23:30:49.478773+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad622c741d8dnative.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-19T23:30:49.478814+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +441,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad5dc6663539native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-19T23:30:49.478889+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +453,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad382f7e1d24native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-19T23:30:49.482263+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -417,7 +465,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4dbd71f925native.htm",
       "team": "GER",
-      "time": "8小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-19T19:45:52.326483+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -429,56 +477,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-19/6ad5a268be91fnative.htm",
       "team": "",
-      "time": "15小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-19T12:52:30.184689+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "3a73ce3e27",
-      "category": "hot",
-      "title": "米卢：相信国足有希望打进下届世界杯，年轻球员有潜力、有热情",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-15/6ad01d837dcaanative.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-19T04:23:02.384070+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c8ec7d0160",
-      "category": "hot",
-      "title": "中体联足球世界杯揭幕战：中国一队4-1战胜捷克二队迎来开门红",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad4e1535a8a3native.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-18T22:21:35.388483+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ad1f826df4",
-      "category": "hot",
-      "title": "ESPN：芝加哥和波特兰提交申请，竞逐2031年女足世界杯主办城市",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad481c269a38native.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-18T22:21:35.390817+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "45a24f471d",
-      "category": "hot",
-      "title": "澳超彩经：揭幕战！西悉尼漫步者无惧悉尼FC",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-16/6ad16b5f86c60native.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-18T22:21:35.392609+00:00",
       "source": "直播吧",
       "is_hot": false
     }
