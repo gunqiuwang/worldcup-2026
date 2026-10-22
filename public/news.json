@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:24:28.618782+00:00",
+  "updated_at": "2026-10-22T11:36:37.273811+00:00",
   "count": 40,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad98e4cc7e9bnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507747+00:00",
+      "time_iso": "2026-10-22T11:36:35.061666+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643079377.html",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-20T04:33:39.551055+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad74babb989dnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.508229+00:00",
+      "time_iso": "2026-10-22T11:36:35.062075+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643137629.html",
       "team": "",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-21T23:09:26.326903+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6d18a6d31anative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.509245+00:00",
+      "time_iso": "2026-10-22T11:36:35.063550+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643125448.html",
       "team": "",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-21T23:09:26.327109+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.509587+00:00",
+      "time_iso": "2026-10-22T11:36:35.063991+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643096288.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-10-21T07:25:21.124591+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad786bcae619native.htm",
       "team": "ARG",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-21T23:09:23.935622+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643085185.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-10-21T07:25:21.124730+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643061376.html",
       "team": "GER",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-20T04:33:39.551178+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -219,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "b0505b4382",
+      "id": "001e8567a9",
       "category": "hot",
-      "title": "京媒评U15国足征战首届U15世界杯：并非传统意义上的世界杯",
+      "title": "2026国家足球职业学院校际足球联赛开幕，郑智、李昊出席开幕式",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad960d03d004native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad9c0f46c177native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.506591+00:00",
+      "time_iso": "2026-10-22T11:36:35.059866+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -243,18 +243,6 @@
       "is_hot": false
     },
     {
-      "id": "d3e4d8168a",
-      "category": "hot",
-      "title": "2026女超联赛现场观众人数统计（第13轮） ​​​​：场均3991人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8b0be3b593native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.506720+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "6a80b8092f",
       "category": "hot",
       "title": "周海滨挂帅！U15国足世界杯出征名单：沙明、殷扎吉在列",
@@ -262,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.506768+00:00",
+      "time_iso": "2026-10-22T11:36:35.060011+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507042+00:00",
+      "time_iso": "2026-10-22T11:36:35.060394+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507066+00:00",
+      "time_iso": "2026-10-22T11:36:35.060430+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507089+00:00",
+      "time_iso": "2026-10-22T11:36:35.060461+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507111+00:00",
+      "time_iso": "2026-10-22T11:36:35.060491+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507140+00:00",
+      "time_iso": "2026-10-22T11:36:35.060528+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507232+00:00",
+      "time_iso": "2026-10-22T11:36:35.060638+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +334,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.507260+00:00",
+      "time_iso": "2026-10-22T11:36:35.060676+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "498d29dafd",
+      "category": "hot",
+      "title": "欧冠小组赛/联赛阶段最长主场不败榜：拜仁40场居首，曼城次席",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad9d87ea4995native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-22T11:36:35.061567+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "2b08388568",
+      "category": "hot",
+      "title": "桑巴：我很了解尤文和穆阿尼，我要拿出最好的表现重返法国国家队",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad9b04bcf554native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-22T11:36:35.062155+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.509627+00:00",
+      "time_iso": "2026-10-22T11:36:35.064042+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad951ea1beb9native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.509766+00:00",
+      "time_iso": "2026-10-22T11:36:35.064279+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +394,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-22T04:24:26.510097+00:00",
+      "time_iso": "2026-10-22T11:36:35.064679+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "b0505b4382",
+      "category": "hot",
+      "title": "京媒评U15国足征战首届U15世界杯：并非传统意义上的世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad960d03d004native.htm",
+      "team": "",
+      "time": "7小时前",
+      "time_iso": "2026-10-22T04:24:26.506591+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "d3e4d8168a",
+      "category": "hot",
+      "title": "2026女超联赛现场观众人数统计（第13轮） ​​​​：场均3991人",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8b0be3b593native.htm",
+      "team": "",
+      "time": "7小时前",
+      "time_iso": "2026-10-22T04:24:26.506720+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -393,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8596a0da1fnative.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-21T23:09:23.933313+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +441,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad7cbe94cde8native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-21T23:09:23.935200+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -417,7 +453,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad888226075dnative.htm",
       "team": "",
-      "time": "9小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-21T18:31:27.950967+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -429,7 +465,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8aa5a651a1native.htm",
       "team": "BEL",
-      "time": "9小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-21T18:31:27.951339+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -441,44 +477,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad86fccdd88cnative.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-21T13:40:01.223016+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "0e4e3a3e7d",
-      "category": "hot",
-      "title": "巴黎重大打击！K77上赛季欧冠淘汰赛6球3助+决赛造点，当选最佳",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad880f646692native.htm",
-      "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-10-21T13:40:01.223506+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "2e56de3df5",
-      "category": "hot",
-      "title": "FIFA官方回应泰晤士报道歉：有人一直想损害FIFA和因凡蒂诺的声誉",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84663ba5b3native.htm",
-      "team": "",
-      "time": "14小时前",
-      "time_iso": "2026-10-21T13:40:01.225550+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a46fe83ec8",
-      "category": "hot",
-      "title": "TA：美国12月将与牙买加进行友谊赛，主要征召MLS球员参赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8450a80139native.htm",
-      "team": "USA",
-      "time": "14小时前",
-      "time_iso": "2026-10-21T13:40:01.225585+00:00",
       "source": "直播吧",
       "is_hot": false
     }
