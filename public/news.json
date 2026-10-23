@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-23T13:17:54.409915+00:00",
+  "updated_at": "2026-10-23T18:13:35.410564+00:00",
   "count": 38,
   "articles": [
     {
-      "id": "ffbb216d0a",
+      "id": "125d829374",
       "category": "hot",
-      "title": "超算预测未来11年金球奖得主：2026年凯恩，亚马尔三次当选",
+      "title": "太阳报：梅西在卡塔尔世界杯举起的奖杯复制品将被拍卖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad98e4cc7e9bnative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada22a117c73native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.152575+00:00",
+      "time_iso": "2026-10-23T18:13:33.416227+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,32 +21,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643137629.html",
       "team": "",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-23T07:19:41.047827+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "125d829374",
-      "category": "hot",
-      "title": "太阳报：梅西在卡塔尔世界杯举起的奖杯复制品将被拍卖",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada22a117c73native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.154416+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "7205ddfa02",
-      "category": "hot",
-      "title": "握手言和，拜仁/阿森纳欧冠小组赛的不败纪录得到延续",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643139720.html",
-      "team": "",
-      "time": "12小时前",
-      "time_iso": "2026-10-23T00:31:23.607221+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -58,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.154930+00:00",
+      "time_iso": "2026-10-23T18:13:33.416634+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "7205ddfa02",
+      "category": "hot",
+      "title": "握手言和，拜仁/阿森纳欧冠小组赛的不败纪录得到延续",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643139720.html",
+      "team": "",
+      "time": "17小时前",
+      "time_iso": "2026-10-23T00:31:23.607221+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "ffbb216d0a",
+      "category": "hot",
+      "title": "超算预测未来11年金球奖得主：2026年凯恩，亚马尔三次当选",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad98e4cc7e9bnative.htm",
+      "team": "ESP",
+      "time": "4小时前",
+      "time_iso": "2026-10-23T13:17:52.152575+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643128532.html",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-10-22T17:01:44.814267+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -81,7 +81,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad74babb989dnative.htm",
       "team": "ESP",
-      "time": "12小时前",
+      "time": "17小时前",
       "time_iso": "2026-10-23T00:31:21.535634+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.151405+00:00",
+      "time_iso": "2026-10-23T18:13:33.413183+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.151808+00:00",
+      "time_iso": "2026-10-23T18:13:33.413592+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.151850+00:00",
+      "time_iso": "2026-10-23T18:13:33.413631+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.151883+00:00",
+      "time_iso": "2026-10-23T18:13:33.413663+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.151913+00:00",
+      "time_iso": "2026-10-23T18:13:33.413694+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.151951+00:00",
+      "time_iso": "2026-10-23T18:13:33.413731+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.152070+00:00",
+      "time_iso": "2026-10-23T18:13:33.413851+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.152099+00:00",
+      "time_iso": "2026-10-23T18:13:33.413905+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.152159+00:00",
+      "time_iso": "2026-10-23T18:13:33.413972+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,19 +310,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.152198+00:00",
+      "time_iso": "2026-10-23T18:13:33.414012+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "240f9cf589",
+      "id": "ddff2f0163",
       "category": "hot",
-      "title": "13年了！拜仁欧冠联赛阶段/小组赛主场40场不败 上次是13年负曼城",
+      "title": "墨媒：西汉姆中场阿尔瓦雷斯被控伪造疫苗证明获利，并参加世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada351f3dec4native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb74546b5d1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.152772+00:00",
+      "time_iso": "2026-10-23T18:13:33.414185+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb3babcf9d8native.htm",
       "team": "USA",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.152941+00:00",
+      "time_iso": "2026-10-23T18:13:33.414757+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada4a12ee3c1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.153065+00:00",
+      "time_iso": "2026-10-23T18:13:33.414870+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.154983+00:00",
+      "time_iso": "2026-10-23T18:13:33.416683+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb223679fc2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.155171+00:00",
+      "time_iso": "2026-10-23T18:13:33.416868+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb1a3e959b1native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.155211+00:00",
+      "time_iso": "2026-10-23T18:13:33.416925+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,19 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adaf675cfac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.155273+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "882abeb255",
-      "category": "hot",
-      "title": "奥莱报：马拉多纳球场将承办2030世界杯比赛，阿根廷多座球场竞争",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adae842676fanative.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.155311+00:00",
+      "time_iso": "2026-10-23T18:13:33.417315+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +406,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T13:17:52.155730+00:00",
+      "time_iso": "2026-10-23T18:13:33.417393+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "240f9cf589",
+      "category": "hot",
+      "title": "13年了！拜仁欧冠联赛阶段/小组赛主场40场不败 上次是13年负曼城",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada351f3dec4native.htm",
+      "team": "",
+      "time": "4小时前",
+      "time_iso": "2026-10-23T13:17:52.152772+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "882abeb255",
+      "category": "hot",
+      "title": "奥莱报：马拉多纳球场将承办2030世界杯比赛，阿根廷多座球场竞争",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adae842676fanative.htm",
+      "team": "ARG",
+      "time": "4小时前",
+      "time_iso": "2026-10-23T13:17:52.155311+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -429,7 +441,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada9e660bd56native.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-23T07:19:38.935037+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -441,20 +453,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada8719872f8native.htm",
       "team": "USA",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-10-23T07:19:38.936082+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "f3fc276664",
-      "category": "hot",
-      "title": "德国决定不参加U15世界杯：不想让年轻球员过早承受压力",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada1dbc16e2cnative.htm",
-      "team": "GER",
-      "time": "5小时前",
-      "time_iso": "2026-10-23T07:19:38.937275+00:00",
       "source": "直播吧",
       "is_hot": false
     }
