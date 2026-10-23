@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-23T18:13:35.410564+00:00",
-  "count": 38,
+  "updated_at": "2026-10-23T23:01:26.191377+00:00",
+  "count": 36,
   "articles": [
     {
-      "id": "125d829374",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "太阳报：梅西在卡塔尔世界杯举起的奖杯复制品将被拍卖",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada22a117c73native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.416227+00:00",
+      "time_iso": "2026-10-23T23:01:24.064761+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,20 +21,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643137629.html",
       "team": "",
-      "time": "10小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-23T07:19:41.047827+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "c73169e424",
+      "id": "125d829374",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "太阳报：梅西在卡塔尔世界杯举起的奖杯复制品将被拍卖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.416634+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada22a117c73native.htm",
+      "team": "ARG",
+      "time": "4小时前",
+      "time_iso": "2026-10-23T18:13:33.416227+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643139720.html",
       "team": "",
-      "time": "17小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-23T00:31:23.607221+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -57,7 +57,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad98e4cc7e9bnative.htm",
       "team": "ESP",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-10-23T13:17:52.152575+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -81,7 +81,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad74babb989dnative.htm",
       "team": "ESP",
-      "time": "17小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-23T00:31:21.535634+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -159,18 +159,6 @@
       "is_hot": true
     },
     {
-      "id": "f21363045f",
-      "category": "hot",
-      "title": "FIFA官方：因凡蒂诺访问孟加拉国，亲切会见孟加拉足协高层",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643101201.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-20T21:29:24.503008+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "2ce4d01cb9",
       "category": "hot",
       "title": "热苏斯会召C罗吗？葡萄牙欧国联4连胜提前出线，11月比赛没有影响",
@@ -183,18 +171,6 @@
       "is_hot": true
     },
     {
-      "id": "685182a5e7",
-      "category": "hot",
-      "title": "TA：FIFA211个足协中61%财务状况不明，资金流向也难以追踪",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643096121.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-20T21:29:24.503153+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "6a80b8092f",
       "category": "hot",
       "title": "周海滨挂帅！U15国足世界杯出征名单：沙明、殷扎吉在列",
@@ -202,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413183+00:00",
+      "time_iso": "2026-10-23T23:01:24.061357+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413592+00:00",
+      "time_iso": "2026-10-23T23:01:24.061764+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413631+00:00",
+      "time_iso": "2026-10-23T23:01:24.061802+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413663+00:00",
+      "time_iso": "2026-10-23T23:01:24.061835+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413694+00:00",
+      "time_iso": "2026-10-23T23:01:24.061865+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413731+00:00",
+      "time_iso": "2026-10-23T23:01:24.061902+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413851+00:00",
+      "time_iso": "2026-10-23T23:01:24.062020+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413905+00:00",
+      "time_iso": "2026-10-23T23:01:24.062048+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.413972+00:00",
+      "time_iso": "2026-10-23T23:01:24.062109+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,19 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.414012+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ddff2f0163",
-      "category": "hot",
-      "title": "墨媒：西汉姆中场阿尔瓦雷斯被控伪造疫苗证明获利，并参加世界杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb74546b5d1native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.414185+00:00",
+      "time_iso": "2026-10-23T23:01:24.062149+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb3babcf9d8native.htm",
       "team": "USA",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.414757+00:00",
+      "time_iso": "2026-10-23T23:01:24.062931+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +310,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada4a12ee3c1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.414870+00:00",
+      "time_iso": "2026-10-23T23:01:24.063035+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "433c7b9052",
+      "category": "hot",
+      "title": "前德国国脚：德国足协该争取让特雷索尔迪效力，会让国家队更出色",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adbe41262154native.htm",
+      "team": "GER",
+      "time": "1分钟前",
+      "time_iso": "2026-10-23T23:01:24.063982+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +334,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.416683+00:00",
+      "time_iso": "2026-10-23T23:01:24.064812+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ddff2f0163",
+      "category": "hot",
+      "title": "墨媒：西汉姆中场阿尔瓦雷斯被控伪造疫苗证明获利，并参加世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb74546b5d1native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-23T23:01:24.064991+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,19 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb223679fc2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.416868+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "f1b13c950c",
-      "category": "hot",
-      "title": "记者：安赫尔·科雷亚可能回归阿根廷国家队，他在河床表现出色",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb1a3e959b1native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.416925+00:00",
+      "time_iso": "2026-10-23T23:01:24.065040+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adaf675cfac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.417315+00:00",
+      "time_iso": "2026-10-23T23:01:24.065438+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +382,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T18:13:33.417393+00:00",
+      "time_iso": "2026-10-23T23:01:24.065517+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "f1b13c950c",
+      "category": "hot",
+      "title": "记者：安赫尔·科雷亚可能回归阿根廷国家队，他在河床表现出色",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb1a3e959b1native.htm",
+      "team": "ARG",
+      "time": "4小时前",
+      "time_iso": "2026-10-23T18:13:33.416925+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -417,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada351f3dec4native.htm",
       "team": "",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-10-23T13:17:52.152772+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -429,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adae842676fanative.htm",
       "team": "ARG",
-      "time": "4小时前",
+      "time": "9小时前",
       "time_iso": "2026-10-23T13:17:52.155311+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -441,20 +429,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada9e660bd56native.htm",
       "team": "",
-      "time": "10小时前",
+      "time": "15小时前",
       "time_iso": "2026-10-23T07:19:38.935037+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "468d6456a6",
-      "category": "hot",
-      "title": "记者：FIFA确认首届女足世俱杯2028年1月在美国举办",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada8719872f8native.htm",
-      "team": "USA",
-      "time": "10小时前",
-      "time_iso": "2026-10-23T07:19:38.936082+00:00",
       "source": "直播吧",
       "is_hot": false
     }
