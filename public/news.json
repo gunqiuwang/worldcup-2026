@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:19:41.048206+00:00",
+  "updated_at": "2026-10-23T13:17:54.409915+00:00",
   "count": 38,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad98e4cc7e9bnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.934403+00:00",
+      "time_iso": "2026-10-23T13:17:52.152575+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643137629.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-10-23T07:19:41.047827+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada22a117c73native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.936444+00:00",
+      "time_iso": "2026-10-23T13:17:52.154416+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643139720.html",
       "team": "",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-23T00:31:23.607221+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.936924+00:00",
+      "time_iso": "2026-10-23T13:17:52.154930+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643128532.html",
       "team": "",
-      "time": "14小时前",
+      "time": "20小时前",
       "time_iso": "2026-10-22T17:01:44.814267+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -81,7 +81,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad74babb989dnative.htm",
       "team": "ESP",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-23T00:31:21.535634+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6d18a6d31anative.htm",
       "team": "ESP",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-10-22T11:36:35.063550+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643096288.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-21T07:25:21.124591+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643085185.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-21T07:25:21.124730+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -195,30 +195,6 @@
       "is_hot": false
     },
     {
-      "id": "5046707e71",
-      "category": "hot",
-      "title": "足协选聘女足主帅：国籍不限原则上55岁以下 目标2027世界杯+洛奥",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.932681+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "d90d6cdb3c",
-      "category": "hot",
-      "title": "卫报：后勤保障经费和待遇看齐男足！FIFA重磅升级2027女足世界杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.932779+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "6a80b8092f",
       "category": "hot",
       "title": "周海滨挂帅！U15国足世界杯出征名单：沙明、殷扎吉在列",
@@ -226,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.932865+00:00",
+      "time_iso": "2026-10-23T13:17:52.151405+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.933227+00:00",
+      "time_iso": "2026-10-23T13:17:52.151808+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.933259+00:00",
+      "time_iso": "2026-10-23T13:17:52.151850+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.933292+00:00",
+      "time_iso": "2026-10-23T13:17:52.151883+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.933323+00:00",
+      "time_iso": "2026-10-23T13:17:52.151913+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +262,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.933360+00:00",
+      "time_iso": "2026-10-23T13:17:52.151951+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "5046707e71",
+      "category": "hot",
+      "title": "足协选聘女足主帅：国籍不限原则上55岁以下 目标2027世界杯+洛奥",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-23T13:17:52.152070+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "d90d6cdb3c",
+      "category": "hot",
+      "title": "卫报：后勤保障经费和待遇看齐男足！FIFA重磅升级2027女足世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-23T13:17:52.152099+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.933494+00:00",
+      "time_iso": "2026-10-23T13:17:52.152159+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.933531+00:00",
+      "time_iso": "2026-10-23T13:17:52.152198+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,19 +322,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada351f3dec4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.934544+00:00",
+      "time_iso": "2026-10-23T13:17:52.152772+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "134fe569b1",
+      "id": "018ffee7f9",
       "category": "hot",
-      "title": "进球网：国际足联开启2030年世界杯转播权招标",
+      "title": "FIFA官方：首届女足世俱杯将于2028年1月在美国举办",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada9e660bd56native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb3babcf9d8native.htm",
+      "team": "USA",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.935037+00:00",
+      "time_iso": "2026-10-23T13:17:52.152941+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,19 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada4a12ee3c1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.935090+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "468d6456a6",
-      "category": "hot",
-      "title": "记者：FIFA确认首届女足世俱杯2028年1月在美国举办",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada8719872f8native.htm",
-      "team": "USA",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.936082+00:00",
+      "time_iso": "2026-10-23T13:17:52.153065+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +358,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.936976+00:00",
+      "time_iso": "2026-10-23T13:17:52.154983+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a3e2086bd3",
+      "category": "hot",
+      "title": "40岁穆斯莱拉点球大战3次扑点，美加墨世界杯曾3场3失误导致丢球",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb223679fc2native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-23T13:17:52.155171+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "f1b13c950c",
+      "category": "hot",
+      "title": "记者：安赫尔·科雷亚可能回归阿根廷国家队，他在河床表现出色",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb1a3e959b1native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-23T13:17:52.155211+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adaf675cfac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.937158+00:00",
+      "time_iso": "2026-10-23T13:17:52.155273+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,19 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adae842676fanative.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.937195+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "f3fc276664",
-      "category": "hot",
-      "title": "德国决定不参加U15世界杯：不想让年轻球员过早承受压力",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada1dbc16e2cnative.htm",
-      "team": "GER",
-      "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.937275+00:00",
+      "time_iso": "2026-10-23T13:17:52.155311+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,43 +418,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-23T07:19:38.937698+00:00",
+      "time_iso": "2026-10-23T13:17:52.155730+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "78d2ca1fc1",
+      "id": "134fe569b1",
       "category": "hot",
-      "title": "U17女足世界杯积分榜：中国U17女足提前出线，末轮与美国角逐头名",
+      "title": "进球网：国际足联开启2030年世界杯转播权招标",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada99505cf88native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada9e660bd56native.htm",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-10-23T07:19:38.935037+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "468d6456a6",
+      "category": "hot",
+      "title": "记者：FIFA确认首届女足世俱杯2028年1月在美国举办",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada8719872f8native.htm",
       "team": "USA",
-      "time": "6小时前",
-      "time_iso": "2026-10-23T00:31:21.534316+00:00",
+      "time": "5小时前",
+      "time_iso": "2026-10-23T07:19:38.936082+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "6ca588eb88",
+      "id": "f3fc276664",
       "category": "hot",
-      "title": "U17女足世界杯-中国7-0萨摩亚2连胜提前出线 徐悦、成宛迪均双响",
+      "title": "德国决定不参加U15世界杯：不想让年轻球员过早承受压力",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/match1987073date2026vnative.htm",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-10-23T00:31:21.534407+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c2687bbbc1",
-      "category": "tactical",
-      "title": "U17女足世界杯小组赛第二轮：中国U17女足vs萨摩亚U17女足首发",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada14239e0e4native.htm",
-      "team": "",
-      "time": "6小时前",
-      "time_iso": "2026-10-23T00:31:21.534448+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada1dbc16e2cnative.htm",
+      "team": "GER",
+      "time": "5小时前",
+      "time_iso": "2026-10-23T07:19:38.937275+00:00",
       "source": "直播吧",
       "is_hot": false
     }
