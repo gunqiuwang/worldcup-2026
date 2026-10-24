@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T18:43:05.095425+00:00",
-  "count": 36,
+  "updated_at": "2026-10-24T22:23:20.029311+00:00",
+  "count": 37,
   "articles": [
     {
       "id": "f11493312e",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc03a3253fcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.085194+00:00",
+      "time_iso": "2026-10-24T22:23:18.075991+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643130827.html",
       "team": "FRA",
-      "time": "2小时前",
+      "time": "6小时前",
       "time_iso": "2026-10-24T15:47:19.566102+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,19 +34,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.085666+00:00",
+      "time_iso": "2026-10-24T22:23:18.076474+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "abb62ae562",
+      "id": "ec6feae26e",
       "category": "hot",
-      "title": "FIFA拟创办喜马拉雅杯，未来四年还将向不丹投入2500万美元",
+      "title": "调整一下！蓉城下周末没有比赛，英博将出战足协杯半决赛",
       "summary": "",
-      "url": "https://bbs.hupu.com/643114359.html",
+      "url": "https://bbs.hupu.com/643232326.html",
       "team": "",
-      "time": "7小时前",
-      "time_iso": "2026-10-24T10:44:52.817914+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-10-24T22:23:20.028761+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -57,20 +57,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc07489edacnative.htm",
       "team": "ESP",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-24T04:20:04.416165+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "154a470b2a",
+      "id": "abb62ae562",
       "category": "hot",
-      "title": "欧冠小组赛/联赛主场连续不败榜：拜仁近12年39场，高居榜首",
+      "title": "FIFA拟创办喜马拉雅杯，未来四年还将向不丹投入2500万美元",
       "summary": "",
-      "url": "https://bbs.hupu.com/643137629.html",
+      "url": "https://bbs.hupu.com/643114359.html",
       "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-23T07:19:41.047827+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-10-24T10:44:52.817914+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -87,14 +87,14 @@
       "is_hot": true
     },
     {
-      "id": "7205ddfa02",
+      "id": "154a470b2a",
       "category": "hot",
-      "title": "握手言和，拜仁/阿森纳欧冠小组赛的不败纪录得到延续",
+      "title": "欧冠小组赛/联赛主场连续不败榜：拜仁近12年39场，高居榜首",
       "summary": "",
-      "url": "https://bbs.hupu.com/643139720.html",
+      "url": "https://bbs.hupu.com/643137629.html",
       "team": "",
       "time": "1天前",
-      "time_iso": "2026-10-23T00:31:23.607221+00:00",
+      "time_iso": "2026-10-23T07:19:41.047827+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -111,14 +111,14 @@
       "is_hot": true
     },
     {
-      "id": "199834fd85",
+      "id": "7205ddfa02",
       "category": "hot",
-      "title": "泰晤士报官方声明：就虚假报道向FIFA及因凡蒂诺致歉",
+      "title": "握手言和，拜仁/阿森纳欧冠小组赛的不败纪录得到延续",
       "summary": "",
-      "url": "https://bbs.hupu.com/643128532.html",
+      "url": "https://bbs.hupu.com/643139720.html",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-22T17:01:44.814267+00:00",
+      "time": "1天前",
+      "time_iso": "2026-10-23T00:31:23.607221+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -135,14 +135,14 @@
       "is_hot": true
     },
     {
-      "id": "df54acee7b",
+      "id": "199834fd85",
       "category": "hot",
-      "title": "国足亚洲杯小组赛时间：三场比赛均在北京时间21:30开球",
+      "title": "泰晤士报官方声明：就虚假报道向FIFA及因凡蒂诺致歉",
       "summary": "",
-      "url": "https://bbs.hupu.com/643125448.html",
+      "url": "https://bbs.hupu.com/643128532.html",
       "team": "",
       "time": "2天前",
-      "time_iso": "2026-10-21T23:09:26.327109+00:00",
+      "time_iso": "2026-10-22T17:01:44.814267+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -157,6 +157,18 @@
       "time_iso": "2026-10-22T11:36:35.063550+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "df54acee7b",
+      "category": "hot",
+      "title": "国足亚洲杯小组赛时间：三场比赛均在北京时间21:30开球",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643125448.html",
+      "team": "",
+      "time": "2天前",
+      "time_iso": "2026-10-21T23:09:26.327109+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "ab13ce176e",
@@ -178,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.082767+00:00",
+      "time_iso": "2026-10-24T22:23:18.073532+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -190,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.082852+00:00",
+      "time_iso": "2026-10-24T22:23:18.073621+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.082892+00:00",
+      "time_iso": "2026-10-24T22:23:18.073661+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.082923+00:00",
+      "time_iso": "2026-10-24T22:23:18.073692+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.082960+00:00",
+      "time_iso": "2026-10-24T22:23:18.073729+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.083077+00:00",
+      "time_iso": "2026-10-24T22:23:18.073825+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.083132+00:00",
+      "time_iso": "2026-10-24T22:23:18.073878+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.083160+00:00",
+      "time_iso": "2026-10-24T22:23:18.073906+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.083218+00:00",
+      "time_iso": "2026-10-24T22:23:18.073964+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +298,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.083253+00:00",
+      "time_iso": "2026-10-24T22:23:18.073999+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "28bdba9a6e",
+      "category": "hot",
+      "title": "拒绝代表科特迪瓦！克鲁皮：法国国家队才是我的目标",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add2bd0c0a3fnative.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-24T22:23:18.074072+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "428d4879b2",
+      "category": "hot",
+      "title": "寻求和解！小蜘蛛：想就世界杯期间言论向球迷道歉 那是一个错误",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add23096e58dnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-24T22:23:18.075026+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.085716+00:00",
+      "time_iso": "2026-10-24T22:23:18.076527+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb223679fc2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.086300+00:00",
+      "time_iso": "2026-10-24T22:23:18.077072+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adaf675cfac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T18:43:03.086336+00:00",
+      "time_iso": "2026-10-24T22:23:18.077100+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -333,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada4a12ee3c1native.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-24T10:44:50.768953+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-24T04:20:04.414994+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adbe41262154native.htm",
       "team": "GER",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-24T04:20:04.416497+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb74546b5d1native.htm",
       "team": "",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-24T04:20:04.417055+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
-      "time": "14小时前",
+      "time": "18小时前",
       "time_iso": "2026-10-24T04:20:04.417338+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb3babcf9d8native.htm",
       "team": "USA",
-      "time": "19小时前",
+      "time": "23小时前",
       "time_iso": "2026-10-23T23:01:24.062931+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -407,30 +443,6 @@
       "team": "ARG",
       "time": "1天前",
       "time_iso": "2026-10-23T18:13:33.416925+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "240f9cf589",
-      "category": "hot",
-      "title": "13年了！拜仁欧冠联赛阶段/小组赛主场40场不败 上次是13年负曼城",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada351f3dec4native.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-23T13:17:52.152772+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "882abeb255",
-      "category": "hot",
-      "title": "奥莱报：马拉多纳球场将承办2030世界杯比赛，阿根廷多座球场竞争",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adae842676fanative.htm",
-      "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-10-23T13:17:52.155311+00:00",
       "source": "直播吧",
       "is_hot": false
     }
