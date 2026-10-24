@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T10:44:52.818263+00:00",
-  "count": 35,
+  "updated_at": "2026-10-24T15:47:19.566614+00:00",
+  "count": 36,
   "articles": [
     {
       "id": "f11493312e",
@@ -10,7 +10,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc03a3253fcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.770185+00:00",
+      "time_iso": "2026-10-24T15:47:17.360328+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "cd3f95784e",
+      "category": "hot",
+      "title": "库尔图瓦：姆巴佩配得上金球，亚马尔世界杯发挥并不算顶尖",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643130827.html",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-24T15:47:19.566102+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "c73169e424",
+      "category": "hot",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-24T15:47:17.360796+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,20 +45,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643114359.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-10-24T10:44:52.817914+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "c73169e424",
+      "id": "463c65f741",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "佩德里：世界杯决赛相当艰难，我们保持专注因为梅西随时可能进球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc07489edacnative.htm",
       "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.770679+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-10-24T04:20:04.416165+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +75,14 @@
       "is_hot": false
     },
     {
-      "id": "463c65f741",
+      "id": "125d829374",
       "category": "hot",
-      "title": "佩德里：世界杯决赛相当艰难，我们保持专注因为梅西随时可能进球",
+      "title": "太阳报：梅西在卡塔尔世界杯举起的奖杯复制品将被拍卖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc07489edacnative.htm",
-      "team": "ESP",
-      "time": "6小时前",
-      "time_iso": "2026-10-24T04:20:04.416165+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada22a117c73native.htm",
+      "team": "ARG",
+      "time": "21小时前",
+      "time_iso": "2026-10-23T18:13:33.416227+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +99,14 @@
       "is_hot": false
     },
     {
-      "id": "125d829374",
+      "id": "ffbb216d0a",
       "category": "hot",
-      "title": "太阳报：梅西在卡塔尔世界杯举起的奖杯复制品将被拍卖",
+      "title": "超算预测未来11年金球奖得主：2026年凯恩，亚马尔三次当选",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ada22a117c73native.htm",
-      "team": "ARG",
-      "time": "16小时前",
-      "time_iso": "2026-10-23T18:13:33.416227+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad98e4cc7e9bnative.htm",
+      "team": "ESP",
+      "time": "1天前",
+      "time_iso": "2026-10-23T13:17:52.152575+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +123,14 @@
       "is_hot": false
     },
     {
-      "id": "ffbb216d0a",
+      "id": "18618592de",
       "category": "hot",
-      "title": "超算预测未来11年金球奖得主：2026年凯恩，亚马尔三次当选",
+      "title": "金球参考？世界杯+欧冠官方最佳阵：亚马尔均落选 仅奥利塞入双榜",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-22/6ad98e4cc7e9bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad74babb989dnative.htm",
       "team": "ESP",
-      "time": "21小时前",
-      "time_iso": "2026-10-23T13:17:52.152575+00:00",
+      "time": "1天前",
+      "time_iso": "2026-10-23T00:31:21.535634+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,25 +147,13 @@
       "is_hot": false
     },
     {
-      "id": "18618592de",
-      "category": "hot",
-      "title": "金球参考？世界杯+欧冠官方最佳阵：亚马尔均落选 仅奥利塞入双榜",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad74babb989dnative.htm",
-      "team": "ESP",
-      "time": "1天前",
-      "time_iso": "2026-10-23T00:31:21.535634+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "6376f1bc9e",
       "category": "hot",
       "title": "西媒：梅西在西班牙领奖时不会发言，他希望及时赶回球队参赛",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad6d18a6d31anative.htm",
       "team": "ESP",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-22T11:36:35.063550+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -166,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.767676+00:00",
+      "time_iso": "2026-10-24T15:47:17.357826+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -178,7 +190,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.767769+00:00",
+      "time_iso": "2026-10-24T15:47:17.357910+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -190,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.767805+00:00",
+      "time_iso": "2026-10-24T15:47:17.357952+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.767838+00:00",
+      "time_iso": "2026-10-24T15:47:17.357985+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -214,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.767876+00:00",
+      "time_iso": "2026-10-24T15:47:17.358024+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.767973+00:00",
+      "time_iso": "2026-10-24T15:47:17.358124+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.768026+00:00",
+      "time_iso": "2026-10-24T15:47:17.358179+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.768053+00:00",
+      "time_iso": "2026-10-24T15:47:17.358209+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.768110+00:00",
+      "time_iso": "2026-10-24T15:47:17.358298+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,19 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.768144+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "21810a14d8",
-      "category": "hot",
-      "title": "FIFA官方：卡塔尔承办2026洲际杯，欧冠冠军巴黎12月16日出战决赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada4a12ee3c1native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.768953+00:00",
+      "time_iso": "2026-10-24T15:47:17.358336+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.770729+00:00",
+      "time_iso": "2026-10-24T15:47:17.360850+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb223679fc2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.771291+00:00",
+      "time_iso": "2026-10-24T15:47:17.361434+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adaf675cfac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-24T10:44:50.771321+00:00",
+      "time_iso": "2026-10-24T15:47:17.361466+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "21810a14d8",
+      "category": "hot",
+      "title": "FIFA官方：卡塔尔承办2026洲际杯，欧冠冠军巴黎12月16日出战决赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada4a12ee3c1native.htm",
+      "team": "",
+      "time": "5小时前",
+      "time_iso": "2026-10-24T10:44:50.768953+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -333,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-24T04:20:04.414994+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -345,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adbe41262154native.htm",
       "team": "GER",
-      "time": "6小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-24T04:20:04.416497+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -357,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb74546b5d1native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-24T04:20:04.417055+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -369,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
       "team": "BRA",
-      "time": "6小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-24T04:20:04.417338+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -381,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb3babcf9d8native.htm",
       "team": "USA",
-      "time": "11小时前",
+      "time": "16小时前",
       "time_iso": "2026-10-23T23:01:24.062931+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -393,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb1a3e959b1native.htm",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "21小时前",
       "time_iso": "2026-10-23T18:13:33.416925+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -405,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada351f3dec4native.htm",
       "team": "",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-10-23T13:17:52.152772+00:00",
       "source": "直播吧",
       "is_hot": false
@@ -417,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adae842676fanative.htm",
       "team": "ARG",
-      "time": "21小时前",
+      "time": "1天前",
       "time_iso": "2026-10-23T13:17:52.155311+00:00",
       "source": "直播吧",
       "is_hot": false
