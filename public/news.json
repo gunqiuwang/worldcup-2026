@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T04:23:51.423596+00:00",
-  "count": 40,
+  "updated_at": "2026-10-25T11:10:34.532067+00:00",
+  "count": 43,
   "articles": [
     {
       "id": "f11493312e",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc03a3253fcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.565769+00:00",
+      "time_iso": "2026-10-25T11:10:32.605288+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -22,7 +22,7 @@
       "url": "https://bbs.hupu.com/643197903.html",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:51.423093+00:00",
+      "time_iso": "2026-10-25T11:10:34.531770+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.566153+00:00",
+      "time_iso": "2026-10-25T11:10:32.605692+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643130827.html",
       "team": "FRA",
-      "time": "12小时前",
+      "time": "19小时前",
       "time_iso": "2026-10-24T15:47:19.566102+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -63,14 +63,14 @@
       "is_hot": true
     },
     {
-      "id": "aa095bb756",
+      "id": "e801778cc3",
       "category": "hot",
-      "title": "U15世界杯：中国队4-0中非共和国，周海滨率队迎开门红",
+      "title": "有点东西！U15世界杯上，印尼队上演中圈吊射破门",
       "summary": "",
-      "url": "https://bbs.hupu.com/643232768.html",
+      "url": "https://bbs.hupu.com/643275202.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:51.422976+00:00",
+      "time_iso": "2026-10-25T11:10:34.531327+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -87,14 +87,14 @@
       "is_hot": true
     },
     {
-      "id": "b3900d24e2",
+      "id": "75e5099e2f",
       "category": "hot",
-      "title": "西汉姆中场阿尔瓦雷斯被爆疫情时使用伪造疫苗证明踢世界杯",
+      "title": "阿尔瓦雷斯：为世界杯期间言论道歉，换作我是球迷也会生气",
       "summary": "",
-      "url": "https://bbs.hupu.com/643192108.html",
+      "url": "https://bbs.hupu.com/643250106.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:51.423142+00:00",
+      "time_iso": "2026-10-25T11:10:34.531489+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -111,14 +111,14 @@
       "is_hot": true
     },
     {
-      "id": "bb1101dfef",
+      "id": "aa095bb756",
       "category": "hot",
-      "title": "卡拉格：阿森纳进欧冠决赛得益于抽签，其进攻短板定会暴露",
+      "title": "U15世界杯：中国队4-0中非共和国，周海滨率队迎开门红",
       "summary": "",
-      "url": "https://bbs.hupu.com/643183664.html",
+      "url": "https://bbs.hupu.com/643232768.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:51.423254+00:00",
+      "time_iso": "2026-10-25T11:10:34.531714+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -135,14 +135,14 @@
       "is_hot": true
     },
     {
-      "id": "d586c3b531",
+      "id": "b3900d24e2",
       "category": "hot",
-      "title": "TA社论：新欧冠赛制导致小组赛强强对话无悬念，但更有乐趣",
+      "title": "西汉姆中场阿尔瓦雷斯被爆疫情时使用伪造疫苗证明踢世界杯",
       "summary": "",
-      "url": "https://bbs.hupu.com/643153593.html",
+      "url": "https://bbs.hupu.com/643192108.html",
       "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:51.423307+00:00",
+      "time": "6小时前",
+      "time_iso": "2026-10-25T04:23:51.423142+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -159,14 +159,86 @@
       "is_hot": true
     },
     {
+      "id": "bb1101dfef",
+      "category": "hot",
+      "title": "卡拉格：阿森纳进欧冠决赛得益于抽签，其进攻短板定会暴露",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643183664.html",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-25T04:23:51.423254+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "833d9ba1af",
+      "category": "hot",
+      "title": "2026中国足协杯半决赛云南玉昆VS大连英博海发散票开售公告",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6addd91f3ae6cnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.602104+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "d586c3b531",
+      "category": "hot",
+      "title": "TA社论：新欧冠赛制导致小组赛强强对话无悬念，但更有乐趣",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643153593.html",
+      "team": "",
+      "time": "6小时前",
+      "time_iso": "2026-10-25T04:23:51.423307+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "df042e6b74",
+      "category": "hot",
+      "title": "U15世界杯-国足1-1日本 路天怀远射破门 国足晚间将对阵安哥拉",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/match2297735date2026vnative.htm",
+      "team": "JPN",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.602273+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "ec6feae26e",
       "category": "hot",
       "title": "调整一下！蓉城下周末没有比赛，英博将出战足协杯半决赛",
       "summary": "",
       "url": "https://bbs.hupu.com/643232326.html",
       "team": "",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-24T22:23:20.028761+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "9c98e5a33d",
+      "category": "hot",
+      "title": "U17女足世界杯小组赛 中国U17女足 VS 美国U17女足 10月26日02:00",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add89c9720acnative.htm",
+      "team": "USA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.602345+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "abb62ae562",
+      "category": "hot",
+      "title": "FIFA拟创办喜马拉雅杯，未来四年还将向不丹投入2500万美元",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643114359.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-10-24T10:44:52.817914+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -178,19 +250,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563256+00:00",
+      "time_iso": "2026-10-25T11:10:32.602736+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "abb62ae562",
+      "id": "154a470b2a",
       "category": "hot",
-      "title": "FIFA拟创办喜马拉雅杯，未来四年还将向不丹投入2500万美元",
+      "title": "欧冠小组赛/联赛主场连续不败榜：拜仁近12年39场，高居榜首",
       "summary": "",
-      "url": "https://bbs.hupu.com/643114359.html",
+      "url": "https://bbs.hupu.com/643137629.html",
       "team": "",
-      "time": "17小时前",
-      "time_iso": "2026-10-24T10:44:52.817914+00:00",
+      "time": "2天前",
+      "time_iso": "2026-10-23T07:19:41.047827+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -202,31 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563342+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "154a470b2a",
-      "category": "hot",
-      "title": "欧冠小组赛/联赛主场连续不败榜：拜仁近12年39场，高居榜首",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643137629.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-23T07:19:41.047827+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "60d45c2194",
-      "category": "hot",
-      "title": "外媒：国足亚洲杯三场小组赛均21:30开球，1月9日首战伊朗",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563380+00:00",
+      "time_iso": "2026-10-25T11:10:32.602767+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -243,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "9f5b48b833",
+      "id": "60d45c2194",
       "category": "hot",
-      "title": "北青：亚洲杯小组赛3个开球时间，北京时间18点30、21点30、0点30",
+      "title": "外媒：国足亚洲杯三场小组赛均21:30开球，1月9日首战伊朗",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563411+00:00",
+      "time_iso": "2026-10-25T11:10:32.602796+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -267,6 +315,18 @@
       "is_hot": false
     },
     {
+      "id": "9f5b48b833",
+      "category": "hot",
+      "title": "北青：亚洲杯小组赛3个开球时间，北京时间18点30、21点30、0点30",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.602829+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "5479f8d55b",
       "category": "hot",
       "title": "球迷称带国足进世界杯，刘浩帆幽默回应：得跟王钰栋说",
@@ -274,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563448+00:00",
+      "time_iso": "2026-10-25T11:10:32.602872+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563546+00:00",
+      "time_iso": "2026-10-25T11:10:32.602968+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563599+00:00",
+      "time_iso": "2026-10-25T11:10:32.603019+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563630+00:00",
+      "time_iso": "2026-10-25T11:10:32.603047+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563689+00:00",
+      "time_iso": "2026-10-25T11:10:32.603104+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +394,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.563724+00:00",
+      "time_iso": "2026-10-25T11:10:32.603138+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "43f20570c9",
+      "category": "hot",
+      "title": "西媒：摩洛哥向FIFA提供税收优惠，力争让2030世界杯决赛落户本国",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add8eeae8b3enative.htm",
+      "team": "MAR",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.603807+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +418,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add23096e58dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.564851+00:00",
+      "time_iso": "2026-10-25T11:10:32.604355+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0e1e700280",
+      "category": "hot",
+      "title": "阿媒报阿根廷足协腐败案：涉嫌从国家队赞助合同抽取高达30%佣金",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add98563ef6cnative.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.604512+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "b023ef29a6",
+      "category": "hot",
+      "title": "马特乌斯：只有凯恩和奥利塞配得上金球奖，人们把世界杯看得太重",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6addd16dd3a11native.htm",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.604853+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ecc4b06d13",
+      "category": "hot",
+      "title": "赫内斯：鲁梅尼格是FIFA主席的理想人选，但他的年龄和家庭要考虑",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add8e5866142native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.604905+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +466,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.566201+00:00",
+      "time_iso": "2026-10-25T11:10:32.605738+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "8dca87a86a",
+      "category": "hot",
+      "title": "开场2秒进球！U15世界杯印尼开球直接中圈吊射破门，首轮7-1斐济",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6addad0958a92native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-25T11:10:32.605918+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb223679fc2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.566785+00:00",
+      "time_iso": "2026-10-25T11:10:32.606329+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adaf675cfac7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-25T04:23:49.566815+00:00",
+      "time_iso": "2026-10-25T11:10:32.606359+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -393,92 +513,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6add2bd0c0a3fnative.htm",
       "team": "FRA",
-      "time": "6小时前",
+      "time": "12小时前",
       "time_iso": "2026-10-24T22:23:18.074072+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "21810a14d8",
-      "category": "hot",
-      "title": "FIFA官方：卡塔尔承办2026洲际杯，欧冠冠军巴黎12月16日出战决赛",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6ada4a12ee3c1native.htm",
-      "team": "",
-      "time": "17小时前",
-      "time_iso": "2026-10-24T10:44:50.768953+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "6a80b8092f",
-      "category": "hot",
-      "title": "周海滨挂帅！U15国足世界杯出征名单：沙明、殷扎吉在列",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad738e4b80e7native.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-24T04:20:04.414994+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "433c7b9052",
-      "category": "hot",
-      "title": "前德国国脚：德国足协该争取让特雷索尔迪效力，会让国家队更出色",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adbe41262154native.htm",
-      "team": "GER",
-      "time": "1天前",
-      "time_iso": "2026-10-24T04:20:04.416497+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ddff2f0163",
-      "category": "hot",
-      "title": "墨媒：西汉姆中场阿尔瓦雷斯被控伪造疫苗证明获利，并参加世界杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb74546b5d1native.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-24T04:20:04.417055+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a65e1f8412",
-      "category": "tactical",
-      "title": "巴西足协官方：安切洛蒂将在10月29日公布新一期巴西国家队大名单",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-17/6ad28720edc2bnative.htm",
-      "team": "BRA",
-      "time": "1天前",
-      "time_iso": "2026-10-24T04:20:04.417338+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "018ffee7f9",
-      "category": "hot",
-      "title": "FIFA官方：首届女足世俱杯将于2028年1月在美国举办",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb3babcf9d8native.htm",
-      "team": "USA",
-      "time": "1天前",
-      "time_iso": "2026-10-23T23:01:24.062931+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "f1b13c950c",
-      "category": "hot",
-      "title": "记者：安赫尔·科雷亚可能回归阿根廷国家队，他在河床表现出色",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb1a3e959b1native.htm",
-      "team": "ARG",
-      "time": "1天前",
-      "time_iso": "2026-10-23T18:13:33.416925+00:00",
       "source": "直播吧",
       "is_hot": false
     }
