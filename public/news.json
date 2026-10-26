@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:49:57.133995+00:00",
+  "updated_at": "2026-10-26T23:43:09.838725+00:00",
   "count": 43,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf7968af46dnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307864+00:00",
+      "time_iso": "2026-10-26T23:43:08.161897+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,20 +21,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643326249.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-10-26T19:49:57.133455+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "8d277bac31",
+      "id": "7a77425883",
       "category": "hot",
-      "title": "瑞士记者谈2023年金球未投梅西：不喜欢他在世界杯上对荷兰的行为",
+      "title": "贝林厄姆今夏世界杯轰入7球，为单届赛事进球最多的英格兰球员",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adf6792d1a77native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf9b219a90fnative.htm",
+      "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.308344+00:00",
+      "time_iso": "2026-10-26T23:43:08.162621+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +51,14 @@
       "is_hot": true
     },
     {
-      "id": "7a77425883",
+      "id": "eb5ecfabae",
       "category": "hot",
-      "title": "贝林厄姆今夏世界杯轰入7球，为单届赛事进球最多的英格兰球员",
+      "title": "I'm back？葡媒：C罗入围葡萄牙新一期国家队初选名单",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf9b219a90fnative.htm",
-      "team": "ENG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.308617+00:00",
+      "time_iso": "2026-10-26T23:43:08.163379+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "eb5ecfabae",
+      "id": "8d277bac31",
       "category": "hot",
-      "title": "I'm back？葡媒：C罗入围葡萄牙新一期国家队初选名单",
+      "title": "瑞士记者谈2023年金球未投梅西：不喜欢他在世界杯上对荷兰的行为",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adf6792d1a77native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.309217+00:00",
+      "time_iso": "2026-10-26T23:43:08.163438+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643325811.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "3小时前",
       "time_iso": "2026-10-26T19:49:57.133532+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.309769+00:00",
+      "time_iso": "2026-10-26T23:43:08.164085+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc03a3253fcnative.htm",
       "team": "",
-      "time": "15小时前",
+      "time": "19小时前",
       "time_iso": "2026-10-26T04:26:39.421074+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -178,7 +178,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/match2297738date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.306968+00:00",
+      "time_iso": "2026-10-26T23:43:08.160244+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -202,7 +202,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/match2297737date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307106+00:00",
+      "time_iso": "2026-10-26T23:43:08.160405+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -226,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307438+00:00",
+      "time_iso": "2026-10-26T23:43:08.160806+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307492+00:00",
+      "time_iso": "2026-10-26T23:43:08.160872+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307515+00:00",
+      "time_iso": "2026-10-26T23:43:08.160901+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643232326.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-24T22:23:20.028761+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307537+00:00",
+      "time_iso": "2026-10-26T23:43:08.160930+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307561+00:00",
+      "time_iso": "2026-10-26T23:43:08.160958+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307589+00:00",
+      "time_iso": "2026-10-26T23:43:08.160993+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307650+00:00",
+      "time_iso": "2026-10-26T23:43:08.161073+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307672+00:00",
+      "time_iso": "2026-10-26T23:43:08.161101+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307712+00:00",
+      "time_iso": "2026-10-26T23:43:08.161151+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307733+00:00",
+      "time_iso": "2026-10-26T23:43:08.161178+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307779+00:00",
+      "time_iso": "2026-10-26T23:43:08.161235+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +406,91 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.307805+00:00",
+      "time_iso": "2026-10-26T23:43:08.161269+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "c2f47cab88",
+      "category": "hot",
+      "title": "天道酬勤！祝贺33岁凯恩荣膺2026金球奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfe048ec812native.htm",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-26T23:43:08.161347+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a141d2d04b",
+      "category": "hot",
+      "title": "2026金球奖各奖项：凯恩、普特拉斯夺金球 巴萨共获5个奖项",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfde1212757native.htm",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-26T23:43:08.161388+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "3a6bd136b2",
+      "category": "hot",
+      "title": "热刺官方社媒：2026年男足金球奖得主，祝贺哈里·凯恩",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfdb2eb38f2native.htm",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-26T23:43:08.161427+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "c05ec8ce9d",
+      "category": "hot",
+      "title": "👑凯旋金球！官方：33岁凯恩荣膺2026年金球奖，生涯首次获奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6add35d77738cnative.htm",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-26T23:43:08.161472+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "2840e9d904",
+      "category": "hot",
+      "title": "欧冠卫冕！官方：巴黎连续2年获2026金球奖年度男子最佳俱乐部奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfc3c5f31b5native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-26T23:43:08.161520+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "f90a449c24",
+      "category": "hot",
+      "title": "表彰慈善贡献！官方：萨卡获2026年苏格拉底奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfc96f796danative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-26T23:43:08.161555+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "be5700b309",
+      "category": "hot",
+      "title": "官方：西班牙门将乌奈·西蒙当选2026最佳门将，世界杯8场7次零封",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa8f543f70native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-26T23:43:08.161692+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,103 +502,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adc9cb619775native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.308030+00:00",
+      "time_iso": "2026-10-26T23:43:08.161767+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "6fc8c3d2c8",
+      "id": "1bf8f5cc6d",
       "category": "hot",
-      "title": "特雷泽盖：KK7具备成为金球奖得主的一切条件，但他无缘世界杯",
+      "title": "2026年金球奖前三名无当赛季欧冠冠军球员，上一次发生是在2012年",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adf56ee368aanative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfdf578d898native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.308377+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8ea3376de9",
-      "category": "hot",
-      "title": "随队夺得世界杯！每体：佩德里将获颁家乡颁发的2026加那利体育奖",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf9c3c24fbenative.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.308596+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "12ba0b48be",
-      "category": "hot",
-      "title": "未来可期！19岁库巴西首次入围金球候选排第12，夺世界杯+西甲",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf956eab2b1native.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.308638+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "d75b12801e",
-      "category": "hot",
-      "title": "贝尔戈米：小图拉姆近期状态很出色，落选法国国家队让他更有动力",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adefa6f04511native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.308896+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c62cf48fd6",
-      "category": "hot",
-      "title": "成人女星：某尤文图斯球员和世界杯某教练曾私信追求我",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.309808+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "2b85cce51b",
-      "category": "hot",
-      "title": "约旦足协主席：FIFA选举投票权属各协会，大洲足联主席无权置喙",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6adde5877b703native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.309963+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8dca87a86a",
-      "category": "hot",
-      "title": "开场2秒进球！U15世界杯印尼开球直接中圈吊射破门，首轮7-1斐济",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-25/6addad0958a92native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.310000+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a3e2086bd3",
-      "category": "hot",
-      "title": "40岁穆斯莱拉点球大战3次扑点，美加墨世界杯曾3场3失误导致丢球",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adb223679fc2native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-26T19:49:55.310316+00:00",
+      "time_iso": "2026-10-26T23:43:08.162152+00:00",
       "source": "直播吧",
       "is_hot": false
     }
