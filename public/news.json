@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T11:58:43.867773+00:00",
-  "count": 43,
+  "updated_at": "2026-10-27T17:54:34.638540+00:00",
+  "count": 42,
   "articles": [
     {
       "id": "9afe6edceb",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfde1212757native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848803+00:00",
+      "time_iso": "2026-10-27T17:54:32.546325+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643326249.html",
       "team": "ENG",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-10-26T19:49:57.133455+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adffe9f0e7d1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848876+00:00",
+      "time_iso": "2026-10-27T17:54:32.546376+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,31 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf7968af46dnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848914+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "cd3f95784e",
-      "category": "hot",
-      "title": "库尔图瓦：姆巴佩配得上金球，亚马尔世界杯发挥并不算顶尖",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643130827.html",
-      "team": "FRA",
-      "time": "2天前",
-      "time_iso": "2026-10-24T15:47:19.566102+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "4044342d79",
-      "category": "hot",
-      "title": "澳记者谈金球投票：凯恩的价值不只进球，梅西世界杯超神但踢MLS",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.849240+00:00",
+      "time_iso": "2026-10-27T17:54:32.546410+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,8 +69,32 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643251657.html",
       "team": "",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-27T04:46:07.641395+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "4044342d79",
+      "category": "hot",
+      "title": "澳记者谈金球投票：凯恩的价值不只进球，梅西世界杯超神但踢MLS",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-27T17:54:32.546669+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "21d4fc71bb",
+      "category": "hot",
+      "title": "库库雷利亚世界杯打满750分钟比赛，是出场最多球员之一",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643325811.html",
+      "team": "",
+      "time": "22小时前",
+      "time_iso": "2026-10-26T19:49:57.133532+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -106,19 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfec8d518c8native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.850357+00:00",
+      "time_iso": "2026-10-27T17:54:32.547925+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "21d4fc71bb",
+      "id": "42abf6b6a6",
       "category": "hot",
-      "title": "库库雷利亚世界杯打满750分钟比赛，是出场最多球员之一",
+      "title": "卡西前妻：2010世界杯我遭严重性别歧视，只有两人替我说话",
       "summary": "",
-      "url": "https://bbs.hupu.com/643325811.html",
+      "url": "https://bbs.hupu.com/643164798.html",
       "team": "",
-      "time": "16小时前",
-      "time_iso": "2026-10-26T19:49:57.133532+00:00",
+      "time": "2天前",
+      "time_iso": "2026-10-25T15:58:21.789552+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -130,31 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.850412+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "42abf6b6a6",
-      "category": "hot",
-      "title": "卡西前妻：2010世界杯我遭严重性别歧视，只有两人替我说话",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643164798.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-25T15:58:21.789552+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "c73169e424",
-      "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.850912+00:00",
+      "time_iso": "2026-10-27T17:54:32.547973+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +147,14 @@
       "is_hot": false
     },
     {
-      "id": "e85dfc953d",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "队报谈亚马尔无缘金球：世界杯存在感偏低，竞争对手进球数更恐怖",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae003c22eab5native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
-      "time": "7小时前",
-      "time_iso": "2026-10-27T04:45:59.224544+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-10-27T17:54:32.548492+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "7a77425883",
+      "id": "e85dfc953d",
       "category": "hot",
-      "title": "贝林厄姆今夏世界杯轰入7球，为单届赛事进球最多的英格兰球员",
+      "title": "队报谈亚马尔无缘金球：世界杯存在感偏低，竞争对手进球数更恐怖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf9b219a90fnative.htm",
-      "team": "ENG",
-      "time": "12小时前",
-      "time_iso": "2026-10-26T23:43:08.162621+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae003c22eab5native.htm",
+      "team": "ESP",
+      "time": "13小时前",
+      "time_iso": "2026-10-27T04:45:59.224544+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "8d277bac31",
+      "id": "7a77425883",
       "category": "hot",
-      "title": "瑞士记者谈2023年金球未投梅西：不喜欢他在世界杯上对荷兰的行为",
+      "title": "贝林厄姆今夏世界杯轰入7球，为单届赛事进球最多的英格兰球员",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adf6792d1a77native.htm",
-      "team": "ARG",
-      "time": "12小时前",
-      "time_iso": "2026-10-26T23:43:08.163438+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf9b219a90fnative.htm",
+      "team": "ENG",
+      "time": "18小时前",
+      "time_iso": "2026-10-26T23:43:08.162621+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "f11493312e",
+      "id": "8d277bac31",
       "category": "hot",
-      "title": "进球-1？FIFA将C罗进球算乌龙，沙特联直播间算给C罗但资料页没算",
+      "title": "瑞士记者谈2023年金球未投梅西：不喜欢他在世界杯上对荷兰的行为",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc03a3253fcnative.htm",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-10-26T04:26:39.421074+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adf6792d1a77native.htm",
+      "team": "ARG",
+      "time": "18小时前",
+      "time_iso": "2026-10-26T23:43:08.163438+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -267,16 +243,16 @@
       "is_hot": false
     },
     {
-      "id": "556b575700",
+      "id": "f11493312e",
       "category": "hot",
-      "title": "北青：U17女足世界杯1/8决赛中国vs法国将由玻利维亚裁判主哨",
+      "title": "进球-1？FIFA将C罗进球算乌龙，沙特联直播间算给C罗但资料页没算",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae061155b6d9native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.847256+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc03a3253fcnative.htm",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-10-26T04:26:39.421074+00:00",
       "source": "直播吧",
-      "is_hot": false
+      "is_hot": true
     },
     {
       "id": "d586c3b531",
@@ -291,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "fb7c819ecf",
+      "id": "84a4172376",
       "category": "hot",
-      "title": "U15国足力压日本晋级U15世界杯第二级别赛事，28日首战伊朗队",
+      "title": "2026/2027亚冠精英联赛第3轮，上海海港2比3河内公安",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae052c2127abnative.htm",
-      "team": "JPN",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae0a93ce4360native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.847391+00:00",
+      "time_iso": "2026-10-27T17:54:32.544844+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.847860+00:00",
+      "time_iso": "2026-10-27T17:54:32.545361+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.847925+00:00",
+      "time_iso": "2026-10-27T17:54:32.545434+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.847953+00:00",
+      "time_iso": "2026-10-27T17:54:32.545466+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.847981+00:00",
+      "time_iso": "2026-10-27T17:54:32.545496+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848009+00:00",
+      "time_iso": "2026-10-27T17:54:32.545526+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848044+00:00",
+      "time_iso": "2026-10-27T17:54:32.545562+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848106+00:00",
+      "time_iso": "2026-10-27T17:54:32.545631+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848133+00:00",
+      "time_iso": "2026-10-27T17:54:32.545658+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848183+00:00",
+      "time_iso": "2026-10-27T17:54:32.545712+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848210+00:00",
+      "time_iso": "2026-10-27T17:54:32.545740+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848268+00:00",
+      "time_iso": "2026-10-27T17:54:32.545853+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848302+00:00",
+      "time_iso": "2026-10-27T17:54:32.545904+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa8f543f70native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848595+00:00",
+      "time_iso": "2026-10-27T17:54:32.546159+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "1bf8f5cc6d",
+      "category": "hot",
+      "title": "2026年金球奖前三名无当赛季欧冠冠军球员，上一次发生是在2012年",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfdf578d898native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-27T17:54:32.546751+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "2840e9d904",
+      "category": "hot",
+      "title": "欧冠卫冕！官方：巴黎连续2年获2026金球奖年度男子最佳俱乐部奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfc3c5f31b5native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-27T17:54:32.546824+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,43 +478,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adc9cb619775native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848692+00:00",
+      "time_iso": "2026-10-27T17:54:32.547171+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "f90a449c24",
+      "id": "6b51cf73a5",
       "category": "hot",
-      "title": "表彰慈善贡献！官方：萨卡获2026年苏格拉底奖",
+      "title": "意网协主席：网球欣欣向荣，我们有机会超越意大利的世界杯冠军数",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfc96f796danative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae0c44928364native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.848836+00:00",
+      "time_iso": "2026-10-27T17:54:32.547311+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "3a6bd136b2",
+      "id": "3d856ec2ce",
       "category": "hot",
-      "title": "热刺官方社媒：2026年男足金球奖得主，祝贺哈里·凯恩",
+      "title": "意媒：生涯无欧冠、世界杯却赢得金球，凯恩是03年内德维德后首人",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfdb2eb38f2native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae06e23cfa8cnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.849118+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c05ec8ce9d",
-      "category": "hot",
-      "title": "👑凯旋金球！官方：33岁凯恩荣膺2026年金球奖，生涯首次获奖",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6add35d77738cnative.htm",
-      "team": "ENG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-27T11:58:41.849154+00:00",
+      "time_iso": "2026-10-27T17:54:32.547514+00:00",
       "source": "直播吧",
       "is_hot": false
     }
