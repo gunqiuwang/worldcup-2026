@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-28T12:37:24.205890+00:00",
-  "count": 35,
+  "updated_at": "2026-10-28T19:25:51.612674+00:00",
+  "count": 34,
   "articles": [
     {
-      "id": "29711ff988",
+      "id": "32c531ebe4",
       "category": "hot",
-      "title": "越南记者解释金球投票：我更看重世界杯，若阿根廷赢决赛梅西第一",
+      "title": "骆明谈金球投票：新赛季表现为亚马尔拉票，因世界杯投罗德里前3",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1e8962693cnative.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1a658105c1native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818112+00:00",
+      "time_iso": "2026-10-28T19:25:49.306762+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -27,14 +27,14 @@
       "is_hot": true
     },
     {
-      "id": "32c531ebe4",
+      "id": "0c730efba8",
       "category": "hot",
-      "title": "骆明谈金球投票：新赛季表现为亚马尔拉票，因世界杯投罗德里前3",
+      "title": "罗体：今夏世界杯时哈兰德用过的维京战鼓被拍卖，价格达12.4万欧",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1a658105c1native.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adffe9f0e7d1native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818479+00:00",
+      "time_iso": "2026-10-28T19:25:49.306814+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,20 +45,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643327592.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-28T12:37:24.205229+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "0c730efba8",
+      "id": "18009aaf6f",
       "category": "hot",
-      "title": "罗体：今夏世界杯时哈兰德用过的维京战鼓被拍卖，价格达12.4万欧",
+      "title": "决赛圈！金球奖不计排名前十：凯恩、亚马尔、梅西、登贝莱在列",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adffe9f0e7d1native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf7968af46dnative.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818634+00:00",
+      "time_iso": "2026-10-28T19:25:49.306838+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +75,14 @@
       "is_hot": false
     },
     {
-      "id": "18009aaf6f",
+      "id": "29711ff988",
       "category": "hot",
-      "title": "决赛圈！金球奖不计排名前十：凯恩、亚马尔、梅西、登贝莱在列",
+      "title": "越南记者解释金球投票：我更看重世界杯，若阿根廷赢决赛梅西第一",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf7968af46dnative.htm",
-      "team": "ESP",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1e8962693cnative.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818674+00:00",
+      "time_iso": "2026-10-28T19:25:49.307221+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,30 +99,6 @@
       "is_hot": false
     },
     {
-      "id": "4044342d79",
-      "category": "hot",
-      "title": "澳记者谈金球投票：凯恩的价值不只进球，梅西世界杯超神但踢MLS",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818965+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "42abf6b6a6",
-      "category": "hot",
-      "title": "卡西前妻：2010世界杯我遭严重性别歧视，只有两人替我说话",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643164798.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-25T15:58:21.789552+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "eb5ecfabae",
       "category": "hot",
       "title": "I'm back？葡媒：C罗入围葡萄牙新一期国家队初选名单",
@@ -130,7 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.820155+00:00",
+      "time_iso": "2026-10-28T19:25:49.307749+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "4044342d79",
+      "category": "hot",
+      "title": "澳记者谈金球投票：凯恩的价值不只进球，梅西世界杯超神但踢MLS",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-28T19:25:49.307784+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -142,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfec8d518c8native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.820266+00:00",
+      "time_iso": "2026-10-28T19:25:49.307827+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +142,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.820737+00:00",
+      "time_iso": "2026-10-28T19:25:49.308104+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -165,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfde1212757native.htm",
       "team": "ESP",
-      "time": "7小时前",
+      "time": "14小时前",
       "time_iso": "2026-10-28T05:20:04.924612+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -226,7 +214,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1e98441d92native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.816864+00:00",
+      "time_iso": "2026-10-28T19:25:49.305726+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -238,7 +226,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae0a93ce4360native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817469+00:00",
+      "time_iso": "2026-10-28T19:25:49.306133+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -250,7 +238,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817590+00:00",
+      "time_iso": "2026-10-28T19:25:49.306207+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -262,7 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817653+00:00",
+      "time_iso": "2026-10-28T19:25:49.306246+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -274,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817683+00:00",
+      "time_iso": "2026-10-28T19:25:49.306263+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817713+00:00",
+      "time_iso": "2026-10-28T19:25:49.306281+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817741+00:00",
+      "time_iso": "2026-10-28T19:25:49.306298+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817776+00:00",
+      "time_iso": "2026-10-28T19:25:49.306322+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817834+00:00",
+      "time_iso": "2026-10-28T19:25:49.306354+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817865+00:00",
+      "time_iso": "2026-10-28T19:25:49.306371+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817919+00:00",
+      "time_iso": "2026-10-28T19:25:49.306402+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.817946+00:00",
+      "time_iso": "2026-10-28T19:25:49.306419+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818032+00:00",
+      "time_iso": "2026-10-28T19:25:49.306457+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,43 +370,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818071+00:00",
+      "time_iso": "2026-10-28T19:25:49.306479+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "1b6211f6d4",
-      "category": "hot",
-      "title": "希腊队正在复苏！有望在2028欧洲杯和2030世界杯掀起风暴",
+      "id": "6cdb8e5770",
+      "category": "injury",
+      "title": "巴媒：切尔西已将佩德罗伤情告知巴西国家队，他将再次无缘大名单",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1a9010c19bnative.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae2429309c25native.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818444+00:00",
+      "time_iso": "2026-10-28T19:25:49.306505+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "61c39bb675",
-      "category": "hot",
-      "title": "淘汰枪手！英乙队主帅：一次点球都没练 备战看了世界杯&欧冠决赛",
+      "id": "9cbbfa319d",
+      "category": "injury",
+      "title": "记者：拉什福德回到健身房恢复训练，臀部伤病从世界杯期间就存在",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae156369040enative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae2257c6e06dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818518+00:00",
+      "time_iso": "2026-10-28T19:25:49.306559+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "9d1bf03639",
+      "id": "e0f757d090",
       "category": "hot",
-      "title": "克罗斯：K77配得上金球奖可惜没参加世界杯，本来他很有胜算",
+      "title": "俄罗斯记者：拉亚比西蒙更配得雅辛奖，后者在世界杯上闲得能抽烟",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1b2455998dnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae20cf1c5d1fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-28T12:37:19.818853+00:00",
+      "time_iso": "2026-10-28T19:25:49.306701+00:00",
       "source": "直播吧",
       "is_hot": false
     }
