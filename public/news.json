@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T22:04:34.365650+00:00",
-  "count": 42,
+  "updated_at": "2026-10-28T05:20:07.365426+00:00",
+  "count": 38,
   "articles": [
     {
       "id": "0c730efba8",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adffe9f0e7d1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556031+00:00",
+      "time_iso": "2026-10-28T05:20:04.924128+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf7968af46dnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556063+00:00",
+      "time_iso": "2026-10-28T05:20:04.924169+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556314+00:00",
+      "time_iso": "2026-10-28T05:20:04.924510+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643251657.html",
       "team": "",
-      "time": "17小时前",
+      "time": "1天前",
       "time_iso": "2026-10-27T04:46:07.641395+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfde1212757native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556397+00:00",
+      "time_iso": "2026-10-28T05:20:04.924612+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.557301+00:00",
+      "time_iso": "2026-10-28T05:20:04.925714+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfec8d518c8native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.557370+00:00",
+      "time_iso": "2026-10-28T05:20:04.925819+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -154,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.557763+00:00",
+      "time_iso": "2026-10-28T05:20:04.926304+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae003c22eab5native.htm",
       "team": "ESP",
-      "time": "17小时前",
+      "time": "1天前",
       "time_iso": "2026-10-27T04:45:59.224544+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,22 +201,10 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf9b219a90fnative.htm",
       "team": "ENG",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-10-26T23:43:08.162621+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "b3900d24e2",
-      "category": "hot",
-      "title": "西汉姆中场阿尔瓦雷斯被爆疫情时使用伪造疫苗证明踢世界杯",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643192108.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-25T04:23:51.423142+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "8d277bac31",
@@ -225,22 +213,10 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adf6792d1a77native.htm",
       "team": "ARG",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-10-26T23:43:08.163438+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "bb1101dfef",
-      "category": "hot",
-      "title": "卡拉格：阿森纳进欧冠决赛得益于抽签，其进攻短板定会暴露",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643183664.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-25T04:23:51.423254+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "f11493312e",
@@ -249,21 +225,21 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc03a3253fcnative.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-26T04:26:39.421074+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "d586c3b531",
+      "id": "89e36616c9",
       "category": "hot",
-      "title": "TA社论：新欧冠赛制导致小组赛强强对话无悬念，但更有乐趣",
+      "title": "备战U17世界杯！U17国足名单：帅惟浩、邝兆镭、万项、赵松源入选",
       "summary": "",
-      "url": "https://bbs.hupu.com/643153593.html",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1669b84c62native.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-25T04:23:51.423307+00:00",
-      "source": "虎扑",
+      "time": "1分钟前",
+      "time_iso": "2026-10-28T05:20:04.922239+00:00",
+      "source": "直播吧",
       "is_hot": false
     },
     {
@@ -274,20 +250,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae0a93ce4360native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.554842+00:00",
+      "time_iso": "2026-10-28T05:20:04.922902+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ec6feae26e",
-      "category": "hot",
-      "title": "调整一下！蓉城下周末没有比赛，英博将出战足协杯半决赛",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643232326.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-24T22:23:20.028761+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -298,7 +262,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555277+00:00",
+      "time_iso": "2026-10-28T05:20:04.923055+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555336+00:00",
+      "time_iso": "2026-10-28T05:20:04.923131+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555362+00:00",
+      "time_iso": "2026-10-28T05:20:04.923163+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84a6ce2167native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555386+00:00",
+      "time_iso": "2026-10-28T05:20:04.923198+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8459371f79native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555411+00:00",
+      "time_iso": "2026-10-28T05:20:04.923230+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad8287364c0enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555451+00:00",
+      "time_iso": "2026-10-28T05:20:04.923270+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555504+00:00",
+      "time_iso": "2026-10-28T05:20:04.923368+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555526+00:00",
+      "time_iso": "2026-10-28T05:20:04.923402+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555569+00:00",
+      "time_iso": "2026-10-28T05:20:04.923463+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555591+00:00",
+      "time_iso": "2026-10-28T05:20:04.923494+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555639+00:00",
+      "time_iso": "2026-10-28T05:20:04.923562+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +394,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555666+00:00",
+      "time_iso": "2026-10-28T05:20:04.923602+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "61c39bb675",
+      "category": "hot",
+      "title": "淘汰枪手！英乙队主帅：一次点球都没练 备战看了世界杯&欧冠决赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae156369040enative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-28T05:20:04.923675+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa8f543f70native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.555914+00:00",
+      "time_iso": "2026-10-28T05:20:04.923978+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfdf578d898native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556369+00:00",
+      "time_iso": "2026-10-28T05:20:04.924578+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,19 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adc9cb619775native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556707+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "6b51cf73a5",
-      "category": "hot",
-      "title": "意网协主席：网球欣欣向荣，我们有机会超越意大利的世界杯冠军数",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae0c44928364native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556827+00:00",
+      "time_iso": "2026-10-28T05:20:04.924985+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,19 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae06e23cfa8cnative.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.556975+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c05ec8ce9d",
-      "category": "hot",
-      "title": "👑凯旋金球！官方：33岁凯恩荣膺2026年金球奖，生涯首次获奖",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6add35d77738cnative.htm",
-      "team": "ENG",
-      "time": "1分钟前",
-      "time_iso": "2026-10-27T22:04:32.557401+00:00",
+      "time_iso": "2026-10-28T05:20:04.925344+00:00",
       "source": "直播吧",
       "is_hot": false
     }
