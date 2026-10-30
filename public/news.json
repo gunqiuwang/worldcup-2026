@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-30T12:38:57.167276+00:00",
-  "count": 43,
+  "updated_at": "2026-10-30T19:07:14.948599+00:00",
+  "count": 44,
   "articles": [
     {
-      "id": "cc487b7e50",
+      "id": "8ce07911f5",
       "category": "hot",
-      "title": "恩佐：如果我们赢得世界杯金球肯定会给梅西 凯恩配得上获奖",
+      "title": "TA谈新U15世界杯：189支球队参加踢了900多场 有争议也有进步空间",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae36ffab6924native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae446a1a77aanative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036748+00:00",
+      "time_iso": "2026-10-30T19:07:13.432049+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,32 +21,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643328739.html",
       "team": "ESP",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-30T05:30:23.547469+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "8ce07911f5",
-      "category": "hot",
-      "title": "TA谈新U15世界杯：189支球队参加踢了900多场 有争议也有进步空间",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae446a1a77aanative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036911+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "3a911cf39a",
-      "category": "hot",
-      "title": "连续三年当选！官方：亚马尔获得2026金球奖最佳年轻球员",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643327538.html",
-      "team": "ESP",
-      "time": "7小时前",
-      "time_iso": "2026-10-30T05:30:23.547619+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -58,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1a658105c1native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.037366+00:00",
+      "time_iso": "2026-10-30T19:07:13.432546+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "3a911cf39a",
+      "category": "hot",
+      "title": "连续三年当选！官方：亚马尔获得2026金球奖最佳年轻球员",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643327538.html",
+      "team": "ESP",
+      "time": "13小时前",
+      "time_iso": "2026-10-30T05:30:23.547619+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "3150ab4860",
+      "category": "hot",
+      "title": "解禁回归？沙特媒：C罗收到葡萄牙队征召，有望入选下一期国家队",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae492f94dcd8native.htm",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-10-30T19:07:13.433222+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,10 +69,34 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643327647.html",
       "team": "ESP",
-      "time": "12小时前",
+      "time": "19小时前",
       "time_iso": "2026-10-29T23:53:14.012644+00:00",
       "source": "虎扑",
       "is_hot": true
+    },
+    {
+      "id": "cc487b7e50",
+      "category": "hot",
+      "title": "恩佐：如果我们赢得世界杯金球肯定会给梅西 凯恩配得上获奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae36ffab6924native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-10-30T19:07:13.433350+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "61e82c9a23",
+      "category": "hot",
+      "title": "FM：约罗9月进法国国家队后一度重燃信心，但回曼联却又迷失",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643469470.html",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-30T19:07:14.947874+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "c73169e424",
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.038312+00:00",
+      "time_iso": "2026-10-30T19:07:13.433895+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643463111.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-30T12:38:57.166646+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae35516ccba2native.htm",
       "team": "ESP",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-30T05:30:21.590215+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643339887.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-30T12:38:57.166817+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1e8962693cnative.htm",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-10-29T12:47:02.042456+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643328464.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-30T12:38:57.166950+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -153,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-10-29T12:47:02.042587+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -165,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643328183.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "6小时前",
       "time_iso": "2026-10-30T12:38:57.166981+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -177,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
       "team": "POR",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-10-29T12:47:02.042634+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643324538.html",
       "team": "",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-10-30T05:30:23.547724+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643327788.html",
       "team": "",
-      "time": "12小时前",
+      "time": "19小时前",
       "time_iso": "2026-10-29T23:53:14.012578+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643433079.html",
       "team": "",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-10-29T12:47:05.544734+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643415757.html",
       "team": "",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-10-29T12:47:05.544845+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -298,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae46bff8b210native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.035443+00:00",
+      "time_iso": "2026-10-30T19:07:13.429821+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae46b696cf33native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.035525+00:00",
+      "time_iso": "2026-10-30T19:07:13.429921+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/match2329349date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.035586+00:00",
+      "time_iso": "2026-10-30T19:07:13.430014+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae30a30d466dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.035843+00:00",
+      "time_iso": "2026-10-30T19:07:13.430395+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036029+00:00",
+      "time_iso": "2026-10-30T19:07:13.430709+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,19 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036078+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c29e63e4a5",
-      "category": "hot",
-      "title": "国足参赛？不丹媒体：国际足联探讨创办FIFA喜马拉雅杯",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad84cc4cab43native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036100+00:00",
+      "time_iso": "2026-10-30T19:07:13.430791+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036141+00:00",
+      "time_iso": "2026-10-30T19:07:13.430857+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036166+00:00",
+      "time_iso": "2026-10-30T19:07:13.430891+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036207+00:00",
+      "time_iso": "2026-10-30T19:07:13.430955+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036229+00:00",
+      "time_iso": "2026-10-30T19:07:13.430984+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036276+00:00",
+      "time_iso": "2026-10-30T19:07:13.431046+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,19 +466,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-10/6ac9e41a8585bnative.htm",
       "team": "MAR",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036305+00:00",
+      "time_iso": "2026-10-30T19:07:13.431083+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "5bde4420fc",
+      "id": "046c4edd16",
       "category": "hot",
-      "title": "波罗回忆世界杯夺冠：足球世界里，一切都会轮回",
+      "title": "大马丁：世界杯决赛进点球就能赢；我感觉再踢一次西班牙我们能赢",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae475f2517b3native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae4cbcd2fd1fnative.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-30T19:07:13.431157+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "9309d2ce22",
+      "category": "hot",
+      "title": "法媒：约罗在法国国家队闪耀，却在曼联迷失",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae493ded807anative.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-10-30T19:07:13.431320+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a161706a92",
+      "category": "hot",
+      "title": "硬汉！大马丁右手骨折踢完整届世界杯，无名指到现在都无法握拳",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae4ad181f843native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036380+00:00",
+      "time_iso": "2026-10-30T19:07:13.431424+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,43 +514,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae466d4ec6cdnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036433+00:00",
+      "time_iso": "2026-10-30T19:07:13.431655+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "f451d17fb9",
+      "id": "5bde4420fc",
       "category": "hot",
-      "title": "恩佐谈世界杯决赛：西班牙是当之无愧冠军 被罚下至今仍是心结",
+      "title": "波罗回忆世界杯夺冠：足球世界里，一切都会轮回",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae3735ba8b49native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036721+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4eab6e9e6c",
-      "category": "hot",
-      "title": "TA：FIFA拟将2027女足世界杯奖金翻倍至至少2.2亿美元",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae4660222bd4native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae475f2517b3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036883+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "b69c4f57b6",
-      "category": "hot",
-      "title": "法足协主席：温格符合竞选FIFA主席的条件，由他自己决定是否参选",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae3c3afce695native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-30T12:38:54.036975+00:00",
+      "time_iso": "2026-10-30T19:07:13.431794+00:00",
       "source": "直播吧",
       "is_hot": false
     }
