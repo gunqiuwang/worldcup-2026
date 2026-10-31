@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T18:24:45.986743+00:00",
-  "count": 45,
+  "updated_at": "2026-10-31T23:16:17.530366+00:00",
+  "count": 48,
   "articles": [
     {
       "id": "f65893ca5f",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5c744a3fa8native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.037674+00:00",
+      "time_iso": "2026-10-31T23:16:15.396477+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae58e63dee79native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.037704+00:00",
+      "time_iso": "2026-10-31T23:16:15.396520+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae523ff70d25native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.037765+00:00",
+      "time_iso": "2026-10-31T23:16:15.396596+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,19 +82,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae492f94dcd8native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.037816+00:00",
+      "time_iso": "2026-10-31T23:16:15.396651+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "5a52bee61c",
+      "id": "61e82c9a23",
       "category": "hot",
-      "title": "TA：FIFA首届u15世界杯顺利举办；俄罗斯回归+各方对此不满",
+      "title": "FM：约罗9月进法国国家队后一度重燃信心，但回曼联却又迷失",
       "summary": "",
-      "url": "https://bbs.hupu.com/643458856.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/643469470.html",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:45.986143+00:00",
+      "time_iso": "2026-10-31T23:16:17.529746+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -106,19 +106,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae4eb34177e1native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.037881+00:00",
+      "time_iso": "2026-10-31T23:16:15.396732+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "dec8477365",
+      "id": "74939abf9c",
       "category": "hot",
-      "title": "水晶宫1-0客胜富勒姆晋级英联杯八强，恩凯蒂亚制胜球",
+      "title": "U16国少晋级海湾杯四强，半决赛将战埃及U17，两名主力停赛",
       "summary": "",
-      "url": "https://bbs.hupu.com/643406482.html",
+      "url": "https://bbs.hupu.com/643422892.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:45.986383+00:00",
+      "time_iso": "2026-10-31T23:16:17.529910+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -130,19 +130,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.038248+00:00",
+      "time_iso": "2026-10-31T23:16:15.397231+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "61e82c9a23",
+      "id": "849f9da794",
       "category": "hot",
-      "title": "FM：约罗9月进法国国家队后一度重燃信心，但回曼联却又迷失",
+      "title": "英联杯1/4决赛抽签出炉：曼城vs英甲队，利物浦vs伯恩茅斯",
       "summary": "",
-      "url": "https://bbs.hupu.com/643469470.html",
-      "team": "FRA",
-      "time": "18小时前",
-      "time_iso": "2026-10-30T23:36:27.267942+00:00",
+      "url": "https://bbs.hupu.com/643406279.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:17.529986+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -153,8 +153,80 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae55d9da51f8native.htm",
       "team": "",
-      "time": "6小时前",
+      "time": "11小时前",
       "time_iso": "2026-10-31T12:07:33.612628+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "131d2a39b0",
+      "category": "hot",
+      "title": "队报：温格没想好是否参选FIFA主席；欧足联准备推一人竞争",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643407982.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:17.530017+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "32c531ebe4",
+      "category": "hot",
+      "title": "骆明谈金球投票：新赛季表现为亚马尔拉票，因世界杯投罗德里前3",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1a658105c1native.htm",
+      "team": "ESP",
+      "time": "23小时前",
+      "time_iso": "2026-10-30T23:36:25.004222+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "5a52bee61c",
+      "category": "hot",
+      "title": "TA：FIFA首届u15世界杯顺利举办；俄罗斯回归+各方对此不满",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643458856.html",
+      "team": "",
+      "time": "4小时前",
+      "time_iso": "2026-10-31T18:24:45.986143+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "8ce07911f5",
+      "category": "hot",
+      "title": "TA谈新U15世界杯：189支球队参加踢了900多场 有争议也有进步空间",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae446a1a77aanative.htm",
+      "team": "",
+      "time": "23小时前",
+      "time_iso": "2026-10-30T23:36:25.005796+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "dec8477365",
+      "category": "hot",
+      "title": "水晶宫1-0客胜富勒姆晋级英联杯八强，恩凯蒂亚制胜球",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643406482.html",
+      "team": "",
+      "time": "4小时前",
+      "time_iso": "2026-10-31T18:24:45.986383+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "cc487b7e50",
+      "category": "hot",
+      "title": "恩佐：如果我们赢得世界杯金球肯定会给梅西 凯恩配得上获奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae36ffab6924native.htm",
+      "team": "ARG",
+      "time": "1天前",
+      "time_iso": "2026-10-30T19:07:13.433350+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "32c531ebe4",
+      "id": "05620a4d85",
       "category": "hot",
-      "title": "骆明谈金球投票：新赛季表现为亚马尔拉票，因世界杯投罗德里前3",
+      "title": "2026年五大联赛参与进球榜：凯恩、奥利塞并列最多，亚马尔第三",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1a658105c1native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae35516ccba2native.htm",
       "team": "ESP",
-      "time": "18小时前",
-      "time_iso": "2026-10-30T23:36:25.004222+00:00",
+      "time": "1天前",
+      "time_iso": "2026-10-30T05:30:21.590215+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -195,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "8ce07911f5",
+      "id": "29711ff988",
       "category": "hot",
-      "title": "TA谈新U15世界杯：189支球队参加踢了900多场 有争议也有进步空间",
+      "title": "越南记者解释金球投票：我更看重世界杯，若阿根廷赢决赛梅西第一",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae446a1a77aanative.htm",
-      "team": "",
-      "time": "18小时前",
-      "time_iso": "2026-10-30T23:36:25.005796+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1e8962693cnative.htm",
+      "team": "ARG",
+      "time": "2天前",
+      "time_iso": "2026-10-29T12:47:02.042456+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -219,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "cc487b7e50",
+      "id": "4044342d79",
       "category": "hot",
-      "title": "恩佐：如果我们赢得世界杯金球肯定会给梅西 凯恩配得上获奖",
+      "title": "澳记者谈金球投票：凯恩的价值不只进球，梅西世界杯超神但踢MLS",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae36ffab6924native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
       "team": "ARG",
-      "time": "23小时前",
-      "time_iso": "2026-10-30T19:07:13.433350+00:00",
+      "time": "2天前",
+      "time_iso": "2026-10-29T12:47:02.042587+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -243,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "05620a4d85",
+      "id": "eb5ecfabae",
       "category": "hot",
-      "title": "2026年五大联赛参与进球榜：凯恩、奥利塞并列最多，亚马尔第三",
+      "title": "I'm back？葡媒：C罗入围葡萄牙新一期国家队初选名单",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae35516ccba2native.htm",
-      "team": "ESP",
-      "time": "1天前",
-      "time_iso": "2026-10-30T05:30:21.590215+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
+      "team": "POR",
+      "time": "2天前",
+      "time_iso": "2026-10-29T12:47:02.042634+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -267,16 +339,16 @@
       "is_hot": false
     },
     {
-      "id": "29711ff988",
+      "id": "33ccbced79",
       "category": "hot",
-      "title": "越南记者解释金球投票：我更看重世界杯，若阿根廷赢决赛梅西第一",
+      "title": "2026钱潮杯国际青少年足球邀请赛将拉开战幕，十二支U15竞逐冠军",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1e8962693cnative.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-29T12:47:02.042456+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5ab1c7a282native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.393847+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "d75be53fd3",
@@ -291,16 +363,16 @@
       "is_hot": false
     },
     {
-      "id": "4044342d79",
+      "id": "379296809d",
       "category": "hot",
-      "title": "澳记者谈金球投票：凯恩的价值不只进球，梅西世界杯超神但踢MLS",
+      "title": "2026-27亚冠精英联赛现场观众人数统计（联赛阶段第3轮）",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6ae03fc5071e0native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-29T12:47:02.042587+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae30a30d466dnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.394202+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "e428ca1f5d",
@@ -315,16 +387,16 @@
       "is_hot": false
     },
     {
-      "id": "eb5ecfabae",
+      "id": "06793753fb",
       "category": "hot",
-      "title": "I'm back？葡媒：C罗入围葡萄牙新一期国家队初选名单",
+      "title": "黄金时间看国足！官方：国足亚洲杯3场小组赛均为21:30开球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfa6e1f3a5fnative.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-10-29T12:47:02.042634+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.394430+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "3187d3e830",
@@ -339,16 +411,16 @@
       "is_hot": false
     },
     {
-      "id": "0c730efba8",
+      "id": "109fdbb553",
       "category": "hot",
-      "title": "罗体：今夏世界杯时哈兰德用过的维京战鼓被拍卖，价格达12.4万欧",
+      "title": "北青：国足亚洲杯小组赛均黄金收视时段21:30开球，对球迷较友好",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adffe9f0e7d1native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-28T19:25:49.306814+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.394497+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "df5f1e9939",
@@ -363,78 +435,6 @@
       "is_hot": false
     },
     {
-      "id": "18009aaf6f",
-      "category": "hot",
-      "title": "决赛圈！金球奖不计排名前十：凯恩、亚马尔、梅西、登贝莱在列",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adf7968af46dnative.htm",
-      "team": "ESP",
-      "time": "2天前",
-      "time_iso": "2026-10-28T19:25:49.306838+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "e31f4a02ba",
-      "category": "hot",
-      "title": "骆明金球首选梅西：论印象深刻程度，梅西的世界杯表现是历史级别",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-27/6adfec8d518c8native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-10-28T19:25:49.307827+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "33ccbced79",
-      "category": "hot",
-      "title": "2026钱潮杯国际青少年足球邀请赛将拉开战幕，十二支U15竞逐冠军",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5ab1c7a282native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.035568+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "379296809d",
-      "category": "hot",
-      "title": "2026-27亚冠精英联赛现场观众人数统计（联赛阶段第3轮）",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae30a30d466dnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.035841+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "06793753fb",
-      "category": "hot",
-      "title": "黄金时间看国足！官方：国足亚洲杯3场小组赛均为21:30开球",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036009+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "109fdbb553",
-      "category": "hot",
-      "title": "北青：国足亚洲杯小组赛均黄金收视时段21:30开球，对球迷较友好",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-21/6ad85b0ae7bfenative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036061+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "5c1b31ce07",
       "category": "hot",
       "title": "U17女足世界杯淘汰赛对阵确定，1/8决赛中国队将对阵法国队",
@@ -442,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036105+00:00",
+      "time_iso": "2026-10-31T23:16:15.394551+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036128+00:00",
+      "time_iso": "2026-10-31T23:16:15.394579+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036171+00:00",
+      "time_iso": "2026-10-31T23:16:15.394629+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036193+00:00",
+      "time_iso": "2026-10-31T23:16:15.394656+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,31 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036240+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "5bde4420fc",
-      "category": "hot",
-      "title": "波罗回忆世界杯夺冠：足球世界里，一切都会轮回",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae475f2517b3native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036698+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "dfeff0c652",
-      "category": "hot",
-      "title": "战马竞赛前，莱万特为马竞阵中世界杯西班牙夺冠成员举办表彰仪式",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae6141635afdnative.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.036941+00:00",
+      "time_iso": "2026-10-31T23:16:15.394713+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +502,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae59a5f31a5bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.037051+00:00",
+      "time_iso": "2026-10-31T23:16:15.395692+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "dfeff0c652",
+      "category": "hot",
+      "title": "战马竞赛前，莱万特为马竞阵中世界杯西班牙夺冠成员举办表彰仪式",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae6141635afdnative.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.395772+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +526,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae51c2d573eenative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-10-31T18:24:44.037364+00:00",
+      "time_iso": "2026-10-31T23:16:15.396067+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "6a7e476700",
+      "category": "hot",
+      "title": "连续3届无缘世界杯！RMC：意大利网球注册运动员首次超越足球",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae201d399afanative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.396225+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "1b6211f6d4",
+      "category": "hot",
+      "title": "希腊队正在复苏！有望在2028欧洲杯和2030世界杯掀起风暴",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-28/6ae1a9010c19bnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.396253+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "998ab1151d",
+      "category": "hot",
+      "title": "乌奈·西蒙：只要毕巴还要我我就不会离开 世界杯庆祝不如国王杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5b2b3b25c4native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.397044+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "c62cf48fd6",
+      "category": "hot",
+      "title": "成人女星：某尤文图斯球员和世界杯某教练曾私信追求我",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-10-31T23:16:15.397280+00:00",
       "source": "直播吧",
       "is_hot": false
     }
