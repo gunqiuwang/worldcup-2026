@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-01T18:50:41.308633+00:00",
-  "count": 49,
+  "updated_at": "2026-11-01T23:28:36.728355+00:00",
+  "count": 50,
   "articles": [
     {
-      "id": "b460a391a2",
+      "id": "3a05cbd32e",
       "category": "hot",
-      "title": "卫报关注韩国队内讧：孙兴慜和C罗再添共同点，在国家队引发分裂",
+      "title": "87分钟遭绝杀！中国U17女足1-2遭巴西U17女足逆转 无缘世界杯4强",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae6ba1042434native.htm",
-      "team": "KOR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-02/match2319167date2026vnative.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.241619+00:00",
+      "time_iso": "2026-11-01T23:28:34.644250+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -27,14 +27,14 @@
       "is_hot": true
     },
     {
-      "id": "c4a56d525f",
+      "id": "b460a391a2",
       "category": "hot",
-      "title": "8人总计13分！阿根廷世界杯对手金球投票：3人给梅西0分，最高第6",
+      "title": "卫报关注韩国队内讧：孙兴慜和C罗再添共同点，在国家队引发分裂",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae58e63dee79native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae6ba1042434native.htm",
+      "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.241691+00:00",
+      "time_iso": "2026-11-01T23:28:34.647181+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +51,14 @@
       "is_hot": true
     },
     {
-      "id": "f65893ca5f",
-      "category": "tactical",
-      "title": "葡媒：葡萄牙国家队下周五公布大名单，C罗是否入选、出场成焦点",
+      "id": "c4a56d525f",
+      "category": "hot",
+      "title": "8人总计13分！阿根廷世界杯对手金球投票：3人给梅西0分，最高第6",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5c744a3fa8native.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae58e63dee79native.htm",
+      "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.241753+00:00",
+      "time_iso": "2026-11-01T23:28:34.647268+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,6 +75,30 @@
       "is_hot": true
     },
     {
+      "id": "f65893ca5f",
+      "category": "tactical",
+      "title": "葡媒：葡萄牙国家队下周五公布大名单，C罗是否入选、出场成焦点",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5c744a3fa8native.htm",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-11-01T23:28:34.647327+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "e0aaa33145",
+      "category": "hot",
+      "title": "无锡2-1战胜常州，包揽2026赛季江苏联常规赛与决赛双料冠军",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643503702.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-01T23:28:36.727533+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
       "id": "3150ab4860",
       "category": "hot",
       "title": "解禁回归？沙特媒：C罗收到葡萄牙队征召，有望入选下一期国家队",
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae492f94dcd8native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.241832+00:00",
+      "time_iso": "2026-11-01T23:28:34.647408+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -94,7 +118,7 @@
       "url": "https://bbs.hupu.com/643471996.html",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:41.307898+00:00",
+      "time_iso": "2026-11-01T23:28:36.727864+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -106,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae523ff70d25native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.241877+00:00",
+      "time_iso": "2026-11-01T23:28:34.647459+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643469470.html",
       "team": "FRA",
-      "time": "1分钟前",
+      "time": "4小时前",
       "time_iso": "2026-11-01T18:50:41.308033+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -130,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.242362+00:00",
+      "time_iso": "2026-11-01T23:28:34.647948+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643448596.html",
       "team": "FRA",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-11-01T13:07:17.570759+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -153,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae4eb34177e1native.htm",
       "team": "ESP",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-11-01T05:45:10.633076+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -165,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643441602.html",
       "team": "",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-11-01T13:07:17.570818+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -189,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643443222.html",
       "team": "",
-      "time": "13小时前",
+      "time": "17小时前",
       "time_iso": "2026-11-01T05:45:12.366398+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -213,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643422892.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-10-31T23:16:17.529910+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643406279.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-10-31T23:16:17.529986+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -249,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae36ffab6924native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-10-30T19:07:13.433350+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643407982.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-10-31T23:16:17.530017+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -291,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "850826ecb7",
+      "id": "68c38117f3",
       "category": "hot",
-      "title": "战报·云南玉昆4:3大连英博海发 成功晋级2026中国足协杯决赛",
+      "title": "无缘决赛！U17海湾杯半决赛-U16国足0-4埃及U17，本届赛事止步4强",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae756e5d5520native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-02/match2329253date2026vnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.238799+00:00",
+      "time_iso": "2026-11-01T23:28:34.644340+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -315,14 +339,14 @@
       "is_hot": false
     },
     {
-      "id": "d19f675e1a",
+      "id": "850826ecb7",
       "category": "hot",
-      "title": "率先进足协杯决赛！玉昆将战国安vs海港胜者，另1场半决赛11.20",
+      "title": "战报·云南玉昆4:3大连英博海发 成功晋级2026中国足协杯决赛",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae742085a6bdnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae756e5d5520native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.238962+00:00",
+      "time_iso": "2026-11-01T23:28:34.644413+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -339,14 +363,14 @@
       "is_hot": false
     },
     {
-      "id": "379296809d",
+      "id": "d19f675e1a",
       "category": "hot",
-      "title": "2026-27亚冠精英联赛现场观众人数统计（联赛阶段第3轮）",
+      "title": "率先进足协杯决赛！玉昆将战国安vs海港胜者，另1场半决赛11.20",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae30a30d466dnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae742085a6bdnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.239268+00:00",
+      "time_iso": "2026-11-01T23:28:34.644677+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -363,14 +387,14 @@
       "is_hot": false
     },
     {
-      "id": "06793753fb",
+      "id": "379296809d",
       "category": "hot",
-      "title": "黄金时间看国足！官方：国足亚洲杯3场小组赛均为21:30开球",
+      "title": "2026-27亚冠精英联赛现场观众人数统计（联赛阶段第3轮）",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae30a30d466dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.239461+00:00",
+      "time_iso": "2026-11-01T23:28:34.644813+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -387,14 +411,14 @@
       "is_hot": false
     },
     {
-      "id": "5c1b31ce07",
+      "id": "06793753fb",
       "category": "hot",
-      "title": "U17女足世界杯淘汰赛对阵确定，1/8决赛中国队将对阵法国队",
+      "title": "黄金时间看国足！官方：国足亚洲杯3场小组赛均为21:30开球",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
-      "team": "FRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6adef3c0a9a23native.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.239562+00:00",
+      "time_iso": "2026-11-01T23:28:34.645012+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -411,14 +435,14 @@
       "is_hot": false
     },
     {
-      "id": "527aded41a",
+      "id": "5c1b31ce07",
       "category": "hot",
-      "title": "马德兴：中国足协将至少收到250万美元用于女足备战明年世界杯",
+      "title": "U17女足世界杯淘汰赛对阵确定，1/8决赛中国队将对阵法国队",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.239593+00:00",
+      "time_iso": "2026-11-01T23:28:34.645094+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -435,14 +459,14 @@
       "is_hot": false
     },
     {
-      "id": "5046707e71",
+      "id": "527aded41a",
       "category": "hot",
-      "title": "足协选聘女足主帅：国籍不限原则上55岁以下 目标2027世界杯+洛奥",
+      "title": "马德兴：中国足协将至少收到250万美元用于女足备战明年世界杯",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.239645+00:00",
+      "time_iso": "2026-11-01T23:28:34.645122+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -459,6 +483,18 @@
       "is_hot": false
     },
     {
+      "id": "5046707e71",
+      "category": "hot",
+      "title": "足协选聘女足主帅：国籍不限原则上55岁以下 目标2027世界杯+洛奥",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-01T23:28:34.645200+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "d90d6cdb3c",
       "category": "hot",
       "title": "卫报：后勤保障经费和待遇看齐男足！FIFA重磅升级2027女足世界杯",
@@ -466,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.239673+00:00",
+      "time_iso": "2026-11-01T23:28:34.645233+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.239730+00:00",
+      "time_iso": "2026-11-01T23:28:34.645292+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae6141635afdnative.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.240922+00:00",
+      "time_iso": "2026-11-01T23:28:34.646479+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +538,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-02/6ae786e00b705native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.241369+00:00",
+      "time_iso": "2026-11-01T23:28:34.646931+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +550,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5b2b3b25c4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.242202+00:00",
+      "time_iso": "2026-11-01T23:28:34.647804+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,7 +562,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.242408+00:00",
+      "time_iso": "2026-11-01T23:28:34.647994+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,7 +574,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae3f6a898189native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.242462+00:00",
+      "time_iso": "2026-11-01T23:28:34.648047+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -550,7 +586,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae33383e2cadnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-01T18:50:39.243034+00:00",
+      "time_iso": "2026-11-01T23:28:34.648631+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -561,32 +597,8 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae6a55096caanative.htm",
       "team": "",
-      "time": "5小时前",
+      "time": "10小时前",
       "time_iso": "2026-11-01T13:07:13.873194+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "9061660f15",
-      "category": "hot",
-      "title": "足协杯半决赛玉昆vs英博裁判信息：中国香港裁判谭炳焕执法",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae69f35c7890native.htm",
-      "team": "",
-      "time": "13小时前",
-      "time_iso": "2026-11-01T05:45:10.629998+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "f91fca74b7",
-      "category": "hot",
-      "title": "马德兴：U15世界杯国少亚洲45队排位第六，青少年足球扎实进步",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae69a3a77cfanative.htm",
-      "team": "",
-      "time": "13小时前",
-      "time_iso": "2026-11-01T05:45:10.630102+00:00",
       "source": "直播吧",
       "is_hot": false
     }
