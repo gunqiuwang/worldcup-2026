@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T06:24:53.858363+00:00",
+  "updated_at": "2026-11-03T16:04:10.753173+00:00",
   "count": 47,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae946c51d3f2native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817512+00:00",
+      "time_iso": "2026-11-03T16:04:08.500811+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643472618.html",
       "team": "ARG",
-      "time": "14小时前",
+      "time": "1天前",
       "time_iso": "2026-11-02T15:30:50.796472+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae920471da82native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.818983+00:00",
+      "time_iso": "2026-11-03T16:04:08.500841+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.819362+00:00",
+      "time_iso": "2026-11-03T16:04:08.501131+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643500461.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "9小时前",
       "time_iso": "2026-11-03T06:24:53.857990+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -81,7 +81,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae5c744a3fa8native.htm",
       "team": "POR",
-      "time": "7小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-02T23:24:18.054807+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643570625.html",
       "team": "",
-      "time": "7小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-02T23:24:20.086136+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +105,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae6ba1042434native.htm",
       "team": "KOR",
-      "time": "14小时前",
+      "time": "1天前",
       "time_iso": "2026-11-02T15:30:48.474983+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643503702.html",
       "team": "",
-      "time": "14小时前",
+      "time": "1天前",
       "time_iso": "2026-11-02T15:30:50.796282+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae492f94dcd8native.htm",
       "team": "POR",
-      "time": "14小时前",
+      "time": "1天前",
       "time_iso": "2026-11-02T15:30:48.475071+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643472308.html",
       "team": "",
-      "time": "14小时前",
+      "time": "1天前",
       "time_iso": "2026-11-02T15:30:50.796531+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,22 +237,22 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643448596.html",
       "team": "FRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-01T13:07:17.570759+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "c0a85c2cf1",
+      "id": "f9f624e20f",
       "category": "hot",
-      "title": "大马丁谈疯狂举动：最喜欢世界杯上裆部戴手套那个 挑衅C罗排第三",
+      "title": "关于2026中国足协杯半决赛云南玉昆主场球迷抛掷物品的情况说明",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-10-31/6ae55d9da51f8native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9f0e92c17enative.htm",
       "team": "",
-      "time": "2天前",
-      "time_iso": "2026-10-31T12:07:33.612628+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-11-03T16:04:08.498723+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "7f18730803",
@@ -261,20 +261,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643441602.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-01T13:07:17.570818+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "1621805cca",
+      "id": "c1a2cad347",
       "category": "hot",
-      "title": "马德兴：U16国足半决赛前两个丢球需要复盘 输球并不只有身体差距",
+      "title": "2026/2027亚冠精英联赛第4轮，莱昂纳多、安佩姆、李新翔破门",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae953c32abc3native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9e6a475242native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.816657+00:00",
+      "time_iso": "2026-11-03T16:04:08.498889+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -291,14 +291,14 @@
       "is_hot": false
     },
     {
-      "id": "8e3d2f9037",
+      "id": "968a39453d",
       "category": "hot",
-      "title": "亚冠精英联赛小组赛第4轮 泰港（泰国）VS北京国安（中国）",
+      "title": "穆斯卡特：在亚冠征程中收获重要3分，足协杯半决赛非常重要",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-02/6ae882c7ade8dnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9d445689bfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.816944+00:00",
+      "time_iso": "2026-11-03T16:04:08.499113+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -315,14 +315,14 @@
       "is_hot": false
     },
     {
-      "id": "d19f675e1a",
+      "id": "d395132235",
       "category": "hot",
-      "title": "率先进足协杯决赛！玉昆将战国安vs海港胜者，另1场半决赛11.20",
+      "title": "2026/2027亚冠精英联赛第4轮，纽卡斯尔喷气机2比4上海海港",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-01/6ae742085a6bdnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9b1b6ebf4cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.816996+00:00",
+      "time_iso": "2026-11-03T16:04:08.499141+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817244+00:00",
+      "time_iso": "2026-11-03T16:04:08.499316+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817268+00:00",
+      "time_iso": "2026-11-03T16:04:08.499337+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817313+00:00",
+      "time_iso": "2026-11-03T16:04:08.499371+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817335+00:00",
+      "time_iso": "2026-11-03T16:04:08.499390+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,19 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-20/6ad730e3b8306native.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817382+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "d39c16fd7f",
-      "category": "hot",
-      "title": "英媒：FIFA限制查阅因凡蒂诺世界杯出售计划文件，得去苏黎世看",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae961d943c82native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817465+00:00",
+      "time_iso": "2026-11-03T16:04:08.499429+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,31 +442,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-02/6ae8935c1c03anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.817624+00:00",
+      "time_iso": "2026-11-03T16:04:08.499648+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "1103380259",
+      "id": "639c0d7c08",
       "category": "hot",
-      "title": "世界杯同款科技！西甲芯片判点，官方承认误判：信号与视频不同步",
+      "title": "32岁首次入选法国队？布雷斯特主帅：阿约克随时可为国家队所用",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9419d65295native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9a149587a8native.htm",
+      "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.818147+00:00",
+      "time_iso": "2026-11-03T16:04:08.499877+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "f1bf37205e",
+      "id": "d39c16fd7f",
       "category": "hot",
-      "title": "诺坎普办世界杯决赛？拉波尔塔：我很乐观，足协主席的表态很好",
+      "title": "英媒：FIFA限制查阅因凡蒂诺世界杯出售计划文件，得去苏黎世看",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae944e5157b9native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae961d943c82native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.818184+00:00",
+      "time_iso": "2026-11-03T16:04:08.499933+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "3b3a7a5906",
+      "category": "hot",
+      "title": "49亿欧身家西班牙第7！皇马主席弗洛伦蒂诺登福布斯2026富豪榜",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9f69ea3dd9native.htm",
+      "team": "ESP",
+      "time": "1分钟前",
+      "time_iso": "2026-11-03T16:04:08.500112+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae96fd4e61f4native.htm",
       "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.818705+00:00",
+      "time_iso": "2026-11-03T16:04:08.500622+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,7 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-02/6ae786e00b705native.htm",
       "team": "GER",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.818797+00:00",
+      "time_iso": "2026-11-03T16:04:08.500680+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -514,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.819400+00:00",
+      "time_iso": "2026-11-03T16:04:08.501163+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -526,31 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-30/6ae3f6a898189native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.819445+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ed2e8cc04c",
-      "category": "hot",
-      "title": "上次进球还是世界杯！萨内开季13场0球0助，队内第3高薪连场替补",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9519bb9c74native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.819560+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "dc580f0359",
-      "category": "hot",
-      "title": "矿工总监：FIFA充满商业味，真正喜欢足球的是切费林而非因凡蒂诺",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae8bed496197native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.819585+00:00",
+      "time_iso": "2026-11-03T16:04:08.501199+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +538,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-29/6ae33383e2cadnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-03T06:24:51.819939+00:00",
+      "time_iso": "2026-11-03T16:04:08.501544+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "1621805cca",
+      "category": "hot",
+      "title": "马德兴：U16国足半决赛前两个丢球需要复盘 输球并不只有身体差距",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae953c32abc3native.htm",
+      "team": "",
+      "time": "9小时前",
+      "time_iso": "2026-11-03T06:24:51.816657+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "8e3d2f9037",
+      "category": "hot",
+      "title": "亚冠精英联赛小组赛第4轮 泰港（泰国）VS北京国安（中国）",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-02/6ae882c7ade8dnative.htm",
+      "team": "",
+      "time": "9小时前",
+      "time_iso": "2026-11-03T06:24:51.816944+00:00",
       "source": "直播吧",
       "is_hot": false
     }
