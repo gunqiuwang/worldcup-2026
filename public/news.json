@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T11:58:26.738925+00:00",
-  "count": 38,
+  "updated_at": "2026-11-06T19:16:10.507417+00:00",
+  "count": 40,
   "articles": [
     {
       "id": "fb37483390",
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec754b10ab5native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.237765+00:00",
+      "time_iso": "2026-11-06T19:16:08.099084+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "472257dd47",
+      "id": "73701286a1",
       "category": "hot",
-      "title": "连续6届破门，世界杯官方致敬C罗：恭喜你拥有一段精彩生涯",
+      "title": "葡萄牙官方发视频致敬C罗，其中披露他26年世界杯的发言",
       "summary": "",
-      "url": "https://bbs.hupu.com/643673100.html",
-      "team": "",
+      "url": "https://bbs.hupu.com/643697451.html",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:26.738415+00:00",
+      "time_iso": "2026-11-06T19:16:10.506566+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.237816+00:00",
+      "time_iso": "2026-11-06T19:16:08.099122+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "6e9140617f",
+      "category": "hot",
+      "title": "【中文字幕】C罗国家队告别信：我为葡萄牙付出了一切",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643676312.html",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-11-06T19:16:10.506939+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "ff148391a4",
+      "category": "hot",
+      "title": "扎卡里亚谈世界杯对阵阿根廷：感觉整座球场都在为梅西而战",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec107681b39native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-11-06T19:16:08.100292+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "472257dd47",
+      "category": "hot",
+      "title": "连续6届破门，世界杯官方致敬C罗：恭喜你拥有一段精彩生涯",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643673100.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-06T19:16:10.507070+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "84203663d3",
+      "category": "hot",
+      "title": "前阿根廷队助教卡米诺与梅西见面，两人携手获得巴西世界杯亚军",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebec1c5c883native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-11-06T19:16:08.100345+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643627441.html",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:54.638125+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed86e081f54native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.238632+00:00",
+      "time_iso": "2026-11-06T19:16:08.100439+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +123,14 @@
       "is_hot": true
     },
     {
-      "id": "ff148391a4",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "扎卡里亚谈世界杯对阵阿根廷：感觉整座球场都在为梅西而战",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec107681b39native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.238740+00:00",
+      "time_iso": "2026-11-06T19:16:08.100815+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,14 +147,14 @@
       "is_hot": true
     },
     {
-      "id": "84203663d3",
+      "id": "93a8a4f1ad",
       "category": "hot",
-      "title": "前阿根廷队助教卡米诺与梅西见面，两人携手获得巴西世界杯亚军",
+      "title": "首度披露！C罗世界杯时在更衣室情绪激动：今天我说不出话",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebec1c5c883native.htm",
-      "team": "ARG",
-      "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.238775+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed5dffd0b02native.htm",
+      "team": "",
+      "time": "7小时前",
+      "time_iso": "2026-11-06T11:58:24.238821+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,20 +165,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643643600.html",
       "team": "",
-      "time": "14小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-05T20:58:53.129846+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "93a8a4f1ad",
+      "id": "d517f69dd2",
       "category": "hot",
-      "title": "首度披露！C罗世界杯时在更衣室情绪激动：今天我说不出话",
+      "title": "41岁C罗宣布从葡萄牙国家队退役，瑞安航空转发并配文：终于",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed5dffd0b02native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.238821+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed326426712native.htm",
+      "team": "POR",
+      "time": "17小时前",
+      "time_iso": "2026-11-06T02:11:08.329769+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -147,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "c73169e424",
+      "id": "11de970e3b",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "梅西夺冠庆典举起的世界杯复制奖杯将拍卖！附8名阿根廷球员签名",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.239134+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebe62d0c5c7native.htm",
+      "team": "ARG",
+      "time": "17小时前",
+      "time_iso": "2026-11-06T02:11:08.329976+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -171,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "d517f69dd2",
+      "id": "ef410f0953",
       "category": "hot",
-      "title": "41岁C罗宣布从葡萄牙国家队退役，瑞安航空转发并配文：终于",
+      "title": "美职联2026球衣销量：梅西居首 孙兴慜穆勒二三 迈阿密3人前十",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed326426712native.htm",
-      "team": "POR",
-      "time": "9小时前",
-      "time_iso": "2026-11-06T02:11:08.329769+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-04/6aea13a53b110native.htm",
+      "team": "KOR",
+      "time": "17小时前",
+      "time_iso": "2026-11-06T02:11:08.330081+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -189,34 +237,10 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643530386.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-04T14:19:20.854174+00:00",
       "source": "虎扑",
       "is_hot": false
-    },
-    {
-      "id": "11de970e3b",
-      "category": "hot",
-      "title": "梅西夺冠庆典举起的世界杯复制奖杯将拍卖！附8名阿根廷球员签名",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebe62d0c5c7native.htm",
-      "team": "ARG",
-      "time": "9小时前",
-      "time_iso": "2026-11-06T02:11:08.329976+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "ef410f0953",
-      "category": "hot",
-      "title": "美职联2026球衣销量：梅西居首 孙兴慜穆勒二三 迈阿密3人前十",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-04/6aea13a53b110native.htm",
-      "team": "KOR",
-      "time": "9小时前",
-      "time_iso": "2026-11-06T02:11:08.330081+00:00",
-      "source": "直播吧",
-      "is_hot": true
     },
     {
       "id": "1fcecab0f9",
@@ -225,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aecb685284e9native.htm",
       "team": "POR",
-      "time": "9小时前",
+      "time": "17小时前",
       "time_iso": "2026-11-06T02:11:08.330144+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aecbf3553cd3native.htm",
       "team": "POR",
-      "time": "14小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-05T20:58:50.972101+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -249,7 +273,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec7ec529dadnative.htm",
       "team": "POR",
-      "time": "14小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-05T20:58:50.972165+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -261,7 +285,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec7944b01d0native.htm",
       "team": "POR",
-      "time": "14小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-05T20:58:50.973588+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -273,7 +297,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec69ea480ccnative.htm",
       "team": "POR",
-      "time": "14小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-05T20:58:50.973631+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -285,7 +309,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6c33c0a98native.htm",
       "team": "POR",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:51.722788+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -297,7 +321,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec616a10059native.htm",
       "team": "POR",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:51.722901+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -309,7 +333,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec5997e96b4native.htm",
       "team": "POR",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:51.723915+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -321,7 +345,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6d6ac8839native.htm",
       "team": "",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:51.724763+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -333,7 +357,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6a40cc5c5native.htm",
       "team": "POR",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:51.724796+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -345,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6363aae1cnative.htm",
       "team": "",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:51.724854+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -357,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6437d88eanative.htm",
       "team": "POR",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-05T12:06:51.724886+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -394,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed9fa315cf6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.236312+00:00",
+      "time_iso": "2026-11-06T19:16:08.097093+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9e6a475242native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.236773+00:00",
+      "time_iso": "2026-11-06T19:16:08.097712+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9d445689bfnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.236805+00:00",
+      "time_iso": "2026-11-06T19:16:08.097754+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9b1b6ebf4cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.236836+00:00",
+      "time_iso": "2026-11-06T19:16:08.097793+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.236981+00:00",
+      "time_iso": "2026-11-06T19:16:08.097989+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-06T11:58:24.237039+00:00",
+      "time_iso": "2026-11-06T19:16:08.098065+00:00",
       "source": "直播吧",
       "is_hot": false
     }
