@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:38:13.646351+00:00",
+  "updated_at": "2026-11-07T16:16:28.655535+00:00",
   "count": 40,
   "articles": [
     {
@@ -10,7 +10,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.964633+00:00",
+      "time_iso": "2026-11-07T16:16:26.366302+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "f1de6dabb3",
+      "category": "hot",
+      "title": "梅迪纳：阿根廷媒体甚至会针对梅西；世界杯决赛前少1天休息",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643618214.html",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-11-07T16:16:28.655084+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "50a78e0a13",
+      "category": "hot",
+      "title": "世界杯官方晒C罗世界杯生涯最后一球：1/16决赛对克罗地亚点射",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
+      "team": "CRO",
+      "time": "1分钟前",
+      "time_iso": "2026-11-07T16:16:26.367152+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643697451.html",
       "team": "POR",
-      "time": "1分钟前",
+      "time": "7小时前",
       "time_iso": "2026-11-07T08:38:13.646110+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeb14dec483native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.965249+00:00",
+      "time_iso": "2026-11-07T16:16:26.367213+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643676312.html",
       "team": "POR",
-      "time": "8小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-07T00:01:38.948591+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeea31d847d7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.965264+00:00",
+      "time_iso": "2026-11-07T16:16:26.367235+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643673100.html",
       "team": "",
-      "time": "13小时前",
+      "time": "21小时前",
       "time_iso": "2026-11-06T19:16:10.507070+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee94a2d2fccnative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.965285+00:00",
+      "time_iso": "2026-11-07T16:16:26.367269+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643627441.html",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:54.638125+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +130,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.965308+00:00",
+      "time_iso": "2026-11-07T16:16:26.367302+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -130,7 +154,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.965591+00:00",
+      "time_iso": "2026-11-07T16:16:26.367726+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -153,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec754b10ab5native.htm",
       "team": "POR",
-      "time": "8小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-07T00:01:36.675568+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -177,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec107681b39native.htm",
       "team": "ARG",
-      "time": "8小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-07T00:01:36.676498+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -201,7 +225,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebec1c5c883native.htm",
       "team": "ARG",
-      "time": "8小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-07T00:01:36.676536+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -225,22 +249,10 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed86e081f54native.htm",
       "team": "POR",
-      "time": "8小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-07T00:01:36.676615+00:00",
       "source": "直播吧",
       "is_hot": true
-    },
-    {
-      "id": "7ee5d63c74",
-      "category": "hot",
-      "title": "从英超到世界杯再到MLB，樊振东的跨界解说之路",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643530386.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-11-04T14:19:20.854174+00:00",
-      "source": "虎扑",
-      "is_hot": false
     },
     {
       "id": "93a8a4f1ad",
@@ -249,7 +261,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed5dffd0b02native.htm",
       "team": "",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-11-06T11:58:24.238821+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -357,7 +369,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6c33c0a98native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:51.722788+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -369,7 +381,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec616a10059native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:51.722901+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -381,7 +393,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec5997e96b4native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:51.723915+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -393,7 +405,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6d6ac8839native.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:51.724763+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -405,7 +417,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6a40cc5c5native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:51.724796+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -417,7 +429,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6363aae1cnative.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:51.724854+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -429,7 +441,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec6437d88eanative.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-05T12:06:51.724886+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -459,26 +471,14 @@
       "is_hot": true
     },
     {
-      "id": "694458fddf",
+      "id": "c99a4dd652",
       "category": "hot",
-      "title": "2026中甲大结局：广州豹夺冠携手南通支云冲超！梅州客家两连降",
+      "title": "博主：徽青赛半决赛，蚌埠球迷：韦世豪加油，蓉城是冠军！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee85a649942native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aef254290a85native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.963584+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c1a2cad347",
-      "category": "hot",
-      "title": "2026/2027亚冠精英联赛第4轮，莱昂纳多、安佩姆、李新翔破门",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-03/6ae9e6a475242native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-07T08:38:10.963943+00:00",
+      "time_iso": "2026-11-07T16:16:26.364796+00:00",
       "source": "直播吧",
       "is_hot": false
     }
