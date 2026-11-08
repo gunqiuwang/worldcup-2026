@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T16:35:31.237208+00:00",
-  "count": 37,
+  "updated_at": "2026-11-08T21:55:44.392988+00:00",
+  "count": 38,
   "articles": [
     {
       "id": "423dc24a6a",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.411080+00:00",
+      "time_iso": "2026-11-08T21:55:42.648871+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643732246.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "5小时前",
       "time_iso": "2026-11-08T16:35:31.236740+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0272b95ae2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.411643+00:00",
+      "time_iso": "2026-11-08T21:55:42.650004+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.412308+00:00",
+      "time_iso": "2026-11-08T21:55:42.650212+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.412407+00:00",
+      "time_iso": "2026-11-08T21:55:42.650314+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.412808+00:00",
+      "time_iso": "2026-11-08T21:55:42.650765+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643673100.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-06T19:16:10.507070+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -129,20 +129,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeb14dec483native.htm",
       "team": "POR",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-11-08T08:51:12.590925+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "a0c32ca204",
+      "id": "16418b5d37",
       "category": "hot",
-      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
+      "title": "男单全军覆没！温瑞博不敌林昀儒，止步法兰克福冠军赛八强",
       "summary": "",
-      "url": "https://bbs.hupu.com/643727209.html",
+      "url": "https://bbs.hupu.com/643738625.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:31.236872+00:00",
+      "time_iso": "2026-11-08T21:55:44.392575+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -153,20 +153,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeea31d847d7native.htm",
       "team": "",
-      "time": "7小时前",
+      "time": "13小时前",
       "time_iso": "2026-11-08T08:51:12.590941+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "dc68c3f2ad",
+      "id": "a0c32ca204",
       "category": "hot",
-      "title": "镜报：2022年世界杯冠军奖杯复制品将被拍卖",
+      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
       "summary": "",
-      "url": "https://bbs.hupu.com/643643600.html",
+      "url": "https://bbs.hupu.com/643727209.html",
       "team": "",
-      "time": "15小时前",
-      "time_iso": "2026-11-08T01:15:02.236472+00:00",
+      "time": "5小时前",
+      "time_iso": "2026-11-08T16:35:31.236872+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -177,10 +177,22 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee94a2d2fccnative.htm",
       "team": "POR",
-      "time": "15小时前",
+      "time": "20小时前",
       "time_iso": "2026-11-08T01:15:00.505480+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "dc68c3f2ad",
+      "category": "hot",
+      "title": "镜报：2022年世界杯冠军奖杯复制品将被拍卖",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643643600.html",
+      "team": "",
+      "time": "20小时前",
+      "time_iso": "2026-11-08T01:15:02.236472+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "fb37483390",
@@ -291,54 +303,6 @@
       "is_hot": true
     },
     {
-      "id": "1f2a230e00",
-      "category": "hot",
-      "title": "阿莫林：这不是C罗结束国家队的最好方式 很多人因他而了解葡萄牙",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aecbf3553cd3native.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-05T20:58:50.972101+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "15bb63ae72",
-      "category": "hot",
-      "title": "葡萄牙国家队中锋接班人！贡萨洛·拉莫斯致敬C罗：🤝",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec7ec529dadnative.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-05T20:58:50.972165+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "34dc6036c0",
-      "category": "hot",
-      "title": "葡萄牙国家队视频致敬C罗：传奇永存！感谢你所做的一切，队长",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec7944b01d0native.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-05T20:58:50.973588+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "6d83394363",
-      "category": "hot",
-      "title": "🐐葡体致敬C罗从国家队退役：您将永远铭刻在葡萄牙的历史之中",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec69ea480ccnative.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-05T20:58:50.973631+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
       "id": "c0376249da",
       "category": "hot",
       "title": "2026年中国足球比赛现场观众人数排行榜（截至11月8日）",
@@ -346,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af08ba1650a6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409244+00:00",
+      "time_iso": "2026-11-08T21:55:42.646822+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06a903e977native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409434+00:00",
+      "time_iso": "2026-11-08T21:55:42.647017+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af054d8bc887native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409490+00:00",
+      "time_iso": "2026-11-08T21:55:42.647075+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af053a5597afnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409529+00:00",
+      "time_iso": "2026-11-08T21:55:42.647117+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af042c8e0d1enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409576+00:00",
+      "time_iso": "2026-11-08T21:55:42.647168+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af03ce8967d6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409628+00:00",
+      "time_iso": "2026-11-08T21:55:42.647222+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af066ae97b13native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409678+00:00",
+      "time_iso": "2026-11-08T21:55:42.647275+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06438ac187native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409740+00:00",
+      "time_iso": "2026-11-08T21:55:42.647341+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +406,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af065353c401native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T16:35:29.409804+00:00",
+      "time_iso": "2026-11-08T21:55:42.647408+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "ee0db326e1",
+      "category": "hot",
+      "title": "2026中超联赛第30轮安佩姆、莱昂纳多、武磊破门",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0612c3ad69native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-08T21:55:42.647442+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "a7410eeee1",
+      "category": "hot",
+      "title": "2026怡宝中超联赛第30轮，上海海港6比1辽宁铁人楠波湾",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af04a1498270native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-08T21:55:42.647522+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "8842dbbb8c",
+      "category": "hot",
+      "title": "可能留洋？19岁王钰栋已为浙江87场22球15助攻 随U23今年两进四强",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af04e709f346native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-08T21:55:42.647554+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "1fb3cef218",
+      "category": "hot",
+      "title": "8队抢2.5个席位！官方：中国女足以第3档参加奥预赛亚洲区抽签",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-08T21:55:42.647710+00:00",
       "source": "直播吧",
       "is_hot": false
     }
