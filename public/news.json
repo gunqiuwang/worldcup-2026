@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T01:35:56.931291+00:00",
-  "count": 40,
+  "updated_at": "2026-11-09T09:35:40.728332+00:00",
+  "count": 41,
   "articles": [
     {
       "id": "423dc24a6a",
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.595407+00:00",
+      "time_iso": "2026-11-09T09:35:38.876030+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643768763.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "7小时前",
       "time_iso": "2026-11-09T01:35:56.930440+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0272b95ae2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.596471+00:00",
+      "time_iso": "2026-11-09T09:35:38.877147+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643732246.html",
       "team": "",
-      "time": "9小时前",
+      "time": "17小时前",
       "time_iso": "2026-11-08T16:35:31.236740+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.596679+00:00",
+      "time_iso": "2026-11-09T09:35:38.877361+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.596780+00:00",
+      "time_iso": "2026-11-09T09:35:38.877460+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643697451.html",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-07T08:38:13.646110+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -106,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.597235+00:00",
+      "time_iso": "2026-11-09T09:35:38.877913+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeb14dec483native.htm",
       "team": "POR",
-      "time": "16小时前",
+      "time": "1天前",
       "time_iso": "2026-11-08T08:51:12.590925+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -153,20 +153,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeea31d847d7native.htm",
       "team": "",
-      "time": "16小时前",
+      "time": "1天前",
       "time_iso": "2026-11-08T08:51:12.590941+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "89fd52be72",
+      "id": "01f491b00b",
       "category": "hot",
-      "title": "田岛幸三：竞选FIFA主席胜算仅两三成，亚洲选票最难争取",
+      "title": "田岛幸三：我将以武士精神挑战因凡蒂诺，FIFA须改革治理体系",
       "summary": "",
-      "url": "https://bbs.hupu.com/643751418.html",
+      "url": "https://bbs.hupu.com/643740432.html",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:56.930541+00:00",
+      "time_iso": "2026-11-09T09:35:40.727988+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -183,14 +183,14 @@
       "is_hot": true
     },
     {
-      "id": "16418b5d37",
+      "id": "89fd52be72",
       "category": "hot",
-      "title": "男单全军覆没！温瑞博不敌林昀儒，止步法兰克福冠军赛八强",
+      "title": "田岛幸三：竞选FIFA主席胜算仅两三成，亚洲选票最难争取",
       "summary": "",
-      "url": "https://bbs.hupu.com/643738625.html",
+      "url": "https://bbs.hupu.com/643751418.html",
       "team": "",
-      "time": "3小时前",
-      "time_iso": "2026-11-08T21:55:44.392575+00:00",
+      "time": "7小时前",
+      "time_iso": "2026-11-09T01:35:56.930541+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -207,14 +207,14 @@
       "is_hot": true
     },
     {
-      "id": "a0c32ca204",
+      "id": "16418b5d37",
       "category": "hot",
-      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
+      "title": "男单全军覆没！温瑞博不敌林昀儒，止步法兰克福冠军赛八强",
       "summary": "",
-      "url": "https://bbs.hupu.com/643727209.html",
+      "url": "https://bbs.hupu.com/643738625.html",
       "team": "",
-      "time": "9小时前",
-      "time_iso": "2026-11-08T16:35:31.236872+00:00",
+      "time": "11小时前",
+      "time_iso": "2026-11-08T21:55:44.392575+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -231,14 +231,14 @@
       "is_hot": true
     },
     {
-      "id": "dc68c3f2ad",
+      "id": "a0c32ca204",
       "category": "hot",
-      "title": "镜报：2022年世界杯冠军奖杯复制品将被拍卖",
+      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
       "summary": "",
-      "url": "https://bbs.hupu.com/643643600.html",
+      "url": "https://bbs.hupu.com/643727209.html",
       "team": "",
-      "time": "1天前",
-      "time_iso": "2026-11-08T01:15:02.236472+00:00",
+      "time": "17小时前",
+      "time_iso": "2026-11-08T16:35:31.236872+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -253,6 +253,18 @@
       "time_iso": "2026-11-07T00:01:36.676536+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "dc68c3f2ad",
+      "category": "hot",
+      "title": "镜报：2022年世界杯冠军奖杯复制品将被拍卖",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643643600.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-11-08T01:15:02.236472+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "77ad51ec4b",
@@ -279,52 +291,16 @@
       "is_hot": true
     },
     {
-      "id": "d517f69dd2",
+      "id": "d75b574734",
       "category": "hot",
-      "title": "41岁C罗宣布从葡萄牙国家队退役，瑞安航空转发并配文：终于",
+      "title": "2026中超上座超详细报告：710万人次创新高，大连梭鱼湾场均破6万",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed326426712native.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-06T02:11:08.329769+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af07baf61c36native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T09:35:38.874007+00:00",
       "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "11de970e3b",
-      "category": "hot",
-      "title": "梅西夺冠庆典举起的世界杯复制奖杯将拍卖！附8名阿根廷球员签名",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebe62d0c5c7native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-11-06T02:11:08.329976+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "ef410f0953",
-      "category": "hot",
-      "title": "美职联2026球衣销量：梅西居首 孙兴慜穆勒二三 迈阿密3人前十",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-04/6aea13a53b110native.htm",
-      "team": "KOR",
-      "time": "2天前",
-      "time_iso": "2026-11-06T02:11:08.330081+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "1fcecab0f9",
-      "category": "hot",
-      "title": "胜利和葡萄牙国家队双料队友！菲利克斯致敬C罗：谢谢你，传奇",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aecb685284e9native.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-06T02:11:08.330144+00:00",
-      "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "cbbd945ea8",
@@ -334,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06a903e977native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593453+00:00",
+      "time_iso": "2026-11-09T09:35:38.874295+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af054d8bc887native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593594+00:00",
+      "time_iso": "2026-11-09T09:35:38.874354+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af053a5597afnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593647+00:00",
+      "time_iso": "2026-11-09T09:35:38.874393+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,31 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af042c8e0d1enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593700+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "543dcc33ce",
-      "category": "hot",
-      "title": "2026中超大结局：英博奇迹夺冠、蓉城亚军 国安季军 三镇海牛降级",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af03ce8967d6native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593757+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "10707fa189",
-      "category": "hot",
-      "title": "2026中超山东泰山现场观众人数统计：合计395050人，场均26337人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af066ae97b13native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593841+00:00",
+      "time_iso": "2026-11-09T09:35:38.874447+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06438ac187native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593883+00:00",
+      "time_iso": "2026-11-09T09:35:38.874608+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af065353c401native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.593968+00:00",
+      "time_iso": "2026-11-09T09:35:38.874698+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0612c3ad69native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.594002+00:00",
+      "time_iso": "2026-11-09T09:35:38.874736+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af04e709f346native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.594071+00:00",
+      "time_iso": "2026-11-09T09:35:38.874810+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.594245+00:00",
+      "time_iso": "2026-11-09T09:35:38.874929+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.594323+00:00",
+      "time_iso": "2026-11-09T09:35:38.874998+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +430,67 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T01:35:54.594352+00:00",
+      "time_iso": "2026-11-09T09:35:38.875025+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "5046707e71",
+      "category": "hot",
+      "title": "足协选聘女足主帅：国籍不限原则上55岁以下 目标2027世界杯+洛奥",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T09:35:38.875076+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "d90d6cdb3c",
+      "category": "hot",
+      "title": "卫报：后勤保障经费和待遇看齐男足！FIFA重磅升级2027女足世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T09:35:38.875103+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "00e4475c06",
+      "category": "hot",
+      "title": "早报：2026中超大结局今日揭晓",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6aefa7a0418e1native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T09:35:38.875907+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0c7d103b75",
+      "category": "injury",
+      "title": "官方：安东因伤退出本期德国国家队，巴库递补",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0940956393native.htm",
+      "team": "GER",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T09:35:38.876918+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "72cad28cf7",
+      "category": "injury",
+      "title": "葡媒：莱奥受伤可能缺席本期国家队，葡萄牙需为7号球衣找新主人",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6aeff9e642c45native.htm",
+      "team": "POR",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T09:35:38.877205+00:00",
       "source": "直播吧",
       "is_hot": false
     }
