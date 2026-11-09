@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T21:55:44.392988+00:00",
-  "count": 38,
+  "updated_at": "2026-11-09T01:35:56.931291+00:00",
+  "count": 40,
   "articles": [
     {
       "id": "423dc24a6a",
@@ -10,19 +10,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.648871+00:00",
+      "time_iso": "2026-11-09T01:35:54.595407+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "f565eb5cbd",
+      "id": "19c7e9f088",
       "category": "hot",
-      "title": "前胜利主帅：本希望C罗世界杯后退出国家队，足协或没能支持",
+      "title": "惊天逆转！大连英博夺得2026赛季中超冠军，建队5年即登顶",
       "summary": "",
-      "url": "https://bbs.hupu.com/643732246.html",
+      "url": "https://bbs.hupu.com/643768763.html",
       "team": "",
-      "time": "5小时前",
-      "time_iso": "2026-11-08T16:35:31.236740+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T01:35:56.930440+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -34,7 +34,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0272b95ae2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.650004+00:00",
+      "time_iso": "2026-11-09T01:35:54.596471+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "f565eb5cbd",
+      "category": "hot",
+      "title": "前胜利主帅：本希望C罗世界杯后退出国家队，足协或没能支持",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643732246.html",
+      "team": "",
+      "time": "9小时前",
+      "time_iso": "2026-11-08T16:35:31.236740+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "50a78e0a13",
+      "category": "hot",
+      "title": "世界杯官方晒C罗世界杯生涯最后一球：1/16决赛对克罗地亚点射",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
+      "team": "CRO",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T01:35:54.596679+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +75,14 @@
       "is_hot": true
     },
     {
-      "id": "50a78e0a13",
+      "id": "ba232ecf75",
       "category": "hot",
-      "title": "世界杯官方晒C罗世界杯生涯最后一球：1/16决赛对克罗地亚点射",
+      "title": "希勒：C罗在葡萄牙国家队的成就无人能及，但他离开球队或许更好",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
-      "team": "CRO",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
+      "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.650212+00:00",
+      "time_iso": "2026-11-09T01:35:54.596780+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "ba232ecf75",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "希勒：C罗在葡萄牙国家队的成就无人能及，但他离开球队或许更好",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.650314+00:00",
+      "time_iso": "2026-11-09T01:35:54.597235+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,20 +117,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643676312.html",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-07T00:01:38.948591+00:00",
       "source": "虎扑",
       "is_hot": true
     },
     {
-      "id": "c73169e424",
+      "id": "4fcaaefb2c",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "持续掉粉！C罗退训、国家队退役，葡萄牙官方ins掉粉总数超230万",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.650765+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeb14dec483native.htm",
+      "team": "POR",
+      "time": "16小时前",
+      "time_iso": "2026-11-08T08:51:12.590925+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -123,50 +147,26 @@
       "is_hot": true
     },
     {
-      "id": "4fcaaefb2c",
-      "category": "hot",
-      "title": "持续掉粉！C罗退训、国家队退役，葡萄牙官方ins掉粉总数超230万",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeb14dec483native.htm",
-      "team": "POR",
-      "time": "13小时前",
-      "time_iso": "2026-11-08T08:51:12.590925+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "16418b5d37",
-      "category": "hot",
-      "title": "男单全军覆没！温瑞博不敌林昀儒，止步法兰克福冠军赛八强",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643738625.html",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:44.392575+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
       "id": "4ca1eab0de",
       "category": "hot",
       "title": "葡媒：C罗发布的告别信文案，正是世界杯后准备的那篇，一字未改",
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeea31d847d7native.htm",
       "team": "",
-      "time": "13小时前",
+      "time": "16小时前",
       "time_iso": "2026-11-08T08:51:12.590941+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "a0c32ca204",
+      "id": "89fd52be72",
       "category": "hot",
-      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
+      "title": "田岛幸三：竞选FIFA主席胜算仅两三成，亚洲选票最难争取",
       "summary": "",
-      "url": "https://bbs.hupu.com/643727209.html",
+      "url": "https://bbs.hupu.com/643751418.html",
       "team": "",
-      "time": "5小时前",
-      "time_iso": "2026-11-08T16:35:31.236872+00:00",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T01:35:56.930541+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -177,20 +177,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee94a2d2fccnative.htm",
       "team": "POR",
-      "time": "20小时前",
+      "time": "1天前",
       "time_iso": "2026-11-08T01:15:00.505480+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "dc68c3f2ad",
+      "id": "16418b5d37",
       "category": "hot",
-      "title": "镜报：2022年世界杯冠军奖杯复制品将被拍卖",
+      "title": "男单全军覆没！温瑞博不敌林昀儒，止步法兰克福冠军赛八强",
       "summary": "",
-      "url": "https://bbs.hupu.com/643643600.html",
+      "url": "https://bbs.hupu.com/643738625.html",
       "team": "",
-      "time": "20小时前",
-      "time_iso": "2026-11-08T01:15:02.236472+00:00",
+      "time": "3小时前",
+      "time_iso": "2026-11-08T21:55:44.392575+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -201,10 +201,22 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec754b10ab5native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-07T00:01:36.675568+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "a0c32ca204",
+      "category": "hot",
+      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643727209.html",
+      "team": "",
+      "time": "9小时前",
+      "time_iso": "2026-11-08T16:35:31.236872+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "ff148391a4",
@@ -213,10 +225,22 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec107681b39native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-07T00:01:36.676498+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "dc68c3f2ad",
+      "category": "hot",
+      "title": "镜报：2022年世界杯冠军奖杯复制品将被拍卖",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643643600.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-11-08T01:15:02.236472+00:00",
+      "source": "虎扑",
+      "is_hot": false
     },
     {
       "id": "84203663d3",
@@ -225,7 +249,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebec1c5c883native.htm",
       "team": "ARG",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-07T00:01:36.676536+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -237,7 +261,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed86e081f54native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-07T00:01:36.676615+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -303,18 +327,6 @@
       "is_hot": true
     },
     {
-      "id": "c0376249da",
-      "category": "hot",
-      "title": "2026年中国足球比赛现场观众人数排行榜（截至11月8日）",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af08ba1650a6native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.646822+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
       "id": "cbbd945ea8",
       "category": "hot",
       "title": "中超战报 | 武汉三镇客场不敌云南玉昆 结束2026赛季征程",
@@ -322,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06a903e977native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647017+00:00",
+      "time_iso": "2026-11-09T01:35:54.593453+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af054d8bc887native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647075+00:00",
+      "time_iso": "2026-11-09T01:35:54.593594+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af053a5597afnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647117+00:00",
+      "time_iso": "2026-11-09T01:35:54.593647+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af042c8e0d1enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647168+00:00",
+      "time_iso": "2026-11-09T01:35:54.593700+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af03ce8967d6native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647222+00:00",
+      "time_iso": "2026-11-09T01:35:54.593757+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af066ae97b13native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647275+00:00",
+      "time_iso": "2026-11-09T01:35:54.593841+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06438ac187native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647341+00:00",
+      "time_iso": "2026-11-09T01:35:54.593883+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af065353c401native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647408+00:00",
+      "time_iso": "2026-11-09T01:35:54.593968+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,19 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0612c3ad69native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647442+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a7410eeee1",
-      "category": "hot",
-      "title": "2026怡宝中超联赛第30轮，上海海港6比1辽宁铁人楠波湾",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af04a1498270native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647522+00:00",
+      "time_iso": "2026-11-09T01:35:54.594002+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af04e709f346native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647554+00:00",
+      "time_iso": "2026-11-09T01:35:54.594071+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +454,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-08T21:55:42.647710+00:00",
+      "time_iso": "2026-11-09T01:35:54.594245+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "5c1b31ce07",
+      "category": "hot",
+      "title": "U17女足世界杯淘汰赛对阵确定，1/8决赛中国队将对阵法国队",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T01:35:54.594323+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "527aded41a",
+      "category": "hot",
+      "title": "马德兴：中国足协将至少收到250万美元用于女足备战明年世界杯",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-09T01:35:54.594352+00:00",
       "source": "直播吧",
       "is_hot": false
     }
