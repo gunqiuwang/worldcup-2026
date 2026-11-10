@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:43:42.987760+00:00",
+  "updated_at": "2026-11-10T21:44:48.598872+00:00",
   "count": 41,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.178332+00:00",
+      "time_iso": "2026-11-10T21:44:46.402464+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643803321.html",
       "team": "ENG",
-      "time": "10小时前",
+      "time": "17小时前",
       "time_iso": "2026-11-10T04:01:28.335148+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6aeee1c761494native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.179472+00:00",
+      "time_iso": "2026-11-10T21:44:46.403220+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -51,14 +51,14 @@
       "is_hot": true
     },
     {
-      "id": "7fb3f7fcb3",
+      "id": "50a78e0a13",
       "category": "hot",
-      "title": "世界杯半决赛交过手！斯彭斯盲选最难对付球员：梅西就是第一",
+      "title": "世界杯官方晒C罗世界杯生涯最后一球：1/16决赛对克罗地亚点射",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0272b95ae2native.htm",
-      "team": "ARG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
+      "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.179587+00:00",
+      "time_iso": "2026-11-10T21:44:46.403385+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,32 +69,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643732246.html",
       "team": "",
-      "time": "1天前",
-      "time_iso": "2026-11-08T16:35:31.236740+00:00",
-      "source": "虎扑",
-      "is_hot": true
-    },
-    {
-      "id": "50a78e0a13",
-      "category": "hot",
-      "title": "世界杯官方晒C罗世界杯生涯最后一球：1/16决赛对克罗地亚点射",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
-      "team": "CRO",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.179754+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "f1de6dabb3",
-      "category": "hot",
-      "title": "梅迪纳：阿根廷媒体甚至会针对梅西；世界杯决赛前少1天休息",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643618214.html",
-      "team": "ARG",
       "time": "2天前",
-      "time_iso": "2026-11-07T16:16:28.655084+00:00",
+      "time_iso": "2026-11-08T16:35:31.236740+00:00",
       "source": "虎扑",
       "is_hot": true
     },
@@ -106,7 +82,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.180140+00:00",
+      "time_iso": "2026-11-10T21:44:46.403660+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "4c77060fa1",
+      "category": "hot",
+      "title": "怀特：若我说出22年世界杯退队原因，英格兰球迷或不会嘘我",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643810254.html",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T21:44:48.598332+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "7fb3f7fcb3",
+      "category": "hot",
+      "title": "世界杯半决赛交过手！斯彭斯盲选最难对付球员：梅西就是第一",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0272b95ae2native.htm",
+      "team": "ARG",
+      "time": "7小时前",
+      "time_iso": "2026-11-10T14:43:41.179587+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -118,7 +118,7 @@
       "url": "https://bbs.hupu.com/643807884.html",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:42.986875+00:00",
+      "time_iso": "2026-11-10T21:44:48.598457+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -129,20 +129,20 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
       "team": "POR",
-      "time": "18小时前",
+      "time": "1天前",
       "time_iso": "2026-11-09T20:37:22.476219+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "c82741b80c",
+      "id": "a0c32ca204",
       "category": "hot",
-      "title": "乔什-金：为英格兰赢世界杯是梦想，入选是踏出了第一小步",
+      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
       "summary": "",
-      "url": "https://bbs.hupu.com/643806088.html",
-      "team": "ENG",
-      "time": "10小时前",
-      "time_iso": "2026-11-10T04:01:28.334907+00:00",
+      "url": "https://bbs.hupu.com/643727209.html",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T21:44:48.598646+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -159,14 +159,14 @@
       "is_hot": true
     },
     {
-      "id": "01f491b00b",
+      "id": "c82741b80c",
       "category": "hot",
-      "title": "田岛幸三：我将以武士精神挑战因凡蒂诺，FIFA须改革治理体系",
+      "title": "乔什-金：为英格兰赢世界杯是梦想，入选是踏出了第一小步",
       "summary": "",
-      "url": "https://bbs.hupu.com/643740432.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-11-09T09:35:40.727988+00:00",
+      "url": "https://bbs.hupu.com/643806088.html",
+      "team": "ENG",
+      "time": "17小时前",
+      "time_iso": "2026-11-10T04:01:28.334907+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -183,14 +183,14 @@
       "is_hot": true
     },
     {
-      "id": "89fd52be72",
+      "id": "01f491b00b",
       "category": "hot",
-      "title": "田岛幸三：竞选FIFA主席胜算仅两三成，亚洲选票最难争取",
+      "title": "田岛幸三：我将以武士精神挑战因凡蒂诺，FIFA须改革治理体系",
       "summary": "",
-      "url": "https://bbs.hupu.com/643751418.html",
+      "url": "https://bbs.hupu.com/643740432.html",
       "team": "",
       "time": "1天前",
-      "time_iso": "2026-11-09T01:35:56.930541+00:00",
+      "time_iso": "2026-11-09T09:35:40.727988+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -205,6 +205,30 @@
       "time_iso": "2026-11-08T01:15:00.505480+00:00",
       "source": "直播吧",
       "is_hot": true
+    },
+    {
+      "id": "89fd52be72",
+      "category": "hot",
+      "title": "田岛幸三：竞选FIFA主席胜算仅两三成，亚洲选票最难争取",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643751418.html",
+      "team": "",
+      "time": "1天前",
+      "time_iso": "2026-11-09T01:35:56.930541+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "fa6bfa1d8a",
+      "category": "hot",
+      "title": "关于2026年中国足球协会杯赛（女子）淘汰赛阶段比赛相关事宜通知",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af3313ee2017native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T21:44:46.400986+00:00",
+      "source": "直播吧",
+      "is_hot": false
     },
     {
       "id": "16418b5d37",
@@ -226,31 +250,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af328d7e0e4cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176154+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a0c32ca204",
-      "category": "hot",
-      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643727209.html",
-      "team": "",
-      "time": "1天前",
-      "time_iso": "2026-11-08T16:35:31.236872+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "9954b13876",
-      "category": "hot",
-      "title": "26场12球11助，官方：广州豹外援尼康获2026中甲年度金球奖",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af31aee02aa7native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176305+00:00",
+      "time_iso": "2026-11-10T21:44:46.401103+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -267,14 +267,14 @@
       "is_hot": false
     },
     {
-      "id": "f7dc3a63a1",
+      "id": "9954b13876",
       "category": "hot",
-      "title": "击败费利佩、张玉宁！官方：英博中场斯坦丘获2026中超年度金球奖",
+      "title": "26场12球11助，官方：广州豹外援尼康获2026中甲年度金球奖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af31aae6df95native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af31aee02aa7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176357+00:00",
+      "time_iso": "2026-11-10T21:44:46.401181+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af2c25a4ff04native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176401+00:00",
+      "time_iso": "2026-11-10T21:44:46.401207+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af15ac12bd3anative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176449+00:00",
+      "time_iso": "2026-11-10T21:44:46.401238+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,7 +310,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af193dc0244bnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176498+00:00",
+      "time_iso": "2026-11-10T21:44:46.401271+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af07baf61c36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176531+00:00",
+      "time_iso": "2026-11-10T21:44:46.401295+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06a903e977native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176615+00:00",
+      "time_iso": "2026-11-10T21:44:46.401351+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af31400a614enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176651+00:00",
+      "time_iso": "2026-11-10T21:44:46.401375+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af3045f5b970native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176679+00:00",
+      "time_iso": "2026-11-10T21:44:46.401393+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af30f54199ddnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176795+00:00",
+      "time_iso": "2026-11-10T21:44:46.401485+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af30b4dd3558native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.176823+00:00",
+      "time_iso": "2026-11-10T21:44:46.401506+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177020+00:00",
+      "time_iso": "2026-11-10T21:44:46.401641+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177129+00:00",
+      "time_iso": "2026-11-10T21:44:46.401687+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177163+00:00",
+      "time_iso": "2026-11-10T21:44:46.401706+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177214+00:00",
+      "time_iso": "2026-11-10T21:44:46.401740+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +442,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177241+00:00",
+      "time_iso": "2026-11-10T21:44:46.401758+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "f131c25032",
+      "category": "hot",
+      "title": "世界杯时被恩佐撞飞！库巴西：摔下去时有点懵，当时确实摔得够呛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-11/6af37df134bcfnative.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T21:44:46.401790+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "78f3bf5a1c",
+      "category": "hot",
+      "title": "即将续约！斯卡洛尼将成阿根廷队史首位执教3届世界杯主帅",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-11/6af36922e27c1native.htm",
+      "team": "ARG",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T21:44:46.401829+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +478,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af28a160fb1dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177494+00:00",
+      "time_iso": "2026-11-10T21:44:46.401989+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,31 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af25ab03f390native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177543+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "f02e0ce3d5",
-      "category": "hot",
-      "title": "Fifpro世界女足2026年最佳11人阵：普特拉斯领衔，邦马蒂入选",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1e0d0663e8native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177594+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "85c709574a",
-      "category": "hot",
-      "title": "天空体育记者：温格正在考虑竞选FIFA主席，他有机会击败因凡蒂诺",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af2b6252ffb9native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T14:43:41.177694+00:00",
+      "time_iso": "2026-11-10T21:44:46.402019+00:00",
       "source": "直播吧",
       "is_hot": false
     }
