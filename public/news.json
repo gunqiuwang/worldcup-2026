@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T20:37:23.898700+00:00",
-  "count": 40,
+  "updated_at": "2026-11-10T04:01:28.336030+00:00",
+  "count": 41,
   "articles": [
     {
       "id": "423dc24a6a",
@@ -10,7 +10,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.474794+00:00",
+      "time_iso": "2026-11-10T04:01:26.541817+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "ef6036bf40",
+      "category": "hot",
+      "title": "亚马尔因膝盖疼痛推迟赴国家队报到，缺战捷克但能踢英格兰",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643803321.html",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:28.335148+00:00",
+      "source": "虎扑",
+      "is_hot": true
+    },
+    {
+      "id": "d75a2218c2",
+      "category": "hot",
+      "title": "后C罗时代！2030世界杯时：B费B席35岁 维蒂尼亚30岁 内维斯25岁",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6aeee1c761494native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.543145+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643768763.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-11-09T01:35:56.930440+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0272b95ae2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.475912+00:00",
+      "time_iso": "2026-11-10T04:01:26.543267+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.476107+00:00",
+      "time_iso": "2026-11-10T04:01:26.543508+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -75,14 +99,14 @@
       "is_hot": true
     },
     {
-      "id": "ba232ecf75",
+      "id": "c73169e424",
       "category": "hot",
-      "title": "希勒：C罗在葡萄牙国家队的成就无人能及，但他离开球队或许更好",
+      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
-      "team": "POR",
+      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.476219+00:00",
+      "time_iso": "2026-11-10T04:01:26.544003+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -99,28 +123,28 @@
       "is_hot": true
     },
     {
-      "id": "c73169e424",
+      "id": "ba232ecf75",
       "category": "hot",
-      "title": "西班牙女足世界杯冠军成员加盟沙特后删除与妻子合照，引发争议",
+      "title": "希勒：C罗在葡萄牙国家队的成就无人能及，但他离开球队或许更好",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.476651+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
+      "team": "POR",
+      "time": "7小时前",
+      "time_iso": "2026-11-09T20:37:22.476219+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "6e9140617f",
+      "id": "c82741b80c",
       "category": "hot",
-      "title": "【中文字幕】C罗国家队告别信：我为葡萄牙付出了一切",
+      "title": "乔什-金：为英格兰赢世界杯是梦想，入选是踏出了第一小步",
       "summary": "",
-      "url": "https://bbs.hupu.com/643676312.html",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-07T00:01:38.948591+00:00",
+      "url": "https://bbs.hupu.com/643806088.html",
+      "team": "ENG",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:28.334907+00:00",
       "source": "虎扑",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "4fcaaefb2c",
@@ -141,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643740432.html",
       "team": "",
-      "time": "11小时前",
+      "time": "18小时前",
       "time_iso": "2026-11-09T09:35:40.727988+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -165,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643751418.html",
       "team": "",
-      "time": "19小时前",
+      "time": "1天前",
       "time_iso": "2026-11-09T01:35:56.930541+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -177,7 +201,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee94a2d2fccnative.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-08T01:15:00.505480+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,22 +213,22 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643738625.html",
       "team": "",
-      "time": "22小时前",
+      "time": "1天前",
       "time_iso": "2026-11-08T21:55:44.392575+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "fb37483390",
+      "id": "58fe4a1b35",
       "category": "hot",
-      "title": "致敬偶像！K77社媒转发C罗宣布退出葡萄牙国家队视频",
+      "title": "2026中国职业联赛颁奖典礼今晚19:30举行，直播吧视频直播",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec754b10ab5native.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-07T00:01:36.675568+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af27534492a9native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.539006+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "a0c32ca204",
@@ -219,16 +243,16 @@
       "is_hot": false
     },
     {
-      "id": "ff148391a4",
+      "id": "7315462431",
       "category": "hot",
-      "title": "扎卡里亚谈世界杯对阵阿根廷：感觉整座球场都在为梅西而战",
+      "title": "新华社：不可思议的2026赛季 蕴藏着中国足球的希望",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec107681b39native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-11-07T00:01:36.676498+00:00",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af193dc0244bnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.539184+00:00",
       "source": "直播吧",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "dc68c3f2ad",
@@ -237,81 +261,9 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643643600.html",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-08T01:15:02.236472+00:00",
       "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "84203663d3",
-      "category": "hot",
-      "title": "前阿根廷队助教卡米诺与梅西见面，两人携手获得巴西世界杯亚军",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aebec1c5c883native.htm",
-      "team": "ARG",
-      "time": "2天前",
-      "time_iso": "2026-11-07T00:01:36.676536+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "77ad51ec4b",
-      "category": "hot",
-      "title": "无法父子同台！迷你罗11月3日入选葡萄牙U17，2天后C罗国家队退役",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-06/6aed86e081f54native.htm",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-07T00:01:36.676615+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "f677f52ab7",
-      "category": "hot",
-      "title": "比赛日｜2026中超联赛第30轮 北京国安vs重庆铜梁龙",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1ce3497f5bnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.472803+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "3cecb1b639",
-      "category": "hot",
-      "title": "有直播！2026赛季中国足球职业联赛颁奖典礼明晚举行",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1c940b462anative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.472938+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "b006e1002f",
-      "category": "hot",
-      "title": "战报｜三球完胜，河南女足荣获2026女甲冠军",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1c594879d3native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.472997+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "7315462431",
-      "category": "hot",
-      "title": "新华社：不可思议的2026赛季 蕴藏着中国足球的希望",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af193dc0244bnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473060+00:00",
-      "source": "直播吧",
       "is_hot": false
     },
     {
@@ -322,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af07baf61c36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473093+00:00",
+      "time_iso": "2026-11-10T04:01:26.539237+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -334,7 +286,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06a903e977native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473194+00:00",
+      "time_iso": "2026-11-10T04:01:26.539375+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af054d8bc887native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473252+00:00",
+      "time_iso": "2026-11-10T04:01:26.539475+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +310,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af053a5597afnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473292+00:00",
+      "time_iso": "2026-11-10T04:01:26.539541+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "f677f52ab7",
+      "category": "hot",
+      "title": "比赛日｜2026中超联赛第30轮 北京国安vs重庆铜梁龙",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1ce3497f5bnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.539704+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,19 +334,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af065353c401native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473515+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ee0db326e1",
-      "category": "hot",
-      "title": "2026中超联赛第30轮安佩姆、莱昂纳多、武磊破门",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0612c3ad69native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473552+00:00",
+      "time_iso": "2026-11-10T04:01:26.539909+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af04e709f346native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473622+00:00",
+      "time_iso": "2026-11-10T04:01:26.540043+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +358,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473718+00:00",
+      "time_iso": "2026-11-10T04:01:26.540181+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473790+00:00",
+      "time_iso": "2026-11-10T04:01:26.540294+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +382,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473818+00:00",
+      "time_iso": "2026-11-10T04:01:26.540331+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473869+00:00",
+      "time_iso": "2026-11-10T04:01:26.540421+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -454,7 +406,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.473896+00:00",
+      "time_iso": "2026-11-10T04:01:26.540461+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "e0c8c2dbb1",
+      "category": "hot",
+      "title": "杰拉德：帕尔默需要证明世界杯不带他是错的，他该和图赫尔谈谈",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af28a160fb1dnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.540544+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "e958156c54",
+      "category": "hot",
+      "title": "官方：切尔西外租水晶宫后卫阿哈诺当选2026年意大利金童奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af25ab03f390native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.540872+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1e0d0663e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.474089+00:00",
+      "time_iso": "2026-11-10T04:01:26.540937+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +454,43 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1c604946f2native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-09T20:37:22.474406+00:00",
+      "time_iso": "2026-11-10T04:01:26.541315+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "1fa10c235e",
+      "category": "hot",
+      "title": "RMC：乙级联赛球员入选法国国家队，上一次还是19年前的尤文两将",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af26649599f2native.htm",
+      "team": "FRA",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.541537+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "502281a0e5",
+      "category": "hot",
+      "title": "西甲冠军+世界杯冠军！官方：19岁库巴西荣膺2026年金童奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1e939ebaf9native.htm",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.541610+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "00e4475c06",
+      "category": "hot",
+      "title": "早报：2026中超大结局今日揭晓",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6aefa7a0418e1native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T04:01:26.541737+00:00",
       "source": "直播吧",
       "is_hot": false
     }
