@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:01:28.336030+00:00",
+  "updated_at": "2026-11-10T14:43:42.987760+00:00",
   "count": 41,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.541817+00:00",
+      "time_iso": "2026-11-10T14:43:41.178332+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +21,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643803321.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "10小时前",
       "time_iso": "2026-11-10T04:01:28.335148+00:00",
       "source": "虎扑",
       "is_hot": true
@@ -34,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6aeee1c761494native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.543145+00:00",
+      "time_iso": "2026-11-10T14:43:41.179472+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -58,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af0272b95ae2native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.543267+00:00",
+      "time_iso": "2026-11-10T14:43:41.179587+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -82,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeef9988c1dnative.htm",
       "team": "CRO",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.543508+00:00",
+      "time_iso": "2026-11-10T14:43:41.179754+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -106,21 +106,21 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.544003+00:00",
+      "time_iso": "2026-11-10T14:43:41.180140+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "73701286a1",
+      "id": "8f6ffb1793",
       "category": "hot",
-      "title": "葡萄牙官方发视频致敬C罗，其中披露他26年世界杯的发言",
+      "title": "世界杯冠军+西甲冠军，官方：库巴西获得2026年欧洲金童奖",
       "summary": "",
-      "url": "https://bbs.hupu.com/643697451.html",
-      "team": "POR",
-      "time": "2天前",
-      "time_iso": "2026-11-07T08:38:13.646110+00:00",
+      "url": "https://bbs.hupu.com/643807884.html",
+      "team": "BRA",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T14:43:42.986875+00:00",
       "source": "虎扑",
-      "is_hot": true
+      "is_hot": false
     },
     {
       "id": "ba232ecf75",
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aee7479a653anative.htm",
       "team": "POR",
-      "time": "7小时前",
+      "time": "18小时前",
       "time_iso": "2026-11-09T20:37:22.476219+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643806088.html",
       "team": "ENG",
-      "time": "1分钟前",
+      "time": "10小时前",
       "time_iso": "2026-11-10T04:01:28.334907+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -153,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeeb14dec483native.htm",
       "team": "POR",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-08T08:51:12.590925+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643740432.html",
       "team": "",
-      "time": "18小时前",
+      "time": "1天前",
       "time_iso": "2026-11-09T09:35:40.727988+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-07/6aeea31d847d7native.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-08T08:51:12.590941+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -219,14 +219,14 @@
       "is_hot": false
     },
     {
-      "id": "58fe4a1b35",
+      "id": "0df990afee",
       "category": "hot",
-      "title": "2026中国职业联赛颁奖典礼今晚19:30举行，直播吧视频直播",
+      "title": "颇具热度！2026中足联颁奖典礼登上微博热搜榜第8",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af27534492a9native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af328d7e0e4cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539006+00:00",
+      "time_iso": "2026-11-10T14:43:41.176154+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -243,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "7315462431",
+      "id": "9954b13876",
       "category": "hot",
-      "title": "新华社：不可思议的2026赛季 蕴藏着中国足球的希望",
+      "title": "26场12球11助，官方：广州豹外援尼康获2026中甲年度金球奖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af193dc0244bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af31aee02aa7native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539184+00:00",
+      "time_iso": "2026-11-10T14:43:41.176305+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -267,6 +267,54 @@
       "is_hot": false
     },
     {
+      "id": "f7dc3a63a1",
+      "category": "hot",
+      "title": "击败费利佩、张玉宁！官方：英博中场斯坦丘获2026中超年度金球奖",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af31aae6df95native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T14:43:41.176357+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "2c088493e4",
+      "category": "hot",
+      "title": "2026中超错漏判盘点：三镇4次获利最多，国安5次受损居首",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af2c25a4ff04native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T14:43:41.176401+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "192135573a",
+      "category": "hot",
+      "title": "2026中超处罚盘点:韦世豪追加3场影响争冠 郑智追加6场 泰山0处罚",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af15ac12bd3anative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T14:43:41.176449+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "7315462431",
+      "category": "hot",
+      "title": "新华社：不可思议的2026赛季 蕴藏着中国足球的希望",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af193dc0244bnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-10T14:43:41.176498+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "d75b574734",
       "category": "hot",
       "title": "2026中超上座超详细报告：710万人次创新高，大连梭鱼湾场均破6万",
@@ -274,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af07baf61c36native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539237+00:00",
+      "time_iso": "2026-11-10T14:43:41.176531+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -286,67 +334,55 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af06a903e977native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539375+00:00",
+      "time_iso": "2026-11-10T14:43:41.176615+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "9d7247dd9d",
-      "category": "hot",
-      "title": "2026赛季中超联赛共计240场比赛，现场观众总人数为7106092 人次",
+      "id": "95df31168f",
+      "category": "tactical",
+      "title": "2026中超联赛最佳11人阵容出炉，无山东泰山队球员入围",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af054d8bc887native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af31400a614enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539475+00:00",
+      "time_iso": "2026-11-10T14:43:41.176651+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "f7b2801302",
+      "id": "106f2b139f",
       "category": "hot",
-      "title": "新的历史！2026中超现场观众超700万，16场超6万其中梭鱼湾13场",
+      "title": "2026中超公平竞赛奖：成都蓉城、山东泰山、河南、云南玉昆获奖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af053a5597afnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af3045f5b970native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539541+00:00",
+      "time_iso": "2026-11-10T14:43:41.176679+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "f677f52ab7",
+      "id": "3fae1f0673",
       "category": "hot",
-      "title": "比赛日｜2026中超联赛第30轮 北京国安vs重庆铜梁龙",
+      "title": "29轮15球！官方：北京国安前锋张玉宁获2026中超年度本土金靴奖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1ce3497f5bnative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af30f54199ddnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539704+00:00",
+      "time_iso": "2026-11-10T14:43:41.176795+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "91fdcd82c8",
+      "id": "efd33b2cbe",
       "category": "hot",
-      "title": "2026中超上海海港现场观众人数统计：合计314248人，场均20950人",
+      "title": "27轮12场零封！官方：37岁侯森获2026中超联赛年度金手套奖",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af065353c401native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af30b4dd3558native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.539909+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8842dbbb8c",
-      "category": "hot",
-      "title": "可能留洋？19岁王钰栋已为浙江87场22球15助攻 随U23今年两进四强",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af04e709f346native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540043+00:00",
+      "time_iso": "2026-11-10T14:43:41.176823+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +394,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540181+00:00",
+      "time_iso": "2026-11-10T14:43:41.177020+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-26/6ade9ee16b5c7native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540294+00:00",
+      "time_iso": "2026-11-10T14:43:41.177129+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -382,7 +418,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-24/6adc3884adfc5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540331+00:00",
+      "time_iso": "2026-11-10T14:43:41.177163+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adacdfadff99native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540421+00:00",
+      "time_iso": "2026-11-10T14:43:41.177214+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-10-23/6adac965bd096native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540461+00:00",
+      "time_iso": "2026-11-10T14:43:41.177241+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af28a160fb1dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540544+00:00",
+      "time_iso": "2026-11-10T14:43:41.177494+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -430,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af25ab03f390native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540872+00:00",
+      "time_iso": "2026-11-10T14:43:41.177543+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -442,55 +478,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1e0d0663e8native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.540937+00:00",
+      "time_iso": "2026-11-10T14:43:41.177594+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "4e3d045c7f",
+      "id": "85c709574a",
       "category": "hot",
-      "title": "西班牙国家队官方：利物浦边锋穆尼奥斯将于今晚加入国家队训练营",
+      "title": "天空体育记者：温格正在考虑竞选FIFA主席，他有机会击败因凡蒂诺",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1c604946f2native.htm",
-      "team": "ESP",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.541315+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "1fa10c235e",
-      "category": "hot",
-      "title": "RMC：乙级联赛球员入选法国国家队，上一次还是19年前的尤文两将",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af26649599f2native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.541537+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "502281a0e5",
-      "category": "hot",
-      "title": "西甲冠军+世界杯冠军！官方：19岁库巴西荣膺2026年金童奖",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-09/6af1e939ebaf9native.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.541610+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "00e4475c06",
-      "category": "hot",
-      "title": "早报：2026中超大结局今日揭晓",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6aefa7a0418e1native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af2b6252ffb9native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-10T04:01:26.541737+00:00",
+      "time_iso": "2026-11-10T14:43:41.177694+00:00",
       "source": "直播吧",
       "is_hot": false
     }
