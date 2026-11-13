@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-13T17:36:58.371093+00:00",
-  "count": 49,
+  "updated_at": "2026-11-13T23:27:00.494586+00:00",
+  "count": 46,
   "articles": [
     {
-      "id": "afe8a84253",
+      "id": "423dc24a6a",
       "category": "hot",
-      "title": "将战英格兰！西班牙国家队官方：亚马尔加入训练营，备战下场比赛",
+      "title": "C罗社媒宣布从葡萄牙国家队退役，内马尔评论：传奇！",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af72c2b83ae3native.htm",
-      "team": "ENG",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
+      "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285981+00:00",
+      "time_iso": "2026-11-13T23:26:58.232852+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -27,14 +27,14 @@
       "is_hot": true
     },
     {
-      "id": "423dc24a6a",
+      "id": "2a09a98ec0",
       "category": "hot",
-      "title": "C罗社媒宣布从葡萄牙国家队退役，内马尔评论：传奇！",
+      "title": "马卡：亚马尔与奥亚萨瓦尔抵达西班牙国家队营地，可以出战英格兰",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec638daef99native.htm",
-      "team": "BRA",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-14/6af734a88e60fnative.htm",
+      "team": "ENG",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.286968+00:00",
+      "time_iso": "2026-11-13T23:26:58.232985+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,32 +45,8 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643829279.html",
       "team": "BRA",
-      "time": "8小时前",
+      "time": "14小时前",
       "time_iso": "2026-11-13T09:23:54.272204+00:00",
-      "source": "虎扑",
-      "is_hot": false
-    },
-    {
-      "id": "2a09a98ec0",
-      "category": "hot",
-      "title": "马卡：亚马尔与奥亚萨瓦尔抵达西班牙国家队营地，可以出战英格兰",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-14/6af734a88e60fnative.htm",
-      "team": "ENG",
-      "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.287037+00:00",
-      "source": "直播吧",
-      "is_hot": true
-    },
-    {
-      "id": "06abc58dcb",
-      "category": "hot",
-      "title": "阿斯：FIFA考察伯纳乌，世界杯承办城市将于明年确定",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643882783.html",
-      "team": "",
-      "time": "16小时前",
-      "time_iso": "2026-11-13T00:59:01.896553+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -82,19 +58,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-12/6af51c6450ec7native.htm",
       "team": "POR",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.288300+00:00",
+      "time_iso": "2026-11-13T23:26:58.233563+00:00",
       "source": "直播吧",
       "is_hot": true
     },
     {
-      "id": "dfaaaae47e",
+      "id": "06abc58dcb",
       "category": "hot",
-      "title": "吉鲁：这大概是我最后1年；拿过欧冠欧联世界杯我生涯算完美",
+      "title": "阿斯：FIFA考察伯纳乌，世界杯承办城市将于明年确定",
       "summary": "",
-      "url": "https://bbs.hupu.com/643810108.html",
+      "url": "https://bbs.hupu.com/643882783.html",
       "team": "",
-      "time": "16小时前",
-      "time_iso": "2026-11-13T00:59:01.896706+00:00",
+      "time": "22小时前",
+      "time_iso": "2026-11-13T00:59:01.896553+00:00",
       "source": "虎扑",
       "is_hot": false
     },
@@ -106,7 +82,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.288821+00:00",
+      "time_iso": "2026-11-13T23:26:58.233834+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "dfaaaae47e",
+      "category": "hot",
+      "title": "吉鲁：这大概是我最后1年；拿过欧冠欧联世界杯我生涯算完美",
+      "summary": "",
+      "url": "https://bbs.hupu.com/643810108.html",
+      "team": "",
+      "time": "22小时前",
+      "time_iso": "2026-11-13T00:59:01.896706+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
+    {
+      "id": "afe8a84253",
+      "category": "hot",
+      "title": "将战英格兰！西班牙国家队官方：亚马尔加入训练营，备战下场比赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af72c2b83ae3native.htm",
+      "team": "ENG",
+      "time": "5小时前",
+      "time_iso": "2026-11-13T17:36:56.285981+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -117,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643809835.html",
       "team": "ARG",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-13T00:59:01.896728+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-12/6af51ee74b58dnative.htm",
       "team": "BRA",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-13T00:58:59.384915+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -141,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643809526.html",
       "team": "ENG",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-13T00:59:01.896747+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -153,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6aeee1c761494native.htm",
       "team": "",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-13T00:58:59.385961+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -165,7 +165,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643809437.html",
       "team": "",
-      "time": "16小时前",
+      "time": "22小时前",
       "time_iso": "2026-11-13T00:59:01.896762+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -177,7 +177,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-12/6af555d007e0enative.htm",
       "team": "ARG",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-12T18:05:47.423154+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -189,7 +189,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643856697.html",
       "team": "",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-12T18:05:49.492988+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -213,7 +213,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643855711.html",
       "team": "BRA",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-12T18:05:49.493090+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -237,7 +237,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643852187.html",
       "team": "",
-      "time": "23小时前",
+      "time": "1天前",
       "time_iso": "2026-11-12T18:05:49.493273+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -274,7 +274,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-12/6af598685269fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285048+00:00",
+      "time_iso": "2026-11-13T23:26:58.231795+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -285,7 +285,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/643745699.html",
       "team": "JPN",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-11T17:49:42.979710+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -298,7 +298,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6afccb7692native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285278+00:00",
+      "time_iso": "2026-11-13T23:26:58.231953+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -322,7 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-11/6af2d7d544a00native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285353+00:00",
+      "time_iso": "2026-11-13T23:26:58.231997+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -346,7 +346,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-12/6af56ece894e5native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285422+00:00",
+      "time_iso": "2026-11-13T23:26:58.232036+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,7 +370,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af2c25a4ff04native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285507+00:00",
+      "time_iso": "2026-11-13T23:26:58.232082+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,20 +394,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6b5374d855native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285623+00:00",
+      "time_iso": "2026-11-13T23:26:58.232148+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "4c77060fa1",
-      "category": "hot",
-      "title": "怀特：若我说出22年世界杯退队原因，英格兰球迷或不会嘘我",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643810254.html",
-      "team": "ENG",
-      "time": "2天前",
-      "time_iso": "2026-11-10T21:44:48.598332+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -418,20 +406,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-12/6af570402bafanative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285667+00:00",
+      "time_iso": "2026-11-13T23:26:58.232172+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8f6ffb1793",
-      "category": "hot",
-      "title": "世界杯冠军+西甲冠军，官方：库巴西获得2026年欧洲金童奖",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643807884.html",
-      "team": "BRA",
-      "time": "2天前",
-      "time_iso": "2026-11-10T21:44:48.598457+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -442,20 +418,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-11/6af477c3018bbnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285708+00:00",
+      "time_iso": "2026-11-13T23:26:58.232195+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a0c32ca204",
-      "category": "hot",
-      "title": "若剔除巴黎战绩，法甲整体欧战不如葡超+淘汰赛胜率仅为29%",
-      "summary": "",
-      "url": "https://bbs.hupu.com/643727209.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-11-10T21:44:48.598646+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -466,7 +430,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-11/6af4095e578dcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285745+00:00",
+      "time_iso": "2026-11-13T23:26:58.232215+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-10/6af3313ee2017native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285793+00:00",
+      "time_iso": "2026-11-13T23:26:58.232234+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +454,31 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-05/6aec1bc8147d3native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.285836+00:00",
+      "time_iso": "2026-11-13T23:26:58.232256+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "fa1032c95c",
+      "category": "hot",
+      "title": "3-1战胜塞尔维亚，德国锁定欧预赛抽签一档球队的位置",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-14/6af78a7bbe47enative.htm",
+      "team": "GER",
+      "time": "1分钟前",
+      "time_iso": "2026-11-13T23:26:58.232302+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "4d1c240cf5",
+      "category": "hot",
+      "title": "梅开二度！廷伯斩获荷兰国家队生涯首球",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-14/6af7820d1f49dnative.htm",
+      "team": "NED",
+      "time": "1分钟前",
+      "time_iso": "2026-11-13T23:26:58.232333+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -502,31 +490,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af70f2d784a4native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.286542+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a3c5f3255f",
-      "category": "hot",
-      "title": "中村敬斗：没时间沉浸在世界杯不敌巴西的负面情绪 要努力复仇",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6de3060c6anative.htm",
-      "team": "BRA",
-      "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.286632+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "c680524bec",
-      "category": "hot",
-      "title": "RMC：法国不敌意大利后仍握出线主动权，但极端情况可致出局",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6c9c7b7088native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.286664+00:00",
+      "time_iso": "2026-11-13T23:26:58.232693+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -538,19 +502,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-12/6af5da2cf2db5native.htm",
       "team": "FRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.286738+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "edefcb7045",
-      "category": "hot",
-      "title": "RMC：齐达内补招马尤卢加入法国国家队，顶替楚阿梅尼",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-11/6af460b2a7165native.htm",
-      "team": "FRA",
-      "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.286830+00:00",
+      "time_iso": "2026-11-13T23:26:58.232746+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -562,7 +514,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6ed00a982fnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.287168+00:00",
+      "time_iso": "2026-11-13T23:26:58.232939+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -574,7 +526,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6c3510a37cnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.287210+00:00",
+      "time_iso": "2026-11-13T23:26:58.232964+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -586,7 +538,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6659d34d45native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-13T17:36:56.287328+00:00",
+      "time_iso": "2026-11-13T23:26:58.233051+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "cad64fbb7b",
+      "category": "hot",
+      "title": "国米新闻网：齐沃荣膺2025/2026赛季最佳教练，皮奥当选最佳新秀",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af68532941banative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-13T23:26:58.233227+00:00",
       "source": "直播吧",
       "is_hot": false
     }
