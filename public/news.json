@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-28T03:48:56.345500+00:00",
+  "updated_at": "2026-11-28T12:51:03.431339+00:00",
   "count": 41,
   "articles": [
+    {
+      "id": "e103a70c36",
+      "category": "hot",
+      "title": "2026年仅3人英超参与20+球：B费24球 哈兰德、吉布斯-怀特21球",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0ab2fc64e37native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:50:59.805156+00:00",
+      "source": "直播吧",
+      "is_hot": true
+    },
+    {
+      "id": "52afe09cbb",
+      "category": "hot",
+      "title": "U17世界杯：日本7-0洪都拉斯，上升至小组第三积分榜第6名",
+      "summary": "",
+      "url": "https://bbs.hupu.com/644254747.html",
+      "team": "JPN",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:51:03.430763+00:00",
+      "source": "虎扑",
+      "is_hot": false
+    },
     {
       "id": "cb9560697b",
       "category": "hot",
@@ -10,7 +34,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-24/6b05091544f06native.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.355417+00:00",
+      "time_iso": "2026-11-28T12:50:59.806016+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -21,7 +45,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/644241479.html",
       "team": "MAR",
-      "time": "1分钟前",
+      "time": "9小时前",
       "time_iso": "2026-11-28T03:48:56.344742+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -34,7 +58,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a4b480e3f9native.htm",
       "team": "ARG",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.356487+00:00",
+      "time_iso": "2026-11-28T12:50:59.807305+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -45,7 +69,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/644237310.html",
       "team": "",
-      "time": "1分钟前",
+      "time": "9小时前",
       "time_iso": "2026-11-28T03:48:56.344933+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -58,7 +82,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-26/6a8efdd06f238native.htm",
       "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357087+00:00",
+      "time_iso": "2026-11-28T12:50:59.807801+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -69,7 +93,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/644256695.html",
       "team": "",
-      "time": "6小时前",
+      "time": "15小时前",
       "time_iso": "2026-11-27T21:01:06.711284+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -82,7 +106,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-20/6b0049c77037enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357667+00:00",
+      "time_iso": "2026-11-28T12:50:59.808266+00:00",
       "source": "直播吧",
       "is_hot": true
     },
@@ -93,7 +117,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/644208832.html",
       "team": "",
-      "time": "6小时前",
+      "time": "15小时前",
       "time_iso": "2026-11-27T21:01:06.711442+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -105,7 +129,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-25/6b068e5974dfbnative.htm",
       "team": "",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-26T04:03:19.599609+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -117,7 +141,7 @@
       "summary": "",
       "url": "https://bbs.hupu.com/644208724.html",
       "team": "AUS",
-      "time": "6小时前",
+      "time": "15小时前",
       "time_iso": "2026-11-27T21:01:06.711474+00:00",
       "source": "虎扑",
       "is_hot": false
@@ -129,7 +153,7 @@
       "summary": "",
       "url": "https://news.zhibo8.com/zuqiu/2026-11-17/6afbacd29947fnative.htm",
       "team": "BRA",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-26T04:03:19.600352+00:00",
       "source": "直播吧",
       "is_hot": true
@@ -147,14 +171,14 @@
       "is_hot": false
     },
     {
-      "id": "c9510145fb",
+      "id": "1d50232c84",
       "category": "hot",
-      "title": "永川国际女足锦标赛 中国女足 VS 泰国女足 2026年11月28日19:35",
+      "title": "西安国际足球中心获2026世界结构大奖，球场设计包含多项创新技术",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a4ae8462aanative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a8486ee37enative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353046+00:00",
+      "time_iso": "2026-11-28T12:50:59.804026+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -171,14 +195,14 @@
       "is_hot": false
     },
     {
-      "id": "6ca2e9e73c",
+      "id": "e3eaf080e1",
       "category": "hot",
-      "title": "国少能否突破？男足国字号此前5次出战世界大赛淘汰赛全败",
+      "title": "记者谈U17国足淘汰赛：真正考验才刚开始，期待小伙子们不畏强敌",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b09cf8d6a0canative.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a835da2bb1native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353258+00:00",
+      "time_iso": "2026-11-28T12:50:59.804120+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -189,20 +213,20 @@
       "summary": "",
       "url": "https://bbs.hupu.com/644191511.html",
       "team": "URU",
-      "time": "1天前",
+      "time": "2天前",
       "time_iso": "2026-11-26T04:03:21.466731+00:00",
       "source": "虎扑",
       "is_hot": false
     },
     {
-      "id": "9c0bedaec0",
+      "id": "f8740a2748",
       "category": "hot",
-      "title": "塞尔维亚欧少赛未进八强&3-4比利时 世少赛1-0连克日本哥伦比亚",
+      "title": "韩乔生谈U17：淘汰赛容错极低！首要保证的就是减少无谓的失误",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b09c9b72a4ecnative.htm",
-      "team": "COL",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a72ec6361enative.htm",
+      "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353305+00:00",
+      "time_iso": "2026-11-28T12:50:59.804166+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -219,14 +243,14 @@
       "is_hot": false
     },
     {
-      "id": "f6652c0e46",
+      "id": "bcd226cbd1",
       "category": "hot",
-      "title": "没想到吧！韩媒多次幸灾乐祸→日韩相遇淘汰赛，两队亚少赛未交锋",
+      "title": "2026中乙共360场比赛，现场观众总人数534767人次，场均1490人",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b09c64d4f546native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af05ad2e8338native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353342+00:00",
+      "time_iso": "2026-11-28T12:50:59.804401+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -243,6 +267,42 @@
       "is_hot": false
     },
     {
+      "id": "a8d080a71e",
+      "category": "hot",
+      "title": "全力备战，打好2026收官战💪🏼",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b093064ed6fanative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:50:59.804498+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "760d191e88",
+      "category": "hot",
+      "title": "U17世界杯32强：欧洲非洲均占8席，亚足联占7席&中日等4队小组第3",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a60a796213native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:50:59.804755+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "6ca2e9e73c",
+      "category": "hot",
+      "title": "国少能否突破？男足国字号此前5次出战世界大赛淘汰赛全败",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b09cf8d6a0canative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:50:59.804817+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
       "id": "9f534e59ad",
       "category": "hot",
       "title": "U17世界杯1/16决赛完整对阵：国少vs塞尔维亚、日本vs韩国",
@@ -250,20 +310,8 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b09b68e0e707native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353384+00:00",
+      "time_iso": "2026-11-28T12:50:59.804851+00:00",
       "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "48e130f044",
-      "category": "hot",
-      "title": "前FIFA首席运营官帮法足协主席竞选，但因凡蒂诺仍胜算最大",
-      "summary": "",
-      "url": "https://bbs.hupu.com/644168035.html",
-      "team": "",
-      "time": "2天前",
-      "time_iso": "2026-11-25T11:05:41.046803+00:00",
-      "source": "虎扑",
       "is_hot": false
     },
     {
@@ -274,31 +322,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b09b6f6d7edcnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353422+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "bcd226cbd1",
-      "category": "hot",
-      "title": "2026中乙共360场比赛，现场观众总人数534767人次，场均1490人",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-08/6af05ad2e8338native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353718+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "a8d080a71e",
-      "category": "hot",
-      "title": "全力备战，打好2026收官战💪🏼",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b093064ed6fanative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.353800+00:00",
+      "time_iso": "2026-11-28T12:50:59.804879+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -310,43 +334,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b08ecb1c8cednative.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.354157+00:00",
+      "time_iso": "2026-11-28T12:50:59.804935+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "0fb0832262",
+      "id": "c9510145fb",
       "category": "hot",
-      "title": "早报：U17国足8-0大胜斐济，时隔21年再进世少赛淘汰赛",
+      "title": "永川国际女足锦标赛 中国女足 VS 泰国女足 2026年11月28日19:35",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b08b46729298native.htm",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a4ae8462aanative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.354209+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "8e41c1b7a5",
-      "category": "hot",
-      "title": "法媒关注赵松源：被称作“伊布”的高中生在U17世界杯上大放异彩",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b089bc4d828cnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.354241+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ac24e9b495",
-      "category": "hot",
-      "title": "2028洛杉矶奥运会女足亚洲区预选赛小组赛赛程公布！",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-13/6af6b5374d855native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.354415+00:00",
+      "time_iso": "2026-11-28T12:50:59.804976+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -358,7 +358,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b099ffeed7eenative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.354611+00:00",
+      "time_iso": "2026-11-28T12:50:59.805378+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "0fb0832262",
+      "category": "hot",
+      "title": "早报：U17国足8-0大胜斐济，时隔21年再进世少赛淘汰赛",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b08b46729298native.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:50:59.805758+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -370,19 +382,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-25/6b06f40b02c5fnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.355363+00:00",
+      "time_iso": "2026-11-28T12:50:59.805964+00:00",
       "source": "直播吧",
       "is_hot": false
     },
     {
-      "id": "3a085bab4b",
+      "id": "34b0f15a9c",
       "category": "hot",
-      "title": "大罗：我不信小罗的世界杯任意球是想射门，阿福头是想让外界分心",
+      "title": "西足协官方：西班牙U17世界杯创造历史，小组赛净胜球+22刷新纪录",
       "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a11af7dd98native.htm",
-      "team": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a92239baecnative.htm",
+      "team": "ESP",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.355556+00:00",
+      "time_iso": "2026-11-28T12:50:59.806207+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -394,7 +406,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b09802554594native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.355637+00:00",
+      "time_iso": "2026-11-28T12:50:59.806319+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -406,7 +418,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-27/6b09a128802dbnative.htm",
       "team": "BRA",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.356092+00:00",
+      "time_iso": "2026-11-28T12:50:59.806800+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "921a0f1f50",
+      "category": "hot",
+      "title": "阿迪推出拜仁2026-27赛季复古球衣，致敬球队70年代经典主场战袍",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a7db7086abnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:50:59.806976+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -418,43 +442,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-08-02/6a6e9f82e755dnative.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357146+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "ff5152a15d",
-      "category": "hot",
-      "title": "8-0大胜萨尔瓦多女足！美国女足获得2027年女足世界杯参赛资格",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a4b7dab95enative.htm",
-      "team": "USA",
-      "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357298+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "9b69ea1a3b",
-      "category": "hot",
-      "title": "将观战解放者杯决赛！阿足协主席塔皮亚晒和FIFA主席因凡蒂诺合照",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a1be418dbcnative.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357367+00:00",
-      "source": "直播吧",
-      "is_hot": false
-    },
-    {
-      "id": "bd8cc80564",
-      "category": "hot",
-      "title": "阿媒：河床和博卡均有意世界杯冠军后卫塔利亚菲科",
-      "summary": "",
-      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b09b2a17cc23native.htm",
-      "team": "",
-      "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357416+00:00",
+      "time_iso": "2026-11-28T12:50:59.807850+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -466,7 +454,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-25/6b064484b8e94native.htm",
       "team": "JPN",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357623+00:00",
+      "time_iso": "2026-11-28T12:50:59.808216+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -478,7 +466,7 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-24/6b051cff8f8aanative.htm",
       "team": "KOR",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357728+00:00",
+      "time_iso": "2026-11-28T12:50:59.808306+00:00",
       "source": "直播吧",
       "is_hot": false
     },
@@ -490,7 +478,19 @@
       "url": "https://news.zhibo8.com/zuqiu/2026-11-14/6af7e8be15338native.htm",
       "team": "",
       "time": "1分钟前",
-      "time_iso": "2026-11-28T03:48:53.357829+00:00",
+      "time_iso": "2026-11-28T12:50:59.808413+00:00",
+      "source": "直播吧",
+      "is_hot": false
+    },
+    {
+      "id": "9b69ea1a3b",
+      "category": "hot",
+      "title": "将观战解放者杯决赛！阿足协主席塔皮亚晒和FIFA主席因凡蒂诺合照",
+      "summary": "",
+      "url": "https://news.zhibo8.com/zuqiu/2026-11-28/6b0a1be418dbcnative.htm",
+      "team": "",
+      "time": "1分钟前",
+      "time_iso": "2026-11-28T12:50:59.808492+00:00",
       "source": "直播吧",
       "is_hot": false
     }
